@@ -1,0 +1,89 @@
+"source","target","id","developer_comments"
+"balloon#a0c3d22fc32e31fe55bdb7e3e7bce30d","真的是[emb exp='tf.names.itsuki.NPC']引起骚动……？","balloon#a0c3d22fc32e31fe55bdb7e3e7bce30d","机翻辅助：
+
+真的是[emb exp='tf.names.itsuki.NPC']引起骚动……？
+
+真的，[emb exp='tf.names.itsuki.NPC']在发呆……？
+
+[emb exp='tf.names.itsuki.NPC']真的在吵吵嚷嚷……？"
+"balloon#37815cc965f3eeb46323e29fa48c55fd","不过现在只能先假设[emb exp='tf.names.itsuki.NPC']是犯人。","balloon#37815cc965f3eeb46323e29fa48c55fd","机翻辅助：
+
+不过现在只能先假设[emb exp='tf.names.itsuki.NPC']是犯人。
+
+但是现在无论如何，只能认为[emb exp='tf.names.itsuki.NPC']是犯人。
+
+但现在只能把[emb exp='tf.names.itsuki.NPC']当成凶手了。"
+"balloon#188e0dede80c1f25f354f0b9287af2e1","[emb exp='tf.names.itsuki.mashima']，请把[emb exp='tf.names.itsuki_p.NPC']拘留起来。","balloon#188e0dede80c1f25f354f0b9287af2e1","机翻辅助：
+
+[emb exp='tf.names.itsuki.mashima']，请把[emb exp='tf.names.itsuki_p.NPC']拘留起来。
+
+请拘留[emb exp='tf.names.itsuki.mashima']、[emb exp='tf.names.itsuki_p.NPC']。
+
+[emb exp='tf.names.itsuki.mashima']，请你自首吧。[emb exp='tf.names.itsuki_p.NPC']"
+"balloon#6cf321954e67ec33f18ff63e871719e2","否则之后一定会发生新的火灾！","balloon#6cf321954e67ec33f18ff63e871719e2","机翻辅助：
+
+否则之后一定会发生新的火灾！
+
+如果不这样做的话，之后一定会引发新的火灾！
+
+如果不这样做的话，之后一定会发生新的火灾！"
+"balloon#d949ac1dfacaee73a41792129afdca00","明天等本土的支援过来，我会问个清楚。","balloon#d949ac1dfacaee73a41792129afdca00","机翻辅助：
+
+明天等本土的支援过来，我会问个清楚。
+
+明天，等待来自本土的支援，请让我听详细的故事。
+
+明天，等待来自本土的支援，请让我听详细的话。"
+"balloon#a06c660efdb9266592ca5596684c111a","在你自首之前，我们会先逮捕你哦，[l][chara_mod time=""@f1"" name=""真島"" face=""sad"" position=""left""][emb exp='tf.names.mashima_p.NPC']。","balloon#a06c660efdb9266592ca5596684c111a","机翻辅助：
+
+在你自首之前，我们会先逮捕你哦，[l][chara_mod time=""@f1"" name=""真島"" face=""sad"" position=""left""][emb exp='tf.names.mashima_p.NPC']。
+
+在那之前我会拘留你的，[emb exp='tf.names.mashima_p.NPC']。[l][chara_mod time=""@f1"" name=""真島"" face=""sad"" position=""left""]"
+"balloon#ce26149b1d9dc067d7b774ec30229983","……真遗憾，事情变成这样。","balloon#ce26149b1d9dc067d7b774ec30229983","机翻辅助：
+
+……真遗憾，事情变成这样。
+
+……很遗憾，变成这样。
+
+……很遗憾，事情变成这样了。"
+"balloon#ce42afe593b379defab7a0e4a82cc754","[emb exp='tf.names.ebihara_p.NPC']……[l][chara_mod time=""@f1"" name=""海老原"" face=""confused"" position=""left""]虽然对你很抱歉，但事到如今也没办法了！","balloon#ce42afe593b379defab7a0e4a82cc754","机翻辅助：
+
+[emb exp='tf.names.ebihara_p.NPC']……[l][chara_mod time=""@f1"" name=""海老原"" face=""confused"" position=""left""]虽然对你很抱歉，但事到如今也没办法了！
+
+[emb exp='tf.names.ebihara_p.NPC']……[l][chara_mod time=""@f1"" name=""海老原"" face=""confused"" position=""left""]对你不好，既然这样就没办法了！
+
+[emb exp='tf.names.ebihara_p.NPC']……虽然对不起你，但事已至此也没办法了！[l][chara_mod time=""@f1"" name=""海老原"" face=""confused"" position=""left""]"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#1af72ff3ffbc30b88c0d33bc18aa65e2","好，走吧。","balloon#1af72ff3ffbc30b88c0d33bc18aa65e2","机翻辅助：
+
+好，走吧。
+
+好啊，我们走吧。"
+"balloon#8ce61523b6e8d0084b7257a2210cf95d","我可以证明自己的清白。","balloon#8ce61523b6e8d0084b7257a2210cf95d","机翻辅助：
+
+我可以证明自己的清白。
+
+因为清白可以证明很多。
+
+因为无论多少都能证明自己的清白。"
+"message10#02fefc6600ed1e06893975a6b7a1331d","树他们选[font color=@1]久美子[resetfont]当骚动的嫌疑人。[l]
+真岛在明天本土的支援抵达前，要限制久美子的行动。","message10#02fefc6600ed1e06893975a6b7a1331d","机翻辅助：
+
+树他们选[font color=@1]久美子[resetfont]当骚动的嫌疑人。[l]
+真岛在明天本土的支援抵达前，要限制久美子的行动。
+
+树他们把久美子选为骚乱的嫌疑人。[font color=@1]真岛决定在本土助威的明天之前拘留久美子。[resetfont][l]
+
+
+树们把久美子[font color=@1]选为骚动的嫌疑人。真岛决定在从本土来支援的明天之前拘留久美子。[resetfont][l]"
+"speaker_主人公","主人公","speaker_主人公",""
+"speaker_真島","真岛","speaker_真島","机翻辅助：
+
+真岛"
+"speaker_神代","神代","speaker_神代","机翻辅助：
+
+神代
+
+杉田智"
+"speaker_海老原","海老原","speaker_海老原",""
+"speaker_久美子","久美子","speaker_久美子",""

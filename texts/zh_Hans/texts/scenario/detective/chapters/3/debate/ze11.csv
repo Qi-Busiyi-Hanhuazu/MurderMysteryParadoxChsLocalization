@@ -1,0 +1,72 @@
+"source","target","id","developer_comments"
+"balloon#732798eb8a5d88009fdc114b7ee6a520","好，大家听[emb exp='tf.names.NPC.me']说！","balloon#732798eb8a5d88009fdc114b7ee6a520","机翻辅助：
+
+好，大家听[emb exp='tf.names.NPC.me']说！
+
+好了，大家听[emb exp='tf.names.NPC.me']说！"
+"balloon#2dbe4a3520e775b4a0867cd3c9f5cd15","哎呀，时间都这么晚了。","balloon#2dbe4a3520e775b4a0867cd3c9f5cd15","机翻辅助：
+
+哎呀，时间都这么晚了。
+
+呀，夜深了啊。
+
+哎呀，夜深了。"
+"balloon#0efc080aec5e41d77347e6c849b2b4b1","我们聊了很多，四处调查，老实说我的脑袋已经快爆炸了。","balloon#0efc080aec5e41d77347e6c849b2b4b1","机翻辅助：
+
+我们聊了很多，四处调查，老实说我的脑袋已经快爆炸了。
+
+说了很多话，到处查了一下，说实话脑子已经乱了。
+
+说了很多话，查了很多资料，说实话我脑子都快疯了。"
+"balloon#341052d8353af55aff776f5786487a11","所以别再搞那些复杂的事情，我就简单地说一句吧……","balloon#341052d8353af55aff776f5786487a11","机翻辅助：
+
+所以别再搞那些复杂的事情，我就简单地说一句吧……
+
+所以不要再做困难的事情了，简单地说就这些吧……
+
+所以不要再做复杂的事了，就简单地说这些吧……"
+"balloon#d3376163d91563ea2153da3aaaa1bad5","[emb exp='tf.names.NPC.me']不是犯人！！","balloon#d3376163d91563ea2153da3aaaa1bad5","机翻辅助：
+
+[emb exp='tf.names.NPC.me']不是犯人！！
+
+[emb exp='tf.names.NPC.me']不是凶手！！"
+"balloon#8e0d8d13762b53c0d4d115259a0c9700","不过只有我这么说，根本没用啊……","balloon#8e0d8d13762b53c0d4d115259a0c9700","机翻辅助：
+
+不过只有我这么说，根本没用啊……
+
+即使只自己说，也什么都没有……
+
+自己这么说，也没什么……"
+"balloon#4206594f31961e282a8abcbb639efc6d","拜托，谁来[font color=@3]替[emb exp='tf.names.NPC.me']作证[resetfont]我的不在场证明！","balloon#4206594f31961e282a8abcbb639efc6d","机翻辅助：
+
+拜托，谁来[font color=@3]替[emb exp='tf.names.NPC.me']作证[resetfont]我的不在场证明！
+
+拜托，谁来证明[emb exp='tf.names.NPC.me']的不在场证明！[font color=@3][resetfont]
+
+拜托，谁来指证[emb exp='tf.names.NPC.me']的不在场证明[font color=@3]！[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#71a94cd6fa40200af26b070df6d548fc","<font color='@3'>${itsuki.NPC}的不在场证明</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#71a94cd6fa40200af26b070df6d548fc","机翻辅助：
+
+<font color='@3'>${itsuki.NPC}的不在场证明</font>是……
+
+<font color='@3'>${itsuki.NPC}的不在场证明是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#546fe0c127ddbfa63595659da6195f34","是在14:50到15:00之间！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#546fe0c127ddbfa63595659da6195f34","机翻辅助：
+
+是在14:50到15:00之间！
+
+在14:50到15:00之间！
+
+14:50到15:00之间有！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#4b5263b28459f58935f517fb96baf78a","是在15:07！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#4b5263b28459f58935f517fb96baf78a","机翻辅助：
+
+是在15:07！
+
+15:07有！
+
+在15:07！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#b0a461bb4ad697a951c1c3036be02703","两边都有不在场证明！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#b0a461bb4ad697a951c1c3036be02703","机翻辅助：
+
+两边都有不在场证明！
+
+两个时间都有！
+
+都是时间！"

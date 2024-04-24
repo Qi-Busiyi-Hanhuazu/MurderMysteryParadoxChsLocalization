@@ -1,0 +1,74 @@
+"source","target","id","developer_comments"
+"balloon#124e98a19080e0ded97c0f65b734dd20","而这次的事件，[emb exp='tf.names.itsuki.me']该传达的不是犯人。","balloon#124e98a19080e0ded97c0f65b734dd20","机翻辅助：
+
+而这次的事件，[emb exp='tf.names.itsuki.me']该传达的不是犯人。
+
+而且这次的事件，[emb exp='tf.names.itsuki.me']应该传达的不是犯人。
+
+而且这次的事件，[emb exp='tf.names.itsuki.me']应该告诉的不是凶手。"
+"balloon#34a8ae50c0f8188d24d046fa819b2eb6","那是……","balloon#34a8ae50c0f8188d24d046fa819b2eb6","机翻辅助：
+
+那是……
+
+那是因为……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#1bbabfc20e5f6ed851f03ab898c3cb5b","<font color='@3'>${itsuki.chiyo}</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#1bbabfc20e5f6ed851f03ab898c3cb5b","机翻辅助：
+
+<font color='@3'>${itsuki.chiyo}</font>是……
+
+<font color='@3'>${itsuki.chiyo}</font>……
+
+<font color='@3'>${itsuki.chiyo}</font>里……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c0f4f901b29356b42f7540114600280f","原来我们之中有内鬼！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c0f4f901b29356b42f7540114600280f","机翻辅助：
+
+原来我们之中有内鬼！
+
+这里面有合作者！
+
+这里面有帮手！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","我不知道，还是别说吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","机翻辅助：
+
+我不知道，还是别说吧！
+
+因为不明白，所以保持沉默吧！
+
+我不知道，就闭嘴吧！"
+"javascript#4a622f127baeae041b4eef6a8884069f","返回","javascript#4a622f127baeae041b4eef6a8884069f","机翻辅助：
+
+返回
+
+后退"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#f589e34f24c33a1715b41375f10765ff","${itsuki.chiyo}的协助者，那是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#f589e34f24c33a1715b41375f10765ff","机翻辅助：
+
+${itsuki.chiyo}的协助者，那是……
+
+${itsuki.chiyo}的合作者，那是……
+
+${itsuki.chiyo}的帮手，就是……"
+"javascript#38cffef722128b383d2b128bd40a8223","{0}是犯人的证据……","javascript#38cffef722128b383d2b128bd40a8223","机翻辅助：
+
+没有任何证据证明……
+
+{0}是犯人的根据……"
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","请思考能让对方接受犯人是谁的推理。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","机翻辅助：
+
+请思考能让对方接受犯人是谁的推理。
+
+可以让人接受是犯人，考虑推理吧。
+
+思考一下能让人相信是凶手的推理吧。"
+"message10#2f6986ab07f689b62187cb1240748219","千世的协助者在大家面前发表他的推理——
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+。","message10#2f6986ab07f689b62187cb1240748219","机翻辅助：
+
+千世的协助者在大家面前发表他的推理——
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+。
+
+千世的协助者，在所有人面前披露了
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+千世的合作者在所有人面前发表了
+[font color=@1][emb exp='f.suspect_chara.name'][resetfont]
+的推理。"
+"speaker_主人公","主人公","speaker_主人公",""

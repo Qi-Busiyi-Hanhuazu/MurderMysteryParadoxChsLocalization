@@ -1,0 +1,216 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#a25535721f20c6b7b2529ae06188354f","嗯，这个推理[font color=@3]可以接受[resetfont]呢！","balloon#a25535721f20c6b7b2529ae06188354f","机翻辅助：
+
+嗯，这个推理[font color=@3]可以接受[resetfont]呢！
+
+嗯，如果是那个推理[font color=@3]能理解[resetfont]！
+
+嗯，这个推理的话[font color=@3]能接受[resetfont]呢！"
+"balloon#84bfb41e349281d4c079b6b0fe8c8595","也就是说，这次的事件和“式音岛神隐”没有关系吗？","balloon#84bfb41e349281d4c079b6b0fe8c8595","机翻辅助：
+
+也就是说，这次的事件和“式音岛神隐”没有关系吗？
+
+那么这次的事情和“式音岛神隐”没有关系吗。
+
+这么说来，这次的事和“式音岛神隐”没有关系吗？"
+"balloon#17c6c4f130a19ee6d06f137b7f338bd0","那还真是遗憾……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不，这可不行。","balloon#17c6c4f130a19ee6d06f137b7f338bd0","机翻辅助：
+
+那还真是遗憾……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不，这可不行。
+
+那太遗憾了……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不，不行啊。
+
+那太遗憾了……不，不行啊。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#e89897c879f5eabcc02bad46f106a220","我问了个非常失礼的问题。","balloon#e89897c879f5eabcc02bad46f106a220","机翻辅助：
+
+我问了个非常失礼的问题。
+
+说了非常失礼的话。
+
+我说了很失礼的话。"
+"balloon#ae2317479ff1b1aa81c3c591535f9fb1","有什么……[l]理由吗？","balloon#ae2317479ff1b1aa81c3c591535f9fb1","机翻辅助：
+
+有什么……[l]理由吗？
+
+有什么……[l]有理由吗？
+
+有什么理由吗？[l]"
+"balloon#5ca97a75ead103444aa63dee0fcd7c4d","因为“式音岛神隐”是[emb exp='tf.names.NPC.me']一直在追查的事件。","balloon#5ca97a75ead103444aa63dee0fcd7c4d","机翻辅助：
+
+因为“式音岛神隐”是[emb exp='tf.names.NPC.me']一直在追查的事件。
+
+“式音岛神隐”是[emb exp='tf.names.NPC.me']一直在追踪的事件。
+
+“式音岛神隐”是[emb exp='tf.names.NPC.me']一直追来的事件。"
+"balloon#7d0af56aaa7b62a195e80c889b77c13f","是这样吗！","balloon#7d0af56aaa7b62a195e80c889b77c13f","机翻辅助：
+
+是这样吗！
+
+是这样啊！
+
+这样啊！"
+"balloon#bb16dd067fdc119a003abccd0bdca0da","为什么不是警察的[emb exp='tf.names.itsuki.NPC']会……？","balloon#bb16dd067fdc119a003abccd0bdca0da","机翻辅助：
+
+为什么不是警察的[emb exp='tf.names.itsuki.NPC']会……？
+
+为什么不是警察的[emb exp='tf.names.itsuki.NPC']……？
+
+为什么[emb exp='tf.names.itsuki.NPC']不是警察……？"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#815ef1668740482e4b17ae20dd0283fd","虽然这也不是什么能对别人说的事。","balloon#815ef1668740482e4b17ae20dd0283fd","机翻辅助：
+
+虽然这也不是什么能对别人说的事。
+
+也不是和别人说的话。
+
+也没什么可对人说的。"
+"balloon#a7f50ded63b6e0a846e1ad7c63fca3b2","那是17年前的事了……","balloon#a7f50ded63b6e0a846e1ad7c63fca3b2","机翻辅助：
+
+那是17年前的事了……
+
+已经是17年前的事了……"
+"balloon#dabbab8ca423e42d64b975b7edf34e17","因为[emb exp='tf.names.NPC.me']的女儿被卷入了“式音岛神隐”。","balloon#dabbab8ca423e42d64b975b7edf34e17","机翻辅助：
+
+因为[emb exp='tf.names.NPC.me']的女儿被卷入了“式音岛神隐”。
+
+[emb exp='tf.names.NPC.me']的女儿被卷入了“式音岛神隐”。
+
+[emb exp='tf.names.NPC.me']女儿被卷进了“式音岛神隐”。"
+"balloon#720bbc485db9a483817aa3780b5d633f","哎……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]被卷入“式音岛神隐”！？","balloon#720bbc485db9a483817aa3780b5d633f","机翻辅助：
+
+哎……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]被卷入“式音岛神隐”！？
+
+啊……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]“式音岛神隐”！？
+
+诶……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]“式音岛神隐”！？"
+"balloon#d8c868aa1ca5c4d99d200b77db0903fc","对不起，没想到您的女儿已经过世了……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]是我问得轻率了。","balloon#d8c868aa1ca5c4d99d200b77db0903fc","机翻辅助：
+
+对不起，没想到您的女儿已经过世了……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]是我问得轻率了。
+
+对不起，没想到女儿去世了……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]这是个轻率的问题。
+
+对不起，没想到你的女儿也死了……这是一个轻率的问题。[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]"
+"balloon#3a0c8c39203a2b3fc3e0d9e11a99ba5e","没关系，[emb exp='tf.names.NPC.itsuki']不可能知道。","balloon#3a0c8c39203a2b3fc3e0d9e11a99ba5e","机翻辅助：
+
+没关系，[emb exp='tf.names.NPC.itsuki']不可能知道。
+
+没关系，[emb exp='tf.names.NPC.itsuki']不可能知道的。"
+"balloon#5cd7fda8cc32d16c7bf13fd0d6c1923c","这家照相馆的主人，佐仓铁男先生也被卷入了“神隐”……","balloon#5cd7fda8cc32d16c7bf13fd0d6c1923c","机翻辅助：
+
+这家照相馆的主人，佐仓铁男先生也被卷入了“神隐”……
+
+这家照相馆的主人佐仓铁男先生也被卷入“神隐”之中……
+
+这个照相馆的主人佐仓铁男先生也被卷入了“神隐”……"
+"balloon#794c53ad3aefe4fe0a7e0dece9d6db7f","你好像知道呢。","balloon#794c53ad3aefe4fe0a7e0dece9d6db7f","机翻辅助：
+
+你好像知道呢。
+
+你好像知道啊。
+
+你好像知道。"
+"balloon#a63915a409f68e94c6fc560f8b9f3146","这两起事件都一直未解决，陷入了迷宫。","balloon#a63915a409f68e94c6fc560f8b9f3146","机翻辅助：
+
+这两起事件都一直未解决，陷入了迷宫。
+
+所有案件都悬而未决，成为迷宫。
+
+所有的事件都未解决，进入迷宫。"
+"balloon#68671c75ff2fe82751017eb1924019a6","但是，失去女儿的父亲，不可能接受这种迷宫状态。","balloon#68671c75ff2fe82751017eb1924019a6","机翻辅助：
+
+但是，失去女儿的父亲，不可能接受这种迷宫状态。
+
+但是作为失去女儿的父母，进入迷宫不可能理解。
+
+但作为失去女儿的父母，不可能完全接受。"
+"balloon#1c43e4eb950905c54e7119a2abae0992","所以，[emb exp='tf.names.NPC.me']……","balloon#1c43e4eb950905c54e7119a2abae0992","机翻辅助：
+
+所以，[emb exp='tf.names.NPC.me']……
+
+所以，[emb exp='tf.names.NPC.me']呢……
+
+所以，[emb exp='tf.names.NPC.me']啊……"
+"balloon#8057142236d68e0f67c3a95d65245146","[font color=@3]独自一人追查着事件的真相[resetfont]。","balloon#8057142236d68e0f67c3a95d65245146","机翻辅助：
+
+[font color=@3]独自一人追查着事件的真相[resetfont]。
+
+[font color=@3]正在独自追查事件的真相。[resetfont]
+
+[font color=@3]一直独自追逐着事件的真相。[resetfont]"
+"balloon#0b253d80178597acf7c6b1cc1279566c","[emb exp='tf.names.itsuki.NPC']在独自调查[font color=@3]式音岛神隐[resetfont]吗？","balloon#0b253d80178597acf7c6b1cc1279566c","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']在独自调查[font color=@3]式音岛神隐[resetfont]吗？
+
+[emb exp='tf.names.itsuki.NPC']独自调查[font color=@3]式音岛神隐[resetfont]吗。
+
+[emb exp='tf.names.itsuki.NPC']独自调查[font color=@3]“式音岛神隐”吗？[resetfont]"
+"balloon#b19cb80d51bbce9b2b18ef83d8f538db","所以，幸好她已经调查过这次事件和神隐的关系了。","balloon#b19cb80d51bbce9b2b18ef83d8f538db","机翻辅助：
+
+所以，幸好她已经调查过这次事件和神隐的关系了。
+
+所以，能调查和这次事件的关联真是太好了。
+
+所以，能调查出和这次事件的关联真是太好了。"
+"balloon#ee51e5ff20ab90e2bd1cfc6e9f155709","谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#ee51e5ff20ab90e2bd1cfc6e9f155709","机翻辅助：
+
+谢谢你，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#d58c7c6c996c6cb8ab59a2344dad8584","真的吗？","balloon#d58c7c6c996c6cb8ab59a2344dad8584","机翻辅助：
+
+真的吗？"
+"balloon#e9b41da125df6a5b51b1e39a5b18ff47","[font color=@3]我觉得[resetfont]你的推理有点不对。","balloon#e9b41da125df6a5b51b1e39a5b18ff47","机翻辅助：
+
+[font color=@3]我觉得[resetfont]你的推理有点不对。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#dbd2778583eec3cabce2a61512ea644c","[font color=@3]我觉得[resetfont]你的推理完全不对……","balloon#dbd2778583eec3cabce2a61512ea644c","机翻辅助：
+
+[font color=@3]我觉得[resetfont]你的推理完全不对……
+
+我觉得那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#198433efa790c572a859493b4d330dac","不不不，抱歉问了你这么奇怪的问题。","balloon#198433efa790c572a859493b4d330dac","机翻辅助：
+
+不不不，抱歉问了你这么奇怪的问题。
+
+不、不，很抱歉听到奇怪的事情。
+
+不不不，问了这么奇怪的问题，不好意思。"
+"balloon#a05153a037d41ec1870c62521bd4c798","关于这件事……","balloon#a05153a037d41ec1870c62521bd4c798","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#493dd5a54835de66aef75ddbee007dad","[font color=@3]我[resetfont]很在意“神隐之印”是不是真的存在。","balloon#493dd5a54835de66aef75ddbee007dad","机翻辅助：
+
+[font color=@3]我[resetfont]很在意“神隐之印”是不是真的存在。
+
+[font color=@3]“神隐之印”有什么区别吗？我很在意。[resetfont]
+
+[font color=@3]我很在意“神隐之印”有没有区别。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#22086c0342adbbd2531f44d4efd3d960","[font color=@3]我重新审视了一下[resetfont]“神隐之印”的特征和过去事件的特征是否一致。","balloon#22086c0342adbbd2531f44d4efd3d960","机翻辅助：
+
+[font color=@3]我重新审视了一下[resetfont]“神隐之印”的特征和过去事件的特征是否一致。
+
+遗留下来的“神隐之印”的特征[font color=@3]与过去事件的特征是否一致[resetfont]让我们重新审视一下吧。
+
+遗留下来的[font color=@3]神隐之印[resetfont]的特征与过去的事件是否一致？"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,66 @@
+"source","target","id","developer_comments"
+"balloon#160fb00ec05e1567ddd1e768ac20f734","[emb exp='tf.names.NPC.me']有件事情很在意。","balloon#160fb00ec05e1567ddd1e768ac20f734","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有件事情很在意。
+
+[emb exp='tf.names.NPC.me']有件事很在意。
+
+[emb exp='tf.names.NPC.me']有在意的事情。"
+"balloon#5b1d2f41fee7d4b4d45d6860cfe137e1","……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']很熟。","balloon#5b1d2f41fee7d4b4d45d6860cfe137e1","机翻辅助：
+
+……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']很熟。
+
+……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']很亲近。"
+"balloon#41cfe9835d83f09a2e7ad0be8994c9ca","所以，我绝对饶不了凶手。","balloon#41cfe9835d83f09a2e7ad0be8994c9ca","机翻辅助：
+
+所以，我绝对饶不了凶手。
+
+所以绝对不能原谅犯人。
+
+所以绝对不能原谅凶手。"
+"balloon#9f9ca17a43481a7cb9b107853bf7b592","[emb exp='tf.names.NPC.chiyo']真的是个好人，总是对[emb exp='tf.names.NPC.me']很好……","balloon#9f9ca17a43481a7cb9b107853bf7b592","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']真的是个好人，总是对[emb exp='tf.names.NPC.me']很好……
+
+[emb exp='tf.names.NPC.chiyo']真是个好人，总是对[emb exp='tf.names.NPC.me']很好……"
+"balloon#48d0f6fa21a5619103ee0af22eec2557","但是……[l][chara_mod time=""@f1"" name=""NPC"" face=""anger""]为什么非得被杀掉不可呢！","balloon#48d0f6fa21a5619103ee0af22eec2557","机翻辅助：
+
+但是……[l][chara_mod time=""@f1"" name=""NPC"" face=""anger""]为什么非得被杀掉不可呢！
+
+为什么非要被杀呢！[l][chara_mod time=""@f1"" name=""NPC"" face=""anger""]
+
+然而……为什么非被杀不可！[l][chara_mod time=""@f1"" name=""NPC"" face=""anger""]"
+"balloon#7f6bccb6d03801bd0a1a3ea7203373b5","[emb exp='tf.names.NPC.itsuki']，告诉我……","balloon#7f6bccb6d03801bd0a1a3ea7203373b5","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，告诉我……
+
+[emb exp='tf.names.NPC.itsuki']，让我听听……"
+"balloon#ed68090411fe96a01abab6f88628bbe5","你对[font color=@3][emb exp='tf.names.NPC.chiyo'][resetfont]是怎么想的？","balloon#ed68090411fe96a01abab6f88628bbe5","机翻辅助：
+
+你对[font color=@3][emb exp='tf.names.NPC.chiyo'][resetfont]是怎么想的？
+
+你是怎么看待[emb exp='tf.names.NPC.chiyo']的？[font color=@3][resetfont]
+
+你对[emb exp='tf.names.NPC.chiyo']是怎么想的？[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#5b1489efe5224463f93f6b313bb3cf4e","${itsuki.me}对<font color='@3'>${itsuki.chiyo}</font>……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#5b1489efe5224463f93f6b313bb3cf4e","机翻辅助：
+
+${itsuki.me}对<font color='@3'>${itsuki.chiyo}</font>……
+
+${itsuki.me}对${itsuki.chiyo}<font color='@3'>……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#ef5b89f3f9640343dee3e03bc822bdb4","只有感谢的心情","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#ef5b89f3f9640343dee3e03bc822bdb4","机翻辅助：
+
+只有感谢的心情
+
+只有感激之情。"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#784d5d462ed7e87dab1e5392f0f12fac","只有抱歉的心情","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#784d5d462ed7e87dab1e5392f0f12fac","机翻辅助：
+
+只有抱歉的心情
+
+对不起的心情
+
+我感到很抱歉"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ecccfe0e96ec9d93d0943c64376ed3ac","没有任何后悔","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ecccfe0e96ec9d93d0943c64376ed3ac","机翻辅助：
+
+没有任何后悔
+
+我一点也不后悔"

@@ -1,0 +1,40 @@
+"source","target","id","developer_comments"
+"balloon#352bcee93cfdedb99835919f0d29c3d0","聚焦火灾……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]没想到竟然被设下了这种圈套。","balloon#352bcee93cfdedb99835919f0d29c3d0","机翻辅助：
+
+聚焦火灾……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]没想到竟然被设下了这种圈套。
+
+聚集火灾……没想到竟然设置了这样的诡计。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]
+
+没想到竟然有这样的诡计。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#9b5981f3d422bc046e576deabe7f6bc6","装设镜头的时间，是在[emb exp='tf.names.NPC.me']找到起火点的[font color=@3]12:53[resetfont]之前。","balloon#9b5981f3d422bc046e576deabe7f6bc6","机翻辅助：
+
+装设镜头的时间，是在[emb exp='tf.names.NPC.me']找到起火点的[font color=@3]12:53[resetfont]之前。
+
+那是在[emb exp='tf.names.NPC.me']找到火源的12:53之前吧。[font color=@3][resetfont]
+
+那个装置是在[emb exp='tf.names.NPC.me']发现起火点的那之前吧。[font color=@3][resetfont]"
+"balloon#99e91155f848a35739e39b3282406528","在那个时间没有不在场证明的人是……","balloon#99e91155f848a35739e39b3282406528","机翻辅助：
+
+在那个时间没有不在场证明的人是……
+
+那个时间没有不在场证明……
+
+那个时间没有不在场证明是因为……"
+"balloon#07d5d2b41669e441e3e8f05e3d7b505d","对，犯人是……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]可是为什么……","balloon#07d5d2b41669e441e3e8f05e3d7b505d","机翻辅助：
+
+对，犯人是……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]可是为什么……
+
+没错，凶手是……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]但是为什么……
+
+没错，犯人是……但是为什么……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]"
+"balloon#165e60bf05f22268aaedab36eecfc831","也就是说……","balloon#165e60bf05f22268aaedab36eecfc831","机翻辅助：
+
+也就是说……"
+"balloon#55040b190cc5199b9595a79a64c149f9","对，因为聚焦火灾，应该要确认的不在场证明应该会改变。","balloon#55040b190cc5199b9595a79a64c149f9","机翻辅助：
+
+对，因为聚焦火灾，应该要确认的不在场证明应该会改变。
+
+没错，根据收集到的火灾，犯罪时间和应该确认的不在场证明应该会发生变化。
+
+没错，由于火灾的聚集，应该确认为犯罪时间的不在场证明应该会发生变化。"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,6 @@
+"source","target","id","developer_comments"
+"balloon#c6d13e1e0083647aabadf4f706713632","そう。[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]レンズが窓に挟まれて……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]それがあのとき聞いた音の原因だったのね。","balloon#c6d13e1e0083647aabadf4f706713632","NPC"
+"balloon#9a5d299db01fefc40f875c872762cb8a","何が落ちたのか気になっていたから、わかってよかったわ。","balloon#9a5d299db01fefc40f875c872762cb8a","NPC"
+"balloon#d41b1b3c815238ead1f761ff174330f0","教えてくれてありがとう、[emb exp='tf.names.NPC.itsuki']。","balloon#d41b1b3c815238ead1f761ff174330f0","NPC"
+"balloon#b82c082b53340971d8ae373bb8fc8798","よし、[emb exp='tf.names.itsuki.kumiko']が気になっていたことを解決できたぞ。","balloon#b82c082b53340971d8ae373bb8fc8798","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

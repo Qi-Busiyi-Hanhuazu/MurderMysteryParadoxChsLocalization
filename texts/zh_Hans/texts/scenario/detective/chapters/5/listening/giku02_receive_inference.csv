@@ -1,0 +1,169 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#b0ab8e422fb228031c5db63600c42523","嗯，这个推理[font color=@3]可以接受[resetfont]。","balloon#b0ab8e422fb228031c5db63600c42523","机翻辅助：
+
+嗯，这个推理[font color=@3]可以接受[resetfont]。
+
+嗯，如果是那个推理[font color=@3]能理解[resetfont]。
+
+嗯，这个推理的话能接受。[font color=@3][resetfont]"
+"balloon#2e41db2d490d363d41aa805ab4c5cc2d","也就是说，[emb exp='tf.names.NPC.iroha']不是在发现尸体的山中小屋……","balloon#2e41db2d490d363d41aa805ab4c5cc2d","机翻辅助：
+
+也就是说，[emb exp='tf.names.NPC.iroha']不是在发现尸体的山中小屋……
+
+也就是说，[emb exp='tf.names.NPC.iroha']不是发现尸体的山间小屋……
+
+也就是说，[emb exp='tf.names.NPC.iroha']不是在发现尸体的小木屋里……"
+"balloon#d2edda8ab593e6caf0740294a2d0fdbf","[font color=@3][resetfont]是在照相馆被杀害的吧。","balloon#d2edda8ab593e6caf0740294a2d0fdbf","机翻辅助：
+
+[font color=@3][resetfont]是在照相馆被杀害的吧。
+
+[font color=@3]就是说在照相馆被杀害了。[resetfont]
+
+[font color=@3]是在照相馆被杀害的。[resetfont]"
+"balloon#d622f3a06dc46556132e19a1e60df289","没错，[emb exp='tf.names.itsuki.iroha']是在[font color=@3]照相馆被杀害[resetfont]之后，才被搬进山中小屋的。","balloon#d622f3a06dc46556132e19a1e60df289","机翻辅助：
+
+没错，[emb exp='tf.names.itsuki.iroha']是在[font color=@3]照相馆被杀害[resetfont]之后，才被搬进山中小屋的。
+
+没错，[emb exp='tf.names.itsuki.iroha']是在照相馆被杀害后，被送进山中小屋的。[font color=@3][resetfont]
+
+没错，[emb exp='tf.names.itsuki.iroha']是在照相馆被杀害后被运到山中小屋的。[font color=@3][resetfont]"
+"balloon#7a4f0f08e5e8f347ea045aeda4ed1011","特地把尸体运到那种地方吗……","balloon#7a4f0f08e5e8f347ea045aeda4ed1011","机翻辅助：
+
+特地把尸体运到那种地方吗……
+
+特意把尸体运到那样的地方吗……
+
+特意把尸体搬到那样的地方吗……"
+"balloon#2f059d4e6c1b99ed156d97c4aec0da3f","……原来如此，考虑到那家伙的手法，就能理解了。","balloon#2f059d4e6c1b99ed156d97c4aec0da3f","机翻辅助：
+
+……原来如此，考虑到那家伙的手法，就能理解了。
+
+……原来如此，一想到那家伙的手法就能理解了。
+
+……原来如此，一想到是他的手法就理解了。"
+"balloon#1077f0f86bd6b0e65d48903a01973563","那家伙……？","balloon#1077f0f86bd6b0e65d48903a01973563","机翻辅助：
+
+那家伙……？"
+"balloon#3a64c8b8e095b54e4440cf9e979d393c","……你没看到吗？","balloon#3a64c8b8e095b54e4440cf9e979d393c","机翻辅助：
+
+……你没看到吗？
+
+……你没看见吗？"
+"balloon#538a35f49fc0118e67f0950a29fd1a38","遗体旁边的“神隐之印”。","balloon#538a35f49fc0118e67f0950a29fd1a38","机翻辅助：
+
+遗体旁边的“神隐之印”。"
+"balloon#d740492e455de8c27d2940c3d9ef5ea5","这个印记，一定代表……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest""]不，现在先不说。","balloon#d740492e455de8c27d2940c3d9ef5ea5","机翻辅助：
+
+这个印记，一定代表……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest""]不，现在先不说。
+
+这个记号表示的一定是……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest""]不，现在好像很好。
+
+这个记号表示的，一定是……不，现在就不说了。[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest""]"
+"balloon#eb787cba74df647479d3a0e9128a5847","话说回来，没想到这么快就能确定被杀害的状况……","balloon#eb787cba74df647479d3a0e9128a5847","机翻辅助：
+
+话说回来，没想到这么快就能确定被杀害的状况……
+
+即便如此，竟然能确定这么早被杀害的状况……
+
+话说回来，这么快就确定了被杀的情况……"
+"balloon#1a0c64796f050453caa8f2b7be7c8ead","这果然也是[emb exp='tf.names.NPC.itsuki']的自白吗？","balloon#1a0c64796f050453caa8f2b7be7c8ead","机翻辅助：
+
+这果然也是[emb exp='tf.names.NPC.itsuki']的自白吗？
+
+果然这是[emb exp='tf.names.NPC.itsuki']的自供吗？
+
+这果然是[emb exp='tf.names.NPC.itsuki']的自白吗？"
+"balloon#d94fb0ec8a17a4e55dabe2277a601790","不，真的是靠推理得到的！","balloon#d94fb0ec8a17a4e55dabe2277a601790","机翻辅助：
+
+不，真的是靠推理得到的！
+
+不，真的是推理到的！
+
+不，真的是靠推理得出的！"
+"balloon#29e26a5c204be2cb9946e9bfb6cb1a93","……抱歉，我又说了失礼的话。","balloon#29e26a5c204be2cb9946e9bfb6cb1a93","机翻辅助：
+
+……抱歉，我又说了失礼的话。
+
+……对不起，我好像又说了失礼的话。"
+"balloon#c003479906cfa1f9400eee392ea799e2","我很感谢你，至少觉得你站在中立的立场。","balloon#c003479906cfa1f9400eee392ea799e2","机翻辅助：
+
+我很感谢你，至少觉得你站在中立的立场。
+
+我很感谢你，至少可以站在中立的立场上。
+
+我很感谢你，至少你可以站在中立的立场上。"
+"balloon#f82f19b6dce383fd9dae82252e69eed3","……我会努力让[emb exp='tf.names.itsuki.NPC']更信任我。","balloon#f82f19b6dce383fd9dae82252e69eed3","机翻辅助：
+
+……我会努力让[emb exp='tf.names.itsuki.NPC']更信任我。
+
+……为了能让[emb exp='tf.names.itsuki.NPC']相信我，我会努力的。
+
+……我会努力让[emb exp='tf.names.itsuki.NPC']更加信任我。"
+"balloon#0fba1b91a06b036bf18c3169563dcd32","啊啊，无论如何都要找出犯人……","balloon#0fba1b91a06b036bf18c3169563dcd32","机翻辅助：
+
+啊啊，无论如何都要找出犯人……
+
+啊，无论如何都要找到犯人……
+
+啊，无论如何都要找出凶手……"
+"balloon#d58c7c6c996c6cb8ab59a2344dad8584","真的吗？","balloon#d58c7c6c996c6cb8ab59a2344dad8584","机翻辅助：
+
+真的吗？"
+"balloon#37977705b0658e48e5761452ea7dd0da","虽然我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#37977705b0658e48e5761452ea7dd0da","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+这个推理，我觉得有点不一样。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#6d53c06970d743012f92493dfd11675b","虽然我觉得你的推理[font color=@3]完全不对[resetfont]。","balloon#6d53c06970d743012f92493dfd11675b","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]完全不对[resetfont]。
+
+我觉得那个推理完全不一样。[font color=@3][resetfont]
+
+我觉得这个推理完全不一样。[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#7efbec7e1ade8056d429ffa4acff7107","抱歉，问了你这么困难的问题。","balloon#7efbec7e1ade8056d429ffa4acff7107","机翻辅助：
+
+抱歉，问了你这么困难的问题。
+
+不，很抱歉问了这么难的事情。
+
+不好意思，问了这么复杂的问题。"
+"balloon#a05153a037d41ec1870c62521bd4c798","关于这件事……","balloon#a05153a037d41ec1870c62521bd4c798","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#989f123fceae75bc93f14d50f775a554","看来有必要找出[emb exp='tf.names.NPC.iroha'][font color=@3]被杀害的地点[resetfont]。","balloon#989f123fceae75bc93f14d50f775a554","机翻辅助：
+
+看来有必要找出[emb exp='tf.names.NPC.iroha'][font color=@3]被杀害的地点[resetfont]。
+
+看来有必要查明[emb exp='tf.names.NPC.iroha']被杀害的地点。[font color=@3][resetfont]
+
+有必要查明[emb exp='tf.names.NPC.iroha']被杀害的地方。[font color=@3][resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#eb87a2287ac744b232ba3897c99ff248","[font color=@3][emb exp='tf.names.itsuki.iroha']是在哪里被杀的？[resetfont]让我们重新审视一下相关线索。","balloon#eb87a2287ac744b232ba3897c99ff248","机翻辅助：
+
+[font color=@3][emb exp='tf.names.itsuki.iroha']是在哪里被杀的？[resetfont]让我们重新审视一下相关线索。
+
+[font color=@3]让我们重新审视[resetfont]和[emb exp='tf.names.itsuki.iroha']在哪里被杀害有关的线索吧。
+
+[font color=@3][emb exp='tf.names.itsuki.iroha']是在哪里被杀的呢。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

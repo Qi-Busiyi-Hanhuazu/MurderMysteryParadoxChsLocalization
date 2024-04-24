@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#27fc76746c40b834f2c6673ec16f26d7","そうだな、その二箇所から出入りしてるよ。","balloon#27fc76746c40b834f2c6673ec16f26d7","NPC"
+"balloon#0a51eb8a9f409854cbf90a29ad232222","でも[emb exp='tf.names.NPC.chiyo']は、縁側からは外に出てないぜ。","balloon#0a51eb8a9f409854cbf90a29ad232222","NPC"
+"balloon#6cc23440215e20c76b172d6e67760e70","だってよ、[emb exp='tf.names.NPC.me']は……","balloon#6cc23440215e20c76b172d6e67760e70","NPC"
+"balloon#f609eddae027a0cfb16b985384aa28f0","[font color=@3]13:00から14:05まで[resetfont]縁側が見える[font color=@3]居間にいた[resetfont]からな、誰か通れば気づいたぜ。","balloon#f609eddae027a0cfb16b985384aa28f0","NPC"
+"balloon#a204785eca22f22bfbdb9522430fc507","[emb exp='tf.names.itsuki.NPC']は居間にいて、その間[font color=@3]縁側での人の出入りはなかった[resetfont]のか。","balloon#a204785eca22f22bfbdb9522430fc507","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,253 @@
+"source","target","id","developer_comments"
+"balloon#8ea17262d7a217c8bffe4c1e5184f10f","好，大家，停下来！","balloon#8ea17262d7a217c8bffe4c1e5184f10f","机翻辅助：
+
+好，大家，停下来！
+
+好，全全，住手！
+
+好的，停下来！"
+"balloon#7b396ea7f80e667d46349611487f4d74","一、二！","balloon#7b396ea7f80e667d46349611487f4d74","机翻辅助：
+
+一、二！
+
+一致、尼！"
+"balloon#864566364559c4121a3ffdf2ec56f081","好，休息！","balloon#864566364559c4121a3ffdf2ec56f081","机翻辅助：
+
+好，休息！
+
+好，休息吧！"
+"balloon#dad8d2502b539ab2d2cebd4f28e660c5","呼，突然开始上体育课，吓我一跳。","balloon#dad8d2502b539ab2d2cebd4f28e660c5","机翻辅助：
+
+呼，突然开始上体育课，吓我一跳。
+
+啊，突然开始搞体育运动，吓了我一跳。
+
+啊，突然体育开始吓了一跳。"
+"balloon#75c02c15fe6277ebb30c13dafb194356","……然后，[emb exp='tf.names.NPC.itsuki']。","balloon#75c02c15fe6277ebb30c13dafb194356","机翻辅助：
+
+……然后，[emb exp='tf.names.NPC.itsuki']。
+
+……对了，[emb exp='tf.names.NPC.itsuki']。
+
+……出啦，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#f67b130088589ddaf2398d5aae2f4015","佐仓家、糖果与我……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]你愿意听我说吗？","balloon#f67b130088589ddaf2398d5aae2f4015","机翻辅助：
+
+佐仓家、糖果与我……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]你愿意听我说吗？
+
+佐仓家、糖和我……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]的话会听吗？
+
+佐仓家、糖和我……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]你能听我说吗？"
+"balloon#a7722357ffaded7a776181a8d20b50d0","……是指西瓜口味的糖果吧。","balloon#a7722357ffaded7a776181a8d20b50d0","机翻辅助：
+
+……是指西瓜口味的糖果吧。
+
+……是西瓜味的糖啊。
+
+……是西瓜味的糖吧。"
+"balloon#568c22a1d2cabc02f31e3d5310d18081","其实呢，刚才提到的那颗糖果……","balloon#568c22a1d2cabc02f31e3d5310d18081","机翻辅助：
+
+其实呢，刚才提到的那颗糖果……
+
+其实，就是刚才说的那颗糖……
+
+其实呢，是刚才说的那个糖……"
+"balloon#d7fe57845271e7c4214ff31df9f9db22","我觉得很可惜，所以没有吃掉，留着没动。","balloon#d7fe57845271e7c4214ff31df9f9db22","机翻辅助：
+
+我觉得很可惜，所以没有吃掉，留着没动。
+
+因为太可惜了，所以没有舔，留着。
+
+因为太可惜了，所以没舔就拿走了。"
+"balloon#c0285ed531ff38e42f31dc634dcfdbca","我……[l]要怎么做才能再拿到一颗呢？","balloon#c0285ed531ff38e42f31dc634dcfdbca","机翻辅助：
+
+我……[l]要怎么做才能再拿到一颗呢？
+
+这个……[l]怎样才能再得到一粒呢？"
+"balloon#e34bbef03656a17d848eee8eaafa14c5","那是要问[emb exp='tf.names.itsuki.me']吗？","balloon#e34bbef03656a17d848eee8eaafa14c5","机翻辅助：
+
+那是要问[emb exp='tf.names.itsuki.me']吗？
+
+那是问[emb exp='tf.names.itsuki.me']的话吗？
+
+这是要问[emb exp='tf.names.itsuki.me']的吗？"
+"balloon#f6e8e554e29b84607bb5210284b05341","难道是不好意思直接开口吗……？","balloon#f6e8e554e29b84607bb5210284b05341","机翻辅助：
+
+难道是不好意思直接开口吗……？
+
+因为不好意思而不能直接说出来之类的吧……？
+
+是害羞不能直接说，那样的事吗……？"
+"SECRET_SELECTION/topic#74c710dd40b064456bcc96189bb88219","既然是西瓜口味的糖果……","SECRET_SELECTION/topic#74c710dd40b064456bcc96189bb88219","机翻辅助：
+
+既然是西瓜口味的糖果……
+
+如果是西瓜味的糖的话……
+
+西瓜味的糖的话……"
+"SECRET_SELECTION/text1#18ce2cf8a6404177d05bb98a39f97b13","${itsuki_p.me}津津有味地享用了！","SECRET_SELECTION/text1#18ce2cf8a6404177d05bb98a39f97b13","机翻辅助：
+
+${itsuki_p.me}津津有味地享用了！
+
+${itsuki_p.me}吃得很好吃！"
+"SECRET_SELECTION/text2#8b1f241d964e96bd3843c746589c4653","${itsuki_p.iroha}也盯上了呢！","SECRET_SELECTION/text2#8b1f241d964e96bd3843c746589c4653","机翻辅助：
+
+${itsuki_p.iroha}也盯上了呢！
+
+${itsuki_p.iroha}也瞄准了呢！"
+"SECRET_SELECTION/text3#31331239cb4f3daed9b1953d8216eed3","${itsuki_p.ryo}有哦！","SECRET_SELECTION/text3#31331239cb4f3daed9b1953d8216eed3","机翻辅助：
+
+${itsuki_p.ryo}有哦！
+
+${itsuki_p.ryo}拿着呢！"
+"balloon#af2a03c992dff00fe1165e1c8c40d3e6","好诈！","balloon#af2a03c992dff00fe1165e1c8c40d3e6","机翻辅助：
+
+好诈！
+
+真狡猾！
+
+狡猾！"
+"balloon#c0099c2b1ec63781418b40c3a26e5a38","丢下[emb exp='tf.names.NPC.me']不管，这样太狡猾了！","balloon#c0099c2b1ec63781418b40c3a26e5a38","机翻辅助：
+
+丢下[emb exp='tf.names.NPC.me']不管，这样太狡猾了！
+
+把[emb exp='tf.names.NPC.me']放下，太狡猾了！
+
+把[emb exp='tf.names.NPC.me']搁在一边，太狡猾了！"
+"balloon#b76932aad38fd468ab5e0305f0a9f3eb","哎呀，这可是很认真的问题哦。","balloon#b76932aad38fd468ab5e0305f0a9f3eb","机翻辅助：
+
+哎呀，这可是很认真的问题哦。
+
+哎呀，这是把话当真的家伙。"
+"balloon#c004b65c7e0d8ef372a9ecb400666ff8","所以，是什么味道呢？","balloon#c004b65c7e0d8ef372a9ecb400666ff8","机翻辅助：
+
+所以，是什么味道呢？
+
+那么，是什么味道呢？
+
+那是什么味道呢？"
+"balloon#2eb474632ec764569e25f316c15b976f","什么味道？我又没吃，怎么会知道……","balloon#2eb474632ec764569e25f316c15b976f","机翻辅助：
+
+什么味道？我又没吃，怎么会知道……
+
+什么样的，因为没吃所以不知道……
+
+什么样的，我没吃过所以不知道……"
+"balloon#78d4f76758a59ef69a60d6067c99f874","呃，那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]是西瓜口味哦。","balloon#78d4f76758a59ef69a60d6067c99f874","机翻辅助：
+
+呃，那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]是西瓜口味哦。
+
+那个……是西瓜味的。[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]
+
+那个，那个……是西瓜味的哦。[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#aaaeb4a94383e0eeceda946f0ab09c15","是、是哦……","balloon#aaaeb4a94383e0eeceda946f0ab09c15","机翻辅助：
+
+是、是哦……
+
+那、那……
+
+那个，那个……"
+"balloon#23a5f7a1694567d4ab981fa8c68d5daa","……这种小事，我当然知道！","balloon#23a5f7a1694567d4ab981fa8c68d5daa","机翻辅助：
+
+……这种小事，我当然知道！
+
+……连这种事都知道！
+
+……那种事我都知道啊！"
+"balloon#aa2f0ca3fd1d3183d75f8fd51e3cf7c5","哦……","balloon#aa2f0ca3fd1d3183d75f8fd51e3cf7c5","机翻辅助：
+
+哦……
+
+啊……"
+"balloon#41027058054fb0a7644e27f11f440f89","情敌出现了呢。","balloon#41027058054fb0a7644e27f11f440f89","机翻辅助：
+
+情敌出现了呢。
+
+竞争对手出现了。"
+"balloon#005a08298ac9c820841a23c67722f78f","说什么情敌，对方是个小孩子……","balloon#005a08298ac9c820841a23c67722f78f","机翻辅助：
+
+说什么情敌，对方是个小孩子……
+
+竞争对手，毕竟是小孩子……
+
+对手是对方很小的孩子……"
+"balloon#a6f31d7aa708c0ba80e8cd508c8f9c1b","[emb exp='tf.names.itsuki_p.kageyama']是大人，所以请好好让给[emb exp='tf.names.itsuki_p.iroha']吧。","balloon#a6f31d7aa708c0ba80e8cd508c8f9c1b","机翻辅助：
+
+[emb exp='tf.names.itsuki_p.kageyama']是大人，所以请好好让给[emb exp='tf.names.itsuki_p.iroha']吧。
+
+[emb exp='tf.names.itsuki_p.kageyama']是大人，所以请好好让给[emb exp='tf.names.itsuki_p.iroha']哦。
+
+[emb exp='tf.names.itsuki_p.kageyama']是大人了，一定要让给[emb exp='tf.names.itsuki_p.iroha']。"
+"balloon#e76fe553ff8f4542ba67886ea60fa6be","……那还用说！","balloon#e76fe553ff8f4542ba67886ea60fa6be","机翻辅助：
+
+……那还用说！
+
+……这是理所当然的！
+
+……那是理所当然的！"
+"balloon#24adfb709c4303e906cd1dc1daeeb9f5","这……","balloon#24adfb709c4303e906cd1dc1daeeb9f5","机翻辅助：
+
+这……
+
+那是……"
+"balloon#a358898a7deada0c33bb933fe11267eb","我当然知道。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]我就是明知如此，才故意找你谈这件事的吧？","balloon#a358898a7deada0c33bb933fe11267eb","机翻辅助：
+
+我当然知道。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]我就是明知如此，才故意找你谈这件事的吧？
+
+我知道。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]在此基础上，我是在跟你说这件事吧？
+
+我知道。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]所以才故意跟你说这件事吧？"
+"balloon#2815d8a0e63d6cff6ef2280834fbe41c","大人想跟大人要糖果，会很不好意思吗……","balloon#2815d8a0e63d6cff6ef2280834fbe41c","机翻辅助：
+
+大人想跟大人要糖果，会很不好意思吗……
+
+大人想要大人的糖，是害羞吗……
+
+大人想要大人的糖，是不是很害羞……"
+"balloon#bbfff1427bf86dee8d599ea0f638e24e","[emb exp='tf.names.itsuki_p.me']之后会拜托[emb exp='tf.names.itsuki_p.ryo']看看。","balloon#bbfff1427bf86dee8d599ea0f638e24e","机翻辅助：
+
+[emb exp='tf.names.itsuki_p.me']之后会拜托[emb exp='tf.names.itsuki_p.ryo']看看。
+
+[emb exp='tf.names.itsuki_p.me']一会儿拜托[emb exp='tf.names.itsuki_p.ryo']试试。
+
+[emb exp='tf.names.itsuki_p.me']过一会儿再拜托[emb exp='tf.names.itsuki_p.ryo']吧。"
+"balloon#aea93e960d0e46ee60c21766971f3294","拜、拜托……","balloon#aea93e960d0e46ee60c21766971f3294","机翻辅助：
+
+拜、拜托……
+
+贝、贝……
+
+啊、啊……"
+"balloon#6a0022aba943046bf8bd1fd9a55fcc1b","……我又没拜托你做这种事！","balloon#6a0022aba943046bf8bd1fd9a55fcc1b","机翻辅助：
+
+……我又没拜托你做这种事！
+
+……我并没有拜托你那样的事啊！
+
+……我又没拜托你这么做！"
+"balloon#dade94b0b2e4b0db20633d1e39ce4870","……总觉得事情的发展变得好麻烦。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]这个。","balloon#dade94b0b2e4b0db20633d1e39ce4870","机翻辅助：
+
+……总觉得事情的发展变得好麻烦。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]这个。
+
+……总觉得变成了麻烦的话题。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]这个。
+
+……怎么说呢，事情变得麻烦了。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]这个。"
+"balloon#c03e288733b283e78d81fd69789bd20f","差不多该结束了……","balloon#c03e288733b283e78d81fd69789bd20f","机翻辅助：
+
+差不多该结束了……
+
+在适当的地方结束吧……"
+"balloon#2bae3307fa6c87c662092ec6fb9d8510","……不过，[emb exp='tf.names.itsuki_p.kageyama']收到的糖果这件事，让我很在意呢。","balloon#2bae3307fa6c87c662092ec6fb9d8510","机翻辅助：
+
+……不过，[emb exp='tf.names.itsuki_p.kageyama']收到的糖果这件事，让我很在意呢。
+
+……但是，不要在意[emb exp='tf.names.itsuki_p.kageyama']收到的糖的故事。
+
+……但是，[emb exp='tf.names.itsuki_p.kageyama']得到的糖的事令人在意。"
+"balloon#1b384f762e15ec5f67b70466304a038d","去糖果的出处直接问人，应该能得到有用的情报。","balloon#1b384f762e15ec5f67b70466304a038d","机翻辅助：
+
+去糖果的出处直接问人，应该能得到有用的情报。
+
+去这个糖的出处，直接提问得到的话应该会有帮助。
+
+前往这颗糖的来源，直接询问得到的话应该会有帮助。"
+"speaker_主人公","主人公","speaker_主人公",""

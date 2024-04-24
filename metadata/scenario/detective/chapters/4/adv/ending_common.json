@@ -1,0 +1,392 @@
+[
+  {
+    "start": 36,
+    "end": 71,
+    "key": "text#5e2321f68b60699b437b8e69dc6ffdd3"
+  },
+  {
+    "start": 76,
+    "end": 132,
+    "key": "text#8e6aa47f2fc6d84d1e5d1c806630eda9"
+  },
+  {
+    "start": 334,
+    "end": 341,
+    "key": "text#70f972185a7c011970993c9c18ba98cf"
+  },
+  {
+    "start": 409,
+    "end": 423,
+    "key": "text#73053694bbb2fe431c2b90d79c556ab9"
+  },
+  {
+    "start": 522,
+    "end": 536,
+    "key": "text#8c733880c4313110e7faf7a3406c9d59"
+  },
+  {
+    "start": 630,
+    "end": 650,
+    "key": "text#6ad4f69744ad7dcd3430f953132e4ecd"
+  },
+  {
+    "start": 737,
+    "end": 760,
+    "key": "text#8ddb6df01d54dd0de68458f4ab60be11"
+  },
+  {
+    "start": 788,
+    "end": 813,
+    "key": "text#4e07a35c61e1b1cbb3385277d7b5e9bc"
+  },
+  {
+    "start": 818,
+    "end": 843,
+    "key": "text#ef52643b74c769c3edc6c4bbb8afc293"
+  },
+  {
+    "start": 1143,
+    "end": 1155,
+    "key": "text#82be75e009322525dfb5f9f0a7241874"
+  },
+  {
+    "start": 1183,
+    "end": 1212,
+    "key": "text#39a2487beaa72b719b3fdca8b94c245d"
+  },
+  {
+    "start": 1217,
+    "end": 1241,
+    "key": "text#26397a7ed7429ecfeb524bd11dd483b6"
+  },
+  {
+    "start": 1246,
+    "end": 1281,
+    "key": "text#29ba79e1a1c693d1a7fc7a12b4d8b0f6"
+  },
+  {
+    "start": 1323,
+    "end": 1333,
+    "key": "text#68e8f8388e304f8e9ea8a2be4e2884a8"
+  },
+  {
+    "start": 1430,
+    "end": 1439,
+    "key": "text#dff55120a656e08c6133ccbcb440f82f"
+  },
+  {
+    "start": 1467,
+    "end": 1501,
+    "key": "text#f6ab4b1b51896a94ee18983f6a56cfb3"
+  },
+  {
+    "start": 1586,
+    "end": 1608,
+    "key": "text#c9091dfa0f6e89b4d1f0241d7746150c"
+  },
+  {
+    "start": 1865,
+    "end": 1902,
+    "key": "text#49ce3c59b83acbd4c4d15ddb99a4e6f5"
+  },
+  {
+    "start": 1963,
+    "end": 1983,
+    "key": "text#8866ea843bd27d5add0a6f9fe9a72cc5"
+  },
+  {
+    "start": 2073,
+    "end": 2106,
+    "key": "text#9ceeb5b81e64959adceeaeb28bf43d9e"
+  },
+  {
+    "start": 2111,
+    "end": 2134,
+    "key": "text#52fec01a9a929046118eb91cf4613e34"
+  },
+  {
+    "start": 2139,
+    "end": 2174,
+    "key": "text#33d81e9c569971dfe2f729b7e58fdf63"
+  },
+  {
+    "start": 2179,
+    "end": 2224,
+    "key": "text#4976c0d59d8b9cd1d4e0023d49b63686"
+  },
+  {
+    "start": 2229,
+    "end": 2259,
+    "key": "text#e848463c4bf3cc23e7d3af09457c2e62"
+  },
+  {
+    "start": 2264,
+    "end": 2296,
+    "key": "text#3f54d114a4a612da2f3f7d3cfbe44896"
+  },
+  {
+    "start": 2301,
+    "end": 2365,
+    "key": "text#9390808806293a0f6c38839723a5101c"
+  },
+  {
+    "start": 2370,
+    "end": 2402,
+    "key": "text#18635a26120115c79a5398292f5744d2"
+  },
+  {
+    "start": 2407,
+    "end": 2442,
+    "key": "text#771611deca13f0112ec9a3cf07c6fce2"
+  },
+  {
+    "start": 2447,
+    "end": 2517,
+    "key": "text#f7d3ebfb753b9d3abf9831c43ba08e4a"
+  },
+  {
+    "start": 2522,
+    "end": 2556,
+    "key": "text#1aa817625d9471a94236d1d6de12a0fb"
+  },
+  {
+    "start": 2561,
+    "end": 2601,
+    "key": "text#6a528644350c8d827b808a124c4b7639"
+  },
+  {
+    "start": 2606,
+    "end": 2641,
+    "key": "text#1905f01424e10e43f9d223667c23c1d8"
+  },
+  {
+    "start": 2646,
+    "end": 2673,
+    "key": "text#0cd1c3ed264bead57090a863e6c4ccb1"
+  },
+  {
+    "start": 2678,
+    "end": 2719,
+    "key": "text#559bb74c7be8e32aafe15d066f9bdbe2"
+  },
+  {
+    "start": 2905,
+    "end": 2929,
+    "key": "text#19a735ef2d7e96b35095819331679da5"
+  },
+  {
+    "start": 2934,
+    "end": 2972,
+    "key": "text#5f5d0f70206833e74a9be1b7df0d7495"
+  },
+  {
+    "start": 2977,
+    "end": 3013,
+    "key": "text#35e5f0b16b81fbac2f8f57462cd7f4e9"
+  },
+  {
+    "start": 3018,
+    "end": 3036,
+    "key": "text#8082190c91e23883c4b17a4d7cfcee13"
+  },
+  {
+    "start": 3041,
+    "end": 3054,
+    "key": "text#1c610b601f0ad837754f55a878cc5a05"
+  },
+  {
+    "start": 3059,
+    "end": 3081,
+    "key": "text#fea77f0869a63fe5346d26318e75ac82"
+  },
+  {
+    "start": 3086,
+    "end": 3111,
+    "key": "text#f4d7535bf5bc47480170af3764cc4883"
+  },
+  {
+    "start": 3116,
+    "end": 3141,
+    "key": "text#2e28b1922eae4de48a64e50346212c74"
+  },
+  {
+    "start": 3146,
+    "end": 3176,
+    "key": "text#46d6f222d07a4b086410f4732462a562"
+  },
+  {
+    "start": 3181,
+    "end": 3211,
+    "key": "text#b397ca81d69a0279bc6dce3bc7ccc5e2"
+  },
+  {
+    "start": 3365,
+    "end": 3400,
+    "key": "text#6755c4b11c93ae4c0247571ffab9cb4e"
+  },
+  {
+    "start": 3405,
+    "end": 3430,
+    "key": "text#5153422d0d7b68910cef01593170a721"
+  },
+  {
+    "start": 3435,
+    "end": 3488,
+    "key": "text#0fa098a62f535541b53012a343ebbfb9"
+  },
+  {
+    "start": 3493,
+    "end": 3508,
+    "key": "text#67a3df3b5280b9f6cd8b0cfde68dfafe"
+  },
+  {
+    "start": 3539,
+    "end": 3547,
+    "key": "text#d4f14fc55ce776c9884df86b2079f53a"
+  },
+  {
+    "start": 3628,
+    "end": 3647,
+    "key": "text#b2e740724b98e55fea30b212d79bf344"
+  },
+  {
+    "start": 3652,
+    "end": 3674,
+    "key": "text#9b52244635c709734731fcf58f834c43"
+  },
+  {
+    "start": 3679,
+    "end": 3710,
+    "key": "text#308f0a37ba45e59093c4381db4955b5e"
+  },
+  {
+    "start": 3815,
+    "end": 3824,
+    "key": "text#f3482842db5f8a4ca7d3e9cb6575f561"
+  },
+  {
+    "start": 3886,
+    "end": 3975,
+    "key": "text#d098e2f419d2191e2cf2ab5fab0d3956"
+  },
+  {
+    "start": 4017,
+    "end": 4027,
+    "key": "text#27db824519ae7af65bc5c811292eb275"
+  },
+  {
+    "start": 4128,
+    "end": 4159,
+    "key": "text#dd0f67c77d755275142ea48ae91e199f"
+  },
+  {
+    "start": 4201,
+    "end": 4241,
+    "key": "text#5766defbbce03efb243269ae18cc9517"
+  },
+  {
+    "start": 4342,
+    "end": 4354,
+    "key": "text#bfc60a177509eff9ea0e5543cca464ae"
+  },
+  {
+    "start": 4416,
+    "end": 4442,
+    "key": "text#7320af849ca8910ad1d21fe674a18281"
+  },
+  {
+    "start": 4484,
+    "end": 4501,
+    "key": "text#72c52c624941c209be946adabd1d906e"
+  },
+  {
+    "start": 4606,
+    "end": 4614,
+    "key": "text#816aba461d1614dffc23dc60a2aee062"
+  },
+  {
+    "start": 4715,
+    "end": 4786,
+    "key": "text#5883108bac14af3560836b64522bbffb"
+  },
+  {
+    "start": 4852,
+    "end": 4871,
+    "key": "text#a15eea4144e74d3d57a4137f7aab2511"
+  },
+  {
+    "start": 4970,
+    "end": 5012,
+    "key": "text#6aef8ac883bdcc2ac02ac9efdd31e8a3"
+  },
+  {
+    "start": 5040,
+    "end": 5062,
+    "key": "text#cf60d84e5a4b7f905666bc7560290d0d"
+  },
+  {
+    "start": 5181,
+    "end": 5211,
+    "key": "text#ad7bf82c6d14f856f70ad626164aa339"
+  },
+  {
+    "start": 5312,
+    "end": 5366,
+    "key": "text#99b7e20c4edcca4abd8df11386a56790"
+  },
+  {
+    "start": 5485,
+    "end": 5498,
+    "key": "text#ce2c8563c1161426fd5b4ece53308345"
+  },
+  {
+    "start": 5526,
+    "end": 5549,
+    "key": "text#e946e850ad7d86e1c044e14f3cfcf1d1"
+  },
+  {
+    "start": 5554,
+    "end": 5566,
+    "key": "text#4589033aff79faf00bac5c0486b3cd2f"
+  },
+  {
+    "start": 5571,
+    "end": 5605,
+    "key": "text#4a32550df4fb32f8e80ba826a0b38cdc"
+  },
+  {
+    "start": 5703,
+    "end": 5723,
+    "key": "text#a13b14cb2d15f2096f97c94aab7ee69a"
+  },
+  {
+    "start": 5843,
+    "end": 5899,
+    "key": "text#4498e8b51e0a682fa63a65cf8057e1a4"
+  },
+  {
+    "start": 5904,
+    "end": 5934,
+    "key": "text#e9a3cf71236a3ccc91ef8bfd83de210b"
+  },
+  {
+    "start": 5939,
+    "end": 5990,
+    "key": "text#285a78ab8835934c31c806c2e60dc4fd"
+  },
+  {
+    "start": 5995,
+    "end": 6043,
+    "key": "text#ec4e7f8535b40024cb2821b8ec1f0526"
+  },
+  {
+    "start": 6048,
+    "end": 6108,
+    "key": "text#608b3efb364041f143afe0254a13cfeb"
+  },
+  {
+    "start": 6462,
+    "end": 6485,
+    "key": "SET_CONTINUE/help#3ee65cc4e18b12c0097f86284f3d7b56"
+  }
+]

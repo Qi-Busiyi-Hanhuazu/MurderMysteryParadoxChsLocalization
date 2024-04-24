@@ -1,0 +1,87 @@
+[
+  {
+    "start": 133,
+    "end": 171,
+    "key": "balloon#82713707b4f42ab8579a3a1b52a5aba7"
+  },
+  {
+    "start": 197,
+    "end": 206,
+    "key": "message10#1f24e88f6e2374f69a0ffea539ccfb6a"
+  },
+  {
+    "start": 299,
+    "end": 351,
+    "key": "balloon#09c39844876aa0594881cbf289f0a0e7"
+  },
+  {
+    "start": 426,
+    "end": 455,
+    "key": "balloon#c6b673684b30d8dbba451a367060c79d"
+  },
+  {
+    "start": 530,
+    "end": 622,
+    "key": "balloon#58caa12d1e4415ab2099fda30f0604e3"
+  },
+  {
+    "start": 696,
+    "end": 704,
+    "key": "balloon#3cbb68548eacec9a3d06306f4bbb4cd9"
+  },
+  {
+    "start": 782,
+    "end": 820,
+    "key": "balloon#88e930913cdc0cf29a457e0137aeb5d5"
+  },
+  {
+    "start": 897,
+    "end": 972,
+    "key": "balloon#e51fb45707dcc5a51da4f3ba4b4eef27"
+  },
+  {
+    "start": 1043,
+    "end": 1048,
+    "key": "balloon#82ff27712214ae2480d95088171613f2"
+  },
+  {
+    "start": 1157,
+    "end": 1227,
+    "key": "balloon#ae6330475ccd603800832057da048bc8"
+  },
+  {
+    "start": 1421,
+    "end": 1483,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_text#9d5efdc1195d75e804a82525c13dceb0"
+  },
+  {
+    "start": 1527,
+    "end": 1550,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#9460562477badf47a52b6b465dc006fd"
+  },
+  {
+    "start": 1617,
+    "end": 1642,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#6ee9602ba522cca6413842a574e82f8f"
+  },
+  {
+    "start": 1709,
+    "end": 1733,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#af98b4f672a96226fd79a31467b5918a"
+  },
+  {
+    "start": 1832,
+    "end": 1872,
+    "key": "message10#a00f30952df15176f60788a11db6a8d6"
+  },
+  {
+    "start": 1972,
+    "end": 2015,
+    "key": "message10#936e76a64e85e16f2158b2c02d81812e"
+  },
+  {
+    "start": 2115,
+    "end": 2155,
+    "key": "message10#ccb33f58186fedd1db713d6f2182150f"
+  }
+]

@@ -1,0 +1,70 @@
+"source","target","id","developer_comments"
+"balloon#23aebed9175b00886fe71c014ae9570b","从厨房，[emb exp='tf.names.NPC.iroha']他……","balloon#23aebed9175b00886fe71c014ae9570b","机翻辅助：
+
+从厨房，[emb exp='tf.names.NPC.iroha']他……
+
+厨房里有[emb exp='tf.names.NPC.iroha']……
+
+厨房里没有[emb exp='tf.names.NPC.iroha']……"
+"balloon#e63fc737a250cc738436695b9cb33b05","这样啊。","balloon#e63fc737a250cc738436695b9cb33b05","机翻辅助：
+
+这样啊。
+
+是这样啊。
+
+是啊。"
+"balloon#e4dc60a933dab214c7936798cd473734","也就是说，所有人都进出过厨房……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]也是吗？","balloon#e4dc60a933dab214c7936798cd473734","机翻辅助：
+
+也就是说，所有人都进出过厨房……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]也是吗？
+
+也就是说，厨房里所有人都进进出出了……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]是这样的吗？
+
+也就是说，所有人都在厨房里进进出出……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]是这样吗？"
+"balloon#8459b7a63de4f6cb81f78823d70d8a08","大家是不是等不及西瓜切好了？","balloon#8459b7a63de4f6cb81f78823d70d8a08","机翻辅助：
+
+大家是不是等不及西瓜切好了？
+
+大家都等不及西瓜了吧。
+
+大家是不是已经等不及西瓜了呢。"
+"balloon#6489488a3c51b564fd635f80d4f9fab3","就像[emb exp='tf.names.itsuki.NPC']说的，大家都有进出厨房，这点应该没错。","balloon#6489488a3c51b564fd635f80d4f9fab3","机翻辅助：
+
+就像[emb exp='tf.names.itsuki.NPC']说的，大家都有进出厨房，这点应该没错。
+
+正如[emb exp='tf.names.itsuki.NPC']所说，各自进出厨房是没错的吧。
+
+就像[emb exp='tf.names.itsuki.NPC']说的那样，他们确实出入过厨房。"
+"balloon#6aec129112babdd3f7c5569ba48b0bb3","厨房里，有[emb exp='tf.names.NPC.yohei']……","balloon#6aec129112babdd3f7c5569ba48b0bb3","机翻辅助：
+
+厨房里，有[emb exp='tf.names.NPC.yohei']……
+
+厨房里有[emb exp='tf.names.NPC.yohei']……
+
+厨房里没有[emb exp='tf.names.NPC.yohei']……"
+"balloon#91afaaae267cd957559255447cad0770","[emb exp='tf.names.NPC.iroha'][emb exp='tf.names.NPC.me']也看到了。","balloon#91afaaae267cd957559255447cad0770","机翻辅助：
+
+[emb exp='tf.names.NPC.iroha'][emb exp='tf.names.NPC.me']也看到了。
+
+如果是[emb exp='tf.names.NPC.iroha']的话，[emb exp='tf.names.NPC.me']也看到了。
+
+[emb exp='tf.names.NPC.iroha']的事，[emb exp='tf.names.NPC.me']也看过。"
+"balloon#7903f75c6448174f4b2f5ceb1c5b5eb4","咦，是吗？","balloon#7903f75c6448174f4b2f5ceb1c5b5eb4","机翻辅助：
+
+咦，是吗？
+
+啊，是吗？"
+"balloon#8905c4b336aa518076433a1b99db626f","[emb exp='tf.names.NPC.me']回到厨房的时候，[font color=@3]和从里面出来的[emb exp='tf.names.NPC.iroha']擦身而过[resetfont]。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""][font color=@3]14:43[resetfont]的时候。","balloon#8905c4b336aa518076433a1b99db626f","机翻辅助：
+
+[emb exp='tf.names.NPC.me']回到厨房的时候，[font color=@3]和从里面出来的[emb exp='tf.names.NPC.iroha']擦身而过[resetfont]。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""][font color=@3]14:43[resetfont]的时候。
+
+[emb exp='tf.names.NPC.me']回到厨房的时候，从那里出来[font color=@3]和[emb exp='tf.names.NPC.iroha']擦肩而过[resetfont]的。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""][font color=@3]14:43[resetfont]。
+
+[emb exp='tf.names.NPC.me']回到厨房的时候，和从那里出来的[emb exp='tf.names.NPC.iroha']擦身而过。是14:43。[font color=@3][resetfont][l][chara_mod time=""@f1"" name=""NPC"" face=""normal""][font color=@3][resetfont]"
+"balloon#dfb384052f696d9d87c59d45f9672de7","原来[emb exp='f.npc_nickname']也看到了[emb exp='tf.names.itsuki.iroha']进出厨房吗？","balloon#dfb384052f696d9d87c59d45f9672de7","机翻辅助：
+
+原来[emb exp='f.npc_nickname']也看到了[emb exp='tf.names.itsuki.iroha']进出厨房吗？
+
+[emb exp='f.npc_nickname']也在看[emb exp='tf.names.itsuki.iroha']进出厨房吗。
+
+[emb exp='f.npc_nickname']也看到[emb exp='tf.names.itsuki.iroha']进出厨房了吗？"
+"speaker_主人公","主人公","speaker_主人公",""

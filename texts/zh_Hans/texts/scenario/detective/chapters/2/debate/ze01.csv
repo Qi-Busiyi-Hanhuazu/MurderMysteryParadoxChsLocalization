@@ -1,0 +1,54 @@
+"source","target","id","developer_comments"
+"balloon#e80b8ada3eee788ba5df4160326e8a90","那么，就由[emb exp='tf.names.NPC.me']来说吧。","balloon#e80b8ada3eee788ba5df4160326e8a90","机翻辅助：
+
+那么，就由[emb exp='tf.names.NPC.me']来说吧。
+
+那[emb exp='tf.names.NPC.me']来说吧。"
+"balloon#aa49ddf6c6234d70f63d6176f29622c3","事到如今，我并不想责怪任何人。","balloon#aa49ddf6c6234d70f63d6176f29622c3","机翻辅助：
+
+事到如今，我并不想责怪任何人。
+
+事到如今，我不想责怪谁。"
+"balloon#29c254163332c30ac1f72689355c0867","[emb exp='tf.names.NPC.me']的愿望，只有平安无事地找到[emb exp='tf.names.NPC.utaha']而已。","balloon#29c254163332c30ac1f72689355c0867","机翻辅助：
+
+[emb exp='tf.names.NPC.me']的愿望，只有平安无事地找到[emb exp='tf.names.NPC.utaha']而已。
+
+[emb exp='tf.names.NPC.me']的愿望只是平安找到[emb exp='tf.names.NPC.utaha']。
+
+[emb exp='tf.names.NPC.me']的愿望只有平安找到[emb exp='tf.names.NPC.utaha']。"
+"balloon#d67a506f83d3cb23ff58287c682aa48d","所以，希望大家能够老实回答。","balloon#d67a506f83d3cb23ff58287c682aa48d","机翻辅助：
+
+所以，希望大家能够老实回答。
+
+所以希望大家能诚实地回答。
+
+所以，希望大家如实回答。"
+"balloon#79b1f42a7f206273f81539721cd6cdcd","[font color=@3]在[emb exp='tf.names.NPC.utaha']不见的那段时间里，大家分别做了什么[resetfont]，可以请你们告诉我吗？","balloon#79b1f42a7f206273f81539721cd6cdcd","机翻辅助：
+
+[font color=@3]在[emb exp='tf.names.NPC.utaha']不见的那段时间里，大家分别做了什么[resetfont]，可以请你们告诉我吗？
+
+[font color=@3][emb exp='tf.names.NPC.utaha']不在的时间里都做了什么？能分别告诉我吗？[resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.utaha']不在的时候你在做什么？[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#0c0fa337a5c97eff76e6a2f31c9ad8e6","${itsuki_p.utaha}<font color='@3'>消失的那段时间里，${itsuki_p.me}……</font>","TALK_WINDOW_SELECT_CHOICES/talk_window_text#0c0fa337a5c97eff76e6a2f31c9ad8e6","机翻辅助：
+
+${itsuki_p.utaha}<font color='@3'>消失的那段时间里，${itsuki_p.me}……</font>
+
+${itsuki_p.utaha}不在的时间里，${itsuki_p.me}……<font color='@3'></font>
+
+${itsuki_p.utaha}消失的时间里，${itsuki_p.me}……<font color='@3'></font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8c158c1d9bb43d38376ed60765f7d3f1","一直和${itsuki_p.mashima}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8c158c1d9bb43d38376ed60765f7d3f1","机翻辅助：
+
+一直和${itsuki_p.mashima}在一起！
+
+和${itsuki_p.mashima}一直在一起！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d3783c6eb4b440c7ccf990c3ad64ea67","一直和${itsuki_p.kageyama}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d3783c6eb4b440c7ccf990c3ad64ea67","机翻辅助：
+
+一直和${itsuki_p.kageyama}在一起！
+
+和${itsuki_p.kageyama}一直在一起！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#7c253d48b9008530e9336793717cef6d","一直和${itsuki_p.yuuki}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#7c253d48b9008530e9336793717cef6d","机翻辅助：
+
+一直和${itsuki_p.yuuki}在一起！
+
+和${itsuki_p.yuuki}一直在一起！"

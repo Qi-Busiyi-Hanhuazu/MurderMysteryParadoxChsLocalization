@@ -1,0 +1,68 @@
+"source","target","id","developer_comments"
+"balloon#e80b8ada3eee788ba5df4160326e8a90","那么，就由[emb exp='tf.names.NPC.me']来说吧。","balloon#e80b8ada3eee788ba5df4160326e8a90","机翻辅助：
+
+那么，就由[emb exp='tf.names.NPC.me']来说吧。
+
+那[emb exp='tf.names.NPC.me']来说吧。"
+"balloon#74180fbc7d895e71f0f794051f11032f","各位，容我再重复一次……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]感谢各位协助调查。","balloon#74180fbc7d895e71f0f794051f11032f","机翻辅助：
+
+各位，容我再重复一次……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]感谢各位协助调查。
+
+各位，请重复一下……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]感谢你们协助调查。
+
+各位，我想再重复一遍……感谢您对调查的协助。[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]"
+"balloon#338ceea8ff10eb4a8afc22616b0be3ab","到此为止，已经厘清了许多事实。","balloon#338ceea8ff10eb4a8afc22616b0be3ab","机翻辅助：
+
+到此为止，已经厘清了许多事实。
+
+到这里为止，各种各样的事实变得清楚了。
+
+到此为止，各种各样的事实已经明确了。"
+"balloon#9923df0f2dc912bb71723a397c147803","[emb exp='tf.names.NPC.me']自己也很困惑。","balloon#9923df0f2dc912bb71723a397c147803","机翻辅助：
+
+[emb exp='tf.names.NPC.me']自己也很困惑。"
+"balloon#d122c2045241f3fafb33730f7f8c05e3","然而，我认为不能忽略事件的开端。","balloon#d122c2045241f3fafb33730f7f8c05e3","机翻辅助：
+
+然而，我认为不能忽略事件的开端。
+
+但是，我认为不能忽视事件的开始。"
+"balloon#e7e62f5b1e81b62fe157c022e6a5b3e3","就让我们回到基本，先回顾一开始发生了什么事吧。","balloon#e7e62f5b1e81b62fe157c022e6a5b3e3","机翻辅助：
+
+就让我们回到基本，先回顾一开始发生了什么事吧。
+
+在这里回归基本，首先回顾一下最初发生了什么。
+
+让我们回到原点，先回顾一下最初发生的事情。"
+"balloon#3fd5ac27e9f623bf6f83382d36c56af3","困惑[emb exp='tf.names.NPC.itsuki'][font color=@3]对[emb exp='tf.names.NPC.chiyo']做了什么[resetfont]。","balloon#3fd5ac27e9f623bf6f83382d36c56af3","机翻辅助：
+
+困惑[emb exp='tf.names.NPC.itsuki'][font color=@3]对[emb exp='tf.names.NPC.chiyo']做了什么[resetfont]。
+
+[emb exp='tf.names.NPC.itsuki']对[emb exp='tf.names.NPC.chiyo']做了什么。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.itsuki'][font color=@3]对[emb exp='tf.names.NPC.chiyo']做了什么？[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#42ed725b13b82a4b19f64c22b5c3ee00","<font color='@3'>${itsuki.chiyo}</font>的死因……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#42ed725b13b82a4b19f64c22b5c3ee00","机翻辅助：
+
+<font color='@3'>${itsuki.chiyo}</font>的死因……
+
+<font color='@3'>${itsuki.chiyo}</font>的事……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0a418b1614dc13c9498171d547940f1e","是${itsuki.me}睡昏头刺的！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0a418b1614dc13c9498171d547940f1e","机翻辅助：
+
+是${itsuki.me}睡昏头刺的！
+
+${itsuki.me}睡眼惺忪刺了你！
+
+${itsuki.me}睡眼惺忪地刺了！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#993512d04b6768814629f9d7a70bcbdb","是被伪装成${itsuki.me}刺的！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#993512d04b6768814629f9d7a70bcbdb","机翻辅助：
+
+是被伪装成${itsuki.me}刺的！
+
+它被伪装成是${itsuki.me}刺伤的
+
+被伪装成是${itsuki.me}刺的。"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#54a866f4045db147375d54b96c2c6ed0","是犯人亲手刺伤的","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#54a866f4045db147375d54b96c2c6ed0","机翻辅助：
+
+是犯人亲手刺伤的
+
+是凶手亲手刺杀的。
+
+是凶手亲手刺杀的"

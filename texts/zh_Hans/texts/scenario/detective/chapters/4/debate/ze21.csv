@@ -1,0 +1,51 @@
+"source","target","id","developer_comments"
+"balloon#e80b8ada3eee788ba5df4160326e8a90","那么，就由[emb exp='tf.names.NPC.me']来说吧。","balloon#e80b8ada3eee788ba5df4160326e8a90","机翻辅助：
+
+那么，就由[emb exp='tf.names.NPC.me']来说吧。
+
+那[emb exp='tf.names.NPC.me']来说吧。"
+"balloon#808a83143e0405258b0fb50905e3a8f1","事情的开端，是[emb exp='tf.names.NPC.chiyo']突然消失不见。","balloon#808a83143e0405258b0fb50905e3a8f1","机翻辅助：
+
+事情的开端，是[emb exp='tf.names.NPC.chiyo']突然消失不见。
+
+事情的开始是[emb exp='tf.names.NPC.chiyo']突然消失了。"
+"balloon#7e0d6d41bef45472c456403d964ce3d9","[emb exp='tf.names.NPC.me']们到现在都还没掌握到他的行踪。","balloon#7e0d6d41bef45472c456403d964ce3d9","机翻辅助：
+
+[emb exp='tf.names.NPC.me']们到现在都还没掌握到他的行踪。
+
+[emb exp='tf.names.NPC.me']们还没有找到那个行踪。
+
+[emb exp='tf.names.NPC.me']们还没有找到他的下落。"
+"balloon#98e63396eda85535ad7452784115c82a","为了整理状况，我想先厘清这件事。","balloon#98e63396eda85535ad7452784115c82a","机翻辅助：
+
+为了整理状况，我想先厘清这件事。
+
+为了整理状况，我想明确这句话。
+
+为了整理状况，我想先明确这句话。"
+"balloon#c04df38f5af8fbb32c530ec602e56a8c","为什么[emb exp='tf.names.NPC.chiyo'][font color=@3]不见了[resetfont]呢？","balloon#c04df38f5af8fbb32c530ec602e56a8c","机翻辅助：
+
+为什么[emb exp='tf.names.NPC.chiyo'][font color=@3]不见了[resetfont]呢？
+
+[emb exp='tf.names.NPC.chiyo']为什么不见了？[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.chiyo']为什么会消失呢？[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#691adf9cfc77bafd655c1bcb0f4e3a66","<font color='@3'>${itsuki.chiyo}身上发生的事</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#691adf9cfc77bafd655c1bcb0f4e3a66","机翻辅助：
+
+<font color='@3'>${itsuki.chiyo}身上发生的事</font>是……
+
+<font color='@3'>${itsuki.chiyo}身上发生的事情</font>……
+
+<font color='@3'>发生在${itsuki.chiyo}身上的事</font>是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8361a6f3edae8b8dbdff1fe8d19acb81","我们被卷入了“式音岛神隐”！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8361a6f3edae8b8dbdff1fe8d19acb81","机翻辅助：
+
+我们被卷入了“式音岛神隐”！
+
+被卷入了“式音岛神隐”！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#3b7d7fd61fcd24c74ee1e66fc09d6b88","原来是假装成“式音岛神隐”！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#3b7d7fd61fcd24c74ee1e66fc09d6b88","机翻辅助：
+
+原来是假装成“式音岛神隐”！
+
+装上了“式音岛神隐”！
+
+假装成“式音岛神隐”！"

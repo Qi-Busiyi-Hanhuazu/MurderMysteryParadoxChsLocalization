@@ -1,0 +1,71 @@
+"source","target","id","developer_comments"
+"balloon#362977c852229f75bc75686fd16df2be","那么，就由[emb exp='tf.names.NPC.me']来说吧。","balloon#362977c852229f75bc75686fd16df2be","机翻辅助：
+
+那么，就由[emb exp='tf.names.NPC.me']来说吧。
+
+那么，[emb exp='tf.names.NPC.me']来谈谈。
+
+那么，[emb exp='tf.names.NPC.me']来说吧。"
+"balloon#3dadcbd5c7dc6a69f86ebb0b52203f33","我想大家应该也有同样的心情，但还是在这里说吧。","balloon#3dadcbd5c7dc6a69f86ebb0b52203f33","机翻辅助：
+
+我想大家应该也有同样的心情，但还是在这里说吧。
+
+我想大家也是同样的心情，不过，硬要在这里说吧。
+
+我想大家也有同样的心情，但在这里还是说出来吧。"
+"balloon#c028e8084e2546b22e9a1e39ef59e3b1","在以和平为傲的本校里，一名小女孩消失了。","balloon#c028e8084e2546b22e9a1e39ef59e3b1","机翻辅助：
+
+在以和平为傲的本校里，一名小女孩消失了。
+
+在以和平为傲的我校，一个小女孩消失了。
+
+在以和平为荣的我校，一个小女孩消失了。"
+"balloon#67bff9a11728f4b90de5253135230ef9","在这样的日子，偷偷入侵学校，被赶走后，又再次入侵……","balloon#67bff9a11728f4b90de5253135230ef9","机翻辅助：
+
+在这样的日子，偷偷入侵学校，被赶走后，又再次入侵……
+
+在那样的日子里，偷偷地潜入学校，被赶回来，又潜入……
+
+就在这一天，他偷偷地闯进学校，被赶回学校，又闯进了学校……"
+"balloon#76cba775481afe563be86c0149fbc20e","还有身份不明的神秘少年。","balloon#76cba775481afe563be86c0149fbc20e","机翻辅助：
+
+还有身份不明的神秘少年。
+
+有一个身份不明的神秘少年。"
+"balloon#ec73d5a6c11d28dcd169b419a4cb7278","[font color=@3][emb exp='tf.names.NPC.itsuki']很可疑[resetfont]，太可疑了！","balloon#ec73d5a6c11d28dcd169b419a4cb7278","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.itsuki']很可疑[resetfont]，太可疑了！
+
+[font color=@3][emb exp='tf.names.NPC.itsuki']很奇怪[resetfont]，太奇怪了！"
+"balloon#db9d0351302923b248513210470d9ed1","你能否定吗？","balloon#db9d0351302923b248513210470d9ed1","机翻辅助：
+
+你能否定吗？
+
+可以否定吗？"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#d6cb8fc4ed9ded2b44a8316b6f29ac85","<font color='@3'>${itsuki_p.NPC}的嫌疑</font>${itsuki_p.me}的主张是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#d6cb8fc4ed9ded2b44a8316b6f29ac85","机翻辅助：
+
+<font color='@3'>${itsuki_p.NPC}的嫌疑</font>${itsuki_p.me}的主张是……
+
+<font color='@3'>对于${itsuki_p.NPC}的怀疑</font>，${itsuki_p.me}的主张是……
+
+<font color='@3'>对于${itsuki_p.NPC}的疑问，${itsuki_p.me}的主张是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c046a48825cb40095c5b27d9ad70943f","提出根据加以否定","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c046a48825cb40095c5b27d9ad70943f","机翻辅助：
+
+提出根据加以否定
+
+作证否认"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#2ff6cf27a537c1f39377bebdb72b3fa8","默默承认主张","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#2ff6cf27a537c1f39377bebdb72b3fa8","机翻辅助：
+
+默默承认主张
+
+默默地承认主张"
+"SET_FOOTER_HELP_TEXT/text#5f5796667cbb8243d3773fd3856b8386","如果能回答疑问，让对方接受您的推理，就能获得对方的信任。","SET_FOOTER_HELP_TEXT/text#5f5796667cbb8243d3773fd3856b8386","机翻辅助：
+
+如果能回答疑问，让对方接受您的推理，就能获得对方的信任。
+
+回答疑问，让对方接受，就能获得信任。
+
+回答疑问，如果能让对方接受的话就能获得信用。"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""

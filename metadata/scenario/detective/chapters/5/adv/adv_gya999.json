@@ -1,0 +1,282 @@
+[
+  {
+    "start": 152,
+    "end": 158,
+    "key": "jname#33408afff40f60714951f679776776e9"
+  },
+  {
+    "start": 213,
+    "end": 218,
+    "key": "jname#02cba00c6b5e37cfe1ce468caab7d5ac"
+  },
+  {
+    "start": 288,
+    "end": 318,
+    "key": "text#fc3ddeccdad3b678475e1ff6c36b88a5"
+  },
+  {
+    "start": 323,
+    "end": 336,
+    "key": "text#5e87453a23188c4595932117df2e10a5"
+  },
+  {
+    "start": 341,
+    "end": 369,
+    "key": "text#31585f3a320a5b77ec00c3291d44123d"
+  },
+  {
+    "start": 374,
+    "end": 401,
+    "key": "text#c8de2d80c0bb4c8eea74ac48315d8b9f"
+  },
+  {
+    "start": 406,
+    "end": 429,
+    "key": "text#6cd13fb95111cf1d653c671510050096"
+  },
+  {
+    "start": 627,
+    "end": 635,
+    "key": "text#3f96e45a0a00ad7bc6b1ffc5681d574d"
+  },
+  {
+    "start": 732,
+    "end": 746,
+    "key": "text#f3672dc894010de63ead887da2b27770"
+  },
+  {
+    "start": 774,
+    "end": 804,
+    "key": "text#bc293c800f8b59a8e6f02f7d1e3dafd5"
+  },
+  {
+    "start": 809,
+    "end": 856,
+    "key": "text#42eba2c9811024476f746d4f653974f4"
+  },
+  {
+    "start": 898,
+    "end": 932,
+    "key": "text#0cdc4ee80d2b40b45613354a666ba7c9"
+  },
+  {
+    "start": 1017,
+    "end": 1023,
+    "key": "text#0aad330daf2a5c905f0cb922083ae4e7"
+  },
+  {
+    "start": 1125,
+    "end": 1143,
+    "key": "text#d517f51f8f731dc46cc16d6029f3c40f"
+  },
+  {
+    "start": 1217,
+    "end": 1312,
+    "key": "text#486fc0c0eafac033b5ecca949badf50b"
+  },
+  {
+    "start": 1354,
+    "end": 1372,
+    "key": "text#48b1c59fae73034df519a874c88fd700"
+  },
+  {
+    "start": 1377,
+    "end": 1408,
+    "key": "text#88ea43591e7ead4b2db96c4639691f97"
+  },
+  {
+    "start": 1413,
+    "end": 1444,
+    "key": "text#e92d82fab680f9ade6aba102e4903215"
+  },
+  {
+    "start": 1449,
+    "end": 1482,
+    "key": "text#241312dc68276c0f21f83be50cce8173"
+  },
+  {
+    "start": 1566,
+    "end": 1572,
+    "key": "text#ab97e8589ee01287d70fca8d20289d77"
+  },
+  {
+    "start": 1673,
+    "end": 1684,
+    "key": "text#861b6ad9c9376d21207cc17a47e50cef"
+  },
+  {
+    "start": 1768,
+    "end": 1857,
+    "key": "text#159361027de92de069e8b02193d793de"
+  },
+  {
+    "start": 1888,
+    "end": 1897,
+    "key": "text#25d96ab6e05200fa993ee7bff1895bc8"
+  },
+  {
+    "start": 1995,
+    "end": 2012,
+    "key": "text#0053da125914683c083946ab9a8f36c9"
+  },
+  {
+    "start": 2094,
+    "end": 2116,
+    "key": "text#b3af8a02d706aec859f7252573b5b01c"
+  },
+  {
+    "start": 2169,
+    "end": 2202,
+    "key": "text#178b9f58b58109fdbdfc6ef664210997"
+  },
+  {
+    "start": 2257,
+    "end": 2275,
+    "key": "text#192bd934940f936a45ecc443a1cab84d"
+  },
+  {
+    "start": 2330,
+    "end": 2350,
+    "key": "text#1d446255274fe95ecb20f8e22285e4a1"
+  },
+  {
+    "start": 2408,
+    "end": 2485,
+    "key": "text#a3bbcbd21685018a47a9b6bf54603fe0"
+  },
+  {
+    "start": 2513,
+    "end": 2526,
+    "key": "text#f3a3c71dc0ba4143bf045fd14c1a6674"
+  },
+  {
+    "start": 2531,
+    "end": 2566,
+    "key": "text#5184fdcc84e88909acaca8e74f4b5eaa"
+  },
+  {
+    "start": 2571,
+    "end": 2599,
+    "key": "text#3cb090fcfee813f0c9bce07490639df1"
+  },
+  {
+    "start": 2604,
+    "end": 2629,
+    "key": "text#f8932284fe120c30ddd8b69f57a74df7"
+  },
+  {
+    "start": 2712,
+    "end": 2721,
+    "key": "text#923c31d7e88f8bf2893cf111468970ee"
+  },
+  {
+    "start": 2820,
+    "end": 2828,
+    "key": "text#33d7f3c7042210fcd812758877b04790"
+  },
+  {
+    "start": 2863,
+    "end": 2881,
+    "key": "text#58059237f31c663a76bebb990c7331a4"
+  },
+  {
+    "start": 2941,
+    "end": 2960,
+    "key": "text#733cafb75fbb9e41d183c8d6c6dfff1f"
+  },
+  {
+    "start": 3013,
+    "end": 3029,
+    "key": "text#7dde788b3db2225515a6734ceb265ad8"
+  },
+  {
+    "start": 3034,
+    "end": 3055,
+    "key": "text#718d3dc04d1fc0adc2d8c0d6b0e03c8d"
+  },
+  {
+    "start": 3152,
+    "end": 3163,
+    "key": "text#b6f397a62cd4523a45556ed0d80b92c2"
+  },
+  {
+    "start": 3233,
+    "end": 3246,
+    "key": "text#b1406dda1129d6cd48b90a0e498003f4"
+  },
+  {
+    "start": 3274,
+    "end": 3293,
+    "key": "text#db0b78bc8ae5dde4350c0098e18e2cb5"
+  },
+  {
+    "start": 3298,
+    "end": 3359,
+    "key": "text#d6358c7f42ba1bc6247375620580b484"
+  },
+  {
+    "start": 3364,
+    "end": 3380,
+    "key": "text#f29b41d1560c7ced05a5b10b5874a17d"
+  },
+  {
+    "start": 3658,
+    "end": 3669,
+    "key": "SELECT_GLINK/text#33432fa517d59b4fffbdd5bde6520eac"
+  },
+  {
+    "start": 3721,
+    "end": 3735,
+    "key": "SELECT_GLINK/text#bb46c7d79ee8266a3dffc8f7cd56d3cb"
+  },
+  {
+    "start": 3858,
+    "end": 3889,
+    "key": "text#36758385876874f912ae9c389a3df467"
+  },
+  {
+    "start": 3972,
+    "end": 4040,
+    "key": "text#8bfb06c66309737a2b8acc54f57d3fab"
+  },
+  {
+    "start": 4082,
+    "end": 4089,
+    "key": "text#b89a37536b5252912f3719bdf53c346d"
+  },
+  {
+    "start": 4220,
+    "end": 4251,
+    "key": "text#44b0f46ecef80466ef2a36574d998e86"
+  },
+  {
+    "start": 4351,
+    "end": 4375,
+    "key": "text#e73129336a2e44b98c19d581083bb4f7"
+  },
+  {
+    "start": 4445,
+    "end": 4536,
+    "key": "text#4c5157963d014dbc402b12971aa583d9"
+  },
+  {
+    "start": 4578,
+    "end": 4605,
+    "key": "text#ae66dcdc2d1623fa981e52eb9017ab17"
+  },
+  {
+    "start": 4727,
+    "end": 4742,
+    "key": "text#c025d69ca5b8b2a095c866ce3a9b58cc"
+  },
+  {
+    "start": 4747,
+    "end": 4769,
+    "key": "text#50917d56233de2234fee6fb5a59739d7"
+  },
+  {
+    "start": 4801,
+    "end": 4878,
+    "key": "text#96590cae3fdf6253a85ae3e78fb9d5e1"
+  }
+]

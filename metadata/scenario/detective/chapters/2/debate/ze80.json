@@ -1,0 +1,42 @@
+[
+  {
+    "start": 165,
+    "end": 203,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_text#5183bc91dcfd92d2e017fdc54abaa255"
+  },
+  {
+    "start": 247,
+    "end": 259,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3"
+  },
+  {
+    "start": 333,
+    "end": 348,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a"
+  },
+  {
+    "start": 1580,
+    "end": 1582,
+    "key": "javascript#4a622f127baeae041b4eef6a8884069f"
+  },
+  {
+    "start": 1733,
+    "end": 1744,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_text#b6beb8bc2a684ed865946da58f48f6af"
+  },
+  {
+    "start": 2857,
+    "end": 2871,
+    "key": "javascript#38cffef722128b383d2b128bd40a8223"
+  },
+  {
+    "start": 3241,
+    "end": 3266,
+    "key": "SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e"
+  },
+  {
+    "start": 3426,
+    "end": 3518,
+    "key": "message10#5ffc142d70a4b2964c2ec3767f08e00c"
+  }
+]

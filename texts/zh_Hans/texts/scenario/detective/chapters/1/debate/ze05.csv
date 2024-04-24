@@ -1,0 +1,46 @@
+"source","target","id","developer_comments"
+"balloon#aad36434a853c4ed03213ef3a554c295","那么，可以听[emb exp='tf.names.NPC.me']说吗？","balloon#aad36434a853c4ed03213ef3a554c295","机翻辅助：
+
+那么，可以听[emb exp='tf.names.NPC.me']说吗？
+
+那么，可以听听[emb exp='tf.names.NPC.me']的话吗？"
+"balloon#9e0106b11998196d96d7aefb894c7d93","身为警察的[emb exp='tf.names.NPC.me']，不会在这里把谁抓起来。","balloon#9e0106b11998196d96d7aefb894c7d93","机翻辅助：
+
+身为警察的[emb exp='tf.names.NPC.me']，不会在这里把谁抓起来。
+
+作为警察的[emb exp='tf.names.NPC.me']，不会在这里吊起谁。
+
+作为警察，[emb exp='tf.names.NPC.me']不会在这里把谁吊起来。"
+"balloon#56f307cab62d7b7e82f64da9729630f8","所以，我想说的只有这些。","balloon#56f307cab62d7b7e82f64da9729630f8","机翻辅助：
+
+所以，我想说的只有这些。"
+"balloon#80fb750201265cce03d4c3fa8eb02f27","[emb exp='tf.names.NPC.me']敢断言，我[font color=@3]绝对不是犯人[resetfont]。","balloon#80fb750201265cce03d4c3fa8eb02f27","机翻辅助：
+
+[emb exp='tf.names.NPC.me']敢断言，我[font color=@3]绝对不是犯人[resetfont]。
+
+[emb exp='tf.names.NPC.me']可以断言，我绝对不是凶手。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']可以断言绝对不是犯人。[font color=@3][resetfont]"
+"balloon#b8157c2ffc2bdf4edb6efcfefe5ed468","对吧，[emb exp='tf.names.NPC.kumiko']。","balloon#b8157c2ffc2bdf4edb6efcfefe5ed468","机翻辅助：
+
+对吧，[emb exp='tf.names.NPC.kumiko']。
+
+是啊，[emb exp='tf.names.NPC.kumiko']。"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#fa5290971b59c113ce327b3d60123ecd","关于<font color='@3'>${itsuki.NPC}</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#fa5290971b59c113ce327b3d60123ecd","机翻辅助：
+
+<font color='@3'>${itsuki.me}对${itsuki.NPC}</font>的想法是……
+
+<font color='@3'>对${itsuki.NPC}</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.NPC}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#a8bf4a1c580a843d37a37bc5a2de4a7b","${itsuki.NPC}是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#a8bf4a1c580a843d37a37bc5a2de4a7b","机翻辅助：
+
+${itsuki.NPC}是犯人！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#ff9389270dd2291232cbd5b94e5fa2c9","${itsuki.NPC}不是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#ff9389270dd2291232cbd5b94e5fa2c9","机翻辅助：
+
+${itsuki.NPC}不是犯人！
+
+${itsuki.NPC}不是凶手！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#16dc4bf4bce6f21bee0d56c5af2f55d8","${itsuki.NPC}和${itsuki_p.kumiko}是共犯！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#16dc4bf4bce6f21bee0d56c5af2f55d8","机翻辅助：
+
+${itsuki.NPC}和${itsuki_p.kumiko}是共犯！"

@@ -1,0 +1,14 @@
+"source","target","id","developer_comments"
+"balloon#124e98a19080e0ded97c0f65b734dd20","そして今回の事件、[emb exp='tf.names.itsuki.me']が伝えるべきは犯人ではない。","balloon#124e98a19080e0ded97c0f65b734dd20","主人公"
+"balloon#34a8ae50c0f8188d24d046fa819b2eb6","それは……","balloon#34a8ae50c0f8188d24d046fa819b2eb6","主人公"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#1bbabfc20e5f6ed851f03ab898c3cb5b","<font color='@3'>${itsuki.chiyo}</font>には……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#1bbabfc20e5f6ed851f03ab898c3cb5b",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c0f4f901b29356b42f7540114600280f","この中に協力者がいたんだ！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c0f4f901b29356b42f7540114600280f",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","わからないから、黙っておこう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a",""
+"javascript#4a622f127baeae041b4eef6a8884069f","戻る","javascript#4a622f127baeae041b4eef6a8884069f",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#f589e34f24c33a1715b41375f10765ff","${itsuki.chiyo}の協力者、それは……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#f589e34f24c33a1715b41375f10765ff",""
+"javascript#38cffef722128b383d2b128bd40a8223","{0}が犯人という根拠を……","javascript#38cffef722128b383d2b128bd40a8223",""
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","犯人と納得させられるができる、推理を考えましょう。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e",""
+"message10#2f6986ab07f689b62187cb1240748219","千世の協力者が、
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+という推理を全員の前で披露した。","message10#2f6986ab07f689b62187cb1240748219",""
+"speaker_主人公","主人公","speaker_主人公",""

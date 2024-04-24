@@ -1,0 +1,137 @@
+"source","target","id","developer_comments"
+"balloon#17a654d4cae4312fa0a45ef6070a9816","……就是这样，你来了呢。","balloon#17a654d4cae4312fa0a45ef6070a9816","机翻辅助：
+
+……就是这样，你来了呢。
+
+……所以来了。
+
+……所以，来了。"
+"balloon#b02911ed10aaac525b5fc8873a96d7e0","你刚才好像很怀疑[emb exp='tf.names.NPC.me']……","balloon#b02911ed10aaac525b5fc8873a96d7e0","机翻辅助：
+
+你刚才好像很怀疑[emb exp='tf.names.NPC.me']……
+
+刚才你好像很怀疑[emb exp='tf.names.NPC.me']……"
+"balloon#fcf185d6ee5d953b1cf2c96b7a51d25d","但犯人是[emb exp='tf.names.NPC.itsuki']吧？","balloon#fcf185d6ee5d953b1cf2c96b7a51d25d","机翻辅助：
+
+但犯人是[emb exp='tf.names.NPC.itsuki']吧？
+
+[emb exp='tf.names.NPC.itsuki']是犯人吧？
+
+[emb exp='tf.names.NPC.itsuki']是凶手吧？"
+"balloon#a5e93c0c22114624c4c4b9aa02928737","来，我陪你一起去警察叔叔那边吧。","balloon#a5e93c0c22114624c4c4b9aa02928737","机翻辅助：
+
+来，我陪你一起去警察叔叔那边吧。
+
+你看，我跟你一起去找警察。
+
+你看，我和你一起去警察那里。"
+"balloon#f712b9bd0686862ae8ec41a5f2ccaf81","[emb exp='tf.names.itsuki.me']是清白的……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]但是无法证明。","balloon#f712b9bd0686862ae8ec41a5f2ccaf81","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']是清白的……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]但是无法证明。
+
+[emb exp='tf.names.itsuki.me']是清白的……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]可是我没办法证明。
+
+[emb exp='tf.names.itsuki.me']是清白的……但是不能证明。[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#827b4ef1912037be87f87c4f64ef8df0","就算这样，我也不能放弃！","balloon#827b4ef1912037be87f87c4f64ef8df0","机翻辅助：
+
+就算这样，我也不能放弃！
+
+所以，不能放弃！
+
+即便如此，也不能放弃！"
+"SECRET_SELECTION/topic#23458a6bb75dbecb75671b7d0924ed5d","${itsuki.NPC}，${itsuki.me}还没……","SECRET_SELECTION/topic#23458a6bb75dbecb75671b7d0924ed5d","机翻辅助：
+
+${itsuki.NPC}，${itsuki.me}还没……
+
+${itsuki.NPC}，${itsuki.me}还……"
+"SECRET_SELECTION/text1#72ce63d61f9052094b527163198b8e22","我想调查西装的事！","SECRET_SELECTION/text1#72ce63d61f9052094b527163198b8e22","机翻辅助：
+
+我想调查西装的事！
+
+想调查西装的事！
+
+想调查西服的事！"
+"SECRET_SELECTION/text2#24d9fea6394b95788f54ec3aa236c076","我想调查${itsuki.NPC}！","SECRET_SELECTION/text2#24d9fea6394b95788f54ec3aa236c076","机翻辅助：
+
+我想调查${itsuki.NPC}！
+
+想调查${itsuki.NPC}的事！"
+"SECRET_SELECTION/text3#1b6f115e6247907b86eda0252e4220eb","我想调查船只的往来！","SECRET_SELECTION/text3#1b6f115e6247907b86eda0252e4220eb","机翻辅助：
+
+我想调查船只的往来！
+
+想调查船的往来！"
+"balloon#4da7620bd0d3ea73143f6d7c9b9cd40f","西装？？","balloon#4da7620bd0d3ea73143f6d7c9b9cd40f","机翻辅助：
+
+西装？？
+
+西装啊？？"
+"balloon#16cf65924a24f2ab1940ff464d669dcd","[emb exp='tf.names.NPC.me']是犯人？？？","balloon#16cf65924a24f2ab1940ff464d669dcd","机翻辅助：
+
+[emb exp='tf.names.NPC.me']是犯人？？？
+
+[emb exp='tf.names.NPC.me']，是吗？？
+
+[emb exp='tf.names.NPC.me']？？"
+"balloon#86a36fab4c8fd3585a7423786e14b669","船只往来？？","balloon#86a36fab4c8fd3585a7423786e14b669","机翻辅助：
+
+船只往来？？
+
+船的往来啊？？
+
+船来船往啊？？"
+"balloon#fa456313c1a3edd4ca29afc4ee2bbf6f","怎么还在说这种话？","balloon#fa456313c1a3edd4ca29afc4ee2bbf6f","机翻辅助：
+
+怎么还在说这种话？
+
+你还说那样的话吗？
+
+你还在说这种话吗？"
+"balloon#b83284b9782e63d04899655ef050e664","这是无谓的挣扎哦，[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]扎·[l]挣！[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]","balloon#b83284b9782e63d04899655ef050e664","机翻辅助：
+
+这是无谓的挣扎哦，[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]扎·[l]挣！[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]
+
+没用的挣扎啊，[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]啊[l][l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]啊！
+
+这是徒劳的挣扎，[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]啊···加···切！[l][l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]"
+"balloon#3e881438a8a32d682a33f5f982de290c","哈哈哈，绕了一圈后又笑起来了！","balloon#3e881438a8a32d682a33f5f982de290c","机翻辅助：
+
+哈哈哈，绕了一圈后又笑起来了！
+
+哈哈，已经绕了一圈笑了呢！
+
+哈哈，我又笑了一圈呢！"
+"balloon#9fd936d39a36884955a74b383b841d20","算了，也罢。","balloon#9fd936d39a36884955a74b383b841d20","机翻辅助：
+
+算了，也罢。
+
+嗯，好吧。"
+"balloon#e5c5d8a5b0eebb645d8d2894122f994c","如果你想去警察那边，我随时都可以帮忙。","balloon#e5c5d8a5b0eebb645d8d2894122f994c","机翻辅助：
+
+如果你想去警察那边，我随时都可以帮忙。
+
+如果想去警察那里的话，随时都会帮忙的。
+
+如果你想去找警察，我随时都可以帮你。"
+"balloon#3ecb9e32dc2123f998c3b528d849213c","呜呜，虽然很不甘心，但现在我无话可说。","balloon#3ecb9e32dc2123f998c3b528d849213c","机翻辅助：
+
+呜呜，虽然很不甘心，但现在我无话可说。
+
+嗯，虽然很不甘心，但是现在连回答的话都没有。
+
+嗯，虽然很懊悔，但现在无言以对。"
+"balloon#dd54805ffdd6cd60313df00fe4e98830","……[emb exp='tf.names.itsuki.me']的不在场证明很难证明。","balloon#dd54805ffdd6cd60313df00fe4e98830","机翻辅助：
+
+……[emb exp='tf.names.itsuki.me']的不在场证明很难证明。
+
+……[emb exp='tf.names.itsuki.me']的不在场证明，很难证明。
+
+……很难证明[emb exp='tf.names.itsuki.me']的不在场证明。"
+"balloon#904b2d210f5e34e7926c8cdd917f403d","所以找出犯人，就是[emb exp='tf.names.itsuki.me']现在能做的事！","balloon#904b2d210f5e34e7926c8cdd917f403d","机翻辅助：
+
+所以找出犯人，就是[emb exp='tf.names.itsuki.me']现在能做的事！
+
+正因为如此，找出犯人，是现在的[emb exp='tf.names.itsuki.me']能做的事！
+
+正因为如此，找出犯人是[emb exp='tf.names.itsuki.me']现在能做的事！"
+"speaker_主人公","主人公","speaker_主人公",""

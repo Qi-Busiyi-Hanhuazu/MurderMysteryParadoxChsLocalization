@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#9c3044cc179aac0cda5f276ce414a962","そう、うちのかくれんぼでは帽子を鬼の目印に使うんだ。","balloon#9c3044cc179aac0cda5f276ce414a962","NPC"
+"balloon#c486e84ad0762681bbdb60faf4870b52","いつも[emb exp='tf.names.NPC.utaha']の帽子を借りてね。","balloon#c486e84ad0762681bbdb60faf4870b52","NPC"
+"balloon#f81762f81f93e35273e7b879e0792f0c","でも、[emb exp='tf.names.NPC.me']は帽子があまり好きじゃないんだ。","balloon#f81762f81f93e35273e7b879e0792f0c","NPC"
+"balloon#d28e09551bec9a1e35ab5c72f079fea0","その……[l][chara_mod time=""@f1"" name=""NPC"" face=""worry""]似合わないから。","balloon#d28e09551bec9a1e35ab5c72f079fea0","NPC"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……。","balloon#9c1a2d238dba9a227727e6958e4f48f5","NPC"
+"balloon#ba7d114eeede31992a903d9d7a1ec1a8","[emb exp='tf.names.itsuki.iroha']に教わったこのルールに、間違いはないみたいだ。","balloon#ba7d114eeede31992a903d9d7a1ec1a8","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

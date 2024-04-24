@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#0576cbf373adea21e49bef6c558dac7f","学校に侵入した不審者である[emb exp='tf.names.NPC.itsuki']を、[emb exp='tf.names.NPC.yuuki']が校門まで連れ出していったと……。","balloon#0576cbf373adea21e49bef6c558dac7f","NPC"
+"balloon#c13048f6acfd3c8b40dc1b8a60f62661","念のため伺いますが……","balloon#c13048f6acfd3c8b40dc1b8a60f62661","NPC"
+"balloon#bb98798d04e0e1fdb42d5ea653dfcb7c","何か彼女に危害など加えてませんよね？","balloon#bb98798d04e0e1fdb42d5ea653dfcb7c","NPC"
+"balloon#a9d610db77748b1095105d8e805054a4","は、はい！","balloon#a9d610db77748b1095105d8e805054a4","主人公"
+"balloon#8bc14743fb91f266d52efd3b284335db","おとなしく連れ出されました！","balloon#8bc14743fb91f266d52efd3b284335db","主人公"
+"balloon#6b022b5ad7a08a4605ba94cdc0dd49a0","なんだろう、いま[emb exp='tf.names.itsuki_p.NPC']から凄みのようなものを感じたような……。","balloon#6b022b5ad7a08a4605ba94cdc0dd49a0","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

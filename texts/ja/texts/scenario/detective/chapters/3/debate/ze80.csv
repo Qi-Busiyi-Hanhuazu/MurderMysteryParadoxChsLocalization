@@ -1,0 +1,11 @@
+"source","target","id","developer_comments"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#4dee4dfc77d95c39684a747549939771","<font color='@3'>二つの事件の犯人</font>が誰なのか……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#4dee4dfc77d95c39684a747549939771",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","わかったから、伝えよう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","わからないから、黙っておこう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a",""
+"javascript#4a622f127baeae041b4eef6a8884069f","戻る","javascript#4a622f127baeae041b4eef6a8884069f",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#75705f933b4aceadf9adf0dd461f6dd0","二つの事件の犯人、それは……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#75705f933b4aceadf9adf0dd461f6dd0",""
+"javascript#38cffef722128b383d2b128bd40a8223","{0}が犯人という根拠を……","javascript#38cffef722128b383d2b128bd40a8223",""
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","犯人と納得させられるができる、推理を考えましょう。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e",""
+"message10#71f9fbda7251b6e42fc04db515c58dc0","樹は二つの事件の犯人が、
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+という推理を全員の前で披露した。","message10#71f9fbda7251b6e42fc04db515c58dc0",""

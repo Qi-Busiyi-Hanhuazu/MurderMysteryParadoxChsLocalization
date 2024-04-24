@@ -1,0 +1,130 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#015a85f12d5d65a193fd42bb61b702aa","原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！","balloon#015a85f12d5d65a193fd42bb61b702aa","机翻辅助：
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这个推理[font color=@3]我[resetfont]可以接受！
+
+原来如此，这个推理是可以理解的！[font color=@3][resetfont]"
+"balloon#a093984d9e2110e4c942b42237ad76fa","[emb exp='tf.names.NPC.chiyo']画下“神隐之印”的时间，从13:30到13:48……","balloon#a093984d9e2110e4c942b42237ad76fa","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']画下“神隐之印”的时间，从13:30到13:48……
+
+[emb exp='tf.names.NPC.chiyo']画了“神隐之印”，13:30到13:48之间……
+
+大概是[emb exp='tf.names.NPC.chiyo']画了“神隐之印”的13:30到13:48之间……"
+"balloon#eaac02b62043f7b1a5086a5750580869","有人出入了厨房和玄关。","balloon#eaac02b62043f7b1a5086a5750580869","机翻辅助：
+
+有人出入了厨房和玄关。
+
+有人进出了厨房和玄关。
+
+有人出入过厨房和玄关。"
+"balloon#3cbb68548eacec9a3d06306f4bbb4cd9","也就是说……","balloon#3cbb68548eacec9a3d06306f4bbb4cd9","机翻辅助：
+
+也就是说……"
+"balloon#fb0f7b8df665d26e3666d9c48f6a206d","[font color=@3][emb exp='tf.names.NPC.makino']把“神隐之印”从厨房移动到了玄关前[resetfont]！","balloon#fb0f7b8df665d26e3666d9c48f6a206d","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.makino']把“神隐之印”从厨房移动到了玄关前[resetfont]！
+
+[font color=@3][emb exp='tf.names.NPC.makino']把“神隐之印”从厨房搬到了玄关前！[resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.makino']把“神隐的记号”从厨房搬到了大门前。[resetfont]"
+"balloon#9ca74a1d01d3a89226c1025859273cf7","没错，[font color=@3]只有[emb exp='tf.names.itsuki.makino']能移动“神隐之印”[resetfont]。","balloon#9ca74a1d01d3a89226c1025859273cf7","机翻辅助：
+
+没错，[font color=@3]只有[emb exp='tf.names.itsuki.makino']能移动“神隐之印”[resetfont]。
+
+是的，只有[emb exp='tf.names.itsuki.makino']才能携带[font color=@3]神隐之印[resetfont]。
+
+没错，只有[emb exp='tf.names.itsuki.makino']能搬运[font color=@3]神隐之印[resetfont]。"
+"balloon#ada7becaf2934e547a0eb2499da01873","[emb exp='tf.names.NPC.itsuki']，你真的好厉害啊！","balloon#ada7becaf2934e547a0eb2499da01873","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你真的好厉害啊！
+
+[emb exp='tf.names.NPC.itsuki']，你真是太厉害了！
+
+[emb exp='tf.names.NPC.itsuki']，你真厉害！"
+"balloon#99a634549b0887bb9162d6aeac1092eb","哈哈……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]你太夸张了，[emb exp='tf.names.itsuki.NPC']。","balloon#99a634549b0887bb9162d6aeac1092eb","机翻辅助：
+
+哈哈……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]你太夸张了，[emb exp='tf.names.itsuki.NPC']。
+
+哈哈……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]太夸张了，[emb exp='tf.names.itsuki.NPC']。"
+"balloon#4e2c2a94dcb0dd83502c23a0b427885e","不愧是我的伙伴！","balloon#4e2c2a94dcb0dd83502c23a0b427885e","机翻辅助：
+
+不愧是我的伙伴！
+
+不愧是伙伴！
+
+真厉害，伙计！"
+"balloon#81e87587e27d541c0297678ccbdd7a8a","真的吗？","balloon#81e87587e27d541c0297678ccbdd7a8a","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……","balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……
+
+[emb exp='tf.names.NPC.me']觉得有点不一样……[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不一样……[resetfont]"
+"balloon#a89e33dfa597cde8941b7196ed123a40","嗯～～[emb exp='tf.names.NPC.me'][font color=@3]觉得你的推理完全错误[resetfont]就是了……","balloon#a89e33dfa597cde8941b7196ed123a40","机翻辅助：
+
+嗯～～[emb exp='tf.names.NPC.me'][font color=@3]觉得你的推理完全错误[resetfont]就是了……
+
+嗯，那个推理[emb exp='tf.names.NPC.me']觉得完全不一样……[font color=@3][resetfont]
+
+嗯，这个推理[emb exp='tf.names.NPC.me']觉得完全不一样……[font color=@3][resetfont]"
+"balloon#ae009158b6bdc782a0fbedd035ca2f00","对不起，我无法回答[emb exp='f.npc_nickname']的疑问……","balloon#ae009158b6bdc782a0fbedd035ca2f00","机翻辅助：
+
+对不起，我无法回答[emb exp='f.npc_nickname']的疑问……
+
+没能回答[emb exp='f.npc_nickname']的疑问，对不起……"
+"balloon#104bd88436c754586ba6ff86d9920f7f","呃，别那么沮丧啦。","balloon#104bd88436c754586ba6ff86d9920f7f","机翻辅助：
+
+呃，别那么沮丧啦。
+
+不、不要那么失落。
+
+不，别那么沮丧。"
+"balloon#86767f5ead5413cae6711d65c3a626da","关于这件事……","balloon#86767f5ead5413cae6711d65c3a626da","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#8f5252226ab49e4182dedab589752fe6","[font color=@3]厨房和玄关，应该调查这两个地方的出入记录。[resetfont]","balloon#8f5252226ab49e4182dedab589752fe6","机翻辅助：
+
+[font color=@3]厨房和玄关，应该调查这两个地方的出入记录。[resetfont]
+
+[font color=@3]应该调查厨房和玄关这两处的出入。[resetfont]
+
+[font color=@3]应该调查厨房和玄关两个地方的出入。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#75cda96cdc247f0af85761e533582c57","[emb exp='tf.names.itsuki.chiyo']画下“神隐之印”之后……","balloon#75cda96cdc247f0af85761e533582c57","机翻辅助：
+
+[emb exp='tf.names.itsuki.chiyo']画下“神隐之印”之后……
+
+自从[emb exp='tf.names.itsuki.chiyo']画了“神隐之印”之后……
+
+[emb exp='tf.names.itsuki.chiyo']画了“神隐之印”之后……"
+"balloon#c122274055f1873057e3af83b9f8d1b2","[font color=@3]重新想想有没有出入厨房和玄关的人物[resetfont]吧。","balloon#c122274055f1873057e3af83b9f8d1b2","机翻辅助：
+
+[font color=@3]重新想想有没有出入厨房和玄关的人物[resetfont]吧。
+
+[font color=@3]让我们重新考虑一下有没有出入厨房和玄关的人。[resetfont]
+
+[font color=@3]是否有出入厨房和玄关的人？[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

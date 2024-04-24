@@ -1,0 +1,60 @@
+"source","target","id","developer_comments"
+"balloon#d59feddc83f86e8a86d090e0f6ca4d4e","呼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]真的好久没有像这样动脑思考，跟人交谈了……","balloon#d59feddc83f86e8a86d090e0f6ca4d4e","机翻辅助：
+
+呼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]真的好久没有像这样动脑思考，跟人交谈了……
+
+哼……像这样动脑、说话，真是久违了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]
+
+像这样用脑子说话，真是好久不见了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#cd1d11236e85573f785806ba05b8b33f","[emb exp='tf.names.itsuki.NPC']！","balloon#cd1d11236e85573f785806ba05b8b33f",""
+"balloon#a3cce71a113c864e9adc0190bb48af88","哎呀，[emb exp='tf.names.NPC.itsuki']，你听到了吗？","balloon#a3cce71a113c864e9adc0190bb48af88","机翻辅助：
+
+哎呀，[emb exp='tf.names.NPC.itsuki']，你听到了吗？
+
+哎呀，[emb exp='tf.names.NPC.itsuki']，你在听啊。
+
+啊，[emb exp='tf.names.NPC.itsuki']，你听到了啊。"
+"balloon#19cecb17a50a7d28e9cf50915030cf87","被别人听到自言自语，好丢脸。","balloon#19cecb17a50a7d28e9cf50915030cf87","机翻辅助：
+
+被别人听到自言自语，好丢脸。
+
+听到你自言自语，真不好意思。"
+"balloon#2eda75be508fe840743d53d29ef22626","只有[emb exp='tf.names.NPC.me']吗？只有我意外地享受着这个[font color=@3]事件[resetfont]。","balloon#2eda75be508fe840743d53d29ef22626","机翻辅助：
+
+只有[emb exp='tf.names.NPC.me']吗？只有我意外地享受着这个[font color=@3]事件[resetfont]。
+
+也许只有[emb exp='tf.names.NPC.me']一个人，意外地享受着这个事件。[font color=@3][resetfont]
+
+只有[emb exp='tf.names.NPC.me']一个人，意外地享受着这个事件。[font color=@3][resetfont]"
+"balloon#a479e8ecf978e289fc9e875b696bf286","我觉得没有这回事！","balloon#a479e8ecf978e289fc9e875b696bf286","机翻辅助：
+
+我觉得没有这回事！
+
+我想没有那样的事！
+
+我觉得没有那种事！"
+"balloon#01ad7942e43e839eba08165e588b906d","[emb exp='tf.names.itsuki.me']也……那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]认真地享受着！","balloon#01ad7942e43e839eba08165e588b906d","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']也……那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]认真地享受着！
+
+[emb exp='tf.names.itsuki.me']也，那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]认真地，享受着！
+
+[emb exp='tf.names.itsuki.me']也……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]很认真，很享受！"
+"balloon#08f0058bda12d8ccebbcc894f1a566be","……是吗，太好了。","balloon#08f0058bda12d8ccebbcc894f1a566be","机翻辅助：
+
+……没错，太好了。
+
+……是吗，太好了。
+
+……是的，太好了。"
+"balloon#00e9f3a411906a6eb8f95824df3b2188","那么，就让我听听[emb exp='tf.names.NPC.itsuki']的故事吧。","balloon#00e9f3a411906a6eb8f95824df3b2188","机翻辅助：
+
+那么，就让我听听[emb exp='tf.names.NPC.itsuki']的故事吧。
+
+那么，让我听听[emb exp='tf.names.NPC.itsuki']的故事吧。
+
+那么，就让我来听听[emb exp='tf.names.NPC.itsuki']的故事吧。"
+"balloon#2bbd8c02e04d62ea218cc766b3013f2f","好的，当然可以！","balloon#2bbd8c02e04d62ea218cc766b3013f2f","机翻辅助：
+
+是的，当然可以！"
+"speaker_主人公","主人公","speaker_主人公",""

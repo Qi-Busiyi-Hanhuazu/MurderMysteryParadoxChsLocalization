@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#035569079c10cfa662d7a8da6dbfc32a","こんなとこに連れ出して、どうしたの？","balloon#035569079c10cfa662d7a8da6dbfc32a","NPC"
+"balloon#faf0f93241174b2bac30038e905c43cb","[emb exp='tf.names.utaha.itsuki']。","balloon#faf0f93241174b2bac30038e905c43cb","NPC"
+"balloon#c320d5bc244e559c0cc1871d38ce6efa","消えたスイカのことで、[emb exp='tf.names.itsuki.utaha']に聞きたいことがあるんだ。","balloon#c320d5bc244e559c0cc1871d38ce6efa","主人公"
+"balloon#965834e342a48a931323a4e2531ac48e","いいけど……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]なにを聞きたいの？","balloon#965834e342a48a931323a4e2531ac48e","NPC"
+"balloon#7d14a3f87647d0817ab073e109e188fe","よし、まずは[emb exp='tf.names.itsuki.utaha']が言いかけていたことを、聞き出してみるか。","balloon#7d14a3f87647d0817ab073e109e188fe","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

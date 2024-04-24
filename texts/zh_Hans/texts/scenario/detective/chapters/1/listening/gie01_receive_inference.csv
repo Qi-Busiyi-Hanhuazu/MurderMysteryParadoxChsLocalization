@@ -1,0 +1,111 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d11127f436042bd2808fa76dce69ccaf","原来如此，这个推理[font color=@3]可以接受[resetfont]！","balloon#d11127f436042bd2808fa76dce69ccaf","机翻辅助：
+
+原来如此，这个推理[font color=@3]可以接受[resetfont]！
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这种推理是可以理解的！[font color=@3][resetfont]"
+"balloon#2435f27e1a0ca054fdd588acebbf8721","从状况来看，[font color=@3]照相馆前的人影，八成就是[emb exp='tf.names.NPC.kamishiro'][resetfont]！","balloon#2435f27e1a0ca054fdd588acebbf8721","机翻辅助：
+
+从状况来看，[font color=@3]照相馆前的人影，八成就是[emb exp='tf.names.NPC.kamishiro'][resetfont]！
+
+在状况上[font color=@3]照相馆前的人影的原形，好象是[emb exp='tf.names.NPC.kamishiro'][resetfont]没错！
+
+从状况来看[font color=@3]照相馆前的人影的真面目，应该是[emb exp='tf.names.NPC.kamishiro'][resetfont]没错吧！"
+"balloon#3a0c96d8b6c22bb86da209c637b982c5","那个时间在照相馆，怎么想都很可疑吧？","balloon#3a0c96d8b6c22bb86da209c637b982c5","机翻辅助：
+
+那个时间在照相馆，怎么想都很可疑吧？
+
+那个时间照相馆，怎么想都可疑哟？
+
+在那个时间去照相馆，怎么想都很可疑吧？"
+"balloon#e4c6c4ba568b55161ea51982669ca624","看样子，犯人可能就是[emb exp='tf.names.NPC.kamishiro']！","balloon#e4c6c4ba568b55161ea51982669ca624","机翻辅助：
+
+看样子，犯人可能就是[emb exp='tf.names.NPC.kamishiro']！
+
+这下，[emb exp='tf.names.NPC.kamishiro']可能就是犯人了！
+
+这么说，[emb exp='tf.names.NPC.kamishiro']可能是凶手！"
+"balloon#8b13e39eb2a820673955b33d0dfdfa72","的确，[emb exp='tf.names.itsuki.kamishiro']的行动很可疑……","balloon#8b13e39eb2a820673955b33d0dfdfa72","机翻辅助：
+
+的确，[emb exp='tf.names.itsuki.kamishiro']的行动很可疑……
+
+的确，[emb exp='tf.names.itsuki.kamishiro']的行动很可疑啊……
+
+确实，[emb exp='tf.names.itsuki.kamishiro']的行动很奇怪啊……"
+"balloon#af9ff15b45ec4795ab201b640047b696","得救了，[emb exp='tf.names.NPC.itsuki']！","balloon#af9ff15b45ec4795ab201b640047b696","机翻辅助：
+
+得救了，[emb exp='tf.names.NPC.itsuki']！"
+"balloon#01d3cc8116c5d52f2a28701c7737e1d8","要是又发生什么事，再麻烦你了！","balloon#01d3cc8116c5d52f2a28701c7737e1d8","机翻辅助：
+
+要是又发生什么事，再麻烦你了！
+
+再有什么事，就拜托你了！
+
+如果还有什么事的话，就拜托你了！"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#14e7c5591d347d54596bfbc6a88a9080","[font color=@3]我觉得你的推理[resetfont]有点不对！","balloon#14e7c5591d347d54596bfbc6a88a9080","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对！
+
+我觉得那个推理有点不一样！[font color=@3][resetfont]
+
+我觉得你的推理有点不对！[font color=@3][resetfont]"
+"balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","[font color=@3]我觉得你的推理[resetfont]完全不对！","balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对！
+
+我觉得那个推理是完全不同的！[font color=@3][resetfont]
+
+我觉得你的推理完全不对！[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#e170c16e2b62b40e2f8f73de898379d8","哦，别在意啦！","balloon#e170c16e2b62b40e2f8f73de898379d8","机翻辅助：
+
+哦，别在意啦！
+
+哦，别在意！
+
+哦，别放在心上！"
+"balloon#7c5713cfddcdfa5c960535cca1cdb824","关于这件事……","balloon#7c5713cfddcdfa5c960535cca1cdb824","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#2c3aa7cda97e953003b0acc517e01ce5","[font color=@3]我想弄清楚目击人影的时间，以及那前后照相馆的人出入[resetfont]。","balloon#2c3aa7cda97e953003b0acc517e01ce5","机翻辅助：
+
+[font color=@3]我想弄清楚目击人影的时间，以及那前后照相馆的人出入[resetfont]。
+
+[font color=@3]要弄清楚看到人影的时间和前后照相馆的人进出[resetfont]。
+
+[font color=@3]我想弄清楚看人影的时间和前后人出入照相馆的时间。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#40e8868a8bcc311ec2ca191192be65f0","[font color=@3][resetfont]12:25左右，照相馆一定有人出入。","balloon#40e8868a8bcc311ec2ca191192be65f0","机翻辅助：
+
+[font color=@3][resetfont]12:25左右，照相馆一定有人出入。
+
+[font color=@3]12:25左右，一定会有出入照相馆的人。[resetfont]
+
+[font color=@3]12:25左右，一定有人出入过照相馆。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,6 @@
+"source","target","id","developer_comments"
+"balloon#40634fe3be78ef24fa7660e3f1b820f6","収れん火災ですか……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""]まさかそんなトリックが仕掛けられていたとは。","balloon#40634fe3be78ef24fa7660e3f1b820f6","NPC"
+"balloon#4a61acfd633048d0fbbc3ac2c0f86be6","それが仕掛けられたのは、[emb exp='tf.names.NPC.kumiko']が火元を発見した時間より前のことですよね。","balloon#4a61acfd633048d0fbbc3ac2c0f86be6","NPC"
+"balloon#165e60bf05f22268aaedab36eecfc831","つまり……。","balloon#165e60bf05f22268aaedab36eecfc831","NPC"
+"balloon#c06399bf645477085e36222f811243f5","そう、収れん火災のトリックによって、犯行時刻とそのアリバイが変わるはずだ。","balloon#c06399bf645477085e36222f811243f5","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

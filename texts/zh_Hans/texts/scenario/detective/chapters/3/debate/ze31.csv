@@ -1,0 +1,63 @@
+"source","target","id","developer_comments"
+"balloon#c5fbc412b446ed3b6efac41af70327f7","[emb exp='tf.names.NPC.me']有件在意的事。","balloon#c5fbc412b446ed3b6efac41af70327f7","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有件在意的事。
+
+[emb exp='tf.names.NPC.me']有件事很在意。
+
+[emb exp='tf.names.NPC.me']有在意的事情。"
+"balloon#0fa628a956a4bdc824158259bc2748a3","大家都知道，[emb exp='tf.names.NPC.me']在山中小屋被袭击了。","balloon#0fa628a956a4bdc824158259bc2748a3","机翻辅助：
+
+大家都知道，[emb exp='tf.names.NPC.me']在山中小屋被袭击了。
+
+大家都知道，[emb exp='tf.names.NPC.me']在山间小屋被袭击了。
+
+如大家所知，[emb exp='tf.names.NPC.me']是在山上的小屋里被袭击的。"
+"balloon#e21f6ac044e84bd0e75ec230de44439f","突然被人从背后殴打……","balloon#e21f6ac044e84bd0e75ec230de44439f","机翻辅助：
+
+突然被人从背后殴打……
+
+突然，从背后被打了……
+
+突然，背后挨了一拳……"
+"balloon#eb064c2bcf54649f175e926b378c22ff","可是，[emb exp='tf.names.NPC.me']不明白自己为什么会被袭击。","balloon#eb064c2bcf54649f175e926b378c22ff","机翻辅助：
+
+可是，[emb exp='tf.names.NPC.me']不明白自己为什么会被袭击。
+
+但是[emb exp='tf.names.NPC.me']不知道为什么会被袭击。"
+"balloon#291b8c1f22ca71150c3ff7aad586087b","[emb exp='tf.names.NPC.me']被袭击的理由是什么？","balloon#291b8c1f22ca71150c3ff7aad586087b","机翻辅助：
+
+[emb exp='tf.names.NPC.me']被袭击的理由是什么？
+
+[emb exp='tf.names.NPC.me']被袭击的理由是什么呢？"
+"balloon#3a2a791dd26ff1bbc3dfe0d8ba082775","[font color=@3]犯人的目标，真的是[emb exp='tf.names.NPC.me'][resetfont]吗？","balloon#3a2a791dd26ff1bbc3dfe0d8ba082775","机翻辅助：
+
+[font color=@3]犯人的目标，真的是[emb exp='tf.names.NPC.me'][resetfont]吗？
+
+[font color=@3]凶手的目标真的是[emb exp='tf.names.NPC.me']吗？[resetfont]
+
+[font color=@3]犯人的目标真的是[emb exp='tf.names.NPC.me']吗。[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#8b12e60d96fb0c16b3648381b48d7295","<font color='@3'>对于${itsuki.NPC}的问题</font>，${itsuki.me}的回答是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#8b12e60d96fb0c16b3648381b48d7295","机翻辅助：
+
+<font color='@3'>对于${itsuki.NPC}的问题</font>，${itsuki.me}的回答是……
+
+<font color='@3'>${itsuki.NPC}的问题</font>${itsuki.me}的回答是……
+
+<font color='@3'>对于${itsuki.NPC}的问题，${itsuki.me}的回答是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#b26cd320c7563fcff6cb6c157fbd3c46","一开始就是盯上${itsuki.NPC}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#b26cd320c7563fcff6cb6c157fbd3c46","机翻辅助：
+
+一开始就是盯上${itsuki.NPC}！
+
+从一开始就瞄准了${itsuki.NPC}！
+
+从一开始就以${itsuki.NPC}为目标！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#265f0af0d0f9256b10064d5fed237c20","盯上${itsuki.tetsuo}和${itsuki.NPC}两个人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#265f0af0d0f9256b10064d5fed237c20","机翻辅助：
+
+盯上${itsuki.tetsuo}和${itsuki.NPC}两个人！
+
+目标是${itsuki.tetsuo}和${itsuki.NPC}两个人！
+
+目标是${itsuki.tetsuo}和${itsuki.NPC}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#82d4b031e56972980e36f242da2a9b81","目标只有${itsuki.tetsuo}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#82d4b031e56972980e36f242da2a9b81","机翻辅助：
+
+目标只有${itsuki.tetsuo}！"

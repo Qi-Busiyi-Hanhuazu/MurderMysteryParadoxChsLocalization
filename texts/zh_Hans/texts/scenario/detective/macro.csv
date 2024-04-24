@@ -1,0 +1,282 @@
+"source","target","id","developer_comments"
+"balloon#19bdc4c1d021302717b47483ced9770f","[emb exp='tf.npc_sysname']对树给予了[font color=@1]极大的信赖[resetfont]。
+（信用度：[emb exp='tf.before_credit']→[emb exp='tf.after_credit']）","balloon#19bdc4c1d021302717b47483ced9770f","机翻辅助：
+
+[emb exp='tf.npc_sysname']对树给予了极大的信赖。[font color=@1][resetfont]信用度：
+→[emb exp='tf.before_credit'][emb exp='tf.after_credit']
+
+[emb exp='tf.npc_sysname']非常信任树。[font color=@1][resetfont]信用度：
+→[emb exp='tf.before_credit'][emb exp='tf.after_credit']
+
+[emb exp='tf.npc_sysname'][font color=@1]非常信任树。[resetfont]（信赖度：
+→[emb exp='tf.before_credit']）[emb exp='tf.after_credit']"
+"balloon#931e9da944d5f9bb08b05cf66889738c","[emb exp='tf.npc_sysname']对树更加[font color=@1]信任[resetfont]了。","balloon#931e9da944d5f9bb08b05cf66889738c","机翻辅助：
+
+[emb exp='tf.npc_sysname']对树更加[font color=@1]信任[resetfont]了。
+
+[emb exp='tf.npc_sysname']对树更加信任了。[font color=@1][resetfont]
+
+[emb exp='tf.npc_sysname']对树更加信任。[font color=@1][resetfont]"
+"balloon#973d11d7a3c9b2093245f56c8aa4f65a","[emb exp='tf.npc_sysname']对树[font color=@1]有点信任[resetfont]了。","balloon#973d11d7a3c9b2093245f56c8aa4f65a","机翻辅助：
+
+[emb exp='tf.npc_sysname']对树[font color=@1]有点信任[resetfont]。
+
+[emb exp='tf.npc_sysname']对树有些信任。[font color=@1][resetfont]
+
+[emb exp='tf.npc_sysname']对树有点信赖。[font color=@1][resetfont]"
+"balloon#fafb6eebcf0aa39eb3e671312639ef29","[emb exp='tf.npc_sysname']对树[font color=@1]有点警戒[resetfont]了。","balloon#fafb6eebcf0aa39eb3e671312639ef29","机翻辅助：
+
+[emb exp='tf.npc_sysname']对树[font color=@1]有点警戒[resetfont]。
+
+[emb exp='tf.npc_sysname']对树有点警惕。[font color=@1][resetfont]
+
+[emb exp='tf.npc_sysname']对树有些警觉。[font color=@1][resetfont]"
+"javascript#7345c661f56da897f04c62f4469089d1","大家对树的信用度上升。","javascript#7345c661f56da897f04c62f4469089d1","机翻辅助：
+
+大家对树的信用度上升。
+
+所有人对树的信用度上升了。
+
+所有人对树的信任度都上升了。"
+"javascript#b7647383b6c3621806560afd1aea0d06","大家对树的信用度下降。","javascript#b7647383b6c3621806560afd1aea0d06","机翻辅助：
+
+大家对树的信用度下降。
+
+所有人对树的信用度下降了。
+
+所有人对树的信任度都下降了。"
+"javascript#c68e304a80c795fa0bbaaabc33833581","距离调查阶段结束还有 ${mist_save.TimeWarning} 分钟","javascript#c68e304a80c795fa0bbaaabc33833581","机翻辅助：
+
+距离调查阶段结束还有${mist_save.TimeWarning}分钟
+
+到调查阶段结束为止，${mist_save.TimeWarning}分
+
+调查阶段结束前，${mist_save.TimeWarning}分钟"
+"balloon#8352b38266c7fedb52cb0529a2e91ace","好，现在来通过[font color=@3]推理[resetfont]解决其他人的疑问吧。","balloon#8352b38266c7fedb52cb0529a2e91ace","机翻辅助：
+
+好，现在来[font color=@3]推理[resetfont]其他人的疑问吧。
+
+好，现在就把别人的疑问[font color=@3]推理[resetfont]解决吧。
+
+好了，现在就推理解决别人的疑问吧。[font color=@3][resetfont]"
+"balloon#7121bd83fd23789f909150e812dc3918","为了得到让[emb exp='tf.names.itsuki.NPC']认同的答案，[font color=@3]再一次推理[resetfont]吧。","balloon#7121bd83fd23789f909150e812dc3918","机翻辅助：
+
+让我来[font color=@3]再一次推理[resetfont]，能得到[emb exp='tf.names.itsuki.NPC']认同的答案。
+
+让[emb exp='tf.names.itsuki.NPC']接受的答案[font color=@3]再一次推理[resetfont]。
+
+[font color=@3]再推理一下能让[emb exp='tf.names.itsuki.NPC']接受的答案。[resetfont]"
+"balloon#c6a275645edee466da6712117948c42e","好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+似乎[font color=@3]有十足的说服力[resetfont]！","balloon#c6a275645edee466da6712117948c42e","机翻辅助：
+
+好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！
+
+好，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]，好像有充分的说服力
+[font color=@3]！[resetfont]
+
+好吧，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]
+[font color=@3][resetfont]似乎有足够的说服力！"
+"balloon#2c7e8b2727eab0b87773bde007fa2a84","看来[emb exp='tf.names.itsuki_p.me']的推理，似乎[font color=@3]缺少了一部分正确的线索[resetfont]……","balloon#2c7e8b2727eab0b87773bde007fa2a84","机翻辅助：
+
+看来[emb exp='tf.names.itsuki_p.me']的推理，[font color=@3]缺少了一部分正确的线索[resetfont]……
+
+看来[emb exp='tf.names.itsuki_p.me']的推理缺少一部分正确的线索……[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki_p.me']的推理似乎缺少了一些正确的线索……[font color=@3][resetfont]"
+"balloon#78ac3ddc71274dfdf1c4bfa64a591821","看来[emb exp='tf.names.itsuki.me']的推理，似乎[font color=@3]完全猜错了[resetfont]……","balloon#78ac3ddc71274dfdf1c4bfa64a591821","机翻辅助：
+
+看来[emb exp='tf.names.itsuki.me']的推理，[font color=@3]完全猜错了[resetfont]……
+
+看来[emb exp='tf.names.itsuki.me']的推理是完全猜错了……[font color=@3][resetfont]
+
+看来[emb exp='tf.names.itsuki.me']的推理完全错了……[font color=@3][resetfont]"
+"balloon#2f958065b025cc29a8f682059fcabe56","对了，首先来[font color=@3]推理[resetfont]已经问出的疑问答案吧。","balloon#2f958065b025cc29a8f682059fcabe56","机翻辅助：
+
+对了，首先来[font color=@3]推理[resetfont]已经问出的疑问答案吧。
+
+对了，首先要推理已经问出的疑问的答案。[font color=@3][resetfont]
+
+对了，首先对已经问出的疑问进行推理。[font color=@3][resetfont]"
+"message10#4734c888c0119d921549643325c07c99","树[font color=@1]赞同[resetfont]了[emb exp='tf.names.NPC.sysname']的主张。","message10#4734c888c0119d921549643325c07c99","机翻辅助：
+
+树[font color=@1]赞同[resetfont][emb exp='tf.names.NPC.sysname']的主张。
+
+树赞同[emb exp='tf.names.NPC.sysname']的主张。[font color=@1][resetfont]
+
+树对[emb exp='tf.names.NPC.sysname']的主张表示赞同。[font color=@1][resetfont]"
+"message10#5f8f0db8721183cc625a6511e63a68f9","树[font color=@1]不赞同[resetfont][emb exp='tf.names.NPC.sysname']的主张。","message10#5f8f0db8721183cc625a6511e63a68f9","机翻辅助：
+
+树[font color=@1]不赞同[resetfont][emb exp='tf.names.NPC.sysname']的主张。
+
+树没有赞同[emb exp='tf.names.NPC.sysname']的主张。[font color=@1][resetfont]
+
+树不赞同[emb exp='tf.names.NPC.sysname']的主张。[font color=@1][resetfont]"
+"message10#26076762d2a989cd17589a83cc0573e2","树[font color=@1]否定[resetfont]了[emb exp='tf.names.NPC.sysname']的主张。","message10#26076762d2a989cd17589a83cc0573e2","机翻辅助：
+
+树[font color=@1]否定[resetfont][emb exp='tf.names.NPC.sysname']的主张。
+
+树否定了[emb exp='tf.names.NPC.sysname']的主张。[font color=@1][resetfont]"
+"message10#46ec3c795023baf839f9f5685101d0b8","树将自己的想法告诉了[emb exp='tf.names.NPC.sysname']。","message10#46ec3c795023baf839f9f5685101d0b8","机翻辅助：
+
+树将自己的想法告诉[emb exp='tf.names.NPC.sysname']。
+
+树把自己的想法告诉了[emb exp='tf.names.NPC.sysname']。
+
+树向[emb exp='tf.names.NPC.sysname']传达了自己的想法。"
+"balloon#b2a2d8000d32e7ce8c7279cbc94d17ac","好，该把[emb exp='tf.names.itsuki.me']的想法告诉大家了。","balloon#b2a2d8000d32e7ce8c7279cbc94d17ac","机翻辅助：
+
+好，该把[emb exp='tf.names.itsuki.me']的想法告诉大家了。
+
+好，该把[emb exp='tf.names.itsuki.me']的想法传达给大家了。
+
+好吧，该[emb exp='tf.names.itsuki.me']把我的想法告诉所有人了。"
+"balloon#31024f2c0bbba6968fdb18c9983f7c3b","恐怕只有这次机会了！","balloon#31024f2c0bbba6968fdb18c9983f7c3b","机翻辅助：
+
+恐怕只有这次机会了！
+
+恐怕只有这一次机会！
+
+机会恐怕只有这一次！"
+"balloon#93b5fbab7013ca43a0c5e470f7df31df","好，把[emb exp='tf.names.itsuki.me']的推理告诉大家吧！","balloon#93b5fbab7013ca43a0c5e470f7df31df","机翻辅助：
+
+好，把[emb exp='tf.names.itsuki.me']的推理告诉大家吧！
+
+好吧，[emb exp='tf.names.itsuki.me']要把我的推理传达给所有人！
+
+好，[emb exp='tf.names.itsuki.me']把我的推理告诉大家！"
+"balloon#ec06304234f95abc751c328f56a97cef","[emb exp='tf.names.itsuki.me']的想法是这样的……","balloon#ec06304234f95abc751c328f56a97cef","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']的想法是这样的……
+
+这就是[emb exp='tf.names.itsuki.me']的想法……
+
+这是[emb exp='tf.names.itsuki.me']的想法……"
+"balloon#914c2173a6c1e0edd04d1ee0c392f1e4","各位觉得如何？","balloon#914c2173a6c1e0edd04d1ee0c392f1e4","机翻辅助：
+
+各位觉得如何？
+
+怎么样？"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#9c131383a549af63132cb169bf24a193","不，这时候还是不要多嘴，保持沉默吧……","balloon#9c131383a549af63132cb169bf24a193","机翻辅助：
+
+不，这时候还是不要多嘴，保持沉默吧……
+
+不，这里不要说多余的话，保持沉默吧……
+
+不，这里就不说多余的话，保持沉默吧……"
+"message10#826b2a409cc26bb25a1e5e68dcfc5d96","树将[emb exp='tf.names.NPC.sysname']的疑问所得到的答案告诉大家。","message10#826b2a409cc26bb25a1e5e68dcfc5d96","机翻辅助：
+
+树将[emb exp='tf.names.NPC.sysname']的疑问所得到的答案告诉大家。
+
+树向所有人传达了对[emb exp='tf.names.NPC.sysname']的疑问的回答。
+
+树把[emb exp='tf.names.NPC.sysname']的疑问的答案，传达给了大家。"
+"balloon#9e25f3e577e550e5fa36fbf035671cb7","没有可以明确否定的根据。","balloon#9e25f3e577e550e5fa36fbf035671cb7","机翻辅助：
+
+我找不到明确的根据否定。
+
+没有可以明确否定的根据。"
+"balloon#cc035d25cd8ea839a49f020dd72edf44","这里就先不回答吧……","balloon#cc035d25cd8ea839a49f020dd72edf44","机翻辅助：
+
+这里就先不回答吧……
+
+这里什么都不回答吧……"
+"message10#5e3fe6e9c365d4c280f66c7f8102d295","- [emb exp='tf.names.NPC.sysname']的主张 -","message10#5e3fe6e9c365d4c280f66c7f8102d295","机翻辅助：
+
+- [emb exp='tf.names.NPC.sysname']的主张 -"
+"balloon#52bd1aea3d13e2db737922d78a0eaaf2","[emb exp='tf.names.itsuki.me']看看自己有几票。","balloon#52bd1aea3d13e2db737922d78a0eaaf2","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']看看自己有几票。
+
+[emb exp='tf.names.itsuki.me']看看我投了多少票。
+
+[emb exp='tf.names.itsuki.me']来看看我投了多少票。"
+"balloon#9e897dde353cf12bea0a99dee35d7fd7","……………………","balloon#9e897dde353cf12bea0a99dee35d7fd7",""
+"balloon#d7c55183407af6183995a5cd8d79664b","[font color=@3][emb exp='f.vote_count']票[resetfont]。","balloon#d7c55183407af6183995a5cd8d79664b","机翻辅助：
+
+[font color=@3][emb exp='f.vote_count']票[resetfont]。
+
+[font color=@3][emb exp='f.vote_count']选票[resetfont]。
+
+[font color=@3][emb exp='f.vote_count']是票[resetfont]。"
+"balloon#7655b4c8a688a19dfedfb07ae867b618","怎、怎么这样……","balloon#7655b4c8a688a19dfedfb07ae867b618","机翻辅助：
+
+怎、怎么这样……
+
+这、这……
+
+啊，这样啊……"
+"balloon#4ccde673f25bfed90336352ffacb937d","看来有人在怀疑我……","balloon#4ccde673f25bfed90336352ffacb937d","机翻辅助：
+
+看来有人在怀疑我……
+
+好像被谁怀疑了……"
+"balloon#24d2571332f07d366c4526a14f7f4873","太好了，没有人怀疑我！","balloon#24d2571332f07d366c4526a14f7f4873","机翻辅助：
+
+太好了，没有人怀疑我！
+
+太好了，谁都不会怀疑的！
+
+太好了，没有被任何人怀疑！"
+"message10#2cfbc90604b371aedd67dabca4c987c4","[emb exp='tf.names.NPC.sysname']投票完毕。","message10#2cfbc90604b371aedd67dabca4c987c4","机翻辅助：
+
+[emb exp='tf.names.NPC.sysname']投票完毕。
+
+[emb exp='tf.names.NPC.sysname']投票结束了。
+
+[emb exp='tf.names.NPC.sysname']投票结束啦。"
+"balloon#b538c35346dc86462970b3646f59b1d2","[emb exp='tf.names.itsuki.NPC']面不改色。","balloon#b538c35346dc86462970b3646f59b1d2","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']面不改色。
+
+[emb exp='tf.names.itsuki.NPC']的脸色一点也没变。"
+"balloon#c248c6591be8b15e3bda55a14984e325","这样的结局，真的是正确的吗……？","balloon#c248c6591be8b15e3bda55a14984e325","机翻辅助：
+
+这样的结局，真的是正确的吗……？
+
+这个结局，真的正确吗……？"
+"balloon#496d99ae95c695c15f5062c0bb9d4c21","[font color=@1]调查结束[resetfont]。","balloon#496d99ae95c695c15f5062c0bb9d4c21","机翻辅助：
+
+[font color=@1]调查结束[resetfont]
+
+[font color=@1]到了调查的尾声[resetfont]。
+
+[font color=@1]调查结束了。[resetfont]"
+"balloon#395985e66785bc7dd4b49e817b6aa97c","结束【调查阶段】，
+进入【集体讨论阶段】吧。","balloon#395985e66785bc7dd4b49e817b6aa97c","机翻辅助：
+
+结束【调查阶段】，
+进入【集体讨论阶段】吧。
+
+结束【调查阶段】，进入
+【集体讨论阶段】吧。
+
+结束【调查阶段】，进入【集体讨论阶段】。"
+"balloon#b8b081c81b82d1c06bd740ab22566e37","所有人都投票完毕了吧。","balloon#b8b081c81b82d1c06bd740ab22566e37","机翻辅助：
+
+所有人都投票完毕了吧。
+
+全体投票都结束了呢。
+
+所有人投票结束了呢。"
+"balloon#272f77f54f0d5e985966cc3323db0fe4","那么，我们按照顺序来唱票吧。","balloon#272f77f54f0d5e985966cc3323db0fe4","机翻辅助：
+
+那么，我们按照顺序来唱票吧。
+
+那么，按顺序数票吧。
+
+那么，让我们按顺序数选票吧。"
+"balloon#221552d36e7e3622cdd953ae7c53b77c","树向嫌疑人们提议进行犯人投票。","balloon#221552d36e7e3622cdd953ae7c53b77c","机翻辅助：
+
+树向嫌疑人们提议进行犯人投票。
+
+树向嫌疑人们提议了犯人投票。
+
+树向嫌疑人们提议对犯人进行投票。"
+"speaker_主人公","主人公","speaker_主人公",""
+"speaker_一ノ瀬 彩葉","一之濑彩叶","speaker_一ノ瀬 彩葉","机翻辅助：
+
+一之濑彩叶"

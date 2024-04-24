@@ -1,0 +1,217 @@
+"source","target","id","developer_comments"
+"balloon#fecdb2c89fe64659750fa7ded5d014fe","嗯——","balloon#fecdb2c89fe64659750fa7ded5d014fe","机翻辅助：
+
+嗯——
+
+嗯。"
+"balloon#45f6162fc4300a9fbecc1e06adf26607","没有啊，这里。","balloon#45f6162fc4300a9fbecc1e06adf26607","机翻辅助：
+
+没有啊，这下。
+
+没有啊，这个。"
+"balloon#42c40060b074fd16f3789ec581624b74","……我知道没有，但没有的是什么？","balloon#42c40060b074fd16f3789ec581624b74","机翻辅助：
+
+……虽然知道没有，但没有的是什么？
+
+……我知道没有，但是没有什么？
+
+……我知道没有，但是没有什么呢？"
+"balloon#fa381dfd95c5f0cafc7c502b8131caea","咦咦！","balloon#fa381dfd95c5f0cafc7c502b8131caea","机翻辅助：
+
+咦咦！
+
+诶！"
+"balloon#90831e4178a41159ef387556dfb3a191","还问是什么，当然是我在找的东西啊。","balloon#90831e4178a41159ef387556dfb3a191","机翻辅助：
+
+还问是什么，当然是我在找的东西啊。
+
+当然，你看，我在找你。
+
+什么嘛，当然是在找啊。"
+"balloon#b8eb5a3f6d6cd18b226ae042fdafd530","我要找出答案！","balloon#b8eb5a3f6d6cd18b226ae042fdafd530","机翻辅助：
+
+我要找出答案！
+
+回答吧！
+
+答案！"
+"balloon#cd7ccc2f4351773f9f9c5173c2c748c7","刚才不是说过了吗？","balloon#cd7ccc2f4351773f9f9c5173c2c748c7","机翻辅助：
+
+刚才不是说过了吗？
+
+刚才不是说了吗？"
+"balloon#f9e430e0e5a15c20b2b8b8f5744e32fb","我很在意[font color=@3]谎言[resetfont]。","balloon#f9e430e0e5a15c20b2b8b8f5744e32fb","机翻辅助：
+
+[font color=@3][resetfont]很在意谎言。
+
+[font color=@3]说是在意谎言[resetfont]。
+
+[font color=@3]他说他很在意谎言。[resetfont]"
+"balloon#7d5be680fb48c590e41d2573e6c697ef","那应该不是掉在房间之类的地方的东西吧……","balloon#7d5be680fb48c590e41d2573e6c697ef","机翻辅助：
+
+那应该不是掉在房间之类的地方的东西吧……
+
+我觉得那不是掉在房间或那附近的东西……
+
+好像不是掉在房间或者附近的东西……"
+"balloon#3dd1ed84cd7e0aadf85d2a647530be15","那怎么可能掉在房间之类的地方嘛！","balloon#3dd1ed84cd7e0aadf85d2a647530be15","机翻辅助：
+
+那怎么可能掉在房间之类的地方嘛！
+
+房间什么的不可能掉在那附近啊！
+
+不可能掉在房间或者附近！"
+"balloon#126a90380d19cfe320f4f52f006a7c88","……啊，[emb exp='tf.names.NPC.itsuki']的脸上写着这些。","balloon#126a90380d19cfe320f4f52f006a7c88","机翻辅助：
+
+……啊，[emb exp='tf.names.NPC.itsuki']的脸上写着这些。
+
+……在[emb exp='tf.names.NPC.itsuki']的脸上写着。
+
+……[emb exp='tf.names.NPC.itsuki']的脸上写着。"
+"balloon#84db969d0dd735890835aa470ef602d8","那种事我当然知道！","balloon#84db969d0dd735890835aa470ef602d8","机翻辅助：
+
+那种事我当然知道！
+
+我知道那样的事！
+
+我知道的！"
+"balloon#a1455a0feb28f2634decb9e92eeee4c2","这就是[emb exp='tf.names.NPC.me']思考时的风格！","balloon#a1455a0feb28f2634decb9e92eeee4c2","机翻辅助：
+
+这就是[emb exp='tf.names.NPC.me']思考时的风格！
+
+这就是[emb exp='tf.names.NPC.me']思考问题时的风格！"
+"balloon#96310db9047b0ff112fc5867b6e070a6","……既然这样，[emb exp='tf.names.NPC.itsuki']找到了吗？[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.me']在找的东西。","balloon#96310db9047b0ff112fc5867b6e070a6","机翻辅助：
+
+……然后，那个[emb exp='tf.names.NPC.itsuki']有找到吗？[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.me']在找的东西。
+
+……那么，你找到这样的[emb exp='tf.names.NPC.itsuki']了吗？[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.me']要找的东西。"
+"balloon#f83fcee1e3b3f96805c436e3bc40367d","这个，呃……","balloon#f83fcee1e3b3f96805c436e3bc40367d","机翻辅助：
+
+这个，呃……
+
+那个，呃……"
+"SECRET_SELECTION/topic#55817f9656931109c418bb2cdfb8ed60","${itsuki.NPC}在找的东西是……","SECRET_SELECTION/topic#55817f9656931109c418bb2cdfb8ed60","机翻辅助：
+
+${itsuki.NPC}在找的是……
+
+${itsuki.NPC}要找的东西是……"
+"SECRET_SELECTION/text1#e62ebe2d42d5898cea7de0656bf2955b","是什么？","SECRET_SELECTION/text1#e62ebe2d42d5898cea7de0656bf2955b","机翻辅助：
+
+是什么？"
+"SECRET_SELECTION/text2#9fbedd40403b13c8efa2766dd9934257","很难找的东西吗？","SECRET_SELECTION/text2#9fbedd40403b13c8efa2766dd9934257","机翻辅助：
+
+很难找的东西吗？
+
+很难找到的东西吗？
+
+很难找到吗？"
+"SECRET_SELECTION/text3#175208a485bf57dd31f0363a703293ad","你还要找吗？","SECRET_SELECTION/text3#175208a485bf57dd31f0363a703293ad","机翻辅助：
+
+你还要找吗？
+
+还想继续寻找吗？
+
+还想再找吗？"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#61ee09893816eb74b9538e078f653dbb","还问是什么……","balloon#61ee09893816eb74b9538e078f653dbb","机翻辅助：
+
+还问是什么……
+
+什么事啊……
+
+为什么……"
+"balloon#0a3f5ec51277207c04086b98e0133e71","已经忘了吗？","balloon#0a3f5ec51277207c04086b98e0133e71","机翻辅助：
+
+已经忘了吗？
+
+你已经忘了吗？"
+"balloon#7396fe4358b0afc1faaa029b3135f73c","喂。","balloon#7396fe4358b0afc1faaa029b3135f73c","机翻辅助：
+
+喂。
+
+喂！"
+"balloon#114b4cd029d5cd2ccc3000661c8fd2f8","要好好复习笔记哦！","balloon#114b4cd029d5cd2ccc3000661c8fd2f8","机翻辅助：
+
+要好好复习笔记哦！
+
+好好看看笔记！
+
+好好地看笔记！"
+"balloon#5147a015667caca7d6bc9e6e86b120f8","什么很难找……","balloon#5147a015667caca7d6bc9e6e86b120f8","机翻辅助：
+
+什么很难找……
+
+很难找到……"
+"balloon#36a3ab6b1d6a1a04d8c15890c913959e","应该没那么容易找到吧。","balloon#36a3ab6b1d6a1a04d8c15890c913959e","机翻辅助：
+
+应该没那么容易找到吧。
+
+不容易找到吧，是吧。
+
+不是那么容易找到的，是吧。"
+"balloon#b7c2549ad6fdaffcc10c35e6bc88cd1d","嗯嗯。","balloon#b7c2549ad6fdaffcc10c35e6bc88cd1d","机翻辅助：
+
+嗯嗯。"
+"balloon#82a21771e63b8fd1a89ae40cbf911d58","还要继续找……","balloon#82a21771e63b8fd1a89ae40cbf911d58","机翻辅助：
+
+还要继续找……
+
+还在找……
+
+还得找……"
+"balloon#ef9c6482801ca021bb555e2286f9a4c1","没错，一定要找到。","balloon#ef9c6482801ca021bb555e2286f9a4c1","机翻辅助：
+
+没错，一定要找到。
+
+对，一定要找。
+
+是的，一定要找。"
+"balloon#d680bcd92b95d6efdf31d3e81935b8fd","虽然看起来是这样，但[emb exp='tf.names.NPC.me']是非常执着的！","balloon#d680bcd92b95d6efdf31d3e81935b8fd","机翻辅助：
+
+虽然看起来是这样，但[emb exp='tf.names.NPC.me']是非常执着的！
+
+别看[emb exp='tf.names.NPC.me']这样，我可是非常执着的！
+
+别看[emb exp='tf.names.NPC.me']这样，其实我很执着！"
+"balloon#5855c050f49ba559cfe57a70c58ac146","[emb exp='tf.names.NPC.itsuki']最好也要小心一点哦……","balloon#5855c050f49ba559cfe57a70c58ac146","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']最好也要小心一点哦……
+
+[emb exp='tf.names.NPC.itsuki']也要小心哦……
+
+[emb exp='tf.names.NPC.itsuki']也要注意哦……"
+"balloon#8145550c468e45a30e219b4aae1fb0b8","到底是什么啊？
+呵呵！","balloon#8145550c468e45a30e219b4aae1fb0b8","机翻辅助：
+
+到底是什么啊？
+呵呵！
+
+是什么呢？
+呵呵！"
+"balloon#92ec6ddb090a220e3478df5386839a01","好！[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]再稍微“嗯～嗯～”一下看看。","balloon#92ec6ddb090a220e3478df5386839a01","机翻辅助：
+
+好！[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]　再稍微“嗯～嗯～”一下看看。
+
+好！[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]再稍微试一下。
+
+好！我再嗯嗯地试一下。[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]"
+"balloon#d4bb8451a7dad32359350c6c3a326e37","[emb exp='tf.names.NPC.itsuki']，要是知道什么的话，也告诉我吧！","balloon#d4bb8451a7dad32359350c6c3a326e37","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，要是知道什么的话，也告诉我吧！
+
+[emb exp='tf.names.NPC.itsuki']如果知道什么的话也请告诉我哦！
+
+[emb exp='tf.names.NPC.itsuki']，如果知道了什么也要告诉我哦！"
+"balloon#75f6d111669c0f9a26c1cdd3033785c9","绝对哦！[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]就拜托你了哦！","balloon#75f6d111669c0f9a26c1cdd3033785c9","机翻辅助：
+
+绝对哦！[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]　让我依靠吧！
+
+绝对的！[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]让我依靠你吧！
+
+绝对的！[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]让我依靠你！"
+"balloon#ff6fc33e5da73ca702a3c6884efb525a","嗯！","balloon#ff6fc33e5da73ca702a3c6884efb525a","机翻辅助：
+
+嗯！"
+"speaker_主人公","主人公","speaker_主人公",""

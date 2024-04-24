@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#0e5e44a613654cbaf39846837ecd031a","診療……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]それは本当でしょうか？","balloon#0e5e44a613654cbaf39846837ecd031a","NPC"
+"balloon#a840125a5fb5f05240c9e6b3f20a6b8c","どういうことですか？","balloon#a840125a5fb5f05240c9e6b3f20a6b8c","主人公"
+"balloon#24bdc35665be4aac59f2e75001861f55","話を聞いて思い出したんですけど……","balloon#24bdc35665be4aac59f2e75001861f55","NPC"
+"balloon#e103f8e277454e3f7648cc30caafeeee","[emb exp='tf.names.NPC.me']、写真館から裏山へ向かう途中で、駐在所の近くから見たんです。","balloon#e103f8e277454e3f7648cc30caafeeee","NPC"
+"balloon#9cde42b39dd38ac8e303f5c3a62d0c42","[font color=@3][emb exp='tf.names.NPC.kamishiro']が、裏山へ入っていく[resetfont]ところを。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad""][font color=@3]14:34[resetfont]ごろです。","balloon#9cde42b39dd38ac8e303f5c3a62d0c42","NPC"
+"balloon#129347297e5aeed721f271dec3fb5745","[emb exp='tf.names.itsuki.NPC']は、[font color=@3][emb exp='tf.names.itsuki.kamishiro']が裏山に入っていく[resetfont]ところを目撃したのか。","balloon#129347297e5aeed721f271dec3fb5745","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

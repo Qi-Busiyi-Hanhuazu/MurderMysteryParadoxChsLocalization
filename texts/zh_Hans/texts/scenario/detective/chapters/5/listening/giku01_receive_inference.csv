@@ -1,0 +1,149 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#b0ab8e422fb228031c5db63600c42523","嗯，这个推理[font color=@3]可以接受[resetfont]。","balloon#b0ab8e422fb228031c5db63600c42523","机翻辅助：
+
+嗯，这个推理[font color=@3]可以接受[resetfont]。
+
+嗯，如果是那个推理[font color=@3]能理解[resetfont]。
+
+嗯，这个推理的话能接受。[font color=@3][resetfont]"
+"balloon#8f2a3312b451b9a7279fd785051e3da8","[emb exp='tf.names.NPC.chiyo']喝下掺了安眠药的饮料，睡着之后……","balloon#8f2a3312b451b9a7279fd785051e3da8","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']喝下掺了安眠药的饮料，睡着之后……
+
+[emb exp='tf.names.NPC.chiyo']喝下含有安眠药的饮料，睡着之后……
+
+[emb exp='tf.names.NPC.chiyo']喝着装有安眠药的饮料，睡着之后……"
+"balloon#fe2fbdebfd04c74c439038e0d1371de5","在没有意识的状态下，被菜刀刺中要害……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]是这样吗？","balloon#fe2fbdebfd04c74c439038e0d1371de5","机翻辅助：
+
+在没有意识的状态下，被菜刀刺中要害……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]是这样吗？
+
+在失去意识的状态下，被人用菜刀捅了一刀……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]原来如此。
+
+在没有意识的情况下，被菜刀戳了一下。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#db7c9ab0a88afaafbed4f12e67846086","难怪没有抵抗的痕迹。","balloon#db7c9ab0a88afaafbed4f12e67846086","机翻辅助：
+
+难怪没有抵抗的痕迹。
+
+难怪看不出抵抗的痕迹。
+
+难怪看不到抵抗的痕迹。"
+"balloon#49774b868a6ec33d862f1735f08833dc","是的，我也这么认为。","balloon#49774b868a6ec33d862f1735f08833dc","机翻辅助：
+
+是的，我也这么认为。
+
+是的，我是这么想的。"
+"balloon#d0353258e6aefd0d60c57de54a885131","然后，这是……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""][emb exp='tf.names.NPC.itsuki']的自白吗？","balloon#d0353258e6aefd0d60c57de54a885131","机翻辅助：
+
+然后，这是……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""][emb exp='tf.names.NPC.itsuki']的自白吗？
+
+而且，这是……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""][emb exp='tf.names.NPC.itsuki']的自供吗？
+
+然后，这……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]是[emb exp='tf.names.NPC.itsuki']的自白吗？"
+"balloon#13aad916e55011ba34e31d0bbc04402d","不对，我是靠推理得到的！","balloon#13aad916e55011ba34e31d0bbc04402d","机翻辅助：
+
+不对，我是靠推理得到的！
+
+不是的，是通过推理得出的！
+
+不是的，是推理到的！"
+"balloon#4e8ce1ab3d4b833d755d8aacb228548f","……哎呀，失敬。","balloon#4e8ce1ab3d4b833d755d8aacb228548f","机翻辅助：
+
+……哎呀，失敬。
+
+……不，对不起。
+
+……哎呀，失礼了。"
+"balloon#a74c83a533be85ea1f0af093cdbe2c05","难得他回答了[emb exp='tf.names.NPC.me']的疑问，把他当成犯人就太失礼了。","balloon#a74c83a533be85ea1f0af093cdbe2c05","机翻辅助：
+
+难得他回答了[emb exp='tf.names.NPC.me']的疑问，把他当成犯人就太失礼了。
+
+好不容易回答了[emb exp='tf.names.NPC.me']的疑问，却被当做犯人对待，真是失礼啊。
+
+好不容易回答了[emb exp='tf.names.NPC.me']的疑问，把我当成犯人真是太失礼了。"
+"balloon#4a7ec83e6c86867515f36d0e1112698f","不过，[emb exp='tf.names.NPC.itsuki']的嫌疑还没洗清。","balloon#4a7ec83e6c86867515f36d0e1112698f","机翻辅助：
+
+不过，[emb exp='tf.names.NPC.itsuki']的嫌疑还没洗清。
+
+[emb exp='tf.names.NPC.itsuki']的嫌疑还没有消除。
+
+[emb exp='tf.names.NPC.itsuki']的嫌疑还没有洗清。"
+"balloon#93623b78da80c4093291fc66023ad08c","不过，我先向你道谢吧。","balloon#93623b78da80c4093291fc66023ad08c","机翻辅助：
+
+不过，我先向你道谢吧。
+
+但是这里暂且先道谢吧。
+
+不过在这里，我还是先道谢吧。"
+"balloon#c2602a45fff30fc8cb5bdc6353f889bb","是的，为了让他更相信我……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会努力的！","balloon#c2602a45fff30fc8cb5bdc6353f889bb","机翻辅助：
+
+是的，为了让他更相信我……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会努力的！
+
+是的，为了能得到更多的信任……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会努力的！
+
+是的，我会[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]努力让你更信任我！"
+"balloon#aa65c83cf2ae824dcccf39e3129c6b86","……我很期待哦。","balloon#aa65c83cf2ae824dcccf39e3129c6b86","机翻辅助：
+
+……我很期待哦。
+
+……我很期待。"
+"balloon#d58c7c6c996c6cb8ab59a2344dad8584","真的吗？","balloon#d58c7c6c996c6cb8ab59a2344dad8584","机翻辅助：
+
+真的吗？"
+"balloon#37977705b0658e48e5761452ea7dd0da","虽然我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#37977705b0658e48e5761452ea7dd0da","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+这个推理，我觉得有点不一样。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#6d53c06970d743012f92493dfd11675b","虽然我觉得你的推理[font color=@3]完全不对[resetfont]。","balloon#6d53c06970d743012f92493dfd11675b","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]完全不对[resetfont]。
+
+我觉得那个推理完全不一样。[font color=@3][resetfont]
+
+我觉得这个推理完全不一样。[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#8c233eb09a259b8fa74e213bcfa7f5cb","哎呀呀，抱歉问了这么难的问题。","balloon#8c233eb09a259b8fa74e213bcfa7f5cb","机翻辅助：
+
+哎呀呀，抱歉问了这么难的问题。
+
+不、不，很抱歉问了这么难的事情。
+
+不、不好意思问这么复杂的问题。"
+"balloon#a05153a037d41ec1870c62521bd4c798","关于这件事……","balloon#a05153a037d41ec1870c62521bd4c798","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#aa4d6671ad74c26aa5364b14e2c9bc2d","[font color=@3]看来有必要弄清楚[resetfont]犯案用的凶器，以及没有抵抗痕迹的理由。","balloon#aa4d6671ad74c26aa5364b14e2c9bc2d","机翻辅助：
+
+[font color=@3]看来有必要弄清楚[resetfont]犯案用的凶器，以及没有抵抗痕迹的理由。
+
+[font color=@3]有必要查明用于犯罪的凶器和没有抵抗痕迹的理由。[resetfont]
+
+[font color=@3]有必要查明犯罪时使用的凶器和没有抵抗痕迹的理由。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#6d0539742bfe903afaba781efb42a267","[font color=@3]来寻找显示[emb exp='tf.names.itsuki.chiyo']杀害状况的[resetfont]线索吧。","balloon#6d0539742bfe903afaba781efb42a267","机翻辅助：
+
+[font color=@3]来寻找显示[emb exp='tf.names.itsuki.chiyo']杀害状况的[resetfont]线索吧。
+
+[font color=@3]展示[emb exp='tf.names.itsuki.chiyo']被杀害的情况[resetfont]试着寻找线索吧。
+
+[font color=@3]让我们来寻找一下[emb exp='tf.names.itsuki.chiyo']被杀的线索吧。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

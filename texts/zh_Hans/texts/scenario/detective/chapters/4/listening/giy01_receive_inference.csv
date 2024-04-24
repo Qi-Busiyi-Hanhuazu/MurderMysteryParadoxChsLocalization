@@ -1,0 +1,116 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#015a85f12d5d65a193fd42bb61b702aa","原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！","balloon#015a85f12d5d65a193fd42bb61b702aa","机翻辅助：
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这个推理[font color=@3]我[resetfont]可以接受！
+
+原来如此，这个推理是可以理解的！[font color=@3][resetfont]"
+"balloon#e7f6dcf2ce051cf833d99aa8a0d597e8","对了，光靠[emb exp='tf.names.NPC.chiyo']一个人是办不到的……","balloon#e7f6dcf2ce051cf833d99aa8a0d597e8","机翻辅助：
+
+对了，光靠[emb exp='tf.names.NPC.chiyo']一个人是办不到的……
+
+对了，只有[emb exp='tf.names.NPC.chiyo']是不可能实行的……
+
+对了，光靠[emb exp='tf.names.NPC.chiyo']是不可能实现的……"
+"balloon#f62f099c7380b916915cb5d859133223","我之前就觉得有点奇怪了！","balloon#f62f099c7380b916915cb5d859133223","机翻辅助：
+
+我之前就觉得有点奇怪了！
+
+我觉得很奇怪呢！
+
+总觉得有点奇怪啊！"
+"balloon#bec59c471f131e9221e253905e68b006","真厉害啊，亏你能注意到！","balloon#bec59c471f131e9221e253905e68b006","机翻辅助：
+
+真厉害啊，亏你能注意到！
+
+好厉害啊，注意到了！
+
+好厉害啊，你注意到了！"
+"balloon#fa2ac37bfff0f224af77ac2732117fed","不，光靠[emb exp='tf.names.itsuki.me']一个人是无法察觉的。","balloon#fa2ac37bfff0f224af77ac2732117fed","机翻辅助：
+
+不，光靠[emb exp='tf.names.itsuki.me']一个人是无法察觉的。
+
+不，只有[emb exp='tf.names.itsuki.me']没注意到。"
+"balloon#986caa770e866938a1fc801218983f82","谢谢你告诉我这些事，[emb exp='tf.names.itsuki.NPC']。","balloon#986caa770e866938a1fc801218983f82","机翻辅助：
+
+谢谢你告诉我这些事，[emb exp='tf.names.itsuki.NPC']。
+
+谢谢你跟我说话，[emb exp='tf.names.itsuki.NPC']。"
+"balloon#68666fcaee0bc93c051c8e2f3ea82c3a","为什么啊，该道谢的人是[emb exp='tf.names.NPC.me']才对吧！","balloon#68666fcaee0bc93c051c8e2f3ea82c3a","机翻辅助：
+
+为什么啊，该道谢的人是[emb exp='tf.names.NPC.me']才对吧！
+
+为什么啊，感谢的是[emb exp='tf.names.NPC.me']啊！
+
+为什么啊，应该感谢的是[emb exp='tf.names.NPC.me']！"
+"balloon#d3074cf36e1daa4f97ddf5aa96e505fa","谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#d3074cf36e1daa4f97ddf5aa96e505fa","机翻辅助：
+
+谢谢你，[emb exp='tf.names.NPC.itsuki']。
+
+谢谢啦，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#81e87587e27d541c0297678ccbdd7a8a","真的吗？","balloon#81e87587e27d541c0297678ccbdd7a8a","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……","balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……
+
+[emb exp='tf.names.NPC.me']觉得有点不一样……[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不一样……[resetfont]"
+"balloon#a89e33dfa597cde8941b7196ed123a40","嗯～～[emb exp='tf.names.NPC.me'][font color=@3]觉得你的推理完全错误[resetfont]就是了……","balloon#a89e33dfa597cde8941b7196ed123a40","机翻辅助：
+
+嗯～～[emb exp='tf.names.NPC.me'][font color=@3]觉得你的推理完全错误[resetfont]就是了……
+
+嗯，那个推理[emb exp='tf.names.NPC.me']觉得完全不一样……[font color=@3][resetfont]
+
+嗯，这个推理[emb exp='tf.names.NPC.me']觉得完全不一样……[font color=@3][resetfont]"
+"balloon#ae009158b6bdc782a0fbedd035ca2f00","对不起，我无法回答[emb exp='f.npc_nickname']的疑问……","balloon#ae009158b6bdc782a0fbedd035ca2f00","机翻辅助：
+
+对不起，我无法回答[emb exp='f.npc_nickname']的疑问……
+
+没能回答[emb exp='f.npc_nickname']的疑问，对不起……"
+"balloon#104bd88436c754586ba6ff86d9920f7f","呃，别那么沮丧啦。","balloon#104bd88436c754586ba6ff86d9920f7f","机翻辅助：
+
+呃，别那么沮丧啦。
+
+不、不要那么失落。
+
+不，别那么沮丧。"
+"balloon#86767f5ead5413cae6711d65c3a626da","关于这件事……","balloon#86767f5ead5413cae6711d65c3a626da","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#e6add2df78f444447dac63762252212f","[font color=@3]我认为有必要证明光靠[emb exp='tf.names.NPC.chiyo']是办不到的。[resetfont]","balloon#e6add2df78f444447dac63762252212f","机翻辅助：
+
+[font color=@3]我认为有必要证明光靠[emb exp='tf.names.NPC.chiyo']是办不到的。[resetfont]
+
+[font color=@3]我觉得有必要阐明只靠[emb exp='tf.names.NPC.chiyo']是不可能的。[resetfont]
+
+[font color=@3]我觉得有必要弄清楚只有[emb exp='tf.names.NPC.chiyo']是不可能的。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#5f2daad7945c27745ee00012da4581c9","[font color=@3][emb exp='tf.names.itsuki.chiyo']的行动有没有时间或状况上的矛盾[resetfont]呢？让我们重新检视推理笔记吧。","balloon#5f2daad7945c27745ee00012da4581c9","机翻辅助：
+
+[font color=@3][emb exp='tf.names.itsuki.chiyo']的行动有没有时间或状况上的矛盾[resetfont]呢？让我们重新检视推理笔记吧。
+
+[font color=@3]让我们重新审视一下推理笔记，看看[emb exp='tf.names.itsuki.chiyo']的行动是否存在时间和状况的矛盾[resetfont]。
+
+[font color=@3]看看[emb exp='tf.names.itsuki.chiyo']的行动有没有时间和状况的矛盾。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

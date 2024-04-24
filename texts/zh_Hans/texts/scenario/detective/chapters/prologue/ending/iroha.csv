@@ -1,0 +1,94 @@
+"source","target","id","developer_comments"
+"balloon#b5311447262494bce8ca983f261a1a86","[emb exp='tf.names.itsuki.NPC']得票最多……","balloon#b5311447262494bce8ca983f261a1a86","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']得票最多……
+
+[emb exp='tf.names.itsuki.NPC']是最多票吗……"
+"balloon#92af2f275412a00d97061d7f7b76d3cd","只能怀疑[emb exp='tf.names.itsuki.NPC']了。","balloon#92af2f275412a00d97061d7f7b76d3cd","机翻辅助：
+
+只能怀疑[emb exp='tf.names.itsuki.NPC']了。
+
+已经只能怀疑[emb exp='tf.names.itsuki.NPC']了。
+
+我只能怀疑[emb exp='tf.names.itsuki.NPC']了。"
+"balloon#5f400700a896f4ac64ca0b314cc2eb51","[emb exp='tf.names.itsuki.NPC']，是你把西瓜……","balloon#5f400700a896f4ac64ca0b314cc2eb51","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']，是你把西瓜……
+
+[emb exp='tf.names.itsuki.NPC']，你要西瓜……"
+"balloon#7ccb2e7cc1f7a1a3dcec49068bec3014","原来是你干的吗，[emb exp='tf.names.yohei.iroha']！？","balloon#7ccb2e7cc1f7a1a3dcec49068bec3014","机翻辅助：
+
+原来是你干的吗，[emb exp='tf.names.yohei.iroha']！？
+
+原来是你啊，[emb exp='tf.names.yohei.iroha']！？"
+"balloon#22c9fb391e630d4d1962fa66d03f8993","……是啊，就当作是[emb exp='tf.names.NPC.me']吃掉的吧。","balloon#22c9fb391e630d4d1962fa66d03f8993","机翻辅助：
+
+……是啊，就当作是[emb exp='tf.names.NPC.me']吃掉的吧。
+
+……是啊，[emb exp='tf.names.NPC.me']吃了就好了。
+
+……是啊，就算[emb exp='tf.names.NPC.me']吃了也行。"
+"balloon#c1206e5fa2834446bbe7a3ca34afb11f","真是的，那一开始就该这么说啊！","balloon#c1206e5fa2834446bbe7a3ca34afb11f","机翻辅助：
+
+真是的，那一开始就该这么说啊！
+
+如果是这样的话，从一开始就这么说吧！
+
+算了，那你一开始就这么说吧！"
+"balloon#38b1a3b32a532683f01f06728ae0ae74","好好好……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]对不起，[emb exp='tf.names.NPC.utaha']。","balloon#38b1a3b32a532683f01f06728ae0ae74","机翻辅助：
+
+好好好……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]对不起，[emb exp='tf.names.NPC.utaha']。
+
+好的好的……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]对不起，[emb exp='tf.names.NPC.utaha']。
+
+是是……对不起啦，[emb exp='tf.names.NPC.utaha']。[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]"
+"balloon#d1c67ad64544204c6441095b79051149","大家要好好相处，不要吵架。","balloon#d1c67ad64544204c6441095b79051149","机翻辅助：
+
+大家要好好相处，不要吵架。
+
+大家好好相处，不吵架吗。
+
+大家要和睦相处，不要吵架。"
+"balloon#1ab27a7de2c69d25c38934a632a8aa0b","是啊……都是[emb exp='tf.names.NPC.me']的错，好吗？","balloon#1ab27a7de2c69d25c38934a632a8aa0b","机翻辅助：
+
+是啊……都是[emb exp='tf.names.NPC.me']的错，好吗？
+
+是啊……是[emb exp='tf.names.NPC.me']不好，对吧？"
+"balloon#45391426d9e65099afe9c86447b83c4a","[emb exp='tf.names.itsuki.NPC']面不改色。","balloon#45391426d9e65099afe9c86447b83c4a","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']面不改色。
+
+[emb exp='tf.names.itsuki.NPC']的脸色一点也没变。"
+"balloon#c248c6591be8b15e3bda55a14984e325","这样的结局，真的是正确的吗……？","balloon#c248c6591be8b15e3bda55a14984e325","机翻辅助：
+
+这样的结局，真的是正确的吗……？
+
+这个结局，真的正确吗……？"
+"message10#5c2cb12183d9abeef11ea188b0adcc3c","树他们选了[font color=@1]彩叶[resetfont]当犯人。
+但是直到最后，都没有找到彩叶是犯人的证据。","message10#5c2cb12183d9abeef11ea188b0adcc3c","机翻辅助：
+
+树他们选了[font color=@1]彩叶[resetfont]当犯人。
+但是直到最后，都没有找到彩叶是犯人的证据。
+
+树等人将彩叶[font color=@1]选为犯人。但是，到最后也没能找到彩叶就是凶手的证据。[resetfont]
+
+
+树木们选择了彩叶作为犯人。[font color=@1]但直到最后都没有发现彩叶是犯人的证据。[resetfont]"
+"message10#2cf732428c689ebbd7288492b891617c","树就这样在无法和大家打成一片的情况下，度过了
+岛上的剩余日子。","message10#2cf732428c689ebbd7288492b891617c","机翻辅助：
+
+树就这样在无法和大家打成一片的情况下，度过了
+岛上的剩余日子。
+
+然后树，就这样没能和大家融洽地度过了在岛上剩下的日子。
+
+
+然后，树无法和大家融洽地度过了在岛上剩下的日子。"
+"speaker_主人公","主人公","speaker_主人公",""
+"speaker_陽平","阳平","speaker_陽平","机翻辅助：
+
+阳平"
+"speaker_歌葉","歌叶","speaker_歌葉","机翻辅助：
+
+歌叶"
+"speaker_千世","千世","speaker_千世",""

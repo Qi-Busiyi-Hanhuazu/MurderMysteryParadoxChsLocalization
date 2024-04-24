@@ -1,0 +1,248 @@
+"source","target","id","developer_comments"
+"balloon#7753e6d3e62c47efd586d8c63288a06b","好了，我之所以会向[emb exp='tf.names.NPC.itsuki']搭话，不是为了别的。","balloon#7753e6d3e62c47efd586d8c63288a06b","机翻辅助：
+
+好了，我之所以会向[emb exp='tf.names.NPC.itsuki']搭话，不是为了别的。
+
+那么，跟[emb exp='tf.names.NPC.itsuki']打招呼的不是别人。
+
+那么，和[emb exp='tf.names.NPC.itsuki']打招呼的也不是其他的。"
+"balloon#2c7cb0e8ee48757b954b9945f1f05ae9","是！","balloon#2c7cb0e8ee48757b954b9945f1f05ae9","机翻辅助：
+
+是！
+
+是的！
+
+好！"
+"balloon#e5096d10b709cd608323015b6d236984","只有精神很好的[emb exp='tf.names.NPC.itsuki']，你……","balloon#e5096d10b709cd608323015b6d236984","机翻辅助：
+
+只有精神很好的[emb exp='tf.names.NPC.itsuki']，你……
+
+充满活力的[emb exp='tf.names.NPC.itsuki']，你……
+
+只要有精神就好的[emb exp='tf.names.NPC.itsuki']，你……"
+"balloon#dc2a369b4fcfd1cee8d457ee7291aefb","到底是什么人呢？","balloon#dc2a369b4fcfd1cee8d457ee7291aefb","机翻辅助：
+
+到底是什么人呢？
+
+到底是什么人？"
+"balloon#a56f553c17cb7604928f3b8fe88b7baf","你不仅能够流畅地说出我们岛民的名字，而且似乎还对这里多少有些了解。","balloon#a56f553c17cb7604928f3b8fe88b7baf","机翻辅助：
+
+你不仅能够流畅地说出我们岛民的名字，而且似乎还对这里多少有些了解。
+
+我们岛民的名字叫苏拉斯拉，多少有些土地直觉。
+
+他能流利地说出我们岛民的名字，甚至多少有些地面感。"
+"balloon#9b356ddac6f111d0c6ef23c08b9f2c93","我向大家打听了一下，结果没有一个人认识你。","balloon#9b356ddac6f111d0c6ef23c08b9f2c93","机翻辅助：
+
+我向大家打听了一下，结果没有一个人认识你。
+
+我问过大家，大家都说不认识你。
+
+你问一下大家是不是都说没人认识你。"
+"balloon#b5344c76f69df3c80d028eff07840c7a","好了，就让我来问问你吧。","balloon#b5344c76f69df3c80d028eff07840c7a","机翻辅助：
+
+好了，就让我来问问你吧。
+
+来，让我听听吧。
+
+好了，让我听听吧。"
+"balloon#e3a00c82621a1eb8de7a5dcd2f23a1a0","你的真实身份。","balloon#e3a00c82621a1eb8de7a5dcd2f23a1a0","机翻辅助：
+
+你的真实身份。
+
+你的真面目。"
+"balloon#665d027cbed4b824c3a0950f41fb7e47","来了，这个问题。","balloon#665d027cbed4b824c3a0950f41fb7e47","机翻辅助：
+
+来了，这个问题。"
+"balloon#e30558dda5a9b30ab9572ff4be29d86a","好了，我该怎么回答呢……","balloon#e30558dda5a9b30ab9572ff4be29d86a","机翻辅助：
+
+好了，我该怎么回答呢……
+
+那么，该怎么回答呢……
+
+那么，怎么回答呢……"
+"SECRET_SELECTION/topic#c6bc936099f17f034110851c77c5ddb7","讨厌啦，${itsuki_p.kamishiro}……","SECRET_SELECTION/topic#c6bc936099f17f034110851c77c5ddb7","机翻辅助：
+
+讨厌啦，${itsuki_p.kamishiro}……
+
+讨厌啊，${itsuki_p.kamishiro}……
+
+好讨厌啊，${itsuki_p.kamishiro}……"
+"SECRET_SELECTION/text1#c99d8bf05ef01d57d485ddebb9d81744","我是以前接受过诊疗的人！","SECRET_SELECTION/text1#c99d8bf05ef01d57d485ddebb9d81744","机翻辅助：
+
+我是以前接受过诊疗的人！
+
+我是以前接受过诊察的人！
+
+以前，是接受诊察的人！"
+"SECRET_SELECTION/text2#d39e658d5c68cf53cc1812839cc29b8e","我是隔壁镇上的田中啊！","SECRET_SELECTION/text2#d39e658d5c68cf53cc1812839cc29b8e","机翻辅助：
+
+我是隔壁镇上的田中啊！
+
+我是邻镇的田中哟！
+
+我是邻镇的田中！"
+"SECRET_SELECTION/text3#155f1b684901b4e03c5efb6667228c46","回答是“是”吧！","SECRET_SELECTION/text3#155f1b684901b4e03c5efb6667228c46","机翻辅助：
+
+回答是“是”吧！"
+"balloon#e28d760d877b6798c367cbb3184369e0","以前，[emb exp='tf.names.NPC.me']曾经诊察过你……","balloon#e28d760d877b6798c367cbb3184369e0","机翻辅助：
+
+以前，[emb exp='tf.names.NPC.me']曾经诊察过你……
+
+以前，[emb exp='tf.names.NPC.me']接诊过……
+
+以前[emb exp='tf.names.NPC.me']看病……"
+"balloon#7d2a0d5b46869f20dbc28da880ad41ee","不可能……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]你以为[emb exp='tf.names.NPC.me']会忘记诊察过的患者吗？","balloon#7d2a0d5b46869f20dbc28da880ad41ee","机翻辅助：
+
+不可能……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]你以为[emb exp='tf.names.NPC.me']会忘记诊察过的患者吗？
+
+不可能……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""][emb exp='tf.names.NPC.me']会忘记一次诊察的患者吗？
+
+不可能的……难道[emb exp='tf.names.NPC.me']要忘记曾经接诊过的患者吗？[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]"
+"balloon#e4c4b6b1d2eea98c4acc8fc03fd43b3a","糟糕，看来是没办法蒙混过去了……！","balloon#e4c4b6b1d2eea98c4acc8fc03fd43b3a","机翻辅助：
+
+糟糕，看来是没办法蒙混过去了……！
+
+糟了，不是能蒙混过关的人……！
+
+糟了，我可不是那种会耍赖的人啊……！"
+"balloon#ee98873126bd7d02e854849002618924","我认识这座岛上所有的居民。","balloon#ee98873126bd7d02e854849002618924","机翻辅助：
+
+我认识这座岛上所有的居民。
+
+我和这个岛上的居民都见过面。
+
+我认识这座岛上的所有人。"
+"balloon#a387d147943291c28d906cffe2981ad6","真是显而易见的谎言……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]你以为这对[emb exp='tf.names.NPC.me']管用吗？","balloon#a387d147943291c28d906cffe2981ad6","机翻辅助：
+
+真是显而易见的谎言……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]你以为这对[emb exp='tf.names.NPC.me']管用吗？
+
+是看透了的谎言……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]对[emb exp='tf.names.NPC.me']通用？
+
+这是显而易见的谎言啊……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]对[emb exp='tf.names.NPC.me']行得通？"
+"balloon#2d605b3f68f18fb719b4c07ae73cc4ac","啊啊……","balloon#2d605b3f68f18fb719b4c07ae73cc4ac","机翻辅助：
+
+啊啊……
+
+啊……"
+"balloon#5d4b7ae2654123c6f01170c1a365f3ab","原来[emb exp='tf.names.NPC.itsuki']也一样啊。","balloon#5d4b7ae2654123c6f01170c1a365f3ab","机翻辅助：
+
+原来[emb exp='tf.names.NPC.itsuki']也一样啊。
+
+[emb exp='tf.names.NPC.itsuki']也是这样啊。
+
+[emb exp='tf.names.NPC.itsuki']也是这样的。"
+"balloon#33da7799a8fe30a3d43101692b8df104","什么……？","balloon#33da7799a8fe30a3d43101692b8df104","机翻辅助：
+
+什么……？
+
+是……？
+
+是的……？"
+"balloon#435ccc93f23db0fcf4bf09ae53d15a8f","[emb exp='tf.names.NPC.me']的父母也很严格。","balloon#435ccc93f23db0fcf4bf09ae53d15a8f","机翻辅助：
+
+[emb exp='tf.names.NPC.me']的父母也很严格。
+
+[emb exp='tf.names.NPC.me']的父母也很严厉。"
+"balloon#f676d4ac1032139d6d920f0564108e98","我的回答很明确……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是的，一次。这是被严格管教出来的结果。","balloon#f676d4ac1032139d6d920f0564108e98","机翻辅助：
+
+我的回答很明确……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是的，一次。这是被严格管教出来的结果。
+
+回答很明确……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是的，一次的话，会被严格教育的。
+
+回答很明确……是的，只要一次，就会被严厉地教育。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]"
+"balloon#94f84539fb2ea4eac035805eb8353644","虽然我这么说并不是对这样的[emb exp='tf.names.NPC.itsuki']产生共鸣……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]回答得很好。","balloon#94f84539fb2ea4eac035805eb8353644","机翻辅助：
+
+虽然我这么说并不是对这样的[emb exp='tf.names.NPC.itsuki']产生共鸣……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]回答得很好。
+
+我并不是对这样的[emb exp='tf.names.NPC.itsuki']有同感……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]很好的回答。
+
+对那样的[emb exp='tf.names.NPC.itsuki']，并不是同感说……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]好的回答。"
+"balloon#c12bf58a30e6dbdb4614d19235002d2d","太好了，顺利蒙混过去了！","balloon#c12bf58a30e6dbdb4614d19235002d2d","机翻辅助：
+
+太好了，顺利蒙混过去了！
+
+太好了，骗得好！
+
+太好了，成功蒙混过关！"
+"balloon#f0d5dcb072cf13cebe2784ee88b0ed4a","……你以为我会这么说吗？","balloon#f0d5dcb072cf13cebe2784ee88b0ed4a","机翻辅助：
+
+……你以为我会这么说吗？
+
+……但是，你觉得会这么说吗？
+
+……但是，你觉得我会说吗？"
+"balloon#ac1979d6cec6abaf1209c38a0dfdcf73","你以为这种没有意义的回答，[emb exp='tf.names.NPC.me']会接受吗？","balloon#ac1979d6cec6abaf1209c38a0dfdcf73","机翻辅助：
+
+你以为这种没有意义的回答，[emb exp='tf.names.NPC.me']会接受吗？
+
+没有那种意义的回答，[emb exp='tf.names.NPC.me']能接受吗？
+
+这种毫无意义的回答，[emb exp='tf.names.NPC.me']能接受吗？"
+"balloon#bce3deecd85d6c0c4e2a2f4912941683","糟、糟了！","balloon#bce3deecd85d6c0c4e2a2f4912941683","机翻辅助：
+
+糟、糟了！
+
+糟了！"
+"balloon#55a75ffb3f1dd3075d08a425d9c73679","他可不是能用这种话骗过去的人啊！","balloon#55a75ffb3f1dd3075d08a425d9c73679","机翻辅助：
+
+他可不是能用这种话骗过去的人啊！
+
+不是能蒙混过关的人！
+
+你可不是个会耍赖的人！"
+"balloon#a0431df94f163679a74156793fd5bf54","真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]算了。","balloon#a0431df94f163679a74156793fd5bf54","机翻辅助：
+
+真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]算了。
+
+哎呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]算了吧。
+
+哎呀呀……好吧。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]"
+"balloon#feb2ee575041e6c3ee617f08c96f7078","我本来以为，只要通过对话了解[emb exp='tf.names.NPC.itsuki']，就能知道他的动机……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]失败了。","balloon#feb2ee575041e6c3ee617f08c96f7078","机翻辅助：
+
+我本来以为，只要通过对话了解[emb exp='tf.names.NPC.itsuki']，就能知道他的动机……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]失败了。
+
+我以为通过对话了解[emb exp='tf.names.NPC.itsuki']的话，就能知道动机了……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]失败了。
+
+本以为通过对话了解[emb exp='tf.names.NPC.itsuki']，就能了解动机……失败了。[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]"
+"balloon#48c4146f4bd777641e1cee016c28ff88","对哦，[emb exp='tf.names.itsuki.NPC']在试探大家的动机。","balloon#48c4146f4bd777641e1cee016c28ff88","机翻辅助：
+
+对哦，[emb exp='tf.names.itsuki.NPC']在试探大家的动机。
+
+是吗，[emb exp='tf.names.itsuki.NPC']一直在寻找大家的动机。
+
+原来，[emb exp='tf.names.itsuki.NPC']想找出大家的动机。"
+"balloon#9b22bbde9da73a7583a8844af4ebb39e","这样下去，[emb exp='tf.names.NPC.me']只能继续怀疑[emb exp='tf.names.NPC.itsuki']。","balloon#9b22bbde9da73a7583a8844af4ebb39e","机翻辅助：
+
+这样下去，[emb exp='tf.names.NPC.me']只能继续怀疑[emb exp='tf.names.NPC.itsuki']。
+
+这样下去，[emb exp='tf.names.NPC.me']只能继续怀疑[emb exp='tf.names.NPC.itsuki']了。
+
+再这样下去，[emb exp='tf.names.NPC.me']只能继续怀疑[emb exp='tf.names.NPC.itsuki']啦。"
+"balloon#2428948cac60f3d702b352ce3dc7a9c3","如果她至少愿意协助调查，或许看法也会改变。","balloon#2428948cac60f3d702b352ce3dc7a9c3","机翻辅助：
+
+如果她至少愿意协助调查，或许看法也会改变。
+
+至少如果能得到调查的协助，也许看法会有所改变。
+
+至少如果能协助调查的话，看法也会改变。"
+"balloon#45a32590870f614870d9fe26fdff1228","……回答得很好。","balloon#45a32590870f614870d9fe26fdff1228","机翻辅助：
+
+……回答得很好。
+
+……很好的回答。"
+"balloon#3d821fcb9483a8ecef740ac1b0be95b5","我怀疑[emb exp='tf.names.itsuki.NPC']的动机，会不会跟[emb exp='tf.names.itsuki.ebihara']的故事有关。","balloon#3d821fcb9483a8ecef740ac1b0be95b5","机翻辅助：
+
+我怀疑[emb exp='tf.names.itsuki.NPC']的动机，会不会跟[emb exp='tf.names.itsuki.ebihara']的故事有关。
+
+[emb exp='tf.names.itsuki.NPC']一直怀疑[emb exp='tf.names.itsuki.ebihara']的故事是否与动机有关。
+
+我一直怀疑[emb exp='tf.names.itsuki.NPC']的动机是不是和[emb exp='tf.names.itsuki.ebihara']的故事有关。"
+"balloon#b5f6787afdd598ecf53985adef442eb2","不断地听取关于[emb exp='tf.names.itsuki.ebihara']的信息吧。","balloon#b5f6787afdd598ecf53985adef442eb2","机翻辅助：
+
+不断地听取关于[emb exp='tf.names.itsuki.ebihara']的信息吧。
+
+不断地打听关于[emb exp='tf.names.itsuki.ebihara']的信息吧。
+
+就来问[emb exp='tf.names.itsuki.ebihara']更多关于的情报吧。"
+"speaker_主人公","主人公","speaker_主人公",""

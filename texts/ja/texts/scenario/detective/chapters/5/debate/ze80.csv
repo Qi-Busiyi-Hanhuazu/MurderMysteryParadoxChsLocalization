@@ -1,0 +1,14 @@
+"source","target","id","developer_comments"
+"balloon#6c203ad31f47398e4e0981498b721e64","そして今回の事件、被害者の[font color=@3]死亡推定時刻に犯行が可能だった人物[resetfont]こそが実行犯だ。","balloon#6c203ad31f47398e4e0981498b721e64","主人公"
+"balloon#34a8ae50c0f8188d24d046fa819b2eb6","それは……","balloon#34a8ae50c0f8188d24d046fa819b2eb6","主人公"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#de79b1ffd6d1dff01f086989c679dc70","<font color='@3'>犯行が可能な人物</font>が誰なのか……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#de79b1ffd6d1dff01f086989c679dc70",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","わかったから、伝えよう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","わからないから、黙っておこう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a",""
+"javascript#4a622f127baeae041b4eef6a8884069f","戻る","javascript#4a622f127baeae041b4eef6a8884069f",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#804f4d4ea5bc698f21c04924697f0378","今回の事件の犯人、それは……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#804f4d4ea5bc698f21c04924697f0378",""
+"javascript#38cffef722128b383d2b128bd40a8223","{0}が犯人という根拠を……","javascript#38cffef722128b383d2b128bd40a8223",""
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","犯人と納得させられるができる、推理を考えましょう。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e",""
+"message10#5ffc142d70a4b2964c2ec3767f08e00c","樹は事件の犯人が、
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+という推理を全員の前で披露した。","message10#5ffc142d70a4b2964c2ec3767f08e00c",""
+"speaker_主人公","主人公","speaker_主人公",""

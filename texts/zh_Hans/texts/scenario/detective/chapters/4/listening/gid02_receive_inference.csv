@@ -1,0 +1,125 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#015a85f12d5d65a193fd42bb61b702aa","原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！","balloon#015a85f12d5d65a193fd42bb61b702aa","机翻辅助：
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这个推理[font color=@3]我[resetfont]可以接受！
+
+原来如此，这个推理是可以理解的！[font color=@3][resetfont]"
+"balloon#4fe86e1e5620906dc579799ef5206215","我满脑子都是[emb exp='tf.names.NPC.kusakabe']的事。","balloon#4fe86e1e5620906dc579799ef5206215","机翻辅助：
+
+我满脑子都是[emb exp='tf.names.NPC.kusakabe']的事。
+
+我满脑子都是[emb exp='tf.names.NPC.kusakabe']。
+
+脑子里全是[emb exp='tf.names.NPC.kusakabe']。"
+"balloon#de29e186d4e84364339d98c07fc67a96","不过，听她这么一说，[emb exp='tf.names.NPC.chiyo']本身确实也有可疑之处。","balloon#de29e186d4e84364339d98c07fc67a96","机翻辅助：
+
+不过，听她这么一说，[emb exp='tf.names.NPC.chiyo']本身确实也有可疑之处。
+
+不过，这么一说，[emb exp='tf.names.NPC.chiyo']本身确实也有可疑之处。
+
+但是，这么说来，[emb exp='tf.names.NPC.chiyo']自己也确实有可疑之处。"
+"balloon#625a9e4a62bca8cab1b0c374d8d8ac78","虽然我完全不懂她为什么要这么做。","balloon#625a9e4a62bca8cab1b0c374d8d8ac78","机翻辅助：
+
+虽然我完全不懂她为什么要这么做。
+
+我完全不知道他为什么要这么做。
+
+我完全不知道你为什么这么做。"
+"balloon#e239ab5bce5f764cea7e57d3340d97a6","动机确实不明……","balloon#e239ab5bce5f764cea7e57d3340d97a6","机翻辅助：
+
+动机确实不明……
+
+确实，动机完全不清楚……
+
+确实，完全不知道动机……"
+"balloon#90a1aac24b2bba0021210b3f2bdaaf4b","光靠[emb exp='tf.names.NPC.me']一个人的话，根本查不出来。","balloon#90a1aac24b2bba0021210b3f2bdaaf4b","机翻辅助：
+
+光靠[emb exp='tf.names.NPC.me']一个人的话，根本查不出来。
+
+只有[emb exp='tf.names.NPC.me']不知道。
+
+只有[emb exp='tf.names.NPC.me']一个人不懂。"
+"balloon#7d82ad8d81270403f5240d5660133ab9","谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#7d82ad8d81270403f5240d5660133ab9","机翻辅助：
+
+谢谢你，[emb exp='tf.names.NPC.itsuki']。
+
+谢谢啦，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#205e5fb413ccb885ddcc0a9054a3cecd","哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#205e5fb413ccb885ddcc0a9054a3cecd","机翻辅助：
+
+哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#d376a71c1dae762140366f3775ce38c2","又要拜托你啦！","balloon#d376a71c1dae762140366f3775ce38c2","机翻辅助：
+
+又要拜托你啦！
+
+让我再依靠你吧！
+
+我会再拜托你的！"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#b2710c1301be2727fcd3bc79918639c2","虽然我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#b2710c1301be2727fcd3bc79918639c2","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#56214def6fc7ba4f272c1fe5c234fe60","虽然我觉得你的推理[font color=@3]完全不对[resetfont]……","balloon#56214def6fc7ba4f272c1fe5c234fe60","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]完全不对[resetfont]……
+
+我觉得那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#0de797c707262ef072773cf019d1ea19","哦，别在意啦。","balloon#0de797c707262ef072773cf019d1ea19","机翻辅助：
+
+哦，别在意啦。
+
+哦，别在意。
+
+哦，别放在心上。"
+"balloon#2da30a7cba8a5313b6caab6e8a2843ec","关于这件事……","balloon#2da30a7cba8a5313b6caab6e8a2843ec","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#7394c370ed0d070f1db3bfa2755f4ea9","[font color=@3][resetfont]我想知道除了[emb exp='tf.names.NPC.kusakabe']之外，是否还有其他人能够犯案。","balloon#7394c370ed0d070f1db3bfa2755f4ea9","机翻辅助：
+
+[font color=@3][resetfont]我想知道除了[emb exp='tf.names.NPC.kusakabe']之外，是否还有其他人能够犯案。
+
+[font color=@3]我想知道除了[emb exp='tf.names.NPC.kusakabe']以外还可以犯罪吗。[resetfont]
+
+[font color=@3]要知道除了[emb exp='tf.names.NPC.kusakabe']以外还有可能犯罪吗？[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#b813f53d490efbd49f6b88d33f334999","包括[font color=@3]其他人是否能够犯案[resetfont]在内，重新思考一下关于[emb exp='tf.names.itsuki.kusakabe']的事吧。","balloon#b813f53d490efbd49f6b88d33f334999","机翻辅助：
+
+包括[font color=@3]其他人是否能够犯案[resetfont]在内，重新思考一下关于[emb exp='tf.names.itsuki.kusakabe']的事吧。
+
+关于[emb exp='tf.names.itsuki.kusakabe']，我们重新考虑一下是否有可能对其他人进行犯罪。[font color=@3][resetfont]
+
+关于[emb exp='tf.names.itsuki.kusakabe']，试着重新考虑一下，包括对其他人可能犯罪吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

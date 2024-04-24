@@ -1,0 +1,102 @@
+[
+  {
+    "start": 135,
+    "end": 153,
+    "key": "balloon#edc37622f4609fe952ec1cfa43150241"
+  },
+  {
+    "start": 228,
+    "end": 284,
+    "key": "balloon#607724873536dc5b9bad6ac58cdea918"
+  },
+  {
+    "start": 361,
+    "end": 398,
+    "key": "balloon#e57d5b164adaa42f1729284b29248d2a"
+  },
+  {
+    "start": 476,
+    "end": 494,
+    "key": "balloon#bb9faee398917aeec4673892560ec325"
+  },
+  {
+    "start": 557,
+    "end": 566,
+    "key": "balloon#74e6a7beec966d58d9bc03c21fb64852"
+  },
+  {
+    "start": 622,
+    "end": 640,
+    "key": "balloon#611090aee5992e0c0e85e80bcc3f7f84"
+  },
+  {
+    "start": 750,
+    "end": 768,
+    "key": "SECRET_SELECTION/topic#d92af9f534fe38b1953e67c768a4dec4"
+  },
+  {
+    "start": 777,
+    "end": 802,
+    "key": "SECRET_SELECTION/text1#26ecae38eff0cf569ca94d7bed69a975"
+  },
+  {
+    "start": 811,
+    "end": 835,
+    "key": "SECRET_SELECTION/text2#3b7ac2172641efbcbd48c85a273072f5"
+  },
+  {
+    "start": 844,
+    "end": 858,
+    "key": "SECRET_SELECTION/text3#89a02dc8ca5743fd7c16b57dde53b241"
+  },
+  {
+    "start": 1028,
+    "end": 1037,
+    "key": "balloon#ed992180d658abfe710b18da523d8f2c"
+  },
+  {
+    "start": 1225,
+    "end": 1233,
+    "key": "balloon#f352e110485d96dfcd31251695430294"
+  },
+  {
+    "start": 1421,
+    "end": 1430,
+    "key": "balloon#a32fc4ac7509b7fb845435ebf9980a27"
+  },
+  {
+    "start": 1566,
+    "end": 1589,
+    "key": "balloon#ed7362eff143d78fed8745cf524b99f1"
+  },
+  {
+    "start": 1662,
+    "end": 1672,
+    "key": "balloon#e46d95d8f8aa3000591cae0cb26372b9"
+  },
+  {
+    "start": 1750,
+    "end": 1768,
+    "key": "balloon#88b3df483bc4b854b29aa25e8989d1d9"
+  },
+  {
+    "start": 1839,
+    "end": 1844,
+    "key": "balloon#d3f5504960c651e668a2759fb646c137"
+  },
+  {
+    "start": 1922,
+    "end": 1935,
+    "key": "balloon#601885e973f3670a70cef2c8a83bc24d"
+  },
+  {
+    "start": 1998,
+    "end": 2019,
+    "key": "balloon#8cc546555e0c76042f62b967e9d27c4d"
+  },
+  {
+    "start": 2081,
+    "end": 2102,
+    "key": "balloon#add275f63c8ab1ed19a40b17d1839974"
+  }
+]

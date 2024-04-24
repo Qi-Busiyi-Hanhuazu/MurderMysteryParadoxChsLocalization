@@ -1,0 +1,61 @@
+"source","target","id","developer_comments"
+"balloon#5ff8129e9f4627d064229f56daa4971b","好，[emb exp='tf.names.NPC.me']来说！","balloon#5ff8129e9f4627d064229f56daa4971b","机翻辅助：
+
+好，[emb exp='tf.names.NPC.me']来说！
+
+好，[emb exp='tf.names.NPC.me']来说话！"
+"balloon#f62941b694b286acce2d36adc05e0f39","可是，[emb exp='tf.names.NPC.chiyo']为什么要这么费事呢？","balloon#f62941b694b286acce2d36adc05e0f39","机翻辅助：
+
+可是，[emb exp='tf.names.NPC.chiyo']为什么要这么费事呢？
+
+但是，[emb exp='tf.names.NPC.chiyo']竟然这么费事。
+
+但是，[emb exp='tf.names.NPC.chiyo']为什么要做这样的事呢？"
+"balloon#e0706ed54be48886be22859945a6ef69","要离开家的话，从玄关出去不就好了……","balloon#e0706ed54be48886be22859945a6ef69","机翻辅助：
+
+要离开家的话，从玄关出去不就好了……
+
+如果要出门的话，一般从门口出去就好了……
+
+要出门的话，平常从玄关出去不就行了吗……"
+"balloon#706cc2ba522b29d948314006440a2a27","居然还特地放“神隐之印”，瞒着大家行动！","balloon#706cc2ba522b29d948314006440a2a27","机翻辅助：
+
+居然还特地放“神隐之印”，瞒着大家行动！
+
+特意放上“神隐之印”，让大家默默行动！
+
+特意留下“神隐之印”，瞒着大家行动！"
+"balloon#e0b525cdae9bf8df689a010487b9be0a","我无法理解。","balloon#e0b525cdae9bf8df689a010487b9be0a","机翻辅助：
+
+我无法理解。
+
+理解跟不上啊。"
+"balloon#a5ed798d0348ed99e8585f2d6fab203e","[emb exp='tf.names.NPC.chiyo']对这次的事件……","balloon#a5ed798d0348ed99e8585f2d6fab203e","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']对这次的事件……
+
+[emb exp='tf.names.NPC.chiyo']，这次的事件……"
+"balloon#9f65d42a9be8902257c03c04e81119dc","[font color=@3]是之前就计划好的，还是今天突然做的[resetfont]，谁来说明一下！","balloon#9f65d42a9be8902257c03c04e81119dc","机翻辅助：
+
+[font color=@3]是之前就计划好的，还是今天突然做的[resetfont]，谁来说明一下！
+
+[font color=@3]是早就计划好的，还是今天突然做的？[resetfont]，谁来解释一下！
+
+[font color=@3]是很久以前就计划好了，还是今天突然做了！[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#d4663e371d320bd71023502f06e26007","<font color='@3'>${itsuki.chiyo}的行动</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#d4663e371d320bd71023502f06e26007","机翻辅助：
+
+<font color='@3'>${itsuki.chiyo}的行动</font>是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#5b43336e137a95ad67bbcaaa358271fb","是事前计划好的犯罪吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#5b43336e137a95ad67bbcaaa358271fb","机翻辅助：
+
+是事前计划好的犯罪吧！
+
+这是事先计划好的犯罪吧！
+
+这是早有预谋的犯罪吧！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#c4a3a0f1f57d0a2ab5229d17ef742875","是今天突发的事件吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#c4a3a0f1f57d0a2ab5229d17ef742875","机翻辅助：
+
+是今天突发的事件吧！
+
+今天可能是突发事件吧！
+
+今天是突发事件吧！"

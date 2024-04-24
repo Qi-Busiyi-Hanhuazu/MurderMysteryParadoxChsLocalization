@@ -1,0 +1,48 @@
+"source","target","id","developer_comments"
+"balloon#202a192e39d9dc88daab8f0dd6b1086e","[emb exp='tf.names.NPC.kageyama']应该比[emb exp='tf.names.NPC.me']晚一班离开本土。","balloon#202a192e39d9dc88daab8f0dd6b1086e","机翻辅助：
+
+[emb exp='tf.names.NPC.kageyama']应该比[emb exp='tf.names.NPC.me']晚一班离开本土。
+
+[emb exp='tf.names.NPC.kageyama']应该是乘坐[emb exp='tf.names.NPC.me']的一条航班离开本土的。
+
+[emb exp='tf.names.NPC.kageyama']应该是乘比[emb exp='tf.names.NPC.me']晚一班的航班离开本土的。"
+"balloon#43a268869bf24b513edebe58a81789ad","虽然我没有亲眼看到，但这件事应该不假。","balloon#43a268869bf24b513edebe58a81789ad","机翻辅助：
+
+虽然我没有亲眼看到，但这件事应该不假。
+
+虽然不是直接看到的，但是那个故事大概是真的吧。
+
+虽然没有亲眼看到，但那件事应该是真的。"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#9b1778b3d70515f81b42b950134b3d25","[emb exp='tf.names.itsuki.NPC']似乎没有直接掌握[emb exp='tf.names.itsuki.kageyama']的动向。","balloon#9b1778b3d70515f81b42b950134b3d25","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']似乎没有直接掌握[emb exp='tf.names.itsuki.kageyama']的动向。
+
+[emb exp='tf.names.itsuki.NPC']似乎并没有直接掌握[emb exp='tf.names.itsuki.kageyama']的动向。"
+"balloon#dcaea857704e6a17f7843ee234c173bc","而且正如刚才所说，[emb exp='tf.names.NPC.me']昨天也乘坐了联络船。","balloon#dcaea857704e6a17f7843ee234c173bc","机翻辅助：
+
+而且正如刚才所说，[emb exp='tf.names.NPC.me']昨天也乘坐了联络船。
+
+而且就像[emb exp='tf.names.NPC.me']刚才说的，我昨天也搭了联络船。
+
+就像[emb exp='tf.names.NPC.me']刚才说的，我昨天也坐了渡轮。"
+"balloon#dbfd9ccd69341f5bc6916dca801d5f75","昨天傍晚，为了从本土回到岛上……","balloon#dbfd9ccd69341f5bc6916dca801d5f75","机翻辅助：
+
+昨天傍晚，为了从本土回到岛上……
+
+为了昨天傍晚从本土回到岛上……"
+"balloon#54406705d62d1f42e3285aebb1d3879f","[font color=@3][resetfont]搭乘了16:00出发18:20抵达的接驳船，我也有她的船票哦。","balloon#54406705d62d1f42e3285aebb1d3879f","机翻辅助：
+
+[font color=@3][resetfont]搭乘了16:00出发18:20抵达的接驳船，我也有她的船票哦。
+
+[font color=@3]乘坐16:00出发18:20到达的联络船[resetfont]的船票也有哦。
+
+[font color=@3]坐的是16:00到18:20的轮船，船票也有哦。[resetfont]"
+"balloon#cc62c2f723d085f4049657e689714c6f","[emb exp='tf.names.itsuki.NPC']是搭乘[font color=@3]16:00出发18:20抵达的船[resetfont]，昨天从本土回来的吗？","balloon#cc62c2f723d085f4049657e689714c6f","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']是搭乘[font color=@3]16:00出发18:20抵达的船[resetfont]，昨天从本土回来的吗？
+
+[emb exp='tf.names.itsuki.NPC']是乘坐16:00出发18:20到达的船，昨天从本土回来的吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.NPC']是昨天乘坐16:00到18:20的船从本土回来的吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

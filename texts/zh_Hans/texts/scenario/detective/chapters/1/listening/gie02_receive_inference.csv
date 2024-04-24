@@ -1,0 +1,104 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d11127f436042bd2808fa76dce69ccaf","原来如此，这个推理[font color=@3]可以接受[resetfont]！","balloon#d11127f436042bd2808fa76dce69ccaf","机翻辅助：
+
+原来如此，这个推理[font color=@3]可以接受[resetfont]！
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这种推理是可以理解的！[font color=@3][resetfont]"
+"balloon#7433cd08055462018e1338d996ee5dfb","[font color=@3][emb exp='tf.names.NPC.kumiko']不可能犯案[resetfont]。","balloon#7433cd08055462018e1338d996ee5dfb","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.kumiko']不可能犯案[resetfont]。
+
+的确，[emb exp='tf.names.NPC.kumiko']不可能作案。[font color=@3][resetfont]
+
+确实，[emb exp='tf.names.NPC.kumiko']不可能犯罪。[font color=@3][resetfont]"
+"balloon#1a2adaa6368f18cff6263fe20f08e289","虽然他身为第一个发现火灾的人，让我觉得有点可疑。","balloon#1a2adaa6368f18cff6263fe20f08e289","机翻辅助：
+
+虽然他身为第一个发现火灾的人，让我觉得有点可疑。
+
+因为是第一发现者所以觉得很奇怪。
+
+因为是第一发现人，所以觉得很可疑。"
+"balloon#e84d2c4baabc8f29371ccb6af693ae42","能回答[emb exp='tf.names.itsuki.NPC']的疑问，真是太好了！","balloon#e84d2c4baabc8f29371ccb6af693ae42","机翻辅助：
+
+能回答[emb exp='tf.names.itsuki.NPC']的疑问，真是太好了！
+
+能回答[emb exp='tf.names.itsuki.NPC']的疑问，太好了！"
+"balloon#5fd26d212ac5184736a1dfa9f448bd83","哦，谢啦。","balloon#5fd26d212ac5184736a1dfa9f448bd83","机翻辅助：
+
+哦，谢啦。
+
+哦，谢谢。"
+"balloon#986eb819d7e9a21588352466024e585f","[emb exp='tf.names.NPC.itsuki']，你挺行的嘛。","balloon#986eb819d7e9a21588352466024e585f","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你挺行的嘛。
+
+[emb exp='tf.names.NPC.itsuki']，你不是很能干吗。
+
+[emb exp='tf.names.NPC.itsuki']，你很能干啊。"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#14e7c5591d347d54596bfbc6a88a9080","[font color=@3]我觉得你的推理[resetfont]有点不对！","balloon#14e7c5591d347d54596bfbc6a88a9080","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对！
+
+我觉得那个推理有点不一样！[font color=@3][resetfont]
+
+我觉得你的推理有点不对！[font color=@3][resetfont]"
+"balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","[font color=@3]我觉得你的推理[resetfont]完全不对！","balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对！
+
+我觉得那个推理是完全不同的！[font color=@3][resetfont]
+
+我觉得你的推理完全不对！[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#e170c16e2b62b40e2f8f73de898379d8","哦，别在意啦！","balloon#e170c16e2b62b40e2f8f73de898379d8","机翻辅助：
+
+哦，别在意啦！
+
+哦，别在意！
+
+哦，别放在心上！"
+"balloon#7c5713cfddcdfa5c960535cca1cdb824","关于这件事……","balloon#7c5713cfddcdfa5c960535cca1cdb824","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#fd6e3728927287a01f06f165ca70e2e1","[font color=@3]要是没有正确的犯案时间与不在场证明[resetfont]，感觉就很难厘清真相呢。","balloon#fd6e3728927287a01f06f165ca70e2e1","机翻辅助：
+
+[font color=@3]要是没有正确的犯案时间与不在场证明[resetfont]，感觉就很难厘清真相呢。
+
+[font color=@3]如果没有准确的作案时间和不在场证明，好像就不太清楚。[resetfont]
+
+[font color=@3]没有正确的作案时间和不在场证明的话，感觉不太清楚。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#5bbd54162feeddb34c8d46f2e4179a5a","[font color=@3]看来有必要正确理解火灾发生于何时几分[resetfont]。","balloon#5bbd54162feeddb34c8d46f2e4179a5a","机翻辅助：
+
+[font color=@3]看来有必要正确理解火灾发生于何时几分[resetfont]。
+
+[font color=@3]有必要正确理解火灾发生在几点几分。[resetfont]
+
+[font color=@3]火灾是几点几分发生的，看来有必要正确理解。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

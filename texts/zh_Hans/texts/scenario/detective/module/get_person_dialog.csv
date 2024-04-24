@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"javascript#5ad8f3366d5feda466ade081088e766f","将人物信息＜${tf.names[info.group].fullname}＞写在笔记本上。","javascript#5ad8f3366d5feda466ade081088e766f","机翻辅助：
+
+将人物资讯“${tf.names[info.group].fullname}”写在笔记本上。
+
+把人物信息“${tf.names[info.group].fullname}”记在笔记本上。
+
+他在笔记本上记录了人物信息“${tf.names[info.group].fullname}”。"

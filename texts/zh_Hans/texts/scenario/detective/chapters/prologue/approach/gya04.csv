@@ -1,0 +1,165 @@
+"source","target","id","developer_comments"
+"balloon#69aae74d72f0f3bf4f403de36461edc9","我说，[emb exp='tf.names.NPC.itsuki']，你已经长大了呢。","balloon#69aae74d72f0f3bf4f403de36461edc9","机翻辅助：
+
+我说，[emb exp='tf.names.NPC.itsuki']，你已经长大了呢。
+
+喂，[emb exp='tf.names.NPC.itsuki']，你这个年纪真好啊。
+
+喂，多拉，是个好年纪啊。[emb exp='tf.names.NPC.itsuki']"
+"balloon#9bd8c7ab6c9861dfbca422d4fbcf8cb4","长大了？","balloon#9bd8c7ab6c9861dfbca422d4fbcf8cb4","机翻辅助：
+
+青春年华？
+
+年纪大了？
+
+年龄？"
+"balloon#17a554b78987976b275b2ca5df1588a9","哎，嗯，或许是吧。","balloon#17a554b78987976b275b2ca5df1588a9","机翻辅助：
+
+哎，嗯，或许是吧。
+
+嗯、嗯，也许是这样。
+
+嗯，也许是吧。"
+"balloon#0b85487bf34d991e1126ba8dbe59fd96","那么，我想问一下……","balloon#0b85487bf34d991e1126ba8dbe59fd96","机翻辅助：
+
+那么，我想问一下……
+
+那么，我想问你……
+
+那么，我想问问你……"
+"balloon#95945d851d048ea9e38ee261e75f3f4a","我们之中，有你[font color=@3]在意的人[resetfont]吗？","balloon#95945d851d048ea9e38ee261e75f3f4a","机翻辅助：
+
+我们之中，有[font color=@3]在意的人[resetfont]吗？
+
+我们之中有[font color=@3]在意的孩子[resetfont]吗？
+
+我们当中有没有在意的孩子？[font color=@3][resetfont]"
+"balloon#c564008339cfb38cd3f3bb189540043f","诶诶，在意的人！？","balloon#c564008339cfb38cd3f3bb189540043f","机翻辅助：
+
+诶诶，在意的人！？
+
+诶，在意的孩子！？
+
+啊，好在意的孩子！？"
+"balloon#c544958fd22e8b9cbcd2acae97df9c21","也就是说！？","balloon#c544958fd22e8b9cbcd2acae97df9c21","机翻辅助：
+
+也就是说！？
+
+那就是说！？"
+"SECRET_SELECTION/topic#0cb8e1b59d37df4a8e8035417d37589d","我、${itsuki.me}在意的是……","SECRET_SELECTION/topic#0cb8e1b59d37df4a8e8035417d37589d","机翻辅助：
+
+${itsuki.me}在意的是……
+
+${itsuki.me}、我在意的是……"
+"SECRET_SELECTION/text1#cf86817f4f9903f5e7d452655aafc137","在意${itsuki.utaha}！","SECRET_SELECTION/text1#cf86817f4f9903f5e7d452655aafc137","机翻辅助：
+
+我在意${itsuki.utaha}！
+
+很在意${itsuki.utaha}！"
+"SECRET_SELECTION/text2#3bfbe2e5e6089473ee5fa68fbc011d8d","在意${itsuki.NPC}！","SECRET_SELECTION/text2#3bfbe2e5e6089473ee5fa68fbc011d8d","机翻辅助：
+
+我在意${itsuki.NPC}！
+
+很在意${itsuki.NPC}！"
+"SECRET_SELECTION/text3#0d8223edc56e025e9cb0e48cfe167c59","在意${itsuki.chiyo}！","SECRET_SELECTION/text3#0d8223edc56e025e9cb0e48cfe167c59","机翻辅助：
+
+我在意${itsuki.chiyo}！
+
+很在意${itsuki.chiyo}！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#ef25cd6428a06e27774b904268b59237","是吗……","balloon#ef25cd6428a06e27774b904268b59237","机翻辅助：
+
+没错……
+
+是吗……
+
+是的……"
+"balloon#244f70ce408627b71f71e479f7359b6f","[emb exp='tf.names.NPC.itsuki']，你是不是对[font color=@3][emb exp='tf.names.NPC.utaha'][resetfont]……","balloon#244f70ce408627b71f71e479f7359b6f","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你是不是喜欢[font color=@3][emb exp='tf.names.NPC.utaha'][resetfont]……
+
+[emb exp='tf.names.NPC.itsuki']，没有[emb exp='tf.names.NPC.utaha'][font color=@3]……[resetfont]
+
+[emb exp='tf.names.NPC.itsuki']没有[emb exp='tf.names.NPC.utaha']……[font color=@3][resetfont]"
+"balloon#99536cb6987aa3902e47a9438247cca3","[emb exp='tf.names.NPC.itsuki']，你是不是对[font color=@3][emb exp='tf.names.NPC.me'][resetfont]……","balloon#99536cb6987aa3902e47a9438247cca3","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你是不是喜欢[font color=@3][emb exp='tf.names.NPC.me'][resetfont]……
+
+[emb exp='tf.names.NPC.itsuki']没有[font color=@3][emb exp='tf.names.NPC.me'][resetfont]的事啊……
+
+[emb exp='tf.names.NPC.itsuki']没有[emb exp='tf.names.NPC.me'][font color=@3]的事……[resetfont]"
+"balloon#96231cf8a0c3e8bdb430ff55dbb4d8fa","[emb exp='tf.names.NPC.itsuki']，你是不是对[font color=@3][emb exp='tf.names.NPC.chiyo'][resetfont]……","balloon#96231cf8a0c3e8bdb430ff55dbb4d8fa","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你是不是喜欢[font color=@3][emb exp='tf.names.NPC.chiyo'][resetfont]……
+
+[emb exp='tf.names.NPC.itsuki']，没有[emb exp='tf.names.NPC.chiyo'][font color=@3]……[resetfont]
+
+[emb exp='tf.names.NPC.itsuki']没有[emb exp='tf.names.NPC.chiyo']……[font color=@3][resetfont]"
+"balloon#ea33b78b3c108abf896c04d0bd2c10f2","嗯，为什么你会动摇呢？","balloon#ea33b78b3c108abf896c04d0bd2c10f2","机翻辅助：
+
+嗯，为什么我会动摇呢？
+
+嗯，为什么会动摇呢？"
+"balloon#d5b1522a83cc5047e4cbf3a084ee3566","我说的在意，指的是犯人的线索哦！","balloon#d5b1522a83cc5047e4cbf3a084ee3566","机翻辅助：
+
+在意，就是指有头绪的犯人哦！
+
+在意，就是犯人的线索！
+
+我在意的，是凶手的线索！"
+"balloon#1a11d905666f1f880b16b91525e435c1","呵呵，[emb exp='tf.names.NPC.itsuki']真是的，讨厌！","balloon#1a11d905666f1f880b16b91525e435c1","机翻辅助：
+
+呵呵，[emb exp='tf.names.NPC.itsuki']真是的，讨厌！
+
+呵呵，[emb exp='tf.names.NPC.itsuki']，真是的！
+
+呵呵，如果是电视剧的话，就好了！[emb exp='tf.names.NPC.itsuki']"
+"balloon#2308bb0dcd1b721e1dbe946c3c2ad644","啊、啊啊。","balloon#2308bb0dcd1b721e1dbe946c3c2ad644","机翻辅助：
+
+啊、啊啊。
+
+啊、啊。"
+"balloon#dcf081aea4d40527bd304c6bc5387eb9","不知道该怎么回答才好……","balloon#dcf081aea4d40527bd304c6bc5387eb9","机翻辅助：
+
+总觉得，该怎么回答才好呢……
+
+怎么回答才好呢……
+
+不知道该怎么回答才好……"
+"balloon#4baceeb92594499cc0606ca17ecb9c46","好了，回去吧！","balloon#4baceeb92594499cc0606ca17ecb9c46","机翻辅助：
+
+好了，回去吧！
+
+那么，回去吧！"
+"balloon#9d17810a815008b2fe2306be86368423","这件事，必须要和大家[font color=@3]共享情报[resetfont]才行！","balloon#9d17810a815008b2fe2306be86368423","机翻辅助：
+
+这件事，必须要和大家[font color=@3]共享情报[resetfont]才行！
+
+这件事必须向大家分享[font color=@3]信息[resetfont]！
+
+这件事，必须和大家共享信息！[font color=@3][resetfont]"
+"balloon#3c27e13102ed6538901b336f76be87f2","呵呵！","balloon#3c27e13102ed6538901b336f76be87f2","机翻辅助：
+
+呵呵！"
+"balloon#80708df41abd6c88199d4e1bebef3e8a","哇啊，共享这个还是算了吧！","balloon#80708df41abd6c88199d4e1bebef3e8a","机翻辅助：
+
+哇啊，唯独这个共享饶了我吧！
+
+哇，饶了我这个共享吧！
+
+哇，请原谅我的共享！"
+"balloon#943bf6081170873007fc7954573310bc","结果，我只是被捉弄了吗……","balloon#943bf6081170873007fc7954573310bc","机翻辅助：
+
+结果，只是被捉弄了吗……
+
+只是被戏弄了吗……"
+"balloon#01b9d86a76640056e9656dea6bea40f2","不过，她可能是想和[emb exp='tf.names.itsuki.me']拉近关系吧。","balloon#01b9d86a76640056e9656dea6bea40f2","机翻辅助：
+
+不过，你可能是想和[emb exp='tf.names.itsuki.me']拉近关系吧。
+
+但是，也许是想和[emb exp='tf.names.itsuki.me']融洽吧。
+
+不过，也可能是想和[emb exp='tf.names.itsuki.me']融洽相处吧。"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,72 @@
+"source","target","id","developer_comments"
+"balloon#c5fbc412b446ed3b6efac41af70327f7","[emb exp='tf.names.NPC.me']有件在意的事。","balloon#c5fbc412b446ed3b6efac41af70327f7","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有件在意的事。
+
+[emb exp='tf.names.NPC.me']有件事很在意。
+
+[emb exp='tf.names.NPC.me']有在意的事情。"
+"balloon#46eaacbb695ae9f3185de80799dd3c80","[emb exp='tf.names.NPC.utaha']突然从[emb exp='tf.names.NPC.me']们面前消失了。","balloon#46eaacbb695ae9f3185de80799dd3c80","机翻辅助：
+
+[emb exp='tf.names.NPC.utaha']突然从[emb exp='tf.names.NPC.me']们面前消失了。"
+"balloon#fd263068ff115d4e3173b7e805b10091","我真的大受打击，甚至想逃避这个现实。","balloon#fd263068ff115d4e3173b7e805b10091","机翻辅助：
+
+我真的大受打击，甚至想逃避这个现实。
+
+我真的很震惊，甚至想把目光从这个现实中移开。
+
+我真的很震惊，甚至想逃避这个现实。"
+"balloon#88c3ab30392336cff755beffba5e002b","可是，我必须好好面对……","balloon#88c3ab30392336cff755beffba5e002b","机翻辅助：
+
+可是，我必须好好面对……
+
+但是，不好好面对的话……"
+"balloon#e28e3b280c2dc45142c65dd728198ffe","所以，我希望各位能回答我。","balloon#e28e3b280c2dc45142c65dd728198ffe","机翻辅助：
+
+所以，我希望各位能回答我。
+
+所以，我希望大家回答我。
+
+所以，希望大家能回答。"
+"balloon#d10731b86398ca01e05efc4d7eb584db","[font color=@3]在[emb exp='tf.names.NPC.utaha']最后一次被目击到的时间[resetfont]。","balloon#d10731b86398ca01e05efc4d7eb584db","机翻辅助：
+
+[font color=@3]在[emb exp='tf.names.NPC.utaha']最后一次被目击到的时间[resetfont]。
+
+[font color=@3][emb exp='tf.names.NPC.utaha']最后被目击的时间[resetfont]。
+
+[font color=@3][emb exp='tf.names.NPC.utaha']最后一次被目击的时间。[resetfont]"
+"balloon#f659cf8aac872d20eac5abbc997f7848","犯人应该不想说出正确的时间。","balloon#f659cf8aac872d20eac5abbc997f7848","机翻辅助：
+
+犯人应该不想说出正确的时间。
+
+犯人应该不想回答正确的时间。
+
+凶手应该不想回答正确的时间。"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#6ff7334e348a5f1fc9a4aa8063e5a54c","<font color='@3'>最后一次目击到${itsuki_p.utaha}</font>是在……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#6ff7334e348a5f1fc9a4aa8063e5a54c","机翻辅助：
+
+<font color='@3'>最后一次目击到${itsuki_p.utaha}</font>是在……
+
+<font color='@3'>${itsuki_p.utaha}最后被目击到的是……</font>
+
+<font color='@3'>${itsuki_p.utaha}最后一次被人看到是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8ff32f9f333423c04276767b0403ba2b","时间是14:57！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#8ff32f9f333423c04276767b0403ba2b","机翻辅助：
+
+时间是14:57！
+
+14:57 ！
+
+14:57！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#696a2b8f75de0e0c3ce72f9d92d01eba","时间是15:00！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#696a2b8f75de0e0c3ce72f9d92d01eba","机翻辅助：
+
+时间是15:00！
+
+15:00 ！
+
+15:00！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#1464ffffeec7d3689ffa61db0ef897f3","时间是15:02！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#1464ffffeec7d3689ffa61db0ef897f3","机翻辅助：
+
+现在是15:02！
+
+是15:02！
+
+是15:02 ！"

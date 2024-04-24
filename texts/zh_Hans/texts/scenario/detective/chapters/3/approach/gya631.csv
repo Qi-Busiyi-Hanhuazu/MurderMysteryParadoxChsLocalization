@@ -1,0 +1,216 @@
+"source","target","id","developer_comments"
+"balloon#22a4087e79ed678150806678a37eed15","然后，你好像很伤脑筋……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]是怎么了？","balloon#22a4087e79ed678150806678a37eed15","机翻辅助：
+
+然后，你好像很伤脑筋……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]是怎么了？
+
+所以，您看起来很为难……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]怎么了？
+
+所以，看起来很为难的样子……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]怎么了？"
+"balloon#fb5c542bb178efb0f5a6119ad1095ff4","那个，其实……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]这是朋友的事情。","balloon#fb5c542bb178efb0f5a6119ad1095ff4","机翻辅助：
+
+那个，其实……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]这是朋友的事情。
+
+那个，其实……这是我朋友的故事。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]
+
+那个，其实……这是朋友说的。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]"
+"balloon#f396b3f1c4666a0f9d278238ab077b2f","……是的。","balloon#f396b3f1c4666a0f9d278238ab077b2f","机翻辅助：
+
+……是的。
+
+……是。"
+"balloon#a1ef5280fd98acbe6517ddfe11ca8a40","最近，她好像有了在意的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]只是朋友的事情哦。","balloon#a1ef5280fd98acbe6517ddfe11ca8a40","机翻辅助：
+
+最近，她好像有了在意的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]只是朋友的事情哦。
+
+最近好像有了在意的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]说到底是朋友的事吧？
+
+最近，好像有了喜欢的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]说到底，是朋友的事啊？"
+"balloon#8121a360426d3da9d57d2c848506c466","嗯，是朋友的事情。","balloon#8121a360426d3da9d57d2c848506c466","机翻辅助：
+
+嗯，是朋友的事情。
+
+嗯，是朋友的事吧。
+
+是的，你是说你的朋友。"
+"balloon#af295e796bb9e1c862789a4177155419","她和那个在意的人，似乎进展得不太顺利……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]是朋友的事情哦。","balloon#af295e796bb9e1c862789a4177155419","机翻辅助：
+
+她和那个在意的人，似乎进展得不太顺利……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]是朋友的事情哦。
+
+好像和那个中意的人关系不太好……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]是朋友吗？
+
+和那个在意的人，好像不太顺利……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]朋友，是吧？"
+"balloon#32fd9abcc38f76edcd48d3e3fe3aa77d","原来如此……","balloon#32fd9abcc38f76edcd48d3e3fe3aa77d","机翻辅助：
+
+原来如此……"
+"balloon#db5da97b1879bb5c619d7ab6ca74d61a","她担心自己是不是被讨厌了，所以很沮丧……","balloon#db5da97b1879bb5c619d7ab6ca74d61a","机翻辅助：
+
+她担心自己是不是被讨厌了，所以很沮丧……
+
+是不是被讨厌了，所以很失落……
+
+可能是被讨厌了吧，我很失落……"
+"balloon#cfa3f2f1fb898a9fc418d1e50e277afa","是朋友的事情。","balloon#cfa3f2f1fb898a9fc418d1e50e277afa","机翻辅助：
+
+是朋友的事情。
+
+你的朋友是吧？
+
+是朋友吧。"
+"balloon#dbbc1f37730eaf32d755a9f0a7c8d49a","啊，有！","balloon#dbbc1f37730eaf32d755a9f0a7c8d49a","机翻辅助：
+
+啊，有！
+
+啊，是的！
+
+啊，好的！"
+"balloon#82e28d4e46f86198e01c8df032aa09f8","从1990年那时候的情况来想，肯定是那个人吧……","balloon#82e28d4e46f86198e01c8df032aa09f8","机翻辅助：
+
+从1990年那时候的情况来想，肯定是那个人吧……
+
+考虑到1990年时的情况，一定是那个人吧……
+
+想想1990年的样子，一定是那个人吧……"
+"SECRET_SELECTION/topic#04c56dd8db1c54cfea03eb1366af7adf","${itsuki_p.yuuki}在意的人……","SECRET_SELECTION/topic#04c56dd8db1c54cfea03eb1366af7adf","机翻辅助：
+
+${itsuki_p.yuuki}在意的人……
+
+在意${itsuki_p.yuuki}的人……
+
+${itsuki_p.yuuki}在意的人是……"
+"SECRET_SELECTION/text1#cd61dc8b04fbeafdb31449fa6fff4db3","是${itsuki.ebihara}吧？","SECRET_SELECTION/text1#cd61dc8b04fbeafdb31449fa6fff4db3","机翻辅助：
+
+是${itsuki.ebihara}吧？
+
+你是说${itsuki.ebihara}吧？"
+"SECRET_SELECTION/text2#8fa930c960c3aba532df608aabeacf40","是${itsuki.kamishiro}吧？","SECRET_SELECTION/text2#8fa930c960c3aba532df608aabeacf40","机翻辅助：
+
+是${itsuki.kamishiro}吧？
+
+你是说${itsuki.kamishiro}吧？"
+"SECRET_SELECTION/text3#2be67925b7c16636c47832268282c21b","是${itsuki.mashima}吧？","SECRET_SELECTION/text3#2be67925b7c16636c47832268282c21b","机翻辅助：
+
+是${itsuki.mashima}吧？
+
+你是说${itsuki.mashima}吧？"
+"balloon#4317fff5c1afb8990e672803b9665bc8","咦，不是啦！","balloon#4317fff5c1afb8990e672803b9665bc8","机翻辅助：
+
+咦，不是啦！
+
+诶，不是的！
+
+啊，不对！"
+"balloon#e8295ca33e66ed91f7d45386ccab3f94","不是我的菜……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]朋友的。","balloon#e8295ca33e66ed91f7d45386ccab3f94","机翻辅助：
+
+不是我的菜……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]朋友的。
+
+不是你喜欢的类型……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]朋友呢？
+
+不是类型的……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]朋友是。"
+"balloon#82927f850be12cbcc87f26c9ab245e5c","不、不用那么否定吧……","balloon#82927f850be12cbcc87f26c9ab245e5c","机翻辅助：
+
+不、不用那么否定吧……
+
+即使不那么否定……
+
+你不用这么否定……"
+"balloon#3fe1c10388acc8ec4e90872a5ec07f9d","那个在意的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是[emb exp='tf.names.NPC.mashima']。","balloon#3fe1c10388acc8ec4e90872a5ec07f9d","机翻辅助：
+
+那个在意的人……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是[emb exp='tf.names.NPC.mashima']。
+
+那个，在意的人是……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']。
+
+那个，在意的人是……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是[emb exp='tf.names.NPC.mashima']。"
+"balloon#11b4e9bfcb96a1b5f62059fc2d798570","啊，是朋友的！","balloon#11b4e9bfcb96a1b5f62059fc2d798570","机翻辅助：
+
+啊，是朋友的！
+
+啊，朋友的！"
+"balloon#21123f5d6f6143cb8c692bec3a766a02","我想也是。","balloon#21123f5d6f6143cb8c692bec3a766a02","机翻辅助：
+
+我想也是。
+
+是吧。"
+"balloon#0755d2cc6e780500d4974f597a360fde","虽然也很棒……","balloon#0755d2cc6e780500d4974f597a360fde","机翻辅助：
+
+虽然也很棒……
+
+也很棒……
+
+虽然也很漂亮……"
+"balloon#e4ce336425c7aa9670df7c660449526e","但她喜欢年纪更大的……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友是。","balloon#e4ce336425c7aa9670df7c660449526e","机翻辅助：
+
+但她喜欢年纪更大的……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友是。
+
+喜欢更年长的……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友是。
+
+我喜欢年纪更大的……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友呢？"
+"balloon#c27cd6eb815d043fe493e1fdbc3b2605","是这样啊……","balloon#c27cd6eb815d043fe493e1fdbc3b2605","机翻辅助：
+
+是这样啊……
+
+这样啊……
+
+原来是这样啊……"
+"balloon#b4baf7d184a097074580bc2b349cb43f","……我想也是。","balloon#b4baf7d184a097074580bc2b349cb43f","机翻辅助：
+
+……我想也是。
+
+……是吧。"
+"balloon#75d01cac43a82fe63b0db886aabfedbe","咦，你怎么会知道！","balloon#75d01cac43a82fe63b0db886aabfedbe","机翻辅助：
+
+咦，你怎么会知道！
+
+你是怎么知道的？
+
+咦，你怎么知道的！"
+"balloon#12b9a8cab17d38f412118ca51c659fe9","啊，呃……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友在意的人，好像是[emb exp='tf.names.NPC.mashima']。","balloon#12b9a8cab17d38f412118ca51c659fe9","机翻辅助：
+
+啊，呃……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友在意的人，好像是[emb exp='tf.names.NPC.mashima']。
+
+啊，那个……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]朋友喜欢的人就像[emb exp='tf.names.NPC.mashima']一样。
+
+啊，那个……朋友在意的人，像[emb exp='tf.names.NPC.mashima']一样。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]"
+"balloon#4e472f395755676d1dd7076f721e3854","是这样啊……","balloon#4e472f395755676d1dd7076f721e3854","机翻辅助：
+
+是这样啊……
+
+就是这么回事啊……
+
+就是这样啊……"
+"balloon#38a70312428c9c337d442282859c4d11","所以[emb exp='tf.names.NPC.me']想代替朋友，调查[emb exp='tf.names.NPC.mashima']的事……","balloon#38a70312428c9c337d442282859c4d11","机翻辅助：
+
+所以[emb exp='tf.names.NPC.me']想代替朋友，调查[emb exp='tf.names.NPC.mashima']的事……
+
+所以[emb exp='tf.names.NPC.me']想代替朋友调查[emb exp='tf.names.NPC.mashima']的事情……
+
+所以[emb exp='tf.names.NPC.me']想代替朋友调查[emb exp='tf.names.NPC.mashima']的事……"
+"balloon#35f2765141f5133ffd977b6bf623656c","所以[emb exp='tf.names.itsuki.yuuki']才会在意[emb exp='tf.names.itsuki.mashima']的事吗？","balloon#35f2765141f5133ffd977b6bf623656c","机翻辅助：
+
+所以[emb exp='tf.names.itsuki.yuuki']才会在意[emb exp='tf.names.itsuki.mashima']的事吗？
+
+所以[emb exp='tf.names.itsuki.yuuki']很在意[emb exp='tf.names.itsuki.mashima']的事情吗。"
+"balloon#aa47c14437219c178e861a5c56d09ef0","那个……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']的事，就拜托你了。","balloon#aa47c14437219c178e861a5c56d09ef0","机翻辅助：
+
+那个……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']的事，就拜托你了。
+
+那个……[emb exp='tf.names.NPC.mashima']的事，还请多多关照。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]
+
+关于[emb exp='tf.names.NPC.mashima']的事，请多关照。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]"
+"balloon#bfe17dd65d64c5d65200e57346722ed9","好的，交给[emb exp='tf.names.itsuki.me']吧！","balloon#bfe17dd65d64c5d65200e57346722ed9","机翻辅助：
+
+好的，交给[emb exp='tf.names.itsuki.me']吧！"
+"balloon#bdb32afb00e507aebc5bad8553b1bb50","谢谢你……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]啊，没有，我想朋友也会感谢你。","balloon#bdb32afb00e507aebc5bad8553b1bb50","机翻辅助：
+
+谢谢你……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]啊，没有，我想朋友也会感谢你。
+
+谢谢……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]啊，不，我想朋友也很感谢。
+
+谢谢你……啊，不，我想朋友们也很感谢。[l][chara_mod time=""@f1"" name=""NPC"" face=""panic"" position=""right""]"
+"balloon#ea0a1147162d68e684b2bcefbc2b4246","[emb exp='tf.names.itsuki.yuuki']……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]为了朋友，揭开[emb exp='tf.names.itsuki.mashima']的行动吧。","balloon#ea0a1147162d68e684b2bcefbc2b4246","机翻辅助：
+
+[emb exp='tf.names.itsuki.yuuki']……[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]为了朋友，揭开[emb exp='tf.names.itsuki.mashima']的行动吧。
+
+[emb exp='tf.names.itsuki.yuuki']……为了朋友，也要明确[emb exp='tf.names.itsuki.mashima']的行动。[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]
+
+[emb exp='tf.names.itsuki.yuuki']……为了朋友，也要弄清[emb exp='tf.names.itsuki.mashima']的行动。[l][chara_mod time=""@f1"" name=""主人公"" face=""what""]"
+"speaker_主人公","主人公","speaker_主人公",""

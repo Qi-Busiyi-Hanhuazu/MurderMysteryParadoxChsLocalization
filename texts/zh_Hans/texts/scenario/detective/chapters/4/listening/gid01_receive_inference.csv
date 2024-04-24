@@ -1,0 +1,125 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#015a85f12d5d65a193fd42bb61b702aa","原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！","balloon#015a85f12d5d65a193fd42bb61b702aa","机翻辅助：
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这个推理[font color=@3]我[resetfont]可以接受！
+
+原来如此，这个推理是可以理解的！[font color=@3][resetfont]"
+"balloon#3dfc3e3ae84c946ba4a339820b88896b","[emb exp='tf.names.NPC.kusakabe']对[emb exp='tf.names.NPC.chiyo']对[emb exp='tf.names.NPC.tetsuo']……","balloon#3dfc3e3ae84c946ba4a339820b88896b","机翻辅助：
+
+[emb exp='tf.names.NPC.kusakabe']对[emb exp='tf.names.NPC.chiyo']对[emb exp='tf.names.NPC.tetsuo']……
+
+多啦A梦对多啦A梦说多啦A梦的事……[emb exp='tf.names.NPC.kusakabe'][emb exp='tf.names.NPC.chiyo'][emb exp='tf.names.NPC.tetsuo']
+
+[emb exp='tf.names.NPC.kusakabe']对[emb exp='tf.names.NPC.chiyo']……[emb exp='tf.names.NPC.tetsuo']"
+"balloon#411dff013f3c4ead53701344f619751e","话说回来，没想到[emb exp='tf.names.NPC.kusakabe']竟然在调查“式音岛神隐”。","balloon#411dff013f3c4ead53701344f619751e","机翻辅助：
+
+话说回来，没想到[emb exp='tf.names.NPC.kusakabe']竟然在调查“式音岛神隐”。
+
+话说回来，[emb exp='tf.names.NPC.kusakabe']竟然调查了“式音岛神隐”。
+
+话说回来，[emb exp='tf.names.NPC.kusakabe']竟然在调查“式音岛神隐”。"
+"balloon#139178050a8d5a35bd93cf57d0f7a103","……这就是所谓的执着吗？","balloon#139178050a8d5a35bd93cf57d0f7a103","机翻辅助：
+
+……这就是所谓的执着吗？
+
+……执念吗。
+
+……就是所谓的执念吧。"
+"balloon#249643cd7d65ca9edfceb46ed6edc710","……或许是吧。","balloon#249643cd7d65ca9edfceb46ed6edc710","机翻辅助：
+
+……或许是吧。
+
+……也许是吧。
+
+……也许吧。"
+"balloon#90a1aac24b2bba0021210b3f2bdaaf4b","光靠[emb exp='tf.names.NPC.me']一个人的话，根本查不出来。","balloon#90a1aac24b2bba0021210b3f2bdaaf4b","机翻辅助：
+
+光靠[emb exp='tf.names.NPC.me']一个人的话，根本查不出来。
+
+只有[emb exp='tf.names.NPC.me']不知道。
+
+只有[emb exp='tf.names.NPC.me']一个人不懂。"
+"balloon#7d82ad8d81270403f5240d5660133ab9","谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#7d82ad8d81270403f5240d5660133ab9","机翻辅助：
+
+谢谢你，[emb exp='tf.names.NPC.itsuki']。
+
+谢谢啦，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#205e5fb413ccb885ddcc0a9054a3cecd","哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#205e5fb413ccb885ddcc0a9054a3cecd","机翻辅助：
+
+哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#81946bf1c431b3a6b095adb40cb7a4d4","之后再拜托你啦，名侦探！","balloon#81946bf1c431b3a6b095adb40cb7a4d4","机翻辅助：
+
+之后再拜托你啦，名侦探！
+
+再让我依靠你吧，名侦探！
+
+名侦探，我又要拜托你了！"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#b2710c1301be2727fcd3bc79918639c2","虽然我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#b2710c1301be2727fcd3bc79918639c2","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#56214def6fc7ba4f272c1fe5c234fe60","虽然我觉得你的推理[font color=@3]完全不对[resetfont]……","balloon#56214def6fc7ba4f272c1fe5c234fe60","机翻辅助：
+
+虽然我觉得你的推理[font color=@3]完全不对[resetfont]……
+
+我觉得那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#0de797c707262ef072773cf019d1ea19","哦，别在意啦。","balloon#0de797c707262ef072773cf019d1ea19","机翻辅助：
+
+哦，别在意啦。
+
+哦，别在意。
+
+哦，别放在心上。"
+"balloon#2da30a7cba8a5313b6caab6e8a2843ec","关于这件事……","balloon#2da30a7cba8a5313b6caab6e8a2843ec","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#354a662bc4b69e995155abc0aa60a6fb","看来有必要弄清楚[font color=@3]很少生气的[emb exp='tf.names.NPC.chiyo'][resetfont]变得情绪化的原因。","balloon#354a662bc4b69e995155abc0aa60a6fb","机翻辅助：
+
+看来有必要弄清楚[font color=@3]很少生气的[emb exp='tf.names.NPC.chiyo'][resetfont]变得情绪化的原因。
+
+很少生气[font color=@3][emb exp='tf.names.NPC.chiyo']感情用事的原因[resetfont]看来有必要弄清楚。
+
+似乎有必要弄清楚[emb exp='tf.names.NPC.chiyo']变得感情用事的原因。[font color=@3][resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#ba226965ee242bf32059ad02fefd0c6c","[font color=@3]究竟是什么话题让她情绪化[resetfont]，现在就来重新审视线索吧。","balloon#ba226965ee242bf32059ad02fefd0c6c","机翻辅助：
+
+[font color=@3]究竟是什么话题让她情绪化[resetfont]，现在就来重新审视线索吧。
+
+到底[font color=@3]因为什么样的话题变得感情用事了呢？现在重新审视一下线索吧。[resetfont]
+
+到底是因为什么话题而产生感情的呢。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

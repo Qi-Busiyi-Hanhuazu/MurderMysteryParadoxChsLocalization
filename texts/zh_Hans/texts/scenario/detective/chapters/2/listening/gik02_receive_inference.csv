@@ -1,0 +1,139 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#f80241d0f8190302346c733f50e5e5b5","哦，如果是这个推理，[font color=@3]我能够接受[resetfont]！","balloon#f80241d0f8190302346c733f50e5e5b5","机翻辅助：
+
+哦，如果是这个推理，[font color=@3]我能够接受[resetfont]！
+
+哦，如果是那个推理[font color=@3]能理解[resetfont]！
+
+哦，这个推理的话[font color=@3]能接受[resetfont]！"
+"balloon#9ca65f52904f52543f915cc422ed1a03","这样啊，原来是这么回事吗？","balloon#9ca65f52904f52543f915cc422ed1a03","机翻辅助：
+
+这样啊，原来是这么回事吗？
+
+是吗，原来是这样啊。
+
+原来是这样啊。"
+"balloon#5a701103050b7afb12e3c73056e4e7c5","当时从围栏对面，给[emb exp='tf.names.NPC.me']糖果的人……","balloon#5a701103050b7afb12e3c73056e4e7c5","机翻辅助：
+
+当时从围栏对面，给[emb exp='tf.names.NPC.me']糖果的人……
+
+那个时候，从栅栏那边给[emb exp='tf.names.NPC.me']糖的人是……
+
+那个时候从栅栏的对面给[emb exp='tf.names.NPC.me']糖的是……"
+"balloon#2bfad50243dc1784fc1a4356737044b1","[font color=@3]不是[emb exp='tf.names.NPC.iroha']，而是[emb exp='tf.names.NPC.utaha'][resetfont]呢！","balloon#2bfad50243dc1784fc1a4356737044b1","机翻辅助：
+
+[font color=@3]不是[emb exp='tf.names.NPC.iroha']，而是[emb exp='tf.names.NPC.utaha'][resetfont]呢！
+
+[font color=@3]不是[emb exp='tf.names.NPC.iroha']，而是[emb exp='tf.names.NPC.utaha'][resetfont]！
+
+[font color=@3]不是[emb exp='tf.names.NPC.iroha']，而是[emb exp='tf.names.NPC.utaha'][resetfont]啊！"
+"balloon#78d36b55ee599fe35264aabc5fb40c77","没错，[font color=@3]15:00把糖果交给[emb exp='tf.names.itsuki_p.kageyama']的人，是[emb exp='tf.names.itsuki_p.utaha'][resetfont]。","balloon#78d36b55ee599fe35264aabc5fb40c77","机翻辅助：
+
+没错，[font color=@3]15:00把糖果交给[emb exp='tf.names.itsuki_p.kageyama']的人，是[emb exp='tf.names.itsuki_p.utaha'][resetfont]。
+
+没错，[font color=@3]15:00给[emb exp='tf.names.itsuki_p.kageyama']糖的是[emb exp='tf.names.itsuki_p.utaha'][resetfont]。
+
+没错，15:00给[emb exp='tf.names.itsuki_p.kageyama']送糖的是[emb exp='tf.names.itsuki_p.utaha']。[font color=@3][resetfont]"
+"balloon#46d11dfc43a18b5aa2b7952459995251","光靠[emb exp='tf.names.NPC.me']一个人，是没办法知道的。","balloon#46d11dfc43a18b5aa2b7952459995251","机翻辅助：
+
+光靠[emb exp='tf.names.NPC.me']一个人，是没办法知道的。
+
+只有[emb exp='tf.names.NPC.me']一个人的话，就不知道了。
+
+只有[emb exp='tf.names.NPC.me']一个人，还不知道呢。"
+"balloon#d786169926c3f68bea5e8c611569ecba","[emb exp='tf.names.NPC.itsuki']真的很聪明呢。","balloon#d786169926c3f68bea5e8c611569ecba","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']真的很聪明呢。
+
+[emb exp='tf.names.NPC.itsuki']真聪明。
+
+[emb exp='tf.names.NPC.itsuki']真聪明啊。"
+"balloon#0fb364b49149e16e7ff27c5b1110209c","[emb exp='tf.names.NPC.itsuki']，你还是来我们学校吧？","balloon#0fb364b49149e16e7ff27c5b1110209c","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你还是来我们学校吧？
+
+还是[emb exp='tf.names.NPC.itsuki']，来我们学校吧？
+
+[emb exp='tf.names.NPC.itsuki']，还是来我们学校吧？"
+"balloon#69b071ab4193001427895432cfb5f4db","说不定可以拿到奖学金哦？","balloon#69b071ab4193001427895432cfb5f4db","机翻辅助：
+
+说不定可以拿到奖学金哦？
+
+可能是奖学金吧？
+
+可能会拿到奖学金吧？"
+"balloon#48c81e2ec55117c25962678cad0d8110","谢、谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]我会考虑。","balloon#48c81e2ec55117c25962678cad0d8110","机翻辅助：
+
+谢、谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]我会考虑。
+
+啊，谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]我会考虑的。
+
+啊，谢谢你……我会考虑的。[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]"
+"balloon#eb4fedb8b81579da7bd5153180588f5d","哎呀，又被敷衍过去了……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]连敷衍的方式都变得很成熟了呢！","balloon#eb4fedb8b81579da7bd5153180588f5d","机翻辅助：
+
+哎呀，又被敷衍过去了……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]连敷衍的方式都变得很成熟了呢！
+
+哎呀，又被蒙蔽了……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]对待方式也很成熟！
+
+哎呀呀，又被蒙混过去了……连待人接物都像个大人！[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""]"
+"balloon#3352362ceed8d2ef9d3d4298175e3021","真的吗？","balloon#3352362ceed8d2ef9d3d4298175e3021","机翻辅助：
+
+真的吗？"
+"balloon#6eba0ca0638ba4db01e90912efe61bde","我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#6eba0ca0638ba4db01e90912efe61bde","机翻辅助：
+
+我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#e554e6c642ec035c8545da01a48db3aa","我觉得你的推理[font color=@3]完全不对[resetfont]。","balloon#e554e6c642ec035c8545da01a48db3aa","机翻辅助：
+
+我觉得你的推理[font color=@3]完全不对[resetfont]。
+
+我觉得那个推理完全不一样。[font color=@3][resetfont]
+
+我觉得这个推理完全不一样。[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#3dc1931b011aba4cebeba50df27d1753","不过，任何人都会犯错。","balloon#3dc1931b011aba4cebeba50df27d1753","机翻辅助：
+
+不过，任何人都会犯错。
+
+嘛，谁都会弄错的。
+
+谁都有犯错的时候。"
+"balloon#0c31e29634bb3cc8ad4edbecabd16cc0","关于这件事……","balloon#0c31e29634bb3cc8ad4edbecabd16cc0","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#d2c26ffa98c95216280ecb4d026dd117","[font color=@3]我需要调查[emb exp='tf.names.NPC.iroha']和糖果的关系[resetfont]。","balloon#d2c26ffa98c95216280ecb4d026dd117","机翻辅助：
+
+[font color=@3]我需要调查[emb exp='tf.names.NPC.iroha']和糖果的关系[resetfont]。
+
+[font color=@3]有必要调查[emb exp='tf.names.NPC.iroha']和糖的关系[resetfont]吧。
+
+[font color=@3]有必要调查[emb exp='tf.names.NPC.iroha']和糖的关系。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#6d0a595a6ef73a5456dd7efecf4900f4","[font color=@3]我再重新检视一次线索，看看有没有漏掉[emb exp='tf.names.itsuki_p.iroha']和糖果的关系[resetfont]。","balloon#6d0a595a6ef73a5456dd7efecf4900f4","机翻辅助：
+
+[font color=@3]我再重新检视一次线索，看看有没有漏掉[emb exp='tf.names.itsuki_p.iroha']和糖果的关系[resetfont]。
+
+[font color=@3][emb exp='tf.names.itsuki_p.iroha']和糖的关系[resetfont]有没有看漏，再重新审视一下线索吧。
+
+[font color=@3][emb exp='tf.names.itsuki_p.iroha']和糖的关系[resetfont]是否有疏漏，让我们再重新审视一下线索。"
+"speaker_主人公","主人公","speaker_主人公",""

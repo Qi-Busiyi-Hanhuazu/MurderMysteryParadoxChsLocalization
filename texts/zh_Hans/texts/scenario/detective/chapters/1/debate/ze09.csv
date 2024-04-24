@@ -1,0 +1,61 @@
+"source","target","id","developer_comments"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#cc7a0112b0b65247f3c275bf0439a615","<font color='@3'>引发骚动的犯人</font>究竟是谁……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#cc7a0112b0b65247f3c275bf0439a615","机翻辅助：
+
+<font color='@3'>引发骚动的犯人</font>究竟是谁……
+
+<font color='@3'>引起骚动的凶手</font>是谁……
+
+<font color='@3'>闹得沸沸扬扬的犯人是谁……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","我知道了，说出来吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","机翻辅助：
+
+我知道了，说出来吧！
+
+知道了，告诉你吧！
+
+我知道了，就转告吧！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","我不知道，还是别说吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","机翻辅助：
+
+我不知道，还是别说吧！
+
+因为不明白，所以保持沉默吧！
+
+我不知道，就闭嘴吧！"
+"javascript#4a622f127baeae041b4eef6a8884069f","返回","javascript#4a622f127baeae041b4eef6a8884069f","机翻辅助：
+
+返回
+
+后退"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#3795223c162ba62208d953c2b7c929e8","这次引发骚动的犯人，就是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#3795223c162ba62208d953c2b7c929e8","机翻辅助：
+
+这次引发骚动的犯人，就是……
+
+这次骚乱的犯人，那是……
+
+这次骚动的凶手，就是……"
+"javascript#38cffef722128b383d2b128bd40a8223","{0}是犯人的证据……","javascript#38cffef722128b383d2b128bd40a8223","机翻辅助：
+
+没有任何证据证明……
+
+{0}是犯人的根据……"
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","请思考能让对方接受犯人是谁的推理。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","机翻辅助：
+
+请思考能让对方接受犯人是谁的推理。
+
+可以让人接受是犯人，考虑推理吧。
+
+思考一下能让人相信是凶手的推理吧。"
+"message10#500e3a81553854050b6f45e05ba6f4ad","树在大家面前，发表了骚动犯人是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。","message10#500e3a81553854050b6f45e05ba6f4ad","机翻辅助：
+
+树在大家面前，发表了骚动犯人是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+树在众人面前披露了引起骚动的犯人
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+树在所有人面前宣布了吵闹的犯人，
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。"

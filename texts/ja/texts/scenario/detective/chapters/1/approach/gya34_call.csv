@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#c61d3c2964b9a8fc2e8266d7a8f57ac7","ちょっといいかしら、[emb exp='tf.names.NPC.itsuki']？","balloon#c61d3c2964b9a8fc2e8266d7a8f57ac7","NPC"
+"balloon#f8e31a9b98ffa4ebf936ae6f3258eb8d","あっ、かあさ……[l][chara_mod time=""@f1"" name=""主人公"" face=""panic""]くっ、[emb exp='tf.names.itsuki_p.NPC']！","balloon#f8e31a9b98ffa4ebf936ae6f3258eb8d","主人公"
+"balloon#8a66c65afe40da1f5eb2c7944c584b77","どうしたの、そんなに慌てて？","balloon#8a66c65afe40da1f5eb2c7944c584b77","NPC"
+"balloon#279bef499dbaeb0ce9dc32278d7fb636","驚かすために声をかけたんじゃないわよ。","balloon#279bef499dbaeb0ce9dc32278d7fb636","NPC"
+"balloon#649c53dcb10c11ea6c49cb84fae0aa99","ちょっと、お話しましょう。","balloon#649c53dcb10c11ea6c49cb84fae0aa99","NPC"
+"balloon#a9d610db77748b1095105d8e805054a4","は、はい！","balloon#a9d610db77748b1095105d8e805054a4","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

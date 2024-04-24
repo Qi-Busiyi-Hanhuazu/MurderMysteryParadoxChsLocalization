@@ -1,0 +1,80 @@
+"source","target","id","developer_comments"
+"jname#5ef67d75703d86474a0cb332a15c5f56","佐仓千世","jname#5ef67d75703d86474a0cb332a15c5f56","机翻辅助：
+
+佐仓千世"
+"balloon#d9e56d1a2216811ed4358ef3e7a58a1a","发生争执的时候，有人可以证明[emb exp='tf.names.NPC.me']人在诊所。","balloon#d9e56d1a2216811ed4358ef3e7a58a1a","机翻辅助：
+
+发生争执的时候，有人可以证明[emb exp='tf.names.NPC.me']人在诊所。
+
+发生骚乱的时候，有人能证明[emb exp='tf.names.NPC.me']在诊所。
+
+有人能证明[emb exp='tf.names.NPC.me']在骚乱发生的时候在诊所。"
+"balloon#4d055828e087c9efd0f0ed81640dfee0","[emb exp='tf.names.NPC.chiyo']，可以请你作证吗？","balloon#4d055828e087c9efd0f0ed81640dfee0","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']，可以请你作证吗？
+
+[emb exp='tf.names.NPC.chiyo']，你能作证吗？
+
+[emb exp='tf.names.NPC.chiyo']，能请你作证吗。"
+"balloon#8c2054fce02b896a4a2c500b74321b4c","[emb exp='tf.names.chiyo_p.me']在照相馆发生争执的时候，正好[font color=@3]在诊所接受[emb exp='tf.names.chiyo_p.NPC']的诊疗[resetfont]。","balloon#8c2054fce02b896a4a2c500b74321b4c","机翻辅助：
+
+[emb exp='tf.names.chiyo_p.me']在照相馆发生争执的时候，正好[font color=@3]在诊所接受[emb exp='tf.names.chiyo_p.NPC']的诊疗[resetfont]。
+
+[emb exp='tf.names.chiyo_p.me']在照相馆引起骚动的时候，正好在诊所接受了[emb exp='tf.names.chiyo_p.NPC']的诊察。[font color=@3][resetfont]
+
+照相馆闹得沸沸扬扬的时候，[emb exp='tf.names.chiyo_p.me']正好在诊所给[emb exp='tf.names.chiyo_p.NPC']看病。[font color=@3][resetfont]"
+"balloon#f58caf1ec4ae501e3e93348417277ba0","我记得很清楚，时间是[l]
+[font color=@3]12:32到12:51[resetfont]。","balloon#f58caf1ec4ae501e3e93348417277ba0","机翻辅助：
+
+我记得很清楚，时间是[l]
+[font color=@3]12:32到12:51[resetfont]。
+
+时间也记得很清楚。[l]
+[font color=@3]12:32到12:51之间。[resetfont]
+
+时间也记得很清楚。从12:32到12:51之间。[l]
+[font color=@3][resetfont]"
+"balloon#8e87221507f6adf1176d0bcd18f321ca","虽然没有预约，但诊疗所还是愿意接受临时的诊疗。","balloon#8e87221507f6adf1176d0bcd18f321ca","机翻辅助：
+
+虽然没有预约，但诊疗所还是愿意接受临时的诊疗。
+
+虽然没有预约，但是也请对应紧急的诊疗。
+
+虽然没有预约，但是紧急的诊疗也能处理。"
+"balloon#f78a156b97acd00baa5317f0ca6dbd5a","所以神代医师不可能在那个时间点引起骚动。","balloon#f78a156b97acd00baa5317f0ca6dbd5a","机翻辅助：
+
+所以神代医师不可能在那个时间点引起骚动。
+
+所以神代医生不能在那个时间里引起骚动。
+
+所以神代医生不能在这个时间里捣乱。"
+"balloon#4a20df89f94fa59f622427aef193ccfc","这样应该就能证明[emb exp='tf.names.NPC.me']是无辜的了吧。","balloon#4a20df89f94fa59f622427aef193ccfc","机翻辅助：
+
+这样应该就能证明[emb exp='tf.names.NPC.me']是无辜的了吧。
+
+这样，[emb exp='tf.names.NPC.me']的无辜就证明了吧。
+
+这样就能证明[emb exp='tf.names.NPC.me']的清白了吧。"
+"balloon#0ca920a1eb71ed3966910a07c7fc51e8","[font color=@3][resetfont][emb exp='tf.names.itsuki.NPC']和[emb exp='tf.names.itsuki.chiyo']从12:32到12:51都待在一起，似乎是事实。","balloon#0ca920a1eb71ed3966910a07c7fc51e8","机翻辅助：
+
+[font color=@3][resetfont][emb exp='tf.names.itsuki.NPC']和[emb exp='tf.names.itsuki.chiyo']从12:32到12:51都待在一起，似乎是事实。
+
+[font color=@3]从12:32到12:51[emb exp='tf.names.itsuki.NPC']和[emb exp='tf.names.itsuki.chiyo']在一起[resetfont]，好像是真的。
+
+[font color=@3]从12:32到12:51，[emb exp='tf.names.itsuki.NPC']和[emb exp='tf.names.itsuki.chiyo']一直在一起。[resetfont]"
+"balloon#45403b67707fe811f640c4e1ad39bacf","那[emb exp='tf.names.chiyo_p.me']就先告辞了。","balloon#45403b67707fe811f640c4e1ad39bacf","机翻辅助：
+
+那[emb exp='tf.names.chiyo_p.me']就先告辞了。
+
+那[emb exp='tf.names.chiyo_p.me']就告辞了。"
+"balloon#a13b867dfdf9a4fb633ff1de88015e16","希望你能早点抓到犯人。","balloon#a13b867dfdf9a4fb633ff1de88015e16","机翻辅助：
+
+希望你能早点抓到犯人。
+
+希望犯人快点被抓住。
+
+真希望凶手能早日落网。"
+"speaker_佐倉 千世","佐仓千世","speaker_佐倉 千世","机翻辅助：
+
+佐仓千世"
+"speaker_主人公","主人公","speaker_主人公",""

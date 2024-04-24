@@ -1,0 +1,69 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d8e63b4e5116f097315104e25c693f24","原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。","balloon#d8e63b4e5116f097315104e25c693f24","机翻辅助：
+
+原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。
+
+原来如此，那种推理[emb exp='tf.names.NPC.me']也能理解[font color=@3]哟。[resetfont]
+
+原来如此，这个推理[emb exp='tf.names.NPC.me']也能接受。[font color=@3][resetfont]"
+"balloon#734618aedb2c4d9919811d85ccba8fc8","那是真的吗？","balloon#734618aedb2c4d9919811d85ccba8fc8","机翻辅助：
+
+那是真的吗？
+
+这是真的吗？"
+"balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","[font color=@3]我觉得你的推理[resetfont]有点不对……","balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对……
+
+我觉得那个推理有点不对……[font color=@3][resetfont]
+
+不要觉得那个推理有点不一样……[font color=@3][resetfont]"
+"balloon#0712fd0d86d74b1a8b4889e19d76fa10","[font color=@3]我觉得你的推理[resetfont]完全不对……","balloon#0712fd0d86d74b1a8b4889e19d76fa10","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对……
+
+不要认为那个推理是完全不同的……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#15cb9f3b91bf828e4aee88034d960629","不，其实不用在意。","balloon#15cb9f3b91bf828e4aee88034d960629","机翻辅助：
+
+不，其实不用在意。
+
+不，没必要在意。
+
+不，没必要太在意。"
+"balloon#a639957be42740df9604809c46fedfbc","关于这件事……","balloon#a639957be42740df9604809c46fedfbc","机翻辅助：
+
+关于这件事……"
+"balloon#b80efc251e2903fa7f54f11093428d25","我觉得[font color=@3]哪里有[resetfont]两端受损的状况，是关键所在。","balloon#b80efc251e2903fa7f54f11093428d25","机翻辅助：
+
+我觉得[font color=@3]哪里有[resetfont]两端受损的状况，是关键所在。
+
+两端都有伤痕的情况[font color=@3]在哪里[resetfont]我觉得是握着钥匙的。
+
+[font color=@3]不知道在哪里出现过两端会有损伤的状况，但我觉得我手里握着钥匙。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#1e6987c78308313776a1e110f1bb3053","两端有烧焦痕迹，该不会是[font color=@3]夹在某个地方[resetfont]吧？","balloon#1e6987c78308313776a1e110f1bb3053","机翻辅助：
+
+两端有烧焦痕迹，该不会是[font color=@3]夹在某个地方[resetfont]吧？
+
+两端都有伤痕，难道不是被夹在什么地方了吗？[font color=@3][resetfont]
+
+两头都有伤，难道不是被夹在什么地方了吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,142 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#f80241d0f8190302346c733f50e5e5b5","哦，如果是这个推理，[font color=@3]我能够接受[resetfont]！","balloon#f80241d0f8190302346c733f50e5e5b5","机翻辅助：
+
+哦，如果是这个推理，[font color=@3]我能够接受[resetfont]！
+
+哦，如果是那个推理[font color=@3]能理解[resetfont]！
+
+哦，这个推理的话[font color=@3]能接受[resetfont]！"
+"balloon#da16cd8f36704b3031d411a9561810bf","不在场证明啊，亏你调查得这么清楚……","balloon#da16cd8f36704b3031d411a9561810bf","机翻辅助：
+
+不在场证明啊，亏你调查得这么清楚……
+
+不在场证明啊，好好调查了一下……
+
+我仔细调查过不在场证明……"
+"balloon#3d643550ab0a8c5188e2a01612536839","这下……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]失敬了！","balloon#3d643550ab0a8c5188e2a01612536839","机翻辅助：
+
+这下……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]失敬了！
+
+这是……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]失礼了！
+
+这是……失陪了！[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#44a64f1df1b1d14bae2eb1fcc92da789","很抱歉怀疑你。","balloon#44a64f1df1b1d14bae2eb1fcc92da789","机翻辅助：
+
+很抱歉怀疑你。
+
+很抱歉我怀疑啦。
+
+很抱歉我怀疑你了。"
+"balloon#be854dfd4b3ed0376cdffc7f3e3322ad","身为教师，这是不该有的态度。","balloon#be854dfd4b3ed0376cdffc7f3e3322ad","机翻辅助：
+
+身为教师，这是不该有的态度。
+
+作为教师，这是不应有的态度。
+
+这是作为教师不该有的态度。"
+"balloon#ad0b0794691cdedd78f0c30ad1bcbe82","不会，你能理解就没问题了！","balloon#ad0b0794691cdedd78f0c30ad1bcbe82","机翻辅助：
+
+不会，你能理解就没问题了！
+
+不，你能理解我就没问题了！
+
+不，如果能理解的话就没问题了！"
+"balloon#fc41fb3fae1cb5384c7791bd7b0be9a4","[emb exp='tf.names.NPC.itsuki']还挺聪明的嘛……","balloon#fc41fb3fae1cb5384c7791bd7b0be9a4","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']还挺聪明的嘛……
+
+[emb exp='tf.names.NPC.itsuki']，不是很聪明吗……
+
+[emb exp='tf.names.NPC.itsuki']，很聪明啊……"
+"balloon#2784f5d8cce053f4ab373e5ad39d46aa","怎么样，要不要来我们学校念书。","balloon#2784f5d8cce053f4ab373e5ad39d46aa","机翻辅助：
+
+怎么样，要不要来我们学校念书。
+
+怎么样，要不要到我们学校学习一下？
+
+怎么样，不在我们学校学习一下吗？"
+"balloon#e671e8c6465ceb5facecc19d8b393506","谢、谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会考虑。","balloon#e671e8c6465ceb5facecc19d8b393506","机翻辅助：
+
+谢、谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会考虑。
+
+啊，谢谢……[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]我会考虑的。
+
+啊，谢谢你……我会考虑的。[l][chara_mod time=""@f1"" name=""主人公"" face=""smile""]"
+"balloon#727314f33af5ccf22ee5eb4aeeab7367","那就好。","balloon#727314f33af5ccf22ee5eb4aeeab7367","机翻辅助：
+
+那就好。"
+"balloon#fbb4f5bd7a8b90889491e8f9a93a797e","那么，就再拜托你了。","balloon#fbb4f5bd7a8b90889491e8f9a93a797e","机翻辅助：
+
+那么，就再拜托你了。
+
+那么，让我再依靠你吧。
+
+那么，下次再拜托你吧。"
+"balloon#bfb790c96f7db58d0aba1835abe3556d","可以向影山提问了。","balloon#bfb790c96f7db58d0aba1835abe3556d","机翻辅助：
+
+可以向影山提问了。
+
+可以提问影山了。"
+"balloon#3352362ceed8d2ef9d3d4298175e3021","真的吗？","balloon#3352362ceed8d2ef9d3d4298175e3021","机翻辅助：
+
+真的吗？"
+"balloon#6eba0ca0638ba4db01e90912efe61bde","我觉得你的推理[font color=@3]有点不对[resetfont]。","balloon#6eba0ca0638ba4db01e90912efe61bde","机翻辅助：
+
+我觉得你的推理[font color=@3]有点不对[resetfont]。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#e554e6c642ec035c8545da01a48db3aa","我觉得你的推理[font color=@3]完全不对[resetfont]。","balloon#e554e6c642ec035c8545da01a48db3aa","机翻辅助：
+
+我觉得你的推理[font color=@3]完全不对[resetfont]。
+
+我觉得那个推理完全不一样。[font color=@3][resetfont]
+
+我觉得这个推理完全不一样。[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#233df970d45e103816a764ca3739c518","我从一开始就没对[emb exp='tf.names.NPC.itsuki']抱持期待。","balloon#233df970d45e103816a764ca3739c518","机翻辅助：
+
+我从一开始就没对[emb exp='tf.names.NPC.itsuki']抱持期待。
+
+从一开始就对[emb exp='tf.names.NPC.itsuki']不抱期待。
+
+因为我从一开始就对[emb exp='tf.names.NPC.itsuki']没有期待。"
+"balloon#262e0b4cfb3f501f64de622405e340e1","不过，硬要说的话……","balloon#262e0b4cfb3f501f64de622405e340e1","机翻辅助：
+
+不过，硬要说的话……
+
+嗯，硬要说的话……
+
+嘛，如果说很强的话……"
+"balloon#4c40fd482e49107073f09c6d7e13998f","[font color=@3]我倒是想知道，[emb exp='tf.names.NPC.utaha']不在场的时间，[emb exp='tf.names.NPC.itsuki']的行动[resetfont]。","balloon#4c40fd482e49107073f09c6d7e13998f","机翻辅助：
+
+[font color=@3]我倒是想知道，[emb exp='tf.names.NPC.utaha']不在场的时间，[emb exp='tf.names.NPC.itsuki']的行动[resetfont]。
+
+[font color=@3]我想知道[emb exp='tf.names.NPC.utaha']不在的时候，[emb exp='tf.names.NPC.itsuki']的行动[resetfont]。
+
+[font color=@3][emb exp='tf.names.NPC.utaha']不在的时间里，[emb exp='tf.names.NPC.itsuki']的行动[resetfont]我想知道。"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#ef57dcf9e48952f55b8b4c5131509856","[font color=@3]有没有办法证明[emb exp='tf.names.itsuki_p.me']的不在场证明[resetfont]呢？我再重新检视一次线索吧。","balloon#ef57dcf9e48952f55b8b4c5131509856","机翻辅助：
+
+[font color=@3]有没有办法证明[emb exp='tf.names.itsuki_p.me']的不在场证明[resetfont]呢？我再重新检视一次线索吧。
+
+[font color=@3]有没有能证明[emb exp='tf.names.itsuki_p.me']的不在场证明的方法，现在重新审视一下线索。[resetfont]
+
+[font color=@3]有没有办法证明[emb exp='tf.names.itsuki_p.me']的不在场证明，让我们重新审视一下线索。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

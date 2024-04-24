@@ -1,0 +1,35 @@
+"source","target","id","developer_comments"
+"balloon#65b78282cb0f228e7b32a13444ac185d","啊，说起出入口，一般就是这两个地方。","balloon#65b78282cb0f228e7b32a13444ac185d","机翻辅助：
+
+啊，说起出入口，一般就是这两个地方。
+
+啊，说起出入口，一般都用那两个地方。
+
+啊，说到出入口，一般就用这两个地方。"
+"balloon#721dcbfb178598cd694fdd98304b2104","但是，[emb exp='tf.names.NPC.chiyo']没有从玄关出去。","balloon#721dcbfb178598cd694fdd98304b2104","机翻辅助：
+
+但是，[emb exp='tf.names.NPC.chiyo']没有从玄关出去。
+
+可是，[emb exp='tf.names.NPC.chiyo']没有出玄关哦。
+
+但是，[emb exp='tf.names.NPC.chiyo']没有从门口出来。"
+"balloon#d6d6bc5dd4b9bbd6cd3d9ba96d20835b","因为，[emb exp='tf.names.NPC.me']……","balloon#d6d6bc5dd4b9bbd6cd3d9ba96d20835b","机翻辅助：
+
+因为，[emb exp='tf.names.NPC.me']……
+
+[emb exp='tf.names.NPC.me']……"
+"balloon#c706b53189546409b8e478a7b76b831b","[font color=@3]从13:00到14:05[resetfont]可以看到玄关[font color=@3]一直在接待处[resetfont]所以，[emb exp='tf.names.NPC.chiyo']通过的话会注意到的。","balloon#c706b53189546409b8e478a7b76b831b","机翻辅助：
+
+[font color=@3]从13:00到14:05[resetfont]可以看到玄关[font color=@3]一直在接待处[resetfont]所以，[emb exp='tf.names.NPC.chiyo']通过的话会注意到的。
+
+[font color=@3]13:00到14:05[resetfont]，能看到玄关[font color=@3]一直在前台[resetfont]所以[emb exp='tf.names.NPC.chiyo']经过的话会注意到的。
+
+[font color=@3]从13:00到14:05[resetfont]一直在能看见玄关的[font color=@3]接待处，如果[emb exp='tf.names.NPC.chiyo']经过的话，我一定会注意到。[resetfont]"
+"balloon#60c9b3276eb556c0097252eb35c21627","[emb exp='tf.names.itsuki.NPC']在接待处，而在这段时间[font color=@3][emb exp='tf.names.itsuki.chiyo']没有经过[resetfont]吗？","balloon#60c9b3276eb556c0097252eb35c21627","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']在接待处，而在这段时间[font color=@3][emb exp='tf.names.itsuki.chiyo']没有经过[resetfont]吗？
+
+[emb exp='tf.names.itsuki.NPC']在接待处，在这期间[emb exp='tf.names.itsuki.chiyo']没有通过吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.NPC']在前台，这期间[emb exp='tf.names.itsuki.chiyo']没有通过吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,64 @@
+"source","target","id","developer_comments"
+"balloon#8a3f7540e1adfd135df87d3d052abaf1","咦？那是真的吗……？","balloon#8a3f7540e1adfd135df87d3d052abaf1","机翻辅助：
+
+咦？那是真的吗……？
+
+啊，那是真的吗……？
+
+咦，这是真的吗……？"
+"balloon#0ba9b22275ce9796cf87bbbd72882da2","因为[emb exp='tf.names.NPC.kageyama']应该比[emb exp='tf.names.NPC.me']晚一班离开本岛。","balloon#0ba9b22275ce9796cf87bbbd72882da2","机翻辅助：
+
+因为[emb exp='tf.names.NPC.kageyama']应该比[emb exp='tf.names.NPC.me']晚一班离开本岛。
+
+因为[emb exp='tf.names.NPC.kageyama']应该是乘坐[emb exp='tf.names.NPC.me']的一条航班离开本土的。
+
+因为[emb exp='tf.names.NPC.kageyama']应该是乘比[emb exp='tf.names.NPC.me']晚一班的航班离开本土的。"
+"balloon#07c2536f73b75945df82735dc458e689","说是从夜行渡轮上走下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned""]是不是看错了。","balloon#07c2536f73b75945df82735dc458e689","机翻辅助：
+
+说是从夜行渡轮上走下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned""]是不是看错了。
+
+说是从夜间渡轮上下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned""]是不是看错了？
+
+听说是从夜行渡轮下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned""]是不是看错了？"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#171d4a819e2b4cc8a6cbf8e2f41f3c18","太奇怪了，证词明显有矛盾……","balloon#171d4a819e2b4cc8a6cbf8e2f41f3c18","机翻辅助：
+
+太奇怪了，证词明显有矛盾……
+
+奇怪，明显证词矛盾……
+
+奇怪，证词明显自相矛盾……"
+"balloon#544f15239bab5392bf12a61aab79e984","说是从夜行渡轮上走下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是不是看错了。","balloon#544f15239bab5392bf12a61aab79e984","机翻辅助：
+
+说是从夜行渡轮上走下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是不是看错了。
+
+说是从夜间渡轮上下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是不是看错了？
+
+听说是从夜行渡轮下来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是不是看错了？"
+"balloon#276d23a9db91091a3d18b5d76a2fe600","就像刚才说的那样，[emb exp='tf.names.NPC.me']昨天也乘坐了联络船。","balloon#276d23a9db91091a3d18b5d76a2fe600","机翻辅助：
+
+就像刚才说的那样，[emb exp='tf.names.NPC.me']昨天也乘坐了联络船。
+
+还有就像[emb exp='tf.names.NPC.me']刚才说的，我昨天也搭了接驳船。
+
+[emb exp='tf.names.NPC.me']刚才也说了，我昨天也坐了渡轮。"
+"balloon#dbfd9ccd69341f5bc6916dca801d5f75","昨天傍晚，为了从本土回到岛上……","balloon#dbfd9ccd69341f5bc6916dca801d5f75","机翻辅助：
+
+昨天傍晚，为了从本土回到岛上……
+
+为了昨天傍晚从本土回到岛上……"
+"balloon#54406705d62d1f42e3285aebb1d3879f","[font color=@3][resetfont]搭乘了16:00出发18:20抵达的接驳船，我也有她的船票哦。","balloon#54406705d62d1f42e3285aebb1d3879f","机翻辅助：
+
+[font color=@3][resetfont]搭乘了16:00出发18:20抵达的接驳船，我也有她的船票哦。
+
+[font color=@3]乘坐16:00出发18:20到达的联络船[resetfont]的船票也有哦。
+
+[font color=@3]坐的是16:00到18:20的轮船，船票也有哦。[resetfont]"
+"balloon#cc62c2f723d085f4049657e689714c6f","[emb exp='tf.names.itsuki.NPC']是搭乘[font color=@3]16:00出发18:20抵达的船[resetfont]，昨天从本土回来的吗？","balloon#cc62c2f723d085f4049657e689714c6f","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']是搭乘[font color=@3]16:00出发18:20抵达的船[resetfont]，昨天从本土回来的吗？
+
+[emb exp='tf.names.itsuki.NPC']是乘坐16:00出发18:20到达的船，昨天从本土回来的吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.NPC']是昨天乘坐16:00到18:20的船从本土回来的吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,175 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d11127f436042bd2808fa76dce69ccaf","原来如此，这个推理[font color=@3]可以接受[resetfont]！","balloon#d11127f436042bd2808fa76dce69ccaf","机翻辅助：
+
+原来如此，这个推理[font color=@3]可以接受[resetfont]！
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这种推理是可以理解的！[font color=@3][resetfont]"
+"balloon#0bc490ba292989718223c57be29a50f9","[emb exp='tf.names.NPC.me']怀疑这两起事件可能都和[emb exp='tf.names.NPC.yuuki']有关。","balloon#0bc490ba292989718223c57be29a50f9","机翻辅助：
+
+[emb exp='tf.names.NPC.me']怀疑这两起事件可能都和[emb exp='tf.names.NPC.yuuki']有关。
+
+[emb exp='tf.names.NPC.me']一直怀疑这两起事件和[emb exp='tf.names.NPC.yuuki']有关。
+
+[emb exp='tf.names.NPC.me']怀疑两个事件和[emb exp='tf.names.NPC.yuuki']有关。"
+"balloon#c8fb660541be1e6b43a31298a4b2b2a7","但是，铁男先生被杀的事件……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不对，差点被杀的事件。","balloon#c8fb660541be1e6b43a31298a4b2b2a7","机翻辅助：
+
+但是，铁男先生被杀的事件……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不对，差点被杀的事件。
+
+但是，第一个铁男先生被杀了……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]不，差点被杀的事件。
+
+但是，第一个铁男先生被杀了……不，是差点被杀的事件。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#17f439742dad0eaf9331fd75ecad0e83","[emb exp='tf.names.NPC.yuuki']在照相馆有和[emb exp='tf.names.NPC.chiyo']在一起的不在场证明。","balloon#17f439742dad0eaf9331fd75ecad0e83","机翻辅助：
+
+[emb exp='tf.names.NPC.yuuki']在照相馆有和[emb exp='tf.names.NPC.chiyo']在一起的不在场证明。
+
+[emb exp='tf.names.NPC.yuuki']有在照相馆和[emb exp='tf.names.NPC.chiyo']在一起的不在场证明。
+
+[emb exp='tf.names.NPC.yuuki']在照相馆有不在场证明。[emb exp='tf.names.NPC.chiyo']"
+"balloon#49b485b7f36d560e189508f832e959b1","是啊。","balloon#49b485b7f36d560e189508f832e959b1","机翻辅助：
+
+是啊。"
+"balloon#3d12242290b86a6969ef634e57d45430","第二起事件是[emb exp='tf.names.NPC.yuuki']自己遭到攻击。","balloon#3d12242290b86a6969ef634e57d45430","机翻辅助：
+
+第二起事件是[emb exp='tf.names.NPC.yuuki']自己遭到攻击。
+
+第二个是[emb exp='tf.names.NPC.yuuki']自己被袭击的事件。"
+"balloon#5bf6ebd3e56ede71cb12746a259e352e","我原本怀疑这是自导自演……","balloon#5bf6ebd3e56ede71cb12746a259e352e","机翻辅助：
+
+我原本怀疑这是自导自演……
+
+我怀疑自己自导自演……
+
+我一直怀疑他是在自导自演……"
+"balloon#6d7cf412431a811e3897a61d915f3124","这表示[emb exp='tf.names.NPC.yuuki']很有可能遭到某人攻击。","balloon#6d7cf412431a811e3897a61d915f3124","机翻辅助：
+
+这表示[emb exp='tf.names.NPC.yuuki']很有可能遭到某人攻击。
+
+[emb exp='tf.names.NPC.yuuki']被谁袭击的可能性很高啊。
+
+[emb exp='tf.names.NPC.yuuki']很有可能被人袭击了。"
+"balloon#114bd198dc9f3374e5578ecd40aa1461","是的，要自己打自己实在有点勉强。","balloon#114bd198dc9f3374e5578ecd40aa1461","机翻辅助：
+
+是的，要自己打自己实在有点勉强。
+
+是的，自己动手好像有点勉强。
+
+是的，自己打好像不行。"
+"balloon#57368d99361a6c15a30a847cfb4aba61","这么一来，这家伙就不是自导自演，而且……","balloon#57368d99361a6c15a30a847cfb4aba61","机翻辅助：
+
+这么一来，这家伙就不是自导自演，而且……
+
+这样一来，这就不是自导自演了，更进一步说……
+
+这样的话，这家伙就不是自编自演了，更进一步说……"
+"balloon#d702ddeea79226f0b8c6cb13a7e90708","[font color=@3]也就是说，[emb exp='tf.names.NPC.yuuki']不是这两起事件的犯人[resetfont]吧。","balloon#d702ddeea79226f0b8c6cb13a7e90708","机翻辅助：
+
+[font color=@3]也就是说，[emb exp='tf.names.NPC.yuuki']不是这两起事件的犯人[resetfont]吧。
+
+[font color=@3][emb exp='tf.names.NPC.yuuki']不是两个事件的犯人吧。[resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.yuuki']并不是这两个事件的犯人。[resetfont]"
+"balloon#06c134a0f7a22298659c26d90e3596bc","没错，[font color=@3][emb exp='tf.names.NPC.yuuki']不可能犯案[resetfont]。","balloon#06c134a0f7a22298659c26d90e3596bc","机翻辅助：
+
+没错，[font color=@3][emb exp='tf.names.NPC.yuuki']不可能犯案[resetfont]。
+
+没错，[emb exp='tf.names.NPC.yuuki']不可能作案。[font color=@3][resetfont]
+
+对，[emb exp='tf.names.NPC.yuuki']不可能犯罪。[font color=@3][resetfont]"
+"balloon#c49963b85b992c3e532a2c13f13d6c97","哎呀，是[emb exp='tf.names.NPC.me']太早下定论了！","balloon#c49963b85b992c3e532a2c13f13d6c97","机翻辅助：
+
+哎呀，是[emb exp='tf.names.NPC.me']太早下定论了！
+
+呀，是[emb exp='tf.names.NPC.me']的敏捷吗！
+
+哎呀，是[emb exp='tf.names.NPC.me']的草率啊！"
+"balloon#e610f5dc04f6872e07e1b85d06829d1c","我差点就认定是[emb exp='tf.names.NPC.yuuki']了！","balloon#e610f5dc04f6872e07e1b85d06829d1c","机翻辅助：
+
+我差点就认定是[emb exp='tf.names.NPC.yuuki']了！
+
+差点儿断定是[emb exp='tf.names.NPC.yuuki']！
+
+差点就断定是[emb exp='tf.names.NPC.yuuki']了！"
+"balloon#684ca366bdd6e45ab0aae3b8c6f34eda","对不起，[emb exp='tf.names.NPC.itsuki']，我要感恩。","balloon#684ca366bdd6e45ab0aae3b8c6f34eda","机翻辅助：
+
+对不起，[emb exp='tf.names.NPC.itsuki']，我要感恩。
+
+对不起啦，[emb exp='tf.names.NPC.itsuki']，我会感谢你的。
+
+抱歉啊，[emb exp='tf.names.NPC.itsuki']，我欠你一次。。"
+"balloon#205e5fb413ccb885ddcc0a9054a3cecd","哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#205e5fb413ccb885ddcc0a9054a3cecd","机翻辅助：
+
+哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#01d3cc8116c5d52f2a28701c7737e1d8","要是又发生什么事，再麻烦你了！","balloon#01d3cc8116c5d52f2a28701c7737e1d8","机翻辅助：
+
+要是又发生什么事，再麻烦你了！
+
+再有什么事，就拜托你了！
+
+如果还有什么事的话，就拜托你了！"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#14e7c5591d347d54596bfbc6a88a9080","[font color=@3]我觉得你的推理[resetfont]有点不对！","balloon#14e7c5591d347d54596bfbc6a88a9080","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对！
+
+我觉得那个推理有点不一样！[font color=@3][resetfont]
+
+我觉得你的推理有点不对！[font color=@3][resetfont]"
+"balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","[font color=@3]我觉得你的推理[resetfont]完全不对！","balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对！
+
+我觉得那个推理是完全不同的！[font color=@3][resetfont]
+
+我觉得你的推理完全不对！[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#e170c16e2b62b40e2f8f73de898379d8","哦，别在意啦！","balloon#e170c16e2b62b40e2f8f73de898379d8","机翻辅助：
+
+哦，别在意啦！
+
+哦，别在意！
+
+哦，别放在心上！"
+"balloon#7c5713cfddcdfa5c960535cca1cdb824","关于这件事……","balloon#7c5713cfddcdfa5c960535cca1cdb824","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#7b3bdd345cdc0f3eb74840d3f97ceedd","我必须[font color=@3]弄清楚这两起事件[resetfont]和[emb exp='tf.names.NPC.yuuki']的关系。","balloon#7b3bdd345cdc0f3eb74840d3f97ceedd","机翻辅助：
+
+我必须[font color=@3]弄清楚这两起事件[resetfont]和[emb exp='tf.names.NPC.yuuki']的关系。
+
+[emb exp='tf.names.NPC.yuuki']和这两个事件有什么关系，[font color=@3]有必要弄清楚。[resetfont]
+
+有必要弄清楚[emb exp='tf.names.NPC.yuuki']和两个事件有什么关系。[font color=@3][resetfont]"
+"balloon#9a9a6279c5d5c732fff98880d6fcee20","还不能放弃。","balloon#9a9a6279c5d5c732fff98880d6fcee20","机翻辅助：
+
+还不能放弃。
+
+我还不能放弃。"
+"balloon#60e52998807fcd490fc0d7b72556c7ce","我[font color=@3]重新调查[resetfont]这两起事件吧。[emb exp='tf.names.NPC.yuuki'][emb exp='tf.names.NPC.tetsuo']","balloon#60e52998807fcd490fc0d7b72556c7ce","机翻辅助：
+
+我[font color=@3]重新调查[resetfont]这两起事件吧。[emb exp='tf.names.NPC.yuuki'][emb exp='tf.names.NPC.tetsuo']
+
+关于[emb exp='tf.names.NPC.yuuki']自己被袭击的事件和[emb exp='tf.names.NPC.tetsuo']的事件，[font color=@3]两方面重新调查一下吧。[resetfont]
+
+让我们重新调查一下[emb exp='tf.names.NPC.yuuki']自身被袭击的事件和[emb exp='tf.names.NPC.tetsuo']的事件。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

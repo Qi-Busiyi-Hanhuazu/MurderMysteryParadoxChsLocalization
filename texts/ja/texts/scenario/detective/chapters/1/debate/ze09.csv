@@ -1,0 +1,11 @@
+"source","target","id","developer_comments"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#cc7a0112b0b65247f3c275bf0439a615","<font color='@3'>ぼや騒ぎの犯人</font>が誰なのか……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#cc7a0112b0b65247f3c275bf0439a615",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","わかったから、伝えよう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","わからないから、黙っておこう！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a",""
+"javascript#4a622f127baeae041b4eef6a8884069f","戻る","javascript#4a622f127baeae041b4eef6a8884069f",""
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#3795223c162ba62208d953c2b7c929e8","今回のぼや騒ぎの犯人、それは……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#3795223c162ba62208d953c2b7c929e8",""
+"javascript#38cffef722128b383d2b128bd40a8223","{0}が犯人という根拠を……","javascript#38cffef722128b383d2b128bd40a8223",""
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","犯人と納得させられるができる、推理を考えましょう。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e",""
+"message10#500e3a81553854050b6f45e05ba6f4ad","樹はぼや騒ぎの犯人が、
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+という推理を全員の前で披露した。","message10#500e3a81553854050b6f45e05ba6f4ad",""

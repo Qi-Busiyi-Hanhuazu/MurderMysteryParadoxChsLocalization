@@ -1,0 +1,125 @@
+"source","target","id","developer_comments"
+"balloon#2f793dfe19d75f4005827affddc38f9d","……话虽如此，在掌握到什么线索之前，我也不能回去休息。","balloon#2f793dfe19d75f4005827affddc38f9d","机翻辅助：
+
+……话虽如此，在掌握到什么线索之前，我也不能回去休息。
+
+……话虽如此，在抓住什么线索之前，不能回去休息。
+
+……话虽如此，在找到什么线索之前，不能回去休息。"
+"balloon#8ce910b529e07713bea930ce38aa34c1","对了，关于校外人员的进出……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]之后有查到什么吗？","balloon#8ce910b529e07713bea930ce38aa34c1","机翻辅助：
+
+对了，关于校外人员的进出……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]之后有查到什么吗？
+
+对了，因为校外的人的出入……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]之后有什么明白的事情吗？
+
+对了，因为有人出入校外……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]那之后明白什么了吗？"
+"balloon#a6601adfc76b1de2f1b8deab4bc27dc7","有查到一些，但还没有确切的证据……","balloon#a6601adfc76b1de2f1b8deab4bc27dc7","机翻辅助：
+
+有查到一些，但还没有确切的证据……
+
+虽然也有明白的事情，但是还没有确证啊……
+
+虽然也知道，但还没有确切的证据……"
+"SECRET_SELECTION/topic#85f44cb070ccdd9ce3da46038b2f0530","如果是关于校外人员进出的话……","SECRET_SELECTION/topic#85f44cb070ccdd9ce3da46038b2f0530","机翻辅助：
+
+如果是关于校外人员进出的话……
+
+关于出入校外的事……
+
+如果是出入校外的话……"
+"SECRET_SELECTION/text1#b1963c8bc8fa140b2bbee9d10f7cbd77","我很在意从外面回来的人！","SECRET_SELECTION/text1#b1963c8bc8fa140b2bbee9d10f7cbd77","机翻辅助：
+
+我很在意从外面回来的人！"
+"SECRET_SELECTION/text2#9abedb5648cf62b72b9fd4f1ee6bec3f","我很在意没有出去外面的人！","SECRET_SELECTION/text2#9abedb5648cf62b72b9fd4f1ee6bec3f","机翻辅助：
+
+我很在意没有出去外面的人！
+
+我很在意没出门的人！
+
+我很在意没有出去的人！"
+"SECRET_SELECTION/text3#91cd3a0baa18a61989a20e4a90400c47","我很在意所有人的进出！","SECRET_SELECTION/text3#91cd3a0baa18a61989a20e4a90400c47","机翻辅助：
+
+我很在意所有人的进出！
+
+我很在意所有人的出入！
+
+很在意所有人的出入！"
+"balloon#4d7924072b63756a5bf8f61feb5ee45e","从外面回来的人吗……","balloon#4d7924072b63756a5bf8f61feb5ee45e","机翻辅助：
+
+从外面回来的人吗……
+
+从外面回来的人，是吗……
+
+从外面回来的人啊……"
+"balloon#d35ae3ae97148dacc99698f575dc4546","没有出去外面的人吗……","balloon#d35ae3ae97148dacc99698f575dc4546","机翻辅助：
+
+没有出去外面的人吗……
+
+不出门的人，是吗……
+
+没有出去的人啊……"
+"balloon#9493931aa483f6e6e96a96d00bc7c221","所有人的进出吗……","balloon#9493931aa483f6e6e96a96d00bc7c221","机翻辅助：
+
+所有人的进出吗……
+
+所有人的出入，啊……
+
+所有人的出入啊……"
+"balloon#a67d92de41dd67a0783cb3092ecbd1d1","也对。[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]只能从这些地方踏实地调查了。","balloon#a67d92de41dd67a0783cb3092ecbd1d1","机翻辅助：
+
+也对。[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]只能从这些地方踏实地调查了。
+
+是啊。[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]只能踏踏实实地调查那一带了。
+
+是啊。只能踏踏实实地调查这方面了。[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise"" position=""right""]"
+"balloon#9a52e7e2c4f6cca06a70d76d81fa3eef","……是啊。","balloon#9a52e7e2c4f6cca06a70d76d81fa3eef","机翻辅助：
+
+……是啊。"
+"balloon#b66b6f463d9e91b0867a703159241486","现在[emb exp='tf.names.NPC.utaha']一定也在某个地方一个人努力。","balloon#b66b6f463d9e91b0867a703159241486","机翻辅助：
+
+现在[emb exp='tf.names.NPC.utaha']一定也在某个地方一个人努力。
+
+现在[emb exp='tf.names.NPC.utaha']也一定在哪里努力着。
+
+现在[emb exp='tf.names.NPC.utaha']一定也在某个地方独自努力着吧。"
+"balloon#9be3d189eb3cf5b5e0b7f969685fbd0a","现在不是[emb exp='tf.names.NPC.me']休息的时候。","balloon#9be3d189eb3cf5b5e0b7f969685fbd0a","机翻辅助：
+
+现在不是[emb exp='tf.names.NPC.me']休息的时候。
+
+不是[emb exp='tf.names.NPC.me']说休息的时候。"
+"balloon#5fc2e910e619b190d4eaac5ad39a72a9","好，我要鼓起干劲加油。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]谢谢你让我发现这件事。","balloon#5fc2e910e619b190d4eaac5ad39a72a9","机翻辅助：
+
+好，我要鼓起干劲加油。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]谢谢你让我发现这件事。
+
+好，我会鼓起干劲加油的。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]谢谢你提醒我。
+
+好，我会鼓足干劲加油的。谢谢你让我注意到。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]"
+"balloon#349a84384c95ab4a3720ab8ae8b036fc","不，[emb exp='tf.names.itsuki.me']也要毫不间断地努力！","balloon#349a84384c95ab4a3720ab8ae8b036fc","机翻辅助：
+
+不，[emb exp='tf.names.itsuki.me']也要毫不间断地努力！
+
+不，[emb exp='tf.names.itsuki.me']也会不间断的努力！
+
+不，[emb exp='tf.names.itsuki.me']也会不停地努力的！"
+"balloon#df3a6950ed20aab36170f1500974d134","总觉得[emb exp='tf.names.itsuki.NPC']的脸色好像也稍微好了一点。","balloon#df3a6950ed20aab36170f1500974d134","机翻辅助：
+
+总觉得[emb exp='tf.names.itsuki.NPC']的脸色好像也稍微好了一点。
+
+总觉得[emb exp='tf.names.itsuki.NPC']的脸色稍微好了一些。
+
+总觉得[emb exp='tf.names.itsuki.NPC']的脸色也稍微好了一点。"
+"balloon#7028e73db00192cd976a58dc0d17c0c6","[emb exp='tf.names.itsuki.utaha']还在某个地方等着我。","balloon#7028e73db00192cd976a58dc0d17c0c6","机翻辅助：
+
+[emb exp='tf.names.itsuki.utaha']还在某个地方等着我。
+
+[emb exp='tf.names.itsuki.utaha']还在某个地方等着。
+
+[emb exp='tf.names.itsuki.utaha']还在哪里等着你。"
+"balloon#7076f5370941b456a785c3434fd99f31","现在就先来厘清所有人的不在场证明吧。","balloon#7076f5370941b456a785c3434fd99f31","机翻辅助：
+
+现在就先来厘清所有人的不在场证明吧。
+
+现在，首先要明确所有人的不在场证明。
+
+现在首先要弄清楚所有人的不在场证明。"
+"speaker_主人公","主人公","speaker_主人公",""

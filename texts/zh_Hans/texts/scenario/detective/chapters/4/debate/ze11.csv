@@ -1,0 +1,60 @@
+"source","target","id","developer_comments"
+"balloon#82713707b4f42ab8579a3a1b52a5aba7","好，[emb exp='tf.names.NPC.me']来说吧！","balloon#82713707b4f42ab8579a3a1b52a5aba7","机翻辅助：
+
+好，[emb exp='tf.names.NPC.me']来说吧！
+
+好啊，[emb exp='tf.names.NPC.me']来说话吧！"
+"balloon#78d4f4d11cda9bc453b6afac70f03faf","[emb exp='tf.names.NPC.me']想说的只有一件事。","balloon#78d4f4d11cda9bc453b6afac70f03faf","机翻辅助：
+
+[emb exp='tf.names.NPC.me']想说的只有一件事。
+
+[emb exp='tf.names.NPC.me']想说的只有一个。"
+"balloon#b65834f89316a7d50d75c2fded63b2b3","记得[emb exp='tf.names.NPC.chiyo']是自愿从[emb exp='tf.names.NPC.me']们面前消失的。","balloon#b65834f89316a7d50d75c2fded63b2b3","机翻辅助：
+
+记得[emb exp='tf.names.NPC.chiyo']是自愿从[emb exp='tf.names.NPC.me']们面前消失的。
+
+[emb exp='tf.names.NPC.chiyo']确实是按照自己的意思从[emb exp='tf.names.NPC.me']们面前消失了。
+
+[emb exp='tf.names.NPC.chiyo']确实是按照自己的意志从[emb exp='tf.names.NPC.me']们面前消失的。"
+"balloon#c04c0510b06b26fede299f3b38e73f51","可是，光是这样无法说明。","balloon#c04c0510b06b26fede299f3b38e73f51","机翻辅助：
+
+可是，光是这样无法说明。
+
+但是，仅凭这一点是无法说明的。
+
+但是，仅仅这样是无法说明的。"
+"balloon#4447079cd3953667fd21594af2dba6db","因为，这起事件……","balloon#4447079cd3953667fd21594af2dba6db","机翻辅助：
+
+因为，这起事件……
+
+因为，这个事件……
+
+因为，这个案子……"
+"balloon#0c8fa637b37e4810df7892626d2a4ded","[font color=@3]光靠[emb exp='tf.names.NPC.chiyo']是无法实行的[resetfont]身体！","balloon#0c8fa637b37e4810df7892626d2a4ded","机翻辅助：
+
+[font color=@3]光靠[emb exp='tf.names.NPC.chiyo']是无法实行的[resetfont]身体！
+
+[font color=@3]只靠[emb exp='tf.names.NPC.chiyo']是无法实行的[resetfont]身体！
+
+[font color=@3]因为只有[emb exp='tf.names.NPC.chiyo']是无法实行的！[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#1aebce22d02af7e276a02dca621c8dea","<font color='@3'>${itsuki.chiyo}的犯行</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#1aebce22d02af7e276a02dca621c8dea","机翻辅助：
+
+<font color='@3'>${itsuki.chiyo}的犯行</font>是……
+
+<font color='@3'>${itsuki.chiyo}的罪行</font>是……
+
+<font color='@3'>${itsuki.chiyo}的罪行是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#9c8bbc80554fc1c379a7786c090c511a","一切都是她一个人执行的！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#9c8bbc80554fc1c379a7786c090c511a","机翻辅助：
+
+一切都是她一个人执行的！
+
+全部都是一个人实行的！
+
+都是一个人实行的！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e745941e25fbf2d1b1b6c8010b7e9bcd","是和某人合作执行的！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e745941e25fbf2d1b1b6c8010b7e9bcd","机翻辅助：
+
+是和某人合作执行的！
+
+是和谁合作实行的！
+
+是和谁合作实施的！"

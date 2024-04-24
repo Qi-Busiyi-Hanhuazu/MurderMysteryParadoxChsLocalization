@@ -1,0 +1,31 @@
+"source","target","id","developer_comments"
+"balloon#9fc27bd23bc9c2eb13232478ae441c04","这座后山啊，是绕岛的捷径，很方便。","balloon#9fc27bd23bc9c2eb13232478ae441c04","机翻辅助：
+
+这座后山啊，是绕岛的捷径，很方便。
+
+这座后山，作为绕岛的近道很方便。
+
+这个后山，作为绕岛的近道很方便。"
+"balloon#cbb035f3b19d8d4f97b0f4a69b532bba","[emb exp='tf.names.NPC.me']送货的时候，偶尔也会受他照顾……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""][emb exp='tf.names.NPC.kamishiro']不也一样吗？","balloon#cbb035f3b19d8d4f97b0f4a69b532bba","机翻辅助：
+
+[emb exp='tf.names.NPC.me']送货的时候，偶尔也会受他照顾……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""][emb exp='tf.names.NPC.kamishiro']不也一样吗？
+
+[emb exp='tf.names.NPC.me']在送货的时候，偶尔也会受到照顾……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""][emb exp='tf.names.NPC.kamishiro']不也是这样吗？
+
+[emb exp='tf.names.NPC.me']送快递的时候，偶尔也会照顾我……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""][emb exp='tf.names.NPC.kamishiro']不也是这样吗？"
+"balloon#a31a55bdd949352b1c0140e79918bca2","好像是某人的私有地……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]我擅自走这条路的事，要保密哦！","balloon#a31a55bdd949352b1c0140e79918bca2","机翻辅助：
+
+好像是某人的私有地……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]我擅自走这条路的事，要保密哦！
+
+好像是谁的私有地……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]擅自通过是秘密！
+
+好像是谁的私有地……擅自通过是保密的哦！[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#0449d1cf19f86f4a33661b8a15eb9813","是私有地啊……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]可是好像谁都可以自由进出。","balloon#0449d1cf19f86f4a33661b8a15eb9813","机翻辅助：
+
+是私有地啊……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]可是好像谁都可以自由进出。
+
+是私有土地吗……好像谁都可以自由出入。[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]
+
+是私有地吗……好像谁都可以自由出入。[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]"
+"speaker_主人公","主人公","speaker_主人公",""

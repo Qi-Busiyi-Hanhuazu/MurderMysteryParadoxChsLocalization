@@ -1,0 +1,72 @@
+[
+  {
+    "start": 133,
+    "end": 170,
+    "key": "balloon#3fe70c609ce43b9496ead8aaf13c58fe"
+  },
+  {
+    "start": 196,
+    "end": 205,
+    "key": "message10#944255f11e4808615f2fedf7b84b3189"
+  },
+  {
+    "start": 302,
+    "end": 362,
+    "key": "balloon#2a6216fe79904c00d135e785e6a79e7c"
+  },
+  {
+    "start": 437,
+    "end": 486,
+    "key": "balloon#dd17c2c22dae61990f0fa62854867fb3"
+  },
+  {
+    "start": 564,
+    "end": 593,
+    "key": "balloon#31e9458a64fcb2b34fa47a796fadb768"
+  },
+  {
+    "start": 696,
+    "end": 777,
+    "key": "balloon#0230e3a6726c031dbf18b544be04d956"
+  },
+  {
+    "start": 855,
+    "end": 868,
+    "key": "balloon#ab9aae7d28aec9bf596456565fb8f38e"
+  },
+  {
+    "start": 1062,
+    "end": 1099,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_text#fe0d3238f9ed3013902cbfe013d1f525"
+  },
+  {
+    "start": 1143,
+    "end": 1160,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#5a6b3b5294912d9c54a311d8871a3d41"
+  },
+  {
+    "start": 1227,
+    "end": 1244,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e19a922ac40b74b417846a8c9adfcd20"
+  },
+  {
+    "start": 1311,
+    "end": 1328,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#2b5e3b9dcb095da83980ccad929e799d"
+  },
+  {
+    "start": 1427,
+    "end": 1443,
+    "key": "message10#407ef1a4ccec581402171ee624332f2b"
+  },
+  {
+    "start": 1543,
+    "end": 1559,
+    "key": "message10#407ef1a4ccec581402171ee624332f2b"
+  },
+  {
+    "start": 1659,
+    "end": 1675,
+    "key": "message10#407ef1a4ccec581402171ee624332f2b"
+  }
+]

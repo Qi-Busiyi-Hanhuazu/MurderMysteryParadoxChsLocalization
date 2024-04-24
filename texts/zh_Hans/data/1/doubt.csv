@@ -1,0 +1,235 @@
+"source","target","id","developer_comments"
+"[0]/title","树很可疑","[0]/title","机翻辅助：
+
+树很可疑
+
+树怪"
+"[0]/desc","12:53。久美子怀疑在火灾发生时比自己先到照相馆的<font color='@1'>树</font>是犯人。要找出证明树的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？","[0]/desc","机翻辅助：
+
+12:53。久美子怀疑在火灾发生时比自己先到照相馆的<font color='@1'>树</font>是犯人。要找出证明树的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+12:53。久美子怀疑模糊发生时比自己先到照相馆的<font color='@1'>树</font>是犯人。证明树清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+12:53。久美子怀疑痴呆发生时比自己先在照相馆的树是犯人。证明树的无辜的是什么？<font color='@1'></font><font color='@1'> @sl_b  @sl_a </font>"
+"[0]/inference_help_text","为了解决久美子的疑问，需要<br><font color=@1>能正确指出犯案时刻与树的不在场证明</font><br>的线索。","[0]/inference_help_text","机翻辅助：
+
+为了解决久美子的疑问，需要<br><font color=@1>能正确指出犯案时刻与树的不在场证明</font><br>的线索。
+
+为了解决久美子的疑问，需要能正确指出犯罪时间和树的不在场证明的线索。<br><font color=@1></font><br>
+
+要想解决久美子的疑问，就必须掌握犯罪时间和树的不在场证明。<br><font color=@1></font><br>"
+"[1]/title","犯案时刻的不在场证明？","[1]/title","机翻辅助：
+
+犯案时刻的不在场证明？
+
+犯罪时间的不在场证明是？
+
+案发时间的不在场证明是？"
+"[1]/desc","久美子怀疑在火灾发生时<font color='@1'>没有不在场证明的人物</font>是犯人。来整理所有人的<font color='@1'> @sl_a </font>吧。","[1]/desc","机翻辅助：
+
+久美子怀疑在火灾发生时<font color='@1'>没有不在场证明的人物</font>是犯人。来整理所有人的<font color='@1'> @sl_a </font>吧。
+
+久美子怀疑在犯罪时间没有不在场证明的人是犯人。整理所有人的<font color='@1'>。</font><font color='@1'> @sl_a </font>
+
+久美子在犯罪时间怀疑没有不在场证明的人是犯人。整理一下所有人的<font color='@1'>。</font><font color='@1'> @sl_a </font>"
+"[1]/inference_help_text","为了解决久美子的疑问，需要<br><font color=@1>能正确指出除了犯人以外的所有人不在场证明</font><br>的线索。","[1]/inference_help_text","机翻辅助：
+
+为了解决久美子的疑问，需要<br><font color=@1>能正确指出除了犯人以外的所有人不在场证明</font><br>的线索。
+
+为了解决久美子的疑问，需要提供除犯人以外的所有人正确的不在场证明的线索。<br><font color=@1></font><br>
+
+为了解决久美子的疑问，除了犯人以外的所有人都要拿出正确的不在场证明。<br><font color=@1></font><br>"
+"[2]/title","火柴盒的主人很可疑","[2]/title","机翻辅助：
+
+火柴盒的主人很可疑
+
+火柴的主人可疑
+
+火柴的主人很可疑"
+"[2]/desc","神代怀疑在火灾发生后在照相馆前发现的<font color='@1'>火柴</font>是起火点。要找出火柴的主人的<font color='@1'> @sl_b @sl_c </font>是什么？","[2]/desc","机翻辅助：
+
+神代怀疑在火灾发生后在照相馆前发现的<font color='@1'>火柴</font>是起火点。要找出火柴的主人的<font color='@1'> @sl_b @sl_c </font>是什么？
+
+神代在骚乱之后在照相馆前发现的火柴怀疑是火源。确定火柴的持有者的<font color='@1'>是什么？</font><font color='@1'> @sl_b @sl_c </font>
+
+神代怀疑，骚动过后在照相馆前发现的火柴就是起火点。确定火柴的主人<font color='@1'>是什么？</font><font color='@1'> @sl_b @sl_c </font>"
+"[2]/inference_help_text","为了解决神代的疑问，需要<br><font color=@1>能将照相馆前的火柴与可疑行动两者连结的人物</font><br>的线索。","[2]/inference_help_text","机翻辅助：
+
+为了解决神代的疑问，需要<br><font color=@1>能将照相馆前的火柴与可疑行动两者连结的人物</font><br>的线索。
+
+为了解决神代的疑问，我们需要提供一些线索，让人们看到照相馆前的火柴和可疑的行为以及与这两方面有关的人物。<br><font color=@1></font><br>
+
+要想解决神代的疑问，就要有线索。<br><font color=@1></font><br>"
+"[3]/title","真岛很可疑","[3]/title","机翻辅助：
+
+真岛很可疑
+
+真岛可疑"
+"[3]/desc","神代怀疑是<font color='@1'>真岛用火柴纵火的</font>。要找出证明真岛的犯行，或是证明真岛的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？","[3]/desc","机翻辅助：
+
+神代怀疑是<font color='@1'>真岛用火柴纵火的</font>。要找出证明真岛的犯行，或是证明真岛的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+神代怀疑真岛是用火柴纵火的。证明真岛的罪行，或者证明他是无辜的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_a </font>
+
+神代怀疑真岛是用火柴纵火的。能证明真岛罪行或证明其清白的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_a </font>"
+"[3]/inference_help_text","为了解决神代的疑问，需要<br><font color=@1>能正确指出犯案时刻与真岛的不在场证明</font><br>的线索。","[3]/inference_help_text","机翻辅助：
+
+为了解决神代的疑问，需要<br><font color=@1>能正确指出犯案时刻与真岛的不在场证明</font><br>的线索。
+
+为了解决神代的疑问，需要准确地显示犯罪时间和真岛的不在场证明的线索。<br><font color=@1></font><br>
+
+为了解决神代的疑问，需要能正确指出犯罪时间和真岛的不在场证明的线索。<br><font color=@1></font><br>"
+"[4]/title","镜头的伤痕原因？","[4]/title","机翻辅助：
+
+镜头的伤痕原因？
+
+镜头受伤的原因是？
+
+镜片受伤的原因是什么？"
+"[4]/desc","真岛很在意在火灾发生后在照相馆窗外发现的<font color='@1'>镜头不自然的伤痕</font>。要找出镜头受伤的原因的<font color='@1'> @sl_b  @sl_c </font>是什么？","[4]/desc","机翻辅助：
+
+真岛很在意在火灾发生后在照相馆窗外发现的<font color='@1'>镜头不自然的伤痕</font>。要找出镜头受伤的原因的<font color='@1'> @sl_b  @sl_c </font>是什么？
+
+真岛在骚动之后在照相馆的窗外发现了<font color='@1'>镜头的不自然的伤痕</font>令人在意。确定镜头受伤的原因<font color='@1'> @sl_b  @sl_c </font>是什么？
+
+真岛对骚动过后在照相馆窗外发现的镜片上不自然的划痕耿耿于怀。确定镜片有划痕的原因<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_c </font>"
+"[4]/inference_help_text","要解决真岛的疑问，需要<br><font color=@1>显示失火地点发生过什么事，以及该地点发生小火灾前的状况</font><br>的线索。","[4]/inference_help_text","机翻辅助：
+
+要解决真岛的疑问，需要<br><font color=@1>显示失火地点发生过什么事，以及该地点发生小火灾前的状况</font><br>的线索。
+
+如果要解决真岛的疑问，就需要能反映镜头所在地点发生的事情和该地点发生骚乱前的状况的线索。<br><font color=@1></font><br>
+
+要想解决真岛的疑问，就要有线索。<br><font color=@1></font><br>"
+"[5]/title","失火的原因是什么？","[5]/title","机翻辅助：
+
+失火的原因是什么？
+
+起火的原因是？"
+"[5]/desc","真岛想知道<font color='@1'>起火的原因</font>。要找出起火原因的<font color='@1'> @sl_b </font>是什么？","[5]/desc","机翻辅助：
+
+真岛想知道<font color='@1'>起火的原因</font>。要找出起火原因的<font color='@1'> @sl_b </font>是什么？
+
+真岛想知道发生模糊的原因。确定起火原因的<font color='@1'>是什么？</font><font color='@1'> @sl_b </font>
+
+真岛想知道发生模糊的原因。确定起火原因<font color='@1'>是什么？</font><font color='@1'> @sl_b </font>"
+"[5]/inference_help_text","要解决真岛的疑问，需要<br><font color=@1>显示失火物品、点火用的物品以及状况</font><br>的线索。","[5]/inference_help_text","机翻辅助：
+
+要解决真岛的疑问，需要<br><font color=@1>显示失火物品、点火用的物品以及状况</font><br>的线索。
+
+为了解决真岛的疑问，我们需要提供<br><font color=@1>能够说明燃烧的东西、用于点火的东西及其情况的线索。</font><br>
+
+为了解决真岛的疑问，需要有线索。<br><font color=@1></font><br>"
+"[6]/title","在照相馆前看到的人影很可疑","[6]/title","机翻辅助：
+
+在照相馆前看到的人影很可疑
+
+在照相馆前看到的人影很奇怪"
+"[6]/desc","12:25。海老原怀疑在照相馆前看到的<font color='@1'>可疑的人影</font>是犯人。要找出人影是谁的<font color='@1'> @sl_c </font>是什么？","[6]/desc","机翻辅助：
+
+12:25。海老原怀疑在照相馆前看到的<font color='@1'>可疑的人影</font>是犯人。要找出人影是谁的<font color='@1'> @sl_c </font>是什么？
+
+12:25。海老原怀疑在照相馆前看到的可疑人影是犯人。确定人影是谁的<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>
+
+截至。海老原怀疑在照相馆前看到的可疑人影是凶手。确定人影是谁<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>"
+"[6]/inference_help_text","要解决海老原的疑问，需要<br><font color=@1>目击到12:25左右在照相馆进出的人物</font><br>的线索。","[6]/inference_help_text","机翻辅助：
+
+要解决海老原的疑问，需要<br><font color=@1>目击到12:25左右在照相馆进出的人物</font><br>的线索。
+
+为了解决海老原的疑问，我们需要一些线索。<br><font color=@1></font><br>
+
+为了解决海老原的疑问，我们需要一些线索：12:25前后，有人来到照相馆。<br><font color=@1></font><br>"
+"[7]/title","久美子很可疑","[7]/title","机翻辅助：
+
+久美子很可疑"
+"[7]/desc","12:53。海老原怀疑火灾的第一发现者<font color='@1'>久美子</font>是犯人。要找出证明久美子的犯行，或是证明久美子的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？","[7]/desc","机翻辅助：
+
+12:53。海老原怀疑火灾的第一发现者<font color='@1'>久美子</font>是犯人。要找出证明久美子的犯行，或是证明久美子的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+12:53。海老原怀疑女佣的第一发现者久美子是凶手。能证明久美子的罪行或证明其清白的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_a </font>
+
+12:53。海老原怀疑模糊的第一发现者久美子是犯人。证明久美子的罪行，或者证明她是无辜的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_a </font>"
+"[7]/inference_help_text","要解决海老原的疑问，需要<br><font color=@1>正确显示犯案时刻与久美子的不在场证明</font><br>的线索。","[7]/inference_help_text","机翻辅助：
+
+要解决海老原的疑问，需要<br><font color=@1>正确显示犯案时刻与久美子的不在场证明</font><br>的线索。
+
+为了解决海老原的疑问，需要能正确指出犯案时间和久美子不在场证明的线索。<br><font color=@1></font><br>
+
+为了解决海老原的疑问，需要准确地显示犯罪时间和久美子的不在场证明的线索。<br><font color=@1></font><br>"
+"[8]/title","树很可疑","[8]/title","机翻辅助：
+
+树很可疑
+
+树怪"
+"[8]/desc","12:53。久美子主张在火灾发生时比自己先到照相馆的<font color='@1'>树</font>是犯人。要找出证明树的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？","[8]/desc","机翻辅助：
+
+12:53。久美子主张在火灾发生时比自己先到照相馆的<font color='@1'>树</font>是犯人。要找出证明树的清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+12:53。久美子主张说，模糊发生时比自己先在照相馆的树是犯人。证明树的无辜的是什么？<font color='@1'></font><font color='@1'> @sl_b  @sl_a </font>
+
+12:53。久美子主张，模糊发生时比自己先到照相馆的树就是凶手。证明树清白的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_a </font>"
+"[9]/title","树很可疑","[9]/title","机翻辅助：
+
+树很可疑
+
+树怪"
+"[9]/desc","神代认为<font color='@1'>树是犯人</font>，要证明树的清白<font color='@1'> @sl_b  @sl_a </font>需要什么？","[9]/desc","机翻辅助：
+
+神代认为<font color='@1'>树是犯人</font>，要证明树的清白<font color='@1'> @sl_b  @sl_a </font>需要什么？
+
+神代主张岛上的新来者<font color='@1'>树是犯人</font>。能证明树清白的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+神代主张岛上的新参者树是犯人。证明树的无辜的是什么？<font color='@1'></font><font color='@1'> @sl_b  @sl_a </font>"
+"[10]/title","犯人就是久美子！","[10]/title","机翻辅助：
+
+犯人就是久美子！
+
+犯人是久美子！
+
+凶手是久美子！"
+"[10]/desc","树认为久美子是犯人，要证明久美子的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？","[10]/desc","机翻辅助：
+
+树认为久美子是犯人，要证明久美子的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？
+
+树认为久美子是凶手。证明久美子罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+树认为久美子是犯人。久美子的犯罪证据是什么？<font color='@1'> @sl_b  @sl_a </font>"
+"[11]/title","犯人是神代！","[11]/title","机翻辅助：
+
+犯人是神代！
+
+凶手是神代！"
+"[11]/desc","树认为神代是犯人，要证明神代的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？","[11]/desc","机翻辅助：
+
+树认为神代是犯人，要证明神代的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？
+
+树认为神代就是凶手。能证明神代罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+树认为神代是犯人。证明神代的罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？"
+"[12]/title","犯人就是真岛！","[12]/title","机翻辅助：
+
+犯人就是真岛！
+
+犯人是真岛！
+
+凶手是真岛！"
+"[12]/desc","树认为真岛是犯人，要证明真岛的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？","[12]/desc","机翻辅助：
+
+树认为真岛是犯人，要证明真岛的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？
+
+树认为真岛是凶手。能证明真岛罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+树认为真岛是犯人。证明真岛的罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？"
+"[13]/title","犯人就是海老原！","[13]/title","机翻辅助：
+
+犯人就是海老原！
+
+犯人是海老原！
+
+凶手是海老原！"
+"[13]/desc","树认为海老原是犯人，要证明海老原的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？","[13]/desc","机翻辅助：
+
+树认为海老原是犯人，要证明海老原的犯行<font color='@1'> @sl_b  @sl_a </font>需要什么？
+
+树认为海老原是凶手。证明海老原的罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？
+
+树认为海老原就是凶手。能证明海老原罪行的<font color='@1'> @sl_b  @sl_a </font>是什么？"

@@ -1,0 +1,59 @@
+"source","target","id","developer_comments"
+"balloon#4c582b70de3f2a7af6c4e620eeba58bc","要从柜台看厨房的进出，根本是想看就看得到，所以不能说谎。","balloon#4c582b70de3f2a7af6c4e620eeba58bc","机翻辅助：
+
+要从柜台看厨房的进出，根本是想看就看得到，所以不能说谎。
+
+厨房的出入只要从前台想看就能看出来，所以不能说谎。
+
+想从接待处看就能看到厨房的出入，所以不能说谎。"
+"balloon#8332ecefe8f511211a4e3b449d7a2fcc","[emb exp='tf.names.NPC.kusakabe']在厨房待了一阵子，是千真万确的事实。","balloon#8332ecefe8f511211a4e3b449d7a2fcc","机翻辅助：
+
+[emb exp='tf.names.NPC.kusakabe']在厨房待了一阵子，是千真万确的事实。
+
+[emb exp='tf.names.NPC.kusakabe']在厨房里呆了一段时间，这是毫无疑问的事实。
+
+[emb exp='tf.names.NPC.kusakabe']在厨房待了一段时间，这是不争的事实。"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#75ea7e87eba88f8a21431ce219982b36","[emb exp='tf.names.itsuki.NPC']说，[emb exp='tf.names.itsuki.kusakabe']的证词是真的。","balloon#75ea7e87eba88f8a21431ce219982b36","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']说，[emb exp='tf.names.itsuki.kusakabe']的证词是真的。
+
+[emb exp='tf.names.itsuki.NPC']说[emb exp='tf.names.itsuki.kusakabe']的证词是确实的。
+
+[emb exp='tf.names.itsuki.NPC']说[emb exp='tf.names.itsuki.kusakabe']的证词是可靠的。"
+"balloon#2e0764b347a1afd407b03ce893491a7a","这么说来，正好在[emb exp='tf.names.NPC.makino']走出玄关之后……","balloon#2e0764b347a1afd407b03ce893491a7a","机翻辅助：
+
+这么说来，正好在[emb exp='tf.names.NPC.makino']走出玄关之后……
+
+对了，正好，[emb exp='tf.names.NPC.makino']刚出大门……
+
+对了，就在[emb exp='tf.names.NPC.makino']刚走出玄关的时候……"
+"balloon#84bd63eb7ad3e81730e2018dda2b609f","[font color=@3][resetfont][emb exp='tf.names.NPC.kusakabe']就来我家了。","balloon#84bd63eb7ad3e81730e2018dda2b609f","机翻辅助：
+
+[font color=@3][resetfont][emb exp='tf.names.NPC.kusakabe']就来我家了。
+
+[font color=@3][emb exp='tf.names.NPC.kusakabe']误打误撞地来到了我家。[resetfont]
+
+[font color=@3]因为[emb exp='tf.names.NPC.kusakabe']进错了家。[resetfont]"
+"balloon#2eee5ecf2359531f98ce05d17969b318","[font color=@3]时间是13:48，是[resetfont]哦。","balloon#2eee5ecf2359531f98ce05d17969b318","机翻辅助：
+
+[font color=@3]时间是13:48，是[resetfont]哦。
+
+[font color=@3]是13:48啊。[resetfont]
+
+[font color=@3]是啊。[resetfont]"
+"balloon#8772957206f4e3f492601389faa68797","不管问[emb exp='tf.names.NPC.makino']还是[emb exp='tf.names.NPC.kusakabe']，应该都会得到同样的答案。","balloon#8772957206f4e3f492601389faa68797","机翻辅助：
+
+不管问[emb exp='tf.names.NPC.makino']还是[emb exp='tf.names.NPC.kusakabe']，应该都会得到同样的答案。
+
+[emb exp='tf.names.NPC.makino']和[emb exp='tf.names.NPC.kusakabe']，无论问哪一个，应该都会得到同样的回答。
+
+不管问[emb exp='tf.names.NPC.makino']还是[emb exp='tf.names.NPC.kusakabe']，都会得到同样的答案。"
+"balloon#a2a0b409c0b6f0aa4c50aaf68ca53ec3","在[emb exp='tf.names.itsuki.makino']离开照相馆之后，[font color=@3][emb exp='tf.names.itsuki.kusakabe']就来了[resetfont]吗？","balloon#a2a0b409c0b6f0aa4c50aaf68ca53ec3","机翻辅助：
+
+在[emb exp='tf.names.itsuki.makino']离开照相馆之后，[font color=@3][emb exp='tf.names.itsuki.kusakabe']就来了[resetfont]吗？
+
+[font color=@3][emb exp='tf.names.itsuki.makino']出现后，[emb exp='tf.names.itsuki.kusakabe']曾到访过照相馆吗？[resetfont]
+
+难道是[emb exp='tf.names.itsuki.makino']出现后，[emb exp='tf.names.itsuki.kusakabe']来到了照相馆吗。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

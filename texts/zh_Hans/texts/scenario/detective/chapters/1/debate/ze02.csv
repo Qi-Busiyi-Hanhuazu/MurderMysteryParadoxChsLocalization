@@ -1,0 +1,63 @@
+"source","target","id","developer_comments"
+"balloon#7e30678b325009553b2ac9420e5f75a9","[emb exp='tf.names.NPC.me']有怀疑的对象。","balloon#7e30678b325009553b2ac9420e5f75a9","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有怀疑的对象。
+
+[emb exp='tf.names.NPC.me']，有人在怀疑。
+
+[emb exp='tf.names.NPC.me']有怀疑的人。"
+"balloon#e553b5ce5098442f85983e45ce05ae7f","[emb exp='tf.names.NPC.me']注意到骚动，回到家里时……","balloon#e553b5ce5098442f85983e45ce05ae7f","机翻辅助：
+
+[emb exp='tf.names.NPC.me']注意到骚动，回到家里时……
+
+当[emb exp='tf.names.NPC.me']注意到模糊，回到家里的时候……
+
+当[emb exp='tf.names.NPC.me']意识到模糊，回到家里的时候……"
+"balloon#f6ac644b372a774352e8107612fcbdec","有人比[emb exp='tf.names.NPC.me']更早待在家里。","balloon#f6ac644b372a774352e8107612fcbdec","机翻辅助：
+
+有人比[emb exp='tf.names.NPC.me']更早待在家里。
+
+有人比[emb exp='tf.names.NPC.me']先在家里。
+
+有个人比[emb exp='tf.names.NPC.me']还早。"
+"balloon#cfff1e8a8f8ecca34d57d40ed7cbe210","没错……[emb exp='tf.names.NPC.itsuki']，就是你。","balloon#cfff1e8a8f8ecca34d57d40ed7cbe210","机翻辅助：
+
+没错……[emb exp='tf.names.NPC.itsuki']，就是你。
+
+是吗……[emb exp='tf.names.NPC.itsuki']，是你。
+
+是的……[emb exp='tf.names.NPC.itsuki']，就是你。"
+"balloon#734d814eab6b7dcee3908b35ba4b957d","[emb exp='tf.names.NPC.me']，[font color=@3]在怀疑[emb exp='tf.names.NPC.itsuki'][resetfont]。","balloon#734d814eab6b7dcee3908b35ba4b957d","机翻辅助：
+
+[emb exp='tf.names.NPC.me']，[font color=@3]在怀疑[emb exp='tf.names.NPC.itsuki'][resetfont]。
+
+[emb exp='tf.names.NPC.me']在怀疑[emb exp='tf.names.NPC.itsuki']。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']怀疑[emb exp='tf.names.NPC.itsuki']。[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#332edb61709fa1779f84ac8ed82cf4c2","<font color='@3'>${itsuki.NPC}的嫌疑</font>${itsuki.me}的主张是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#332edb61709fa1779f84ac8ed82cf4c2","机翻辅助：
+
+<font color='@3'>${itsuki.NPC}的嫌疑</font>${itsuki.me}的主张是……
+
+<font color='@3'>对于${itsuki.NPC}的怀疑</font>，${itsuki.me}的主张是……
+
+<font color='@3'>对于${itsuki.NPC}的疑问，${itsuki.me}的主张是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c046a48825cb40095c5b27d9ad70943f","提出根据加以否定","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#c046a48825cb40095c5b27d9ad70943f","机翻辅助：
+
+提出根据加以否定
+
+作证否认"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#2ff6cf27a537c1f39377bebdb72b3fa8","默默承认主张","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#2ff6cf27a537c1f39377bebdb72b3fa8","机翻辅助：
+
+默默承认主张
+
+默默地承认主张"
+"SET_FOOTER_HELP_TEXT/text#5f5796667cbb8243d3773fd3856b8386","如果能回答疑问，让对方接受您的推理，就能获得对方的信任。","SET_FOOTER_HELP_TEXT/text#5f5796667cbb8243d3773fd3856b8386","机翻辅助：
+
+如果能回答疑问，让对方接受您的推理，就能获得对方的信任。
+
+回答疑问，让对方接受，就能获得信任。
+
+回答疑问，如果能让对方接受的话就能获得信用。"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""

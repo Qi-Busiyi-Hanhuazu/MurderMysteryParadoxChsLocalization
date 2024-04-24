@@ -1,0 +1,6 @@
+"source","target","id","developer_comments"
+"balloon#b752dbf2f9582899286243983fe684a2","[emb exp='tf.names.NPC.itsuki']、少し2人で話しませんか？","balloon#b752dbf2f9582899286243983fe684a2","NPC"
+"balloon#2c7cb0e8ee48757b954b9945f1f05ae9","はいっ！","balloon#2c7cb0e8ee48757b954b9945f1f05ae9","主人公"
+"balloon#a0c60e94dd37a62562dd4cad246887c9","返事は、はっきりと……[l][chara_mod time=""@f1"" name=""主人公"" face=""normal""]はい、一回！","balloon#a0c60e94dd37a62562dd4cad246887c9","主人公"
+"balloon#39b6cf0b8c1b30a9640425fe465b1aac","いい返事ですね……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]こちらへどうぞ。","balloon#39b6cf0b8c1b30a9640425fe465b1aac","NPC"
+"speaker_主人公","主人公","speaker_主人公",""

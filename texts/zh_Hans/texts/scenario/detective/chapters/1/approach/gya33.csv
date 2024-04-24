@@ -1,0 +1,125 @@
+"source","target","id","developer_comments"
+"balloon#c326f5ef5f66a79e51c23f49cf8046f6","那么……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]我想说的只有一件事。","balloon#c326f5ef5f66a79e51c23f49cf8046f6","机翻辅助：
+
+那么……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]我想说的只有一件事。
+
+那么……想说的只有一件事。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]
+
+那么……我想说的只有一个。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]"
+"balloon#b5aec3a03739d2d7d2b06a32775b5dd8","[font color=@3]关于犯案时间的不在场证明[resetfont]。","balloon#b5aec3a03739d2d7d2b06a32775b5dd8","机翻辅助：
+
+[font color=@3]关于犯案时间的不在场证明[resetfont]。
+
+[font color=@3]关于犯罪时间的不在场证明[resetfont]。
+
+[font color=@3]关于犯罪时间的不在场证明。[resetfont]"
+"balloon#498d89741b107249702003e7e8f81d6e","这个嘛……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""][emb exp='tf.names.NPC.me']试着思考了一下，好像有点眉目了。","balloon#498d89741b107249702003e7e8f81d6e","机翻辅助：
+
+这个嘛……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""][emb exp='tf.names.NPC.me']试着思考了一下，好像有点眉目了。
+
+是啊……[emb exp='tf.names.NPC.me']自己想了想，总觉得看到了。[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]
+
+是啊……[emb exp='tf.names.NPC.me']试着思考了一下，多少有些头绪了。[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]"
+"balloon#1bdc31c9d576efab856d945e03b53ec8","你觉得呢，[emb exp='tf.names.NPC.itsuki']？","balloon#1bdc31c9d576efab856d945e03b53ec8","机翻辅助：
+
+你觉得呢，[emb exp='tf.names.NPC.itsuki']？
+
+[emb exp='tf.names.NPC.itsuki']怎么样？"
+"balloon#a234f0edfe1ad47733d206e6553dfc39","这个嘛……","balloon#a234f0edfe1ad47733d206e6553dfc39","机翻辅助：
+
+这个嘛……
+
+是啊……"
+"balloon#a0f74fc5b8bf0c6c1eff81b63a9ba508","话虽如此，但结论尚未完全出炉。","balloon#a0f74fc5b8bf0c6c1eff81b63a9ba508","机翻辅助：
+
+话虽如此，但结论尚未完全出炉。
+
+话虽如此，但还没有完全得出结论。
+
+话虽如此，还没有完全得出结论。"
+"balloon#c52a413c434b79f0752caebeaf7254a5","看来还是不要随便乱说话比较好。","balloon#c52a413c434b79f0752caebeaf7254a5","机翻辅助：
+
+看来还是不要随便乱说话比较好。
+
+不要说迂腐的话比较好吧。
+
+还是不要说那些愚蠢的话比较好。"
+"balloon#c07cb02f24e1284fda7069cebacb698e","既然如此……","balloon#c07cb02f24e1284fda7069cebacb698e","机翻辅助：
+
+既然如此……
+
+如果是这样的话……"
+"SECRET_SELECTION/topic#ab71d927cf142917230d588caadcab04","能够确定不在场证明的……","SECRET_SELECTION/topic#ab71d927cf142917230d588caadcab04","机翻辅助：
+
+能够确定不在场证明的……
+
+不在场证明明确的是……
+
+明确的不在场证明是……"
+"SECRET_SELECTION/text1#462353bbfb6132f057e200a166319440","是${itsuki_p.yohei}！","SECRET_SELECTION/text1#462353bbfb6132f057e200a166319440","机翻辅助：
+
+是${itsuki_p.yohei}！
+
+${itsuki_p.yohei}！"
+"SECRET_SELECTION/text2#b09f3ca96a9fa020ed75aa6bf88bdc7b","是${itsuki_p.daisuke}！","SECRET_SELECTION/text2#b09f3ca96a9fa020ed75aa6bf88bdc7b","机翻辅助：
+
+是${itsuki_p.daisuke}！
+
+${itsuki_p.daisuke}！"
+"SECRET_SELECTION/text3#93490dca8dc9084263eadcf0167ccaaf","是${itsuki_p.chiyo}！","SECRET_SELECTION/text3#93490dca8dc9084263eadcf0167ccaaf","机翻辅助：
+
+是${itsuki_p.chiyo}！
+
+${itsuki_p.chiyo}！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#7e53a9c7eced615b0d4ab1aa55640271","[emb exp='tf.names.NPC.yohei']……？","balloon#7e53a9c7eced615b0d4ab1aa55640271",""
+"balloon#6a88e2480593576da96f4d1a395bcda3","[emb exp='tf.names.NPC.daisuke']……？","balloon#6a88e2480593576da96f4d1a395bcda3",""
+"balloon#722a949b2898e4d3c08520eefcac0f2c","[emb exp='tf.names.NPC.chiyo']……？","balloon#722a949b2898e4d3c08520eefcac0f2c",""
+"balloon#be72295767383edd7bbe7b412c2a5bc4","除了五名嫌疑人以外的不在场证明……","balloon#be72295767383edd7bbe7b412c2a5bc4","机翻辅助：
+
+除了五名嫌疑人以外的不在场证明……
+
+5名嫌疑人以外的不在场证明……"
+"balloon#b60c8ba5f981711a667e594796d3083f","这或许是个不错的着眼点！","balloon#b60c8ba5f981711a667e594796d3083f","机翻辅助：
+
+这或许是个不错的着眼点！
+
+那个，说不定是好的着眼点！"
+"balloon#bc1905afea76cfa4402f53a1fb22c9ad","并不是只关注嫌疑人五人的不在场证明……","balloon#bc1905afea76cfa4402f53a1fb22c9ad","机翻辅助：
+
+并不是只关注嫌疑人五人的不在场证明……
+
+不要只关注5名嫌疑人的不在场证明……
+
+并不是只关注5名嫌疑人的不在场证明……"
+"balloon#7f128b5f7bd6e11c7f4ef260d96ce515","除此之外的人们，逐一被洗出可疑之处。","balloon#7f128b5f7bd6e11c7f4ef260d96ce515","机翻辅助：
+
+除此之外的人们，逐一被洗出可疑之处。
+
+从其他人身上，找出可疑之处。
+
+从其他人身上，找出可疑的地方。"
+"balloon#a0453543daabd80d3897592c80d111f7","真不愧是[emb exp='tf.names.NPC.itsuki']！","balloon#a0453543daabd80d3897592c80d111f7","机翻辅助：
+
+真不愧是[emb exp='tf.names.NPC.itsuki']！
+
+[emb exp='tf.names.NPC.itsuki']，不愧是！
+
+[emb exp='tf.names.NPC.itsuki']，真不愧是你！"
+"balloon#6079fb32a05310224c245f8a80c0a465","对了，跟不在场证明有关的事情……","balloon#6079fb32a05310224c245f8a80c0a465","机翻辅助：
+
+对了，跟不在场证明有关的事情……
+
+对了，有可能和不在场证明有关的事情……
+
+对了，和不在场证明有关的事情……"
+"balloon#c03042933a65c53855f57ec0928691a7","只要重新[font color=@3]用笔记本确认全部[resetfont]，说不定就能发现什么。","balloon#c03042933a65c53855f57ec0928691a7","机翻辅助：
+
+只要重新[font color=@3]用笔记本确认全部[resetfont]，说不定就能发现什么。
+
+重新用笔记本全部确认一遍，也许就能看出来了。[font color=@3][resetfont]
+
+用笔记本全部重新确认一下，也许就能看到了。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

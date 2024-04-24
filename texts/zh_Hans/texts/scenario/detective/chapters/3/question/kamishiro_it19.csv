@@ -1,0 +1,62 @@
+"source","target","id","developer_comments"
+"balloon#3ccc3a882812bbf02ab881f4d3299253","那是你刚才说的那把球棒吧。","balloon#3ccc3a882812bbf02ab881f4d3299253","机翻辅助：
+
+那是你刚才说的那把球棒吧。
+
+那是刚才听我说的球棒。
+
+那就是刚才提到的球棒。"
+"balloon#b771d2cbd53a2b2818946ec3af763b44","[emb exp='tf.names.NPC.ebihara']被偷的那个球棒，到底是谁用的呢……？","balloon#b771d2cbd53a2b2818946ec3af763b44","机翻辅助：
+
+[emb exp='tf.names.NPC.ebihara']被偷的那个球棒，到底是谁用的呢……？
+
+[emb exp='tf.names.NPC.ebihara']被偷的那个球棒，到底是谁用过呢……？
+
+被偷走的那根球棒，到底是谁用的呢……？[emb exp='tf.names.NPC.ebihara']"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#782b6e0924d981689ae1ec591763364f","的确，这根球棒究竟是谁拿去用的呢……？","balloon#782b6e0924d981689ae1ec591763364f","机翻辅助：
+
+的确，这根球棒究竟是谁拿去用的呢……？
+
+确实，这个球棒是谁用的呢……？
+
+确实，这个球棒是谁用过的呢……？"
+"balloon#c59d635e28122a727143f9bd81188e14","球棒吗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是[emb exp='tf.names.NPC.itsuki']犯罪时使用的凶器。","balloon#c59d635e28122a727143f9bd81188e14","机翻辅助：
+
+球棒吗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是[emb exp='tf.names.NPC.itsuki']犯罪时使用的凶器。
+
+是球棒吗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]据说是[emb exp='tf.names.NPC.itsuki']在犯罪中使用的凶器。
+
+球棒吗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]也就是犯案时使用的凶器吧。[emb exp='tf.names.NPC.itsuki']"
+"balloon#dc38dcefaf27f0095523ea9d0a54c248","咦，[emb exp='tf.names.itsuki.me']不是犯人啊！","balloon#dc38dcefaf27f0095523ea9d0a54c248","机翻辅助：
+
+咦，[emb exp='tf.names.itsuki.me']不是犯人啊！
+
+啊，[emb exp='tf.names.itsuki.me']不是犯人！
+
+啊，[emb exp='tf.names.itsuki.me']不是凶手！"
+"balloon#54db5db84bea5c246625a5efd5e0f4c6","……你好像相当慌张呢，怎么了吗？","balloon#54db5db84bea5c246625a5efd5e0f4c6","机翻辅助：
+
+……你好像相当慌张呢，怎么了吗？
+
+……好像很动摇，怎么了？
+
+……你好像很不安，怎么了？"
+"balloon#96f6c57ae5a3a3b768997f8f95648819","没有啦，真的不是我……！","balloon#96f6c57ae5a3a3b768997f8f95648819","机翻辅助：
+
+没有啦，真的不是我……！
+
+不，真的不一样……！
+
+不，真的不是……！"
+"balloon#b36482327301b23d2f45f6b8d2517a48","呵呵……","balloon#b36482327301b23d2f45f6b8d2517a48","机翻辅助：
+
+呵呵……"
+"balloon#f433bf49dd9c285b96e7eee5de024d86","这是在调侃我吗？还是真的在怀疑我呢……？","balloon#f433bf49dd9c285b96e7eee5de024d86","机翻辅助：
+
+这是在调侃我吗？还是真的在怀疑我呢……？
+
+这是被戏弄，还是真的被怀疑呢……？
+
+这是在取笑我，还是真的在怀疑我……？"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,74 @@
+"source","target","id","developer_comments"
+"balloon#aad36434a853c4ed03213ef3a554c295","那么，可以听[emb exp='tf.names.NPC.me']说吗？","balloon#aad36434a853c4ed03213ef3a554c295","机翻辅助：
+
+那么，可以听[emb exp='tf.names.NPC.me']说吗？
+
+那么，可以听听[emb exp='tf.names.NPC.me']的话吗？"
+"balloon#742e7fbde66ca5ae32fcade070f890fe","首先，我要感谢各位一路以来对搜查的协助……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]真的非常感谢。","balloon#742e7fbde66ca5ae32fcade070f890fe","机翻辅助：
+
+首先，我要感谢各位一路以来对搜查的协助……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]真的非常感谢。
+
+首先，各位，到现在为止对搜查的协助……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]真的非常感谢。
+
+首先请各位协助调查到此为止……真的非常感谢。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]"
+"balloon#f545c1db4b8104ac7e32fca3ce5210ea","多亏如此，我明白了许多事情。","balloon#f545c1db4b8104ac7e32fca3ce5210ea","机翻辅助：
+
+多亏如此，我明白了许多事情。
+
+托您的福，我明白了很多事情。
+
+多亏了你，我明白了很多事情。"
+"balloon#fe2328a8e8211145bc1f4296c06abc5d","谁可疑，谁不可疑，这种事也是。","balloon#fe2328a8e8211145bc1f4296c06abc5d","机翻辅助：
+
+谁可疑，谁不可疑，这种事也是。
+
+谁可疑，谁不奇怪，也有那样的事。
+
+也有谁可疑，谁不可疑的问题。"
+"balloon#e075a4d742b641806f438f929f801bb8","然后，我想已经有人知道……","balloon#e075a4d742b641806f438f929f801bb8","机翻辅助：
+
+然后，我想已经有人知道……
+
+而且，我想也有人已经认识到了……
+
+而且，我想已经有人认识到了……"
+"balloon#1d3649d067a71babfacb87bfe6347c78","为了在所有人面前公开，还请重新说一次。","balloon#1d3649d067a71babfacb87bfe6347c78","机翻辅助：
+
+为了在所有人面前公开，还请重新说一次。
+
+为了在所有人面前明确，请让我重新听。
+
+为了在所有人面前弄清楚，请让我再听一遍。"
+"balloon#080156b928003c352420ec72413ff4b5","[font color=@3][emb exp='tf.names.NPC.tetsuo']为什么会在山中小屋[resetfont]？","balloon#080156b928003c352420ec72413ff4b5","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.tetsuo']为什么会在山中小屋[resetfont]？
+
+[font color=@3][emb exp='tf.names.NPC.tetsuo']为什么会在山中小屋[resetfont]呢？
+
+[font color=@3][emb exp='tf.names.NPC.tetsuo']为什么在山中小屋里？[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#52f59f50c1d867116b1a3a73df477db6","<font color='@3'>${itsuki.tetsuo}在山中小屋</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#52f59f50c1d867116b1a3a73df477db6","机翻辅助：
+
+<font color='@3'>${itsuki.tetsuo}在山中小屋</font>是……
+
+<font color='@3'>${itsuki.tetsuo}在山中小屋</font>是因为……
+
+<font color='@3'>${itsuki.tetsuo}在山间小屋里</font>是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#7c92f4b9fa69392a976112bc8d377d16","14:50要跟某人碰面！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#7c92f4b9fa69392a976112bc8d377d16","机翻辅助：
+
+14:50要跟某人碰面！
+
+14:50和谁约好了！
+
+14:50和谁碰头了！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d18bc17d2ebef203c40f784069ff12b5","15:00被${itsuki.ebihara}叫去的！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d18bc17d2ebef203c40f784069ff12b5","机翻辅助：
+
+15:00被${itsuki.ebihara}叫去的！
+
+15:00被${itsuki.ebihara}叫出来了！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#f6f3a77d8f5e76116e1f13716c1144f0","为了在15:07袭击${itsuki.yuuki}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#f6f3a77d8f5e76116e1f13716c1144f0","机翻辅助：
+
+为了在15:07袭击${itsuki.yuuki}！
+
+是为了在15:07袭击${itsuki.yuuki}！
+
+为了15:07袭击${itsuki.yuuki}！"

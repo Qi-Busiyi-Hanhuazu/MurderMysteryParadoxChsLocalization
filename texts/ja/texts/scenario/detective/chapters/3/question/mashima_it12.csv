@@ -1,0 +1,10 @@
+"source","target","id","developer_comments"
+"balloon#03641d91a4bd673f564bc5d2e3ff8f0d","これは、先ほど見せてくれたメモですか……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]いや、違いますね。","balloon#03641d91a4bd673f564bc5d2e3ff8f0d","NPC"
+"balloon#c4f774e0e3a5779ad9a71cffb88a2fc6","それにしても、筆跡が似ている二枚のメモとは……。","balloon#c4f774e0e3a5779ad9a71cffb88a2fc6","NPC"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……。","balloon#9c1a2d238dba9a227727e6958e4f48f5","NPC"
+"balloon#5d896d98bbf6a3c82e7c1b071ba4e885","二枚のメモは、同じ筆跡に見える。[l]
+別の２人が持っていたということは……。","balloon#5d896d98bbf6a3c82e7c1b071ba4e885","主人公"
+"balloon#64e5aac743c5ef377eb73ddd3ac6035b","ほう、[emb exp='tf.names.NPC.ebihara']が[emb exp='tf.names.NPC.tetsuo']を呼び出したメモですか。","balloon#64e5aac743c5ef377eb73ddd3ac6035b","NPC"
+"balloon#edcb3e544f5d011ceac2acb73fb0aaed","ふむ、この内容の通りだとしたら、もしかすると……","balloon#edcb3e544f5d011ceac2acb73fb0aaed","NPC"
+"balloon#e408e3eb71179abf17d4ce6addc1149d","[emb exp='tf.names.itsuki.NPC']は、なにか気になることがあるのだろうか……？","balloon#e408e3eb71179abf17d4ce6addc1149d","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

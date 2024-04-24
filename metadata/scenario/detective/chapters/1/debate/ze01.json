@@ -1,0 +1,37 @@
+[
+  {
+    "start": 77,
+    "end": 120,
+    "key": "balloon#f724768c609226f7ec622ada917d3c60"
+  },
+  {
+    "start": 216,
+    "end": 248,
+    "key": "balloon#d66b695055b6b85984629003ab27cb74"
+  },
+  {
+    "start": 354,
+    "end": 402,
+    "key": "balloon#f4e747b4e762fc283e51a8a745e2dff8"
+  },
+  {
+    "start": 596,
+    "end": 659,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_text#f2b4969a4c59a49c69f4f353609acf0c"
+  },
+  {
+    "start": 703,
+    "end": 739,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6a00d3e6ee384c54c83964bbe5d341d5"
+  },
+  {
+    "start": 806,
+    "end": 840,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#3e5e0656970f8317e738ea90e1500022"
+  },
+  {
+    "start": 907,
+    "end": 939,
+    "key": "TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ba58dd79af7796ab580aa6c6d81fa85a"
+  }
+]

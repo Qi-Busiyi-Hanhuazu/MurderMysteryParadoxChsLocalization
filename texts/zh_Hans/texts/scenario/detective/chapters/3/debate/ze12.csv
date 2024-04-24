@@ -1,0 +1,77 @@
+"source","target","id","developer_comments"
+"balloon#732798eb8a5d88009fdc114b7ee6a520","好，大家听[emb exp='tf.names.NPC.me']说！","balloon#732798eb8a5d88009fdc114b7ee6a520","机翻辅助：
+
+好，大家听[emb exp='tf.names.NPC.me']说！
+
+好了，大家听[emb exp='tf.names.NPC.me']说！"
+"balloon#04cbc34556302c15ff2ea3c5950a6c74","这起事件，我思考了很多……","balloon#04cbc34556302c15ff2ea3c5950a6c74","机翻辅助：
+
+这起事件，我思考了很多……
+
+这件事，我想了很多……
+
+这个事件，我想了很多……"
+"balloon#71682207e468d0f1d335ceb0dbf7b59d","但有一个家伙显然很可疑啊！","balloon#71682207e468d0f1d335ceb0dbf7b59d","机翻辅助：
+
+但有一个家伙显然很可疑啊！
+
+明显可疑的家伙，1人哟！
+
+有一个很明显很可疑的家伙！"
+"balloon#e554341949d3e857351ebc8a89c753ce","绝对，很可疑，太可疑了，比[emb exp='tf.names.NPC.me']可疑一百万倍！","balloon#e554341949d3e857351ebc8a89c753ce","机翻辅助：
+
+绝对，很可疑，太可疑了，比[emb exp='tf.names.NPC.me']可疑一百万倍！
+
+绝对，奇怪，太奇怪了，比[emb exp='tf.names.NPC.me']还奇怪一百万倍！
+
+绝对可疑，太可疑了，比[emb exp='tf.names.NPC.me']还要可疑百万倍！"
+"balloon#63da7a838eb1c475131b539f1d493dbc","待在那种地方，倒在地上，然后[emb exp='tf.names.NPC.tetsuo']就消失了。","balloon#63da7a838eb1c475131b539f1d493dbc","机翻辅助：
+
+待在那种地方，倒在地上，然后[emb exp='tf.names.NPC.tetsuo']就消失了。
+
+在那样的地方，倒下了，然后[emb exp='tf.names.NPC.tetsuo']就消失了。
+
+在那样的地方，倒在那里，[emb exp='tf.names.NPC.tetsuo']就这样消失了。"
+"balloon#66c761361fa49cdd32782e1dc85c023e","[emb exp='tf.names.NPC.me']，已经找到答案了。","balloon#66c761361fa49cdd32782e1dc85c023e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']，已经找到答案了。
+
+对[emb exp='tf.names.NPC.me']来说，答案已经看出来了。
+
+[emb exp='tf.names.NPC.me']已经找到答案了。"
+"balloon#de35801f73fe3c0856090e4a2fc5c4f2","袭击[emb exp='tf.names.NPC.tetsuo']，把他带走，再伪装成自己被袭击的人……","balloon#de35801f73fe3c0856090e4a2fc5c4f2","机翻辅助：
+
+袭击[emb exp='tf.names.NPC.tetsuo']，把他带走，再伪装成自己被袭击的人……
+
+袭击并带走[emb exp='tf.names.NPC.tetsuo']，制造出自己被袭击的假象的是……
+
+袭击[emb exp='tf.names.NPC.tetsuo']后带走，假装自己被袭击的是……"
+"balloon#b3ff34e44eee5e4587cf08e89241e4fd","[font color=@3]就是[resetfont][emb exp='tf.names.NPC.yuuki']你啊！","balloon#b3ff34e44eee5e4587cf08e89241e4fd","机翻辅助：
+
+[font color=@3]就是[resetfont][emb exp='tf.names.NPC.yuuki']你啊！
+
+[font color=@3][emb exp='tf.names.NPC.yuuki'][resetfont]就是你！
+
+[font color=@3][emb exp='tf.names.NPC.yuuki'][resetfont]，就是你！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#15925b244234f0fceab057335841a97c","<font color='@3'>对于${itsuki.yuuki}的怀疑</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#15925b244234f0fceab057335841a97c","机翻辅助：
+
+<font color='@3'>对于${itsuki.yuuki}的怀疑</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.yuuki}的怀疑</font>的想法是……
+
+<font color='@3'>对${itsuki.yuuki}的怀疑</font>${itsuki.me}的看法是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0e65a75cfbf04799624f3b95071247f8","这是假装被袭击的自导自演！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0e65a75cfbf04799624f3b95071247f8","机翻辅助：
+
+这是假装被袭击的自导自演！
+
+是假装被袭击的自制自演！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#05345418b08bed5f3ff26b35ca01addd","我是真的被袭击的受害者！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#05345418b08bed5f3ff26b35ca01addd","机翻辅助：
+
+我是真的被袭击的受害者！
+
+真的是被袭击的受害者！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#213540c1f23934cc8a4c693c17c4095f","我认为是${itsuki_p.tetsuo}的共犯！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#213540c1f23934cc8a4c693c17c4095f","机翻辅助：
+
+我认为是${itsuki_p.tetsuo}的共犯！
+
+和${itsuki_p.tetsuo}是共犯！"

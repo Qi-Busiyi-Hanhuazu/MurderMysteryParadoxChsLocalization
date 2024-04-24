@@ -1,0 +1,191 @@
+"source","target","id","developer_comments"
+"balloon#e70956cf1a7aadf1c874a6292c5cccd6","你好像在想些什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]调查得怎么样了？（Y／N）","balloon#e70956cf1a7aadf1c874a6292c5cccd6","机翻辅助：
+
+你好像在想些什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]调查得怎么样了？（Y／N）
+
+他好像在想什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]调查的情况怎么样？
+
+好像在想些什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]调查怎么样？"
+"balloon#44bc06515dd01b809529ff9a41a158b6","都是些搞不懂的事呢……","balloon#44bc06515dd01b809529ff9a41a158b6","机翻辅助：
+
+都是些搞不懂的事呢……
+
+都是不明白的事情啊……
+
+都是些不明白的事情啊……"
+"balloon#0fa39b92f7a35528a47d60cb71e136ce","……怎么了？","balloon#0fa39b92f7a35528a47d60cb71e136ce","机翻辅助：
+
+……怎么了？"
+"balloon#14d0b55c91a01b225e176848180f003c","啊啊，不好意思！","balloon#14d0b55c91a01b225e176848180f003c","机翻辅助：
+
+啊啊，不好意思！
+
+啊，对不起！"
+"balloon#e07e51a3a78daa879e06344cca92a343","我一直在想事情！","balloon#e07e51a3a78daa879e06344cca92a343","机翻辅助：
+
+我一直在想事情！
+
+净是些心事！
+
+全是心事！"
+"balloon#9835f32512a4b3d4d376437801adfff5","……是什么事来着？","balloon#9835f32512a4b3d4d376437801adfff5","机翻辅助：
+
+……是什么事来着？
+
+……是什么来着？"
+"balloon#24447a090d9ae52a99e04ecd71304a87","真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]看你的样子，我好担心你是不是不记得了。","balloon#24447a090d9ae52a99e04ecd71304a87","机翻辅助：
+
+真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]看你的样子，我好担心你是不是不记得了。
+
+哎呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]这样的话，能不能记住我，我很不安。
+
+哎呀呀……那个样子的话，不知道大家还记不记得，真让人不安。[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]"
+"balloon#c51666a95caa43a6fec4dc69148fec1b","[emb exp='tf.names.NPC.me']的疑问……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""]你还记得是什么吗？","balloon#c51666a95caa43a6fec4dc69148fec1b","机翻辅助：
+
+[emb exp='tf.names.NPC.me']的疑问……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""]你还记得是什么吗？
+
+[emb exp='tf.names.NPC.me']的疑问……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""]还记得是什么吗？
+
+还记得是什么吗？[emb exp='tf.names.NPC.me'][l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""]"
+"balloon#bee508bdcfea14dc67beeede762bd3a8","呃，是什么事来着！","balloon#bee508bdcfea14dc67beeede762bd3a8","机翻辅助：
+
+呃，是什么事来着！
+
+嗯，是什么来着！
+
+嗯，什么来着？"
+"SECRET_SELECTION/topic#8d9b45b92e2c06b454780d723bf70225","${itsuki_p.mashima}的疑问，当然是……","SECRET_SELECTION/topic#8d9b45b92e2c06b454780d723bf70225","机翻辅助：
+
+${itsuki_p.mashima}的疑问，当然是……
+
+${itsuki_p.mashima}的疑问，当然……
+
+${itsuki_p.mashima}的疑问当然是……"
+"SECRET_SELECTION/text1#4100584fb84144dbbaaa6dd753f25ac7","凶器的事吧？","SECRET_SELECTION/text1#4100584fb84144dbbaaa6dd753f25ac7","机翻辅助：
+
+凶器的事吧？
+
+你是说凶器吧？
+
+是凶器吧？"
+"SECRET_SELECTION/text2#74db56b1b0bb652b35d44459cc735aeb","动机的事吧？","SECRET_SELECTION/text2#74db56b1b0bb652b35d44459cc735aeb","机翻辅助：
+
+动机的事吧？
+
+是指动机吧？
+
+你是说动机吧？"
+"SECRET_SELECTION/text3#2b0a7936a88bc193ddc697ea66b87b2c","犯案时刻的事吧？","SECRET_SELECTION/text3#2b0a7936a88bc193ddc697ea66b87b2c","机翻辅助：
+
+犯案时刻的事吧？
+
+你是说作案时间吧？
+
+是指犯案时间吧？"
+"balloon#6fa7c98a8d9496bf2ba091e2584a3695","虽然这些我也很在意……","balloon#6fa7c98a8d9496bf2ba091e2584a3695","机翻辅助：
+
+虽然这些我也很在意……
+
+这一点我也很在意……
+
+我也很在意……"
+"balloon#aa6ab4dd6aa4fe6686515527a5bf8d19","[emb exp='tf.names.NPC.me']问的不是那件事哦。","balloon#aa6ab4dd6aa4fe6686515527a5bf8d19","机翻辅助：
+
+[emb exp='tf.names.NPC.me']问的不是那件事哦。
+
+[emb exp='tf.names.NPC.me']问的不是那件事吧？"
+"balloon#248d664d99415942c30bfe7540250845","糟糕，原来不是这些吗！","balloon#248d664d99415942c30bfe7540250845","机翻辅助：
+
+糟糕，原来不是这些吗！
+
+糟了，不是这件事吗！
+
+糟了，原来是这件事！"
+"balloon#f4e78d7826bd2fbafc8af427683f7a1e","[emb exp='tf.names.NPC.me']感到疑问的，是[emb exp='tf.names.NPC.tetsuo']被杀的时间……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]也就是犯案时刻。","balloon#f4e78d7826bd2fbafc8af427683f7a1e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']感到疑问的，是[emb exp='tf.names.NPC.tetsuo']被杀的时间……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]也就是犯案时刻。
+
+[emb exp='tf.names.NPC.me']怀疑的是[emb exp='tf.names.NPC.tetsuo']是什么时候被杀的……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]关于犯罪时间。
+
+[emb exp='tf.names.NPC.me']的疑问是，[emb exp='tf.names.NPC.tetsuo']是什么时候被杀的……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""]关于犯罪时间。"
+"balloon#8a421f6343d8a006c41fa8c6b2e8ebc2","好、好的！","balloon#8a421f6343d8a006c41fa8c6b2e8ebc2","机翻辅助：
+
+好、好的！
+
+是、是！
+
+好、好！"
+"balloon#2e460d5e94f6f7daaf3f8ee9a8de3ad9","我会好好调查！","balloon#2e460d5e94f6f7daaf3f8ee9a8de3ad9","机翻辅助：
+
+我会好好调查！
+
+我会好好调查的！
+
+好好调查！"
+"balloon#79ce5c8455fbd204c99281051fdd28e8","犯案时刻……","balloon#79ce5c8455fbd204c99281051fdd28e8","机翻辅助：
+
+犯案时刻……
+
+犯罪时间……
+
+作案时间……"
+"balloon#1f1b620bd73ff661a9340ff217826e16","对，就是这件事！","balloon#1f1b620bd73ff661a9340ff217826e16","机翻辅助：
+
+对，就是这件事！
+
+对，就是那件事！
+
+是的，就是那件事！"
+"balloon#55a3a5360bb3d719ac8ffa5435f55787","幸好你记得。太好了。","balloon#55a3a5360bb3d719ac8ffa5435f55787","机翻辅助：
+
+幸好你记得。太好了。
+
+你还记得我吗，太好了。
+
+你还记得吗，太好了。"
+"balloon#bc40ca8f839712fd24f5c655842228f2","呼～幸好我有好好做笔记。","balloon#bc40ca8f839712fd24f5c655842228f2","机翻辅助：
+
+呼～幸好我有好好做笔记。
+
+嗯，好好记下来真是太好了。
+
+唔，好好记下来真是太好了。"
+"balloon#93ab852a03337fa4d8da9a02d0926b0a","那么……调查得怎么样了？","balloon#93ab852a03337fa4d8da9a02d0926b0a","机翻辅助：
+
+那么……调查得怎么样了？
+
+然后……调查的人怎么样？
+
+然后……调查的情况怎么样？"
+"balloon#3f1ddf988ab6d3b75638f9cb10f548cb","啊，这个……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]呃……","balloon#3f1ddf988ab6d3b75638f9cb10f548cb","机翻辅助：
+
+啊，这个……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]呃……
+
+啊，那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]啊……
+
+啊，这……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]嗯……"
+"balloon#f11f62779b2f3456ef33519b7f038c63","真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]拜托你了。","balloon#f11f62779b2f3456ef33519b7f038c63","机翻辅助：
+
+真受不了……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]拜托你了。
+
+哎呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]拜托你了。
+
+哎呀呀……拜托你了。[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]"
+"balloon#760da19351a27f75ea009f1a56e40f81","请协助调查，让我相信[emb exp='tf.names.NPC.itsuki']。","balloon#760da19351a27f75ea009f1a56e40f81","机翻辅助：
+
+请协助调查，让我相信[emb exp='tf.names.NPC.itsuki']。
+
+请协助调查让我相信[emb exp='tf.names.NPC.itsuki']。"
+"balloon#4a2fccd47d379323caafc2061f9c1177","包在我身上！","balloon#4a2fccd47d379323caafc2061f9c1177","机翻辅助：
+
+包在我身上！
+
+交给我吧！"
+"balloon#c92e79789f43cbeb686e6be0985dc2bd","要是能知道[emb exp='tf.names.itsuki.tetsuo']今天行动的时间就好了。","balloon#c92e79789f43cbeb686e6be0985dc2bd","机翻辅助：
+
+要是能知道[emb exp='tf.names.itsuki.tetsuo']今天行动的时间就好了。
+
+关于今天[emb exp='tf.names.itsuki.tetsuo']的行动，如果能知道时间就好了。
+
+要是能知道[emb exp='tf.names.itsuki.tetsuo']今天的行动时间就好了。"
+"speaker_主人公","主人公","speaker_主人公",""

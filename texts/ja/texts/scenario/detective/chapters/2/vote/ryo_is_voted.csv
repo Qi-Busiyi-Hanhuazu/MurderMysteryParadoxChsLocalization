@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#6cb11fcdd5207f08a4e492e9e7ece1cd","緊張するね……[l][chara_mod time=""@f1"" name=""NPC"" face=""worry"" position=""right""]疑われてないと、いいんだけど。","balloon#6cb11fcdd5207f08a4e492e9e7ece1cd","NPC"
+"balloon#f0eec1ad1858d6649ae50efb314db5d9","[emb exp='tf.names.NPC.me']は、[font color=@3][emb exp='f.vote_count']票[resetfont]だね。","balloon#f0eec1ad1858d6649ae50efb314db5d9","NPC"
+"balloon#6d6751b1dd6f9f7b2eb58a5bafff1fee","ふぅ……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]安心したよ。","balloon#6d6751b1dd6f9f7b2eb58a5bafff1fee","NPC"
+"balloon#4e85a715e4560d1ec14b224f4cedef8d","当然、[emb exp='tf.names.NPC.me']は犯人じゃないからね。","balloon#4e85a715e4560d1ec14b224f4cedef8d","NPC"
+"balloon#0064d624057a1fe78610e0dd1877d6e8","なぜですか？？","balloon#0064d624057a1fe78610e0dd1877d6e8","NPC"
+"balloon#698355759d01b6dc7f6dca01b8afa5ed","情けない、保護者である[emb exp='tf.names.NPC.me']が疑われてしまうなんて……。","balloon#698355759d01b6dc7f6dca01b8afa5ed","NPC"

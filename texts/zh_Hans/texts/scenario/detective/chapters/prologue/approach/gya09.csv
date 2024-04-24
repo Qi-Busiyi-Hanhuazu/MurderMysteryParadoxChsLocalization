@@ -1,0 +1,165 @@
+"source","target","id","developer_comments"
+"balloon#978d4862db489bbccc6b67d56e5cb556","至于我烦恼的事情……","balloon#978d4862db489bbccc6b67d56e5cb556","机翻辅助：
+
+至于我烦恼的事情……
+
+所以，烦恼的是……
+
+所以才会烦恼呢……"
+"balloon#7edc057949ea1a8eaa891cbeb4e176bb","刚才我说的[font color=@3][emb exp='tf.names.NPC.chiyo']很可疑[resetfont]这件事。","balloon#7edc057949ea1a8eaa891cbeb4e176bb","机翻辅助：
+
+刚才我说的[font color=@3][emb exp='tf.names.NPC.chiyo']很可疑[resetfont]这件事。
+
+刚才说的[emb exp='tf.names.NPC.chiyo']很奇怪。[font color=@3][resetfont]
+
+就是刚才说的[emb exp='tf.names.NPC.chiyo']很可疑的事。[font color=@3][resetfont]"
+"balloon#ffe4c4774135b75fe96043ed1e77ac2b","嗯、嗯。","balloon#ffe4c4774135b75fe96043ed1e77ac2b","机翻辅助：
+
+嗯、嗯。"
+"balloon#5e0fb12cccd66b084605e1f5d8d32622","哎呀，那个[emb exp='tf.names.NPC.chiyo']该不会……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]我实在不想怀疑她啊。","balloon#5e0fb12cccd66b084605e1f5d8d32622","机翻辅助：
+
+哎呀，那个[emb exp='tf.names.NPC.chiyo']该不会……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]我实在不想怀疑他啊。
+
+你看，难道是那个[emb exp='tf.names.NPC.chiyo']……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]这不是不想怀疑吗？
+
+你看，难道那个[emb exp='tf.names.NPC.chiyo']……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]不想怀疑吗？"
+"balloon#8eb51eb60ba173485adb16de3e01d93f","可是，听她说了这么多，我还是觉得有点可疑。","balloon#8eb51eb60ba173485adb16de3e01d93f","机翻辅助：
+
+可是，听她说了这么多，我还是觉得有点可疑。
+
+但是，听了各种各样的话，果然还是觉得很奇怪呢。
+
+不过，经过多方打听，还是觉得很可疑。"
+"balloon#2ccbe789b03ac8cd965167b33562b42c","原来如此。","balloon#2ccbe789b03ac8cd965167b33562b42c","机翻辅助：
+
+原来如此。"
+"balloon#f3601e1ca5078853a4b97241ef15d500","原来如此个头啦。","balloon#f3601e1ca5078853a4b97241ef15d500","机翻辅助：
+
+原来如此个头啦。
+
+原来如此，不是的。
+
+原来如此，不是啊。"
+"balloon#f3086098ae877ea87d2849f0b7abff6e","真是的！","balloon#f3086098ae877ea87d2849f0b7abff6e","机翻辅助：
+
+真是的！
+
+算了！"
+"balloon#d2d9b3712177f7e3eb40b9a2380f383a","[emb exp='tf.names.NPC.me']明明这么烦恼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.itsuki']是怎么想的呢？","balloon#d2d9b3712177f7e3eb40b9a2380f383a","机翻辅助：
+
+[emb exp='tf.names.NPC.me']明明这么烦恼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.itsuki']是怎么想的呢？
+
+[emb exp='tf.names.NPC.me']这么烦恼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.itsuki']是怎么想的？
+
+[emb exp='tf.names.NPC.me']明明这么烦恼……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""][emb exp='tf.names.NPC.itsuki']是怎么想的？"
+"balloon#ecaed7e4bb880f08fd9e9ba1ca8e274b","怎么说，呃……","balloon#ecaed7e4bb880f08fd9e9ba1ca8e274b","机翻辅助：
+
+怎么说，呃……
+
+怎么样？嗯。
+
+怎么说呢。"
+"SECRET_SELECTION/topic#e35802f697b5350e468650fc178290f2","${itsuki.chiyo}他……","SECRET_SELECTION/topic#e35802f697b5350e468650fc178290f2","机翻辅助：
+
+${itsuki.chiyo}他……
+
+${itsuki.chiyo}的事……
+
+${itsuki.chiyo}……"
+"SECRET_SELECTION/text1#2a2e83aec3360fd2549728f8c87d7518","我能理解你的烦恼！","SECRET_SELECTION/text1#2a2e83aec3360fd2549728f8c87d7518","机翻辅助：
+
+我能理解你的烦恼！
+
+烦恼是可以理解的！"
+"SECRET_SELECTION/text2#506d23d63fdb23e40c1fcda5c051f685","的确有可疑之处！","SECRET_SELECTION/text2#506d23d63fdb23e40c1fcda5c051f685","机翻辅助：
+
+的确有可疑之处！
+
+有可疑的地方！
+
+有可疑之处！"
+"SECRET_SELECTION/text3#3589dababb4007e3ad9980520872ec92","${itsuki.NPC}才可疑！","SECRET_SELECTION/text3#3589dababb4007e3ad9980520872ec92","机翻辅助：
+
+${itsuki.NPC}才可疑！
+
+${itsuki.NPC}才怪！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#b369bd685058952f55dc6644269c56b4","你能理解啊。","balloon#b369bd685058952f55dc6644269c56b4","机翻辅助：
+
+你能理解啊。
+
+你能理解我吗？
+
+你能理解我啊。"
+"balloon#993a459ccd9ac99d8487fbbb4f0f8203","光是能听你这么说，我就轻松多了。","balloon#993a459ccd9ac99d8487fbbb4f0f8203","机翻辅助：
+
+光是能听你这么说，我就轻松多了。
+
+只要你这么说，我心里就会好受一些。
+
+只要你这么说，我就有点轻松了。"
+"balloon#76eba397b01f49474921cbdf3af6ebbe","可疑啊……","balloon#76eba397b01f49474921cbdf3af6ebbe","机翻辅助：
+
+可疑啊……
+
+可疑，是吗……
+
+真可疑啊……"
+"balloon#c50631b2dcb4ae8aa145ea9b40e26639","果然会这么想吧，会这么认为吧！","balloon#c50631b2dcb4ae8aa145ea9b40e26639","机翻辅助：
+
+果然会这么想吧，会这么认为吧！
+
+果然是这样啊，我是这么想的！
+
+果然是这样，我是这么想的！"
+"balloon#9106567e1e4029a6dc964f9c42f3c16a","你能理解吧！","balloon#9106567e1e4029a6dc964f9c42f3c16a","机翻辅助：
+
+你能理解吧！
+
+你会明白的吧！"
+"balloon#c24ac98a2321254085a323552ef53a15","[emb exp='tf.names.NPC.me']吗……","balloon#c24ac98a2321254085a323552ef53a15","机翻辅助：
+
+[emb exp='tf.names.NPC.me']吗……
+
+[emb exp='tf.names.NPC.me']啊……"
+"balloon#6381f13977d47ee126ea961b507ddd38","这种话，可不能当着对方的面说哦！","balloon#6381f13977d47ee126ea961b507ddd38","机翻辅助：
+
+这种话，可不能当着对方的面说哦！
+
+那种事，不能当面对对方说！
+
+这种事，不能当面跟对方说！"
+"balloon#8c083139ca2c4414f56dc11ca1e4dee6","可是，因为对方很照顾我，所以想太多也不好……","balloon#8c083139ca2c4414f56dc11ca1e4dee6","机翻辅助：
+
+可是，因为对方很照顾我，所以想太多也不好……
+
+但是，因为是受人照顾的对象，钻牛角尖是不好的……
+
+但是，因为是照顾过自己的人，所以深信不疑……"
+"balloon#e655d868e5703bf83dfbca52c0a4fa93","我自己也很清楚。","balloon#e655d868e5703bf83dfbca52c0a4fa93","机翻辅助：
+
+我自己也很清楚。
+
+我自己也知道。
+
+那个我自己也知道。"
+"balloon#aa2bc220e41671695a6f370e4cf441b5","而且，对方或许有什么苦衷。","balloon#aa2bc220e41671695a6f370e4cf441b5","机翻辅助：
+
+而且，对方或许有什么苦衷。
+
+而且可能有什么情况。
+
+而且说不定还有什么隐情。"
+"balloon#5670de12562865e0775df34b4e50b93f","[emb exp='tf.names.NPC.me']也会自己再确认一下，[emb exp='tf.names.NPC.itsuki']如果知道什么的话，也要告诉我哦！","balloon#5670de12562865e0775df34b4e50b93f","机翻辅助：
+
+[emb exp='tf.names.NPC.me']也会自己再确认一下，[emb exp='tf.names.NPC.itsuki']如果知道什么的话，也要告诉我哦！
+
+[emb exp='tf.names.NPC.me']再自己确认一下，如果知道[emb exp='tf.names.NPC.itsuki']是什么的话请告诉我哦！
+
+[emb exp='tf.names.NPC.me']自己再确认一下，[emb exp='tf.names.NPC.itsuki']如果知道了什么也告诉我哦！"
+"balloon#05053bfaff0311329e53233e040c1a72","嗯。","balloon#05053bfaff0311329e53233e040c1a72","机翻辅助：
+
+嗯。"
+"speaker_主人公","主人公","speaker_主人公",""

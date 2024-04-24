@@ -1,0 +1,194 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#0f1bdfb643688cd4b84447b80efe55ba","如果是这个推理，[font color=@3]就能接受了[resetfont]。","balloon#0f1bdfb643688cd4b84447b80efe55ba","机翻辅助：
+
+如果是这个推理，[font color=@3]就能接受了[resetfont]。
+
+如果是那个推理的话，[font color=@3]可以理解。[resetfont]
+
+这个推理的话，我能接受。[font color=@3][resetfont]"
+"balloon#13d4f87a537124efefd011b705fd14c9","在[emb exp='tf.names.NPC.iroha']过世之后，[emb exp='tf.names.NPC.chiyo']的推定死亡时间之前……","balloon#13d4f87a537124efefd011b705fd14c9","机翻辅助：
+
+在[emb exp='tf.names.NPC.iroha']过世之后，[emb exp='tf.names.NPC.chiyo']的推定死亡时间之前……
+
+[emb exp='tf.names.NPC.iroha']去世后，在[emb exp='tf.names.NPC.chiyo']死亡推定时间之前……
+
+[emb exp='tf.names.NPC.iroha']死后，[emb exp='tf.names.NPC.chiyo']推定死亡时间之前……"
+"balloon#f4644f58e73118f6d3e3fd602873dd26","也就是说，是照相馆里的某人发了短信给[emb exp='tf.names.NPC.utaha']。","balloon#f4644f58e73118f6d3e3fd602873dd26","机翻辅助：
+
+也就是说，是照相馆里的某人发了短信给[emb exp='tf.names.NPC.utaha']。
+
+在照相馆的某个人给[emb exp='tf.names.NPC.utaha']发了邮件。
+
+照相馆的人给[emb exp='tf.names.NPC.utaha']发了短信。"
+"balloon#9a8f6fb9090da51ccc4e267d055f3283","……当时照相馆里究竟发生了什么事？","balloon#9a8f6fb9090da51ccc4e267d055f3283","机翻辅助：
+
+……当时照相馆里究竟发生了什么事？
+
+……到底那个时候照相馆发生了什么呢。
+
+……当时照相馆里到底发生了什么？"
+"balloon#470117d3265fc229512f20e91bf28973","[emb exp='tf.names.itsuki.me']也很在意这一点。","balloon#470117d3265fc229512f20e91bf28973","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']也很在意这一点。
+
+[emb exp='tf.names.itsuki.me']也很在意那个。"
+"balloon#88c80841dd50dab8de97d773b24bcc00","可是……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]你当时也在照相馆里吧？","balloon#88c80841dd50dab8de97d773b24bcc00","机翻辅助：
+
+可是……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]你当时也在照相馆里吧？
+
+但是……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]你那个时间也在照相馆吧？
+
+但是……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]那个时间，你也在照相馆吧？"
+"balloon#f394fa7dcd0648ce80c94ffbf1a2ea44","话、话是这么说没错……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""][emb exp='tf.names.itsuki.me']被安眠药迷昏了！","balloon#f394fa7dcd0648ce80c94ffbf1a2ea44","机翻辅助：
+
+话、话是这么说没错……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""][emb exp='tf.names.itsuki.me']被安眠药迷昏了！
+
+那个，那个是那样的……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""][emb exp='tf.names.itsuki.me']，被安眠药困住了！
+
+话、话是这么说……[emb exp='tf.names.itsuki.me']是被安眠药迷住的！[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#b3002a5ad914e26911fd1b1c8d69fb61","……你爱怎么说都行，又不是从你身上验出了安眠药。","balloon#b3002a5ad914e26911fd1b1c8d69fb61","机翻辅助：
+
+……你爱怎么说都行，又不是从你身上验出了安眠药。
+
+……怎么说呢，你的身体不是检测出安眠药了吗？
+
+……我敢说，你的身体里没有查出安眠药吧？"
+"balloon#2bb07875a92346ffd9fd398cb96247c2","这……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]是没错。","balloon#2bb07875a92346ffd9fd398cb96247c2","机翻辅助：
+
+这……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]是没错。
+
+那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]确实如此。
+
+那是因为……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]话是没错。"
+"balloon#fab1d9dca9241a56457612d9bb2a8fe8","……我还没办法完全信任你。","balloon#fab1d9dca9241a56457612d9bb2a8fe8","机翻辅助：
+
+……我还没办法完全信任你。
+
+……我还不能完全相信你。"
+"balloon#ac650eaf0f82d001a32d12f057904e1e","不过，感谢你回答了[emb exp='tf.names.NPC.me']的疑问。","balloon#ac650eaf0f82d001a32d12f057904e1e","机翻辅助：
+
+不过，感谢你回答了[emb exp='tf.names.NPC.me']的疑问。
+
+不过你回答了[emb exp='tf.names.NPC.me']的疑问，我还是得向你道谢。
+
+但是你回答了[emb exp='tf.names.NPC.me']的疑问，我会感谢你的。"
+"balloon#7000773edc5a05cf218624beff11935c","我想快点找出真相……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]为两人报仇雪恨。","balloon#7000773edc5a05cf218624beff11935c","机翻辅助：
+
+我想快点找出真相……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]为两人报仇雪恨。
+
+希望尽快找到真相……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]消除两人的遗憾。
+
+快点找到真相……想为两人报仇雪恨。[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]"
+"balloon#30e1e96024651d300ea34f67ac08440a","从刚才的推理……[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]或许能发现两起事件的关连。","balloon#30e1e96024651d300ea34f67ac08440a","机翻辅助：
+
+从刚才的推理……[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]或许能发现两起事件的关连。
+
+按照刚才的推理……[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]事件和事件之间的联系，也许已经显现出来了。
+
+通过现在的推理……也许可以看到事件和事件的联系。[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]"
+"balloon#2f02a79d87038050510bbaf4e8707ce2","首先，[emb exp='tf.names.itsuki.iroha']死后，某人假扮成[emb exp='tf.names.itsuki.iroha']发了短信。","balloon#2f02a79d87038050510bbaf4e8707ce2","机翻辅助：
+
+首先，[emb exp='tf.names.itsuki.iroha']死后，某人假扮成[emb exp='tf.names.itsuki.iroha']发了短信。
+
+首先，[emb exp='tf.names.itsuki.iroha']死后，有人假装成[emb exp='tf.names.itsuki.iroha']发了一封邮件。
+
+首先[emb exp='tf.names.itsuki.iroha']死后，有人假装[emb exp='tf.names.itsuki.iroha']发了邮件。"
+"balloon#e0c91b274b54a74a1ff7d5516573eb5e","从寄件人拒绝来照相馆……","balloon#e0c91b274b54a74a1ff7d5516573eb5e","机翻辅助：
+
+从寄件人拒绝来照相馆……
+
+因为邮件的发送者拒绝来照相馆……
+
+因为邮件的发件人拒绝来照相馆……"
+"balloon#fde291107c6fb2ab2cf3da684aa88602","寄信地点恐怕就是照相馆。","balloon#fde291107c6fb2ab2cf3da684aa88602","机翻辅助：
+
+寄信地点恐怕就是照相馆。
+
+发送地点恐怕是从照相馆开始的。
+
+发送地点大概是照相馆。"
+"balloon#34d6b485438c60d85690c05024cb5b4e","然后，传送时间接近[emb exp='tf.names.itsuki.chiyo']的推定死亡时间。","balloon#34d6b485438c60d85690c05024cb5b4e","机翻辅助：
+
+然后，传送时间接近[emb exp='tf.names.itsuki.chiyo']的推定死亡时间。
+
+而且，发送时间接近[emb exp='tf.names.itsuki.chiyo']的死亡推定时间。"
+"balloon#1dc08c328603a0bc0c8831bd900a4075","恐怕是杀害[emb exp='tf.names.itsuki.iroha']的犯人发了短信之后，再把[emb exp='tf.names.itsuki.chiyo']……","balloon#1dc08c328603a0bc0c8831bd900a4075","机翻辅助：
+
+恐怕是杀害[emb exp='tf.names.itsuki.iroha']的犯人发了短信之后，再把[emb exp='tf.names.itsuki.chiyo']……
+
+可能是杀死[emb exp='tf.names.itsuki.iroha']的犯人发了邮件之后把[emb exp='tf.names.itsuki.chiyo']……
+
+很可能是杀死[emb exp='tf.names.itsuki.iroha']的凶手，在发完短信后把[emb exp='tf.names.itsuki.chiyo']……"
+"balloon#d6790ce382b1ecc5b353b05c2b7b82e0","也就是说，[emb exp='tf.names.itsuki.chiyo']和[emb exp='tf.names.itsuki.iroha']……","balloon#d6790ce382b1ecc5b353b05c2b7b82e0","机翻辅助：
+
+也就是说，[emb exp='tf.names.itsuki.chiyo']和[emb exp='tf.names.itsuki.iroha']……"
+"balloon#0b1824b44c8456dd640c3882d483fc4c","[font color=@3][resetfont]很可能都是被同一凶手杀害的……！","balloon#0b1824b44c8456dd640c3882d483fc4c","机翻辅助：
+
+[font color=@3][resetfont]很可能都是被同一凶手杀害的……！
+
+[font color=@3]被同一个犯人杀害的可能性很高……！[resetfont]
+
+[font color=@3]被同一人杀害的可能性很高……！[resetfont]"
+"balloon#941622d7230609b6ee32ab05742d9c60","真的吗？","balloon#941622d7230609b6ee32ab05742d9c60","机翻辅助：
+
+真的吗？"
+"balloon#68b4ecbbb9a4f5949e078a2d7c289bc6","[font color=@3]我觉得你的推理有点不对[resetfont]……","balloon#68b4ecbbb9a4f5949e078a2d7c289bc6","机翻辅助：
+
+[font color=@3]我觉得你的推理有点不对[resetfont]……
+
+我觉得那个推理有点不一样……[font color=@3][resetfont]
+
+我觉得你的推理有点不对……[font color=@3][resetfont]"
+"balloon#76c739f4c5c35d0d2565f5ae4cc0f6b2","[font color=@3]我觉得[resetfont]那个推理完全不对……","balloon#76c739f4c5c35d0d2565f5ae4cc0f6b2","机翻辅助：
+
+[font color=@3]我觉得[resetfont]那个推理完全不对……
+
+我觉得你的推理完全不对……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#d3ec4e7ac1dcf78adeceb728cb86f910","别在意，因为……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]我从一开始就不相信你。","balloon#d3ec4e7ac1dcf78adeceb728cb86f910","机翻辅助：
+
+别在意，因为……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]我从一开始就不相信你。
+
+别在意，你的事……一开始就不相信。[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]
+
+别在意，我一开始就不相信你。[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt""]"
+"balloon#d58b7b0645fa1db3d344195da5b87cad","关于这件事，我认为应该思考的是……","balloon#d58b7b0645fa1db3d344195da5b87cad","机翻辅助：
+
+关于这件事，我认为应该思考的是……
+
+这件事，应该考虑一下的是……
+
+这件事，应该考虑的是……"
+"balloon#7fe1e0aaa6c5e9a3ac536ca0e69ce5d6","我认为[emb exp='tf.names.NPC.iroha']发送短信的时间是[font color=@3]在照相馆发生的事[resetfont]。","balloon#7fe1e0aaa6c5e9a3ac536ca0e69ce5d6","机翻辅助：
+
+我认为[emb exp='tf.names.NPC.iroha']发送短信的时间是[font color=@3]在照相馆发生的事[resetfont]。
+
+我觉得这是[emb exp='tf.names.NPC.iroha']发送邮件的时间[font color=@3]在照相馆发生的事情[resetfont]。
+
+我想是[emb exp='tf.names.NPC.iroha']发送短信的时间[font color=@3]在照相馆发生的事[resetfont]。"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#b98dd4b90de43134ebc8f37d5b901a9d","[font color=@3][resetfont]关于这个时间发生的事情，我们重新检视一下线索吧。","balloon#b98dd4b90de43134ebc8f37d5b901a9d","机翻辅助：
+
+[font color=@3][resetfont]关于这个时间发生的事情，我们重新检视一下线索吧。
+
+[font color=@3]让我们重新审视一下这段时间发生的事情。[resetfont]
+
+[font color=@3]让我们重新审视一下在这个时间发生的事情。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

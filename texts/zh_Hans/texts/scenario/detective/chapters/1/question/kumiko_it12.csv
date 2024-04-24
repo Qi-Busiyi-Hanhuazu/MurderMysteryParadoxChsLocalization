@@ -1,0 +1,56 @@
+"source","target","id","developer_comments"
+"balloon#f231e5c2821a36f381ed317a62b8dcbe","人影……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]是指刚才跟我说话的[emb exp='tf.names.NPC.kamishiro']来我家的时候吧。","balloon#f231e5c2821a36f381ed317a62b8dcbe","机翻辅助：
+
+人影……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]是指刚才跟我说话的[emb exp='tf.names.NPC.kamishiro']来我家的时候吧。
+
+人影……是刚才和我说话的[emb exp='tf.names.NPC.kamishiro']来我家的时候的事吧。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]
+
+人影……刚才跟我说的[emb exp='tf.names.NPC.kamishiro']来我家的事。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#b4de4bfcae2ecc92994b98f863b42080","不过，为什么[emb exp='tf.names.NPC.ebihara']会知道这件事呢？","balloon#b4de4bfcae2ecc92994b98f863b42080","机翻辅助：
+
+不过，为什么[emb exp='tf.names.NPC.ebihara']会知道这件事呢？
+
+但是，为什么[emb exp='tf.names.NPC.ebihara']知道这件事呢？
+
+可是，[emb exp='tf.names.NPC.ebihara']是怎么知道这件事的呢？"
+"balloon#1dab26451de65108f33fb61d162c4cc6","啊，说到[emb exp='tf.names.NPC.ebihara']……","balloon#1dab26451de65108f33fb61d162c4cc6","机翻辅助：
+
+啊，说到[emb exp='tf.names.NPC.ebihara']……
+
+啊，说起[emb exp='tf.names.NPC.ebihara']……"
+"balloon#92ba50d114f24ddc7f664e68fa24925c","[emb exp='tf.names.NPC.me']去商店[font color=@3]拿包裹的时候，他不在[resetfont]对吧。[emb exp='tf.names.NPC.ebihara']","balloon#92ba50d114f24ddc7f664e68fa24925c","机翻辅助：
+
+[emb exp='tf.names.NPC.me']去商店[font color=@3]拿包裹的时候，他不在[resetfont]对吧。[emb exp='tf.names.NPC.ebihara']
+
+[emb exp='tf.names.NPC.me']去商店拿行李的时候，[emb exp='tf.names.NPC.ebihara']不在。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']去商店取行李的时候，[emb exp='tf.names.NPC.ebihara']不在。[font color=@3][resetfont]"
+"balloon#37235f61af223bf51de8ff30b0185b59","我记得那是[font color=@3]12:46[resetfont]左右的事。","balloon#37235f61af223bf51de8ff30b0185b59","机翻辅助：
+
+我记得那是[font color=@3]12:46[resetfont]左右的事。
+
+确实是12:46左右的事。[font color=@3][resetfont]
+
+好像是12:46左右的事。[font color=@3][resetfont]"
+"balloon#a8a5f517b5783c934a763e86ef3786f1","难道说，他来过我家？","balloon#a8a5f517b5783c934a763e86ef3786f1","机翻辅助：
+
+难道说，他来过我家？
+
+难道说他来过我家吗？
+
+难道是来我家了吗？"
+"balloon#b96b252781bacf76b361029abe7cc082","[font color=@3]12:46[resetfont][emb exp='tf.names.itsuki.kumiko']去商店的时候[font color=@3]他不在[resetfont]啊。[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]真令人在意。[emb exp='tf.names.itsuki.ebihara']","balloon#b96b252781bacf76b361029abe7cc082","机翻辅助：
+
+[font color=@3]12:46[resetfont][emb exp='tf.names.itsuki.kumiko']去商店的时候[font color=@3]他不在[resetfont]啊。[l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]真令人在意。[emb exp='tf.names.itsuki.ebihara']
+
+[font color=@3][resetfont]、[emb exp='tf.names.itsuki.kumiko']去商店的时候[emb exp='tf.names.itsuki.ebihara']不在吗？别在意。[font color=@3][resetfont][l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]
+
+[font color=@3][emb exp='tf.names.itsuki.kumiko']去商店的时候，[emb exp='tf.names.itsuki.ebihara']不在吗。[resetfont]不要在意。[font color=@3][resetfont][l][chara_mod time=""@f1"" name=""主人公"" face=""earnest""]"
+"balloon#3343c240bb35b1540ffcc91c0fde9fc2","咦？我家前面有人影……[l][chara_mod time=""@f1"" name=""NPC"" face=""worry""]那还真令人在意。","balloon#3343c240bb35b1540ffcc91c0fde9fc2","机翻辅助：
+
+咦？我家前面有人影……[l][chara_mod time=""@f1"" name=""NPC"" face=""worry""]那还真令人在意。
+
+什么？我家前面有个人影……那倒是让人在意呢。[l][chara_mod time=""@f1"" name=""NPC"" face=""worry""]
+
+啊，我家前面有个人影……我很在意。[l][chara_mod time=""@f1"" name=""NPC"" face=""worry""]"
+"speaker_主人公","主人公","speaker_主人公",""

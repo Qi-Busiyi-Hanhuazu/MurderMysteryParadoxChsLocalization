@@ -1,0 +1,125 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#7d4a92ad15ccebc08b18406d65653a52","如果是这个推理的话，[font color=@3]我就能接受了[resetfont]！","balloon#7d4a92ad15ccebc08b18406d65653a52","机翻辅助：
+
+如果是这个推理的话，[font color=@3]我就能接受了[resetfont]！
+
+如果是这个推理的话，[font color=@3]能接受呢[resetfont]！
+
+如果是那个推理，[font color=@3]能理解[resetfont]！"
+"balloon#8d885a8de699cf1bfa150454302e0b2f","……太好了，袭击我的不是[emb exp='tf.names.NPC.mashima']。","balloon#8d885a8de699cf1bfa150454302e0b2f","机翻辅助：
+
+……太好了，袭击我的不是[emb exp='tf.names.NPC.mashima']。
+
+……太好了，袭击我的不是[emb exp='tf.names.NPC.mashima']吧。"
+"balloon#9d92bec1d176328c424a57a326df310d","谢谢你，这样我就不必怀疑他了。","balloon#9d92bec1d176328c424a57a326df310d","机翻辅助：
+
+谢谢你，这样我就不必怀疑他了。
+
+谢谢，这样我就不会怀疑他了。
+
+谢谢，这样就不用怀疑他了。"
+"balloon#e3092e91d0fbf484100bedfb1241ee55","能帮上[emb exp='tf.names.itsuki.NPC']的忙，真是太好了！","balloon#e3092e91d0fbf484100bedfb1241ee55","机翻辅助：
+
+能帮上[emb exp='tf.names.itsuki.NPC']的忙，真是太好了！
+
+能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#4c272d601d7a729be89fa9caed0ecc5f","那个……","balloon#4c272d601d7a729be89fa9caed0ecc5f","机翻辅助：
+
+那个……"
+"balloon#22bb1e3010bebc191a251289fcf42df1","好，怎么了？","balloon#22bb1e3010bebc191a251289fcf42df1","机翻辅助：
+
+是的，怎么了？
+
+是，什么呢？
+
+是的，是什么呢？"
+"balloon#b331d5bf24a859ee3097a74bf124638c","虽然我很在意这件事，但……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]多亏了你，我稍微冷静下来了。","balloon#b331d5bf24a859ee3097a74bf124638c","机翻辅助：
+
+虽然我很在意这件事，但……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]多亏了你，我稍微冷静下来了。
+
+因为在意这件事，所以没办法……多亏了你，我才稍微冷静下来了。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]
+
+我很在意这件事，没办法……托您的福，稍微冷静了一些。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#79d5bff3bc8a616e55705322edb9d3d2","[emb exp='tf.names.NPC.me']也想协助调查，什么都请提问。","balloon#79d5bff3bc8a616e55705322edb9d3d2","机翻辅助：
+
+[emb exp='tf.names.NPC.me']也想协助调查，什么都请提问。
+
+因为[emb exp='tf.names.NPC.me']也想协助调查，所以什么都请提问哦。
+
+[emb exp='tf.names.NPC.me']也想协助调查，所以请尽管问我问题吧。"
+"balloon#445ceef81c3150397e404154d60137cb","谢谢！","balloon#445ceef81c3150397e404154d60137cb","机翻辅助：
+
+谢谢！
+
+非常感谢！"
+"balloon#ad25a953dd0cd3b38a45b12b202fd65c","请务必多告诉我一些事情！","balloon#ad25a953dd0cd3b38a45b12b202fd65c","机翻辅助：
+
+请务必多告诉我一些事情！
+
+请一定要让我听听！
+
+请一定要告诉我各种各样的事情！"
+"balloon#8f136fb735bc5c8e117a5d3ff615979e","可以向结城发问了。","balloon#8f136fb735bc5c8e117a5d3ff615979e","机翻辅助：
+
+可以向结城发问了。
+
+可以向结城提问了。
+
+可以提问结城了。"
+"balloon#8d539dce5b67ed83019728ff036d79e3","真的是这样吗？","balloon#8d539dce5b67ed83019728ff036d79e3","机翻辅助：
+
+真的是这样吗？"
+"balloon#ba914929fd34c5158ec77513f20651e1","我觉得这个推理[font color=@3]不太对[resetfont]……","balloon#ba914929fd34c5158ec77513f20651e1","机翻辅助：
+
+我觉得这个推理[font color=@3]不太对[resetfont]……
+
+我觉得那个推理有点不一样……[font color=@3][resetfont]
+
+我觉得那个推理，有点不一样……[font color=@3][resetfont]"
+"balloon#8f5eed4f87bda862ef210d65106a22a5","我觉得这个推理[font color=@3]完全不对[resetfont]……","balloon#8f5eed4f87bda862ef210d65106a22a5","机翻辅助：
+
+我觉得这个推理[font color=@3]完全不对[resetfont]……
+
+我认为那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#3f14f54a0059a384cb2c1ed159509ebc","不，请别在意。","balloon#3f14f54a0059a384cb2c1ed159509ebc","机翻辅助：
+
+不，请别在意。
+
+不，请不要介意。"
+"balloon#8978a43e2cee09fe91148d02604d53f4","关于这件事……","balloon#8978a43e2cee09fe91148d02604d53f4","机翻辅助：
+
+关于这件事……"
+"balloon#c2d206873f4b35f3c6be3d67085cafd5","[font color=@3]我认为[emb exp='tf.names.NPC.mashima']是否可能在15:07出现在山中小屋[resetfont]很重要。","balloon#c2d206873f4b35f3c6be3d67085cafd5","机翻辅助：
+
+[font color=@3]我认为[emb exp='tf.names.NPC.mashima']是否可能在15:07出现在山中小屋[resetfont]很重要。
+
+[font color=@3]我认为重要的是[emb exp='tf.names.NPC.mashima']在15:07的时候，有没有可能在山中小屋。[resetfont]
+
+[font color=@3]我认为[emb exp='tf.names.NPC.mashima']15:07能在山中小屋里吗。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#7ac2b43620e203d7455bca1a8401a331","[font color=@3]我们再重新调查一次关于[emb exp='tf.names.NPC.mashima']的行动[resetfont]的线索吧。","balloon#7ac2b43620e203d7455bca1a8401a331","机翻辅助：
+
+[font color=@3]我们再重新调查一次关于[emb exp='tf.names.NPC.mashima']的行动[resetfont]的线索吧。
+
+[font color=@3]让我们再来调查一下有关[emb exp='tf.names.NPC.mashima']行为[resetfont]的线索。
+
+[font color=@3]再调查一下关于[emb exp='tf.names.NPC.mashima']行动的线索吧。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

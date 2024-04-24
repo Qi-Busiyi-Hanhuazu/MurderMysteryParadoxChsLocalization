@@ -1,0 +1,158 @@
+"source","target","id","developer_comments"
+"[0]/title","在歌叶之后出入厨房的人是谁？","[0]/title","机翻辅助：
+
+在歌叶之后出入厨房的人是谁？
+
+歌叶之后进出厨房的是？
+
+唱完歌之后出入厨房的是？"
+"[0]/desc","歌叶主张<font color='@1'>在她之后还有人进出过厨房</font>。证明有人进出过厨房的<font color='@1'> @sl_c </font>是什么？","[0]/desc","机翻辅助：
+
+歌叶主张<font color='@1'>在她之后还有人进出厨房</font>。证明有人进出厨房的<font color='@1'> @sl_c </font>是什么？
+
+歌叶主张，在自己之后应该有人出入过厨房。特定出入厨房的<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>
+
+歌叶主张应该是自己之后有人出入厨房。确定进出厨房的<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>"
+"[0]/inference_help_text","要解决歌叶的疑问，需要<br><font color=@1>千世、彩叶、阳平三个人都去过厨房</font><br>的线索。","[0]/inference_help_text","机翻辅助：
+
+要解决歌叶的疑问，需要<br><font color=@1>千世、彩叶、阳平三个人都去过厨房的线索。</font><br>
+
+为了解决歌叶的疑问，我们需要能够知道千世、彩叶、阳平三人出入厨房的线索。<br><font color=@1></font><br>
+
+为了解决歌叶的疑问，需要线索。<br><font color=@1></font><br>"
+"[1]/title","关于西瓜的事说谎的人是谁？","[1]/title","机翻辅助：
+
+说谎的人是谁？
+
+在西瓜的故事里撒谎的是？
+
+西瓜的故事里说谎的是谁？"
+"[1]/desc","歌叶主张关于西瓜的事情<font color='@1'>有人在说谎</font>。能确定那个人的<font color='@1'> @sl_c </font>是什么？","[1]/desc","机翻辅助：
+
+歌叶主张<font color='@1'>关于西瓜的事情有人</font>在说谎<font color='@1'> @sl_c </font>。证明那个人是谁的是什么？
+
+歌叶主张，在有关西瓜的故事中，有人在说谎。确定那个人的<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>
+
+歌曲主张，在有关西瓜的故事中，有人在说谎。确定那个人<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>"
+"[1]/inference_help_text","为了解决歌叶的疑问，<br>需要一个线索，也就是<font color='@1'>关于西瓜的数量，<br>有一个人说了两段矛盾的话</font>。","[1]/inference_help_text","机翻辅助：
+
+为了解决歌叶的疑问，需要<br><font color='@1'>关于西瓜数量，有一个人说了两段矛盾的话</font><br>这个线索。
+
+为了解决歌曲中的疑问，我们需要一个线索，即，关于西瓜的数量，一个人说了两个矛盾的故事。<br><font color='@1'></font><br>
+
+要想解决歌叶的疑问，就西瓜的数量，一个人在说矛盾的两个故事。<br><font color='@1'></font><br>"
+"[2]/title","使用菜刀和砧板的理由是？","[2]/title","机翻辅助：
+
+使用菜刀和砧板的理由是？
+
+使用菜刀和砧板的理由是什么？"
+"[2]/desc","千世很在意<font color='@1'>原本收拾好的菜刀和砧板被人用过了</font>。证明使用它们理由的<font color='@1'> @sl_c @sl_b </font>是什么？","[2]/desc","机翻辅助：
+
+千世很在意<font color='@1'>原本收拾好的菜刀和砧板被使用</font>。证明使用理由的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+千世很在意应该整理过的菜刀和砧板还在使用的事情。确定使用的理由<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>
+
+千世应该已经收拾好了。确定被使用的理由<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>"
+"[2]/inference_help_text","要解决千世的疑问，需要<br><font color='@1'>使用菜刀和砧板切过的具体物品</font><br>这个线索。","[2]/inference_help_text","机翻辅助：
+
+要解决千世的疑问，需要<br><font color='@1'>使用菜刀和砧板切过的具体物品</font><br>这个线索。
+
+为了解决千世之疑团，我们需要能够证明用菜刀和砧板切的具体东西的线索。<br><font color='@1'></font><br>
+
+要解决千世的疑问，就需要有线索。<br><font color='@1'></font><br>"
+"[3]/title","千世很可疑","[3]/title","机翻辅助：
+
+千世很可疑。
+
+千世可疑"
+"[3]/desc","彩叶认为<font color='@1'>千世是犯人</font>，因为千世说消失的西瓜是她的。证明千世犯下罪行，或者证明千世清白的<font color='@1'> @sl_b  @sl_c </font>是什么？","[3]/desc","机翻辅助：
+
+彩叶认为<font color='@1'>千世是犯人</font>，因为千世说消失的西瓜是她的。证明千世犯行的，或是证明千世清白的<font color='@1'> @sl_b  @sl_c </font>是什么？
+
+彩叶怀疑消失的西瓜是自己的。千世是犯人。证明千世的罪行，或者证明他是无辜的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_c </font>
+
+彩叶怀疑千世就是凶手，千世说消失的西瓜是自己的。证明千世罪行或证明清白的<font color='@1'>是什么？</font><font color='@1'> @sl_b  @sl_c </font>"
+"[3]/inference_help_text","要解决彩叶的疑问，需要<br><font color='@1'>证明消失的西瓜与千世的西瓜无关</font><br>的线索。","[3]/inference_help_text","机翻辅助：
+
+要解决彩叶的疑问，需要<br><font color='@1'>证明消失的西瓜与千世的西瓜无关</font><br>的线索。
+
+要想解决彩叶的疑问，就必须找到能证明消失的西瓜和千世的西瓜毫无关系的线索。<br><font color='@1'></font><br>
+
+为了解决彩叶的疑问，有必要掌握消失的西瓜和千世西瓜没有关系的线索。<br><font color='@1'></font><br>"
+"[4]/title","歌叶很可疑","[4]/title","机翻辅助：
+
+歌叶很可疑。
+
+唱腔可疑
+
+歌词可疑"
+"[4]/desc","阳平认为<font color='@1'>歌叶是犯人</font>，因为她离开厨房时嘴边有沾到东西。证明歌叶犯下罪行，或是证明歌叶清白的<font color='@1'> @sl_c @sl_b </font>是什么？","[4]/desc","机翻辅助：
+
+阳平认为<font color='@1'>歌叶是犯人</font>，因为她离开厨房时嘴边有沾到东西。证明歌叶犯行的，或是证明歌叶清白的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+阳平怀疑嘴角沾着什么从厨房出来的<font color='@1'>歌叶就是犯人</font>。能证明歌叶的罪行或清白的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+阳平怀疑，从厨房出来的歌叶是犯人。证明歌叶的罪行，或者证明他是无辜的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>"
+"[4]/inference_help_text","要解决阳平的疑问，需要<br><font color='@1'>指出歌叶吃了什么，以及谁吃了什么</font><br>的线索。","[4]/inference_help_text","机翻辅助：
+
+要解决阳平的疑问，需要<br><font color='@1'>指出歌叶吃了什么，以及谁吃了什么</font><br>的线索。
+
+为了解决阳平的疑问，有必要找出能分别说明歌叶吃了什么和被谁吃的东西的线索。<br><font color='@1'></font><br>
+
+要想解决阳平的疑问，就需要有线索来说明歌叶吃了什么和被谁吃了什么。<br><font color='@1'></font><br>"
+"[5]/title","最可疑的就是歌叶！","[5]/title","机翻辅助：
+
+最可疑的就是歌叶！
+
+最奇怪的是歌叶！
+
+最可疑的是歌词！"
+"[5]/desc","树认为歌叶最可疑。其根据的<font color='@1'> @sl_c </font>是什么？","[5]/desc","机翻辅助：
+
+树认为歌叶最可疑。证明歌叶可疑的<font color='@1'> @sl_c </font>是什么？
+
+树认为唱词最可疑。其根据<font color='@1'> @sl_c </font>是什么？
+
+树认为歌叶是最奇怪的。其根据是什么？<font color='@1'> @sl_c </font>"
+"[6]/title","最可疑的就是千世！","[6]/title","机翻辅助：
+
+最可疑的就是千世！
+
+最奇怪的是千世！
+
+最可疑的是千世！"
+"[6]/desc","树认为千世最可疑。其根据的<font color='@1'> @sl_c </font>是什么？","[6]/desc","机翻辅助：
+
+树认为千世最可疑。其根据的<font color='@1'> @sl_c </font>是什么？
+
+阿树认为千世最可疑。其根据<font color='@1'> @sl_c </font>是什么？
+
+树认为千世是最奇怪的。其根据是什么？<font color='@1'> @sl_c </font>"
+"[7]/title","最可疑的就是彩叶！","[7]/title","机翻辅助：
+
+最可疑的就是彩叶！
+
+最奇怪的是彩叶！
+
+最可疑的是彩叶！"
+"[7]/desc","树认为彩叶最可疑。其根据的<font color='@1'> @sl_c </font>是什么？","[7]/desc","机翻辅助：
+
+树认为彩叶最可疑。其根据的<font color='@1'> @sl_c </font>是什么？
+
+阿树认为彩叶最可疑。其根据<font color='@1'> @sl_c </font>是什么？
+
+树认为彩叶最奇怪。其根据是什么？<font color='@1'> @sl_c </font>"
+"[8]/title","最可疑的就是阳平！","[8]/title","机翻辅助：
+
+最可疑的就是阳平！
+
+最奇怪的是阳平！
+
+最可疑的是阳平！"
+"[8]/desc","树认为阳平最可疑。其根据的<font color='@1'> @sl_c </font>是什么？","[8]/desc","机翻辅助：
+
+树认为阳平最可疑。其根据的<font color='@1'> @sl_c </font>是什么？
+
+阿树认为阳平最可疑。其根据<font color='@1'> @sl_c </font>是什么？
+
+树认为阳平是最可疑的。其根据是什么？<font color='@1'> @sl_c </font>"

@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#65b78282cb0f228e7b32a13444ac185d","ああ、出入り口といえば普通はその二箇所を使うんだ。","balloon#65b78282cb0f228e7b32a13444ac185d","NPC"
+"balloon#721dcbfb178598cd694fdd98304b2104","でも、[emb exp='tf.names.NPC.chiyo']は玄関からは出てないぜ。","balloon#721dcbfb178598cd694fdd98304b2104","NPC"
+"balloon#d6d6bc5dd4b9bbd6cd3d9ba96d20835b","ってのもよ、[emb exp='tf.names.NPC.me']は……","balloon#d6d6bc5dd4b9bbd6cd3d9ba96d20835b","NPC"
+"balloon#c706b53189546409b8e478a7b76b831b","[font color=@3]13:00から14:05まで[resetfont]、玄関が見える[font color=@3]受付にずっといた[resetfont]から、[emb exp='tf.names.NPC.chiyo']が通れば気づくぜ。","balloon#c706b53189546409b8e478a7b76b831b","NPC"
+"balloon#60c9b3276eb556c0097252eb35c21627","[emb exp='tf.names.itsuki.NPC']は受付にいて、その間[font color=@3][emb exp='tf.names.itsuki.chiyo']は通らなかった[resetfont]のか。","balloon#60c9b3276eb556c0097252eb35c21627","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

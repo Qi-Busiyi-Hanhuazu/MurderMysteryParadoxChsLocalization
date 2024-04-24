@@ -1,0 +1,145 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#c78e8ab4fc77e08edabeddc172f23b6e","不错耶，这个推理[font color=@3]可以接受[resetfont]！","balloon#c78e8ab4fc77e08edabeddc172f23b6e","机翻辅助：
+
+不错耶，这个推理[font color=@3]可以接受[resetfont]！
+
+好啊，这个推理的话[font color=@3]能接受[resetfont]哟！
+
+好啊，如果是那个推理[font color=@3]能理解[resetfont]哟！"
+"balloon#5035d27e6657f6a8b65c2c1cad48fb4d","这么一来，的确就不是普通外出……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]也就是事件了。","balloon#5035d27e6657f6a8b65c2c1cad48fb4d","机翻辅助：
+
+这么一来，的确就不是普通外出……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]也就是事件了。
+
+这样的话，确实不只是普通的外出……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]也就是说是事件吗。
+
+这样一来，确实不只是普通的外出了……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]也就是事件吗？"
+"balloon#ce053330375f3348aa0a73a6c0e36e25","我也这么觉得。","balloon#ce053330375f3348aa0a73a6c0e36e25","机翻辅助：
+
+我也这么觉得。
+
+我是这么想的。"
+"balloon#a58858e0423b882f8fe3d059794ab729","刚才因为没什么好说的，所以保持沉默……","balloon#a58858e0423b882f8fe3d059794ab729","机翻辅助：
+
+刚才因为没什么好说的，所以保持沉默……
+
+刚才我说没什么好说的，一直保持沉默……
+
+刚才，我沉默着说没有话要说……"
+"balloon#3c22141ca17a49b00cc4a7446a5b963a","既然看到了事件性，就把[emb exp='tf.names.NPC.me']的事情也说出来吧。","balloon#3c22141ca17a49b00cc4a7446a5b963a","机翻辅助：
+
+既然看到了事件性，就把[emb exp='tf.names.NPC.me']的事情也说出来吧。
+
+既然事件的性质已经明确，那就说说[emb exp='tf.names.NPC.me']的情况吧。
+
+既然已经发现事件性，[emb exp='tf.names.NPC.me']也把我的事情说出来吧。"
+"balloon#cfdd1003b4198194963d2d96dac7bfcf","[font color=@3]从13:26到13:34[resetfont]……","balloon#cfdd1003b4198194963d2d96dac7bfcf","机翻辅助：
+
+[font color=@3]从13:26到13:34[resetfont]……
+
+[font color=@3]13:26到13:34之间[resetfont]但是……"
+"balloon#1d5b7d0e9a7174bea63edf791c11900b","[font color=@3][emb exp='tf.names.NPC.me'][resetfont]和[emb exp='tf.names.NPC.chiyo']一起在厨房。","balloon#1d5b7d0e9a7174bea63edf791c11900b","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.me'][resetfont]和[emb exp='tf.names.NPC.chiyo']一起在厨房。
+
+[font color=@3][emb exp='tf.names.NPC.me']在厨房和[emb exp='tf.names.NPC.chiyo']在一起。[resetfont]"
+"balloon#3f1015787e4ebdace5b8a0d4dd4b5f14","那是[emb exp='tf.names.NPC.me']最后一次见到她。","balloon#3f1015787e4ebdace5b8a0d4dd4b5f14","机翻辅助：
+
+那是[emb exp='tf.names.NPC.me']最后一次见到她。
+
+那是[emb exp='tf.names.NPC.me']最后一次看到她。
+
+这是[emb exp='tf.names.NPC.me']最后一次看到她。"
+"balloon#68dc4f088ab83949cba6a418d55e53cc","[emb exp='tf.names.NPC.daisuke']应该也从柜台看到她的样子，应该可以作证她有出入过吧。","balloon#68dc4f088ab83949cba6a418d55e53cc","机翻辅助：
+
+[emb exp='tf.names.NPC.daisuke']应该也从柜台看到她的样子，应该可以作证她有出入过吧。
+
+[emb exp='tf.names.NPC.daisuke']应该也从接待处看到了情况，所以我想他应该会作证。
+
+[emb exp='tf.names.NPC.daisuke']应该也从接待处看到了情况，所以我想他会为出入作证的。"
+"balloon#889c3a328fcf40074ec9c3c51392add5","这样啊，[font color=@3][emb exp='tf.names.itsuki.makino']和[emb exp='tf.names.itsuki.chiyo'][resetfont]见过面吗？","balloon#889c3a328fcf40074ec9c3c51392add5","机翻辅助：
+
+这样啊，[font color=@3][emb exp='tf.names.itsuki.makino']和[emb exp='tf.names.itsuki.chiyo'][resetfont]见过面吗？
+
+对了，[font color=@3][emb exp='tf.names.itsuki.makino']和[emb exp='tf.names.itsuki.chiyo'][resetfont]见过面吗？
+
+原来[emb exp='tf.names.itsuki.makino']和[emb exp='tf.names.itsuki.chiyo']见过面。[font color=@3][resetfont]"
+"balloon#a58296e0818cb061823f55c8135c8c87","感谢你们协助调查。","balloon#a58296e0818cb061823f55c8135c8c87","机翻辅助：
+
+感谢你们协助调查。
+
+感谢你协助调查。"
+"balloon#205e5fb413ccb885ddcc0a9054a3cecd","哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#205e5fb413ccb885ddcc0a9054a3cecd","机翻辅助：
+
+哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#45c2ed045223b4c5079b1cad9ab73ce1","如果又有在意的事情，希望你能找我商量。","balloon#45c2ed045223b4c5079b1cad9ab73ce1","机翻辅助：
+
+如果又有在意的事情，希望你能找我商量。
+
+如果还有在意的事情，请让我商量一下。
+
+如果还有在意的事情，希望能让我商量。"
+"balloon#734618aedb2c4d9919811d85ccba8fc8","那是真的吗？","balloon#734618aedb2c4d9919811d85ccba8fc8","机翻辅助：
+
+那是真的吗？
+
+这是真的吗？"
+"balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","[font color=@3]我觉得你的推理[resetfont]有点不对……","balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对……
+
+我觉得那个推理有点不对……[font color=@3][resetfont]
+
+不要觉得那个推理有点不一样……[font color=@3][resetfont]"
+"balloon#0712fd0d86d74b1a8b4889e19d76fa10","[font color=@3]我觉得你的推理[resetfont]完全不对……","balloon#0712fd0d86d74b1a8b4889e19d76fa10","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对……
+
+不要认为那个推理是完全不同的……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#958590be5e1c54d867bebc118b328014","没关系，谢谢你帮忙思考。","balloon#958590be5e1c54d867bebc118b328014","机翻辅助：
+
+没关系，谢谢你帮忙思考。
+
+没关系，谢谢你考虑。
+
+没关系，谢谢你替我考虑。"
+"balloon#2fc9da6d6bb8c96da0f51a3e3f179e90","关于这件事……","balloon#2fc9da6d6bb8c96da0f51a3e3f179e90","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#b498d20fe9c5368b839897b1dd0295e8","[font color=@3]看来有必要弄清楚玄关和檐廊两边的人出入[resetfont]。","balloon#b498d20fe9c5368b839897b1dd0295e8","机翻辅助：
+
+[font color=@3]看来有必要弄清楚玄关和檐廊两边的人出入[resetfont]。
+
+[font color=@3]看来有必要弄清楚玄关和檐廊两边的人的出入[resetfont]。
+
+[font color=@3]看来有必要明确玄关和走廊两个人的出入。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#d4cd0bac93a325c19dde74a34425ecce","[font color=@3]关于两处的人出入[resetfont]，我再重新审视一次线索吧。","balloon#d4cd0bac93a325c19dde74a34425ecce","机翻辅助：
+
+[font color=@3]关于两处的人出入[resetfont]，我再重新审视一次线索吧。
+
+[font color=@3]关于两个地方的人员出入[resetfont]，我们再重新审视一下线索。
+
+[font color=@3]关于两个地方的人的出入，再重新审视一下线索吧。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

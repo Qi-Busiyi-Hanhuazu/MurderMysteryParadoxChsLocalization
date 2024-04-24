@@ -1,0 +1,72 @@
+"source","target","id","developer_comments"
+"balloon#6c203ad31f47398e4e0981498b721e64","而这次事件的被害人[font color=@3]可能在推定死亡时刻犯案的人物[resetfont]正是凶手。","balloon#6c203ad31f47398e4e0981498b721e64","机翻辅助：
+
+而这次事件的被害人[font color=@3]可能在推定死亡时刻犯案的人物[resetfont]正是凶手。
+
+而且，在此次事件中，受害人[font color=@3]在推定死亡时间内有可能作案的人[resetfont]才是案犯。
+
+而且这次的事件，被害者的死亡推定时间可以犯罪的人才是实行犯。[font color=@3][resetfont]"
+"balloon#34a8ae50c0f8188d24d046fa819b2eb6","那是……","balloon#34a8ae50c0f8188d24d046fa819b2eb6","机翻辅助：
+
+那是……
+
+那是因为……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#de79b1ffd6d1dff01f086989c679dc70","<font color='@3'>可能在推定死亡时刻犯案的人物</font>是谁呢……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#de79b1ffd6d1dff01f086989c679dc70","机翻辅助：
+
+<font color='@3'>可能在推定死亡时刻犯案的人物</font>是谁呢……
+
+<font color='@3'>有可能作案的人是谁……</font>
+
+<font color='@3'>谁是可以作案的人……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","我知道了，说出来吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","机翻辅助：
+
+我知道了，说出来吧！
+
+知道了，告诉你吧！
+
+我知道了，就转告吧！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","我不知道，还是别说吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","机翻辅助：
+
+我不知道，还是别说吧！
+
+因为不明白，所以保持沉默吧！
+
+我不知道，就闭嘴吧！"
+"javascript#4a622f127baeae041b4eef6a8884069f","返回","javascript#4a622f127baeae041b4eef6a8884069f","机翻辅助：
+
+返回
+
+后退"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#804f4d4ea5bc698f21c04924697f0378","这次事件的凶手是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#804f4d4ea5bc698f21c04924697f0378","机翻辅助：
+
+这次事件的凶手是……
+
+这次事件的犯人，那是……"
+"javascript#38cffef722128b383d2b128bd40a8223","{0}是犯人的证据……","javascript#38cffef722128b383d2b128bd40a8223","机翻辅助：
+
+没有任何证据证明……
+
+{0}是犯人的根据……"
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","请思考能让对方接受犯人是谁的推理。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","机翻辅助：
+
+请思考能让对方接受犯人是谁的推理。
+
+可以让人接受是犯人，考虑推理吧。
+
+思考一下能让人相信是凶手的推理吧。"
+"message10#5ffc142d70a4b2964c2ec3767f08e00c","树在大家面前提出了
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+是犯人的推理。","message10#5ffc142d70a4b2964c2ec3767f08e00c","机翻辅助：
+
+树在大家面前提出了
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+是犯人的推理。
+
+树在所有人面前披露了事件的犯人是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+树在所有人面前宣布了事件的犯人，
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。"
+"speaker_主人公","主人公","speaker_主人公",""

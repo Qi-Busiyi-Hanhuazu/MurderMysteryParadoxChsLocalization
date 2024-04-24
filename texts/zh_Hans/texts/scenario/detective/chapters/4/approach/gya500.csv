@@ -1,0 +1,178 @@
+"source","target","id","developer_comments"
+"balloon#6555a2fee2c3e6050c11a68ad027b1a9","要是被你逃掉，我可就伤脑筋了。","balloon#6555a2fee2c3e6050c11a68ad027b1a9","机翻辅助：
+
+要是被你逃掉，我可就伤脑筋了。
+
+果然，如果能逃跑的话就麻烦了。
+
+果然，要是逃跑了就麻烦了。"
+"balloon#b2c8878dec254f26e5ec8909323f0ec8","我才不会逃呢！","balloon#b2c8878dec254f26e5ec8909323f0ec8","机翻辅助：
+
+我才不会逃呢！
+
+这样啊，不会逃跑的！
+
+这样啊，我才不会逃跑呢！"
+"balloon#a0690b37d683aa31a086a5559f3ede17","你的心意我很高兴……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那我就不客气地问了，[emb exp='tf.names.NPC.itsuki']……","balloon#a0690b37d683aa31a086a5559f3ede17","机翻辅助：
+
+你的心意我很高兴……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那我就不客气地问了，[emb exp='tf.names.NPC.itsuki']……
+
+心情真好啊……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那我就不客气了，[emb exp='tf.names.NPC.itsuki']……
+
+那我就不客气地问你了，[emb exp='tf.names.NPC.itsuki']……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]"
+"balloon#e2b4f92eed4d013768e4ac92b7511b8f","你和[emb exp='tf.names.NPC.chiyo']突然不见的事，应该没有关系吧？","balloon#e2b4f92eed4d013768e4ac92b7511b8f","机翻辅助：
+
+你和[emb exp='tf.names.NPC.chiyo']突然不见的事，应该没有关系吧？
+
+你和[emb exp='tf.names.NPC.chiyo']的突然消失没有什么关系吧？
+
+你和[emb exp='tf.names.NPC.chiyo']突然不见有什么关系吗？"
+"balloon#263d02985eea35f5d9155f0d8d1fa174","当然没有直接关系。","balloon#263d02985eea35f5d9155f0d8d1fa174","机翻辅助：
+
+当然没有直接关系。
+
+当然，并没有直接的关系。
+
+当然，这并不直接相关。"
+"balloon#bdbabfb54092956170f35a4e6ddedfd4","只是……","balloon#bdbabfb54092956170f35a4e6ddedfd4","机翻辅助：
+
+只是……"
+"balloon#acfc84ad9e7bf5d22181a625d8515ca6","因为[emb exp='tf.names.itsuki.me']移动了时间，所以有可能间接造成某种关系。","balloon#acfc84ad9e7bf5d22181a625d8515ca6","机翻辅助：
+
+因为[emb exp='tf.names.itsuki.me']移动了时间，所以有可能间接造成某种关系。
+
+[emb exp='tf.names.itsuki.me']移动了时间，有可能间接地发生了什么关系。
+
+因为[emb exp='tf.names.itsuki.me']在时间上的移动，有可能间接地发生了某种关系。"
+"SECRET_SELECTION/topic#79594a2e8414d06d6b3bc8bca9eab2a2","${itsuki.NPC}，${itsuki.me}……","SECRET_SELECTION/topic#79594a2e8414d06d6b3bc8bca9eab2a2","机翻辅助：
+
+${itsuki.NPC}，${itsuki.me}……"
+"SECRET_SELECTION/text1#c0d36bb4b7245a31c6238e4932a178b6","${itsuki.chiyo}是无关的人！","SECRET_SELECTION/text1#c0d36bb4b7245a31c6238e4932a178b6","机翻辅助：
+
+${itsuki.chiyo}是无关的人！
+
+和${itsuki.chiyo}没有关系的人！
+
+${itsuki.chiyo}是没关系的人！"
+"SECRET_SELECTION/text2#fa4c63da832d101a5cd2fe1165af1a6c","我不知道${itsuki.chiyo}的行踪！","SECRET_SELECTION/text2#fa4c63da832d101a5cd2fe1165af1a6c","机翻辅助：
+
+我不知道${itsuki.chiyo}的行踪！
+
+我不知道${itsuki.chiyo}的去向！"
+"SECRET_SELECTION/text3#febaabd1d63320637a1a8653ec50f3dd","我根本不知道${itsuki.chiyo}！","SECRET_SELECTION/text3#febaabd1d63320637a1a8653ec50f3dd","机翻辅助：
+
+我根本不知道${itsuki.chiyo}！
+
+我不知道${itsuki.chiyo}！"
+"balloon#056d82539edc23352c9f6b4b91ca8913","你啊……","balloon#056d82539edc23352c9f6b4b91ca8913","机翻辅助：
+
+你啊……
+
+你……"
+"balloon#daba8cffe84de6be97cc6734ba4140e0","总觉得，你这样讲好冷淡哦……","balloon#daba8cffe84de6be97cc6734ba4140e0","机翻辅助：
+
+总觉得，你这样讲好冷淡哦……
+
+总觉得那个很冷啊……
+
+怎么说呢，好冷啊……"
+"balloon#991515725897907c2309604499dd6b3d","那还用说，既然知道就早说嘛！","balloon#991515725897907c2309604499dd6b3d","机翻辅助：
+
+那还用说，既然知道就早说嘛！
+
+那当然了，知道就先说！
+
+是啊，知道的话就先说！"
+"balloon#9d61f5d37ea07dd9f560998cd5788621","不过，她到底是怎么了？","balloon#9d61f5d37ea07dd9f560998cd5788621","机翻辅助：
+
+不过，她到底是怎么了？
+
+但是，真的是怎么了呢。
+
+不过，到底是怎么回事呢？"
+"balloon#41409d4c5740af8c3a8e67995565768f","明明到刚才为止，她都还一如往常地在煮咖喱。","balloon#41409d4c5740af8c3a8e67995565768f","机翻辅助：
+
+明明到刚才为止，她都还一如往常地在煮咖喱。
+
+就在刚才，还和往常一样做咖喱呢。
+
+就在刚才，还像往常一样做咖喱呢。"
+"balloon#32cabc744367576ad77356260b763a1e","[emb exp='tf.names.NPC.chiyo']……","balloon#32cabc744367576ad77356260b763a1e","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']……"
+"balloon#a8a8c548b34be3c1d6aea5ebbe77798c","[emb exp='tf.names.itsuki.NPC']看起来好寂寞……","balloon#a8a8c548b34be3c1d6aea5ebbe77798c","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']看起来好寂寞……
+
+[emb exp='tf.names.itsuki.NPC']，你好像很寂寞……
+
+[emb exp='tf.names.itsuki.NPC']，看起来很寂寞……"
+"balloon#a22383dd69ac9a4869d14c94cc42c3d0","[emb exp='tf.names.NPC.me']这个人，就是经不起打击。","balloon#a22383dd69ac9a4869d14c94cc42c3d0","机翻辅助：
+
+[emb exp='tf.names.NPC.me']这个人，就是经不起打击。
+
+[emb exp='tf.names.NPC.me']被打得很弱。
+
+[emb exp='tf.names.NPC.me']是经不起打击的。"
+"balloon#211393dba63f48d34f9f71cff8defc60","我不习惯应付这种状况。","balloon#211393dba63f48d34f9f71cff8defc60","机翻辅助：
+
+我不习惯应付这种状况。
+
+我不习惯这样。
+
+我还不习惯。"
+"balloon#0c903e93e62e5e875f0c229e39af9204","[emb exp='tf.names.NPC.itsuki']，怎么连你都突然……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]你不会突然消失吧？","balloon#0c903e93e62e5e875f0c229e39af9204","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，怎么连你都突然……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]你不会突然消失吧？
+
+[emb exp='tf.names.NPC.itsuki']，你也突然……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]不会消失吧？
+
+[emb exp='tf.names.NPC.itsuki']，你也不会突然……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]消失吧？"
+"balloon#22ded8ebeb2a38b1f099fc8831816547","咦……","balloon#22ded8ebeb2a38b1f099fc8831816547","机翻辅助：
+
+咦……
+
+啊……
+
+诶……"
+"balloon#5ed152f8503de42b4778078354edc6f2","感觉[emb exp='tf.names.NPC.itsuki']，好像飘忽不定……","balloon#5ed152f8503de42b4778078354edc6f2","机翻辅助：
+
+感觉[emb exp='tf.names.NPC.itsuki']，好像飘忽不定……
+
+好像[emb exp='tf.names.NPC.itsuki']，软绵绵的……
+
+总觉得[emb exp='tf.names.NPC.itsuki']，软绵绵的……"
+"balloon#b8cebe259e3874329c1b6f8278b3d756","好像会突然飞走一样，[emb exp='tf.names.NPC.me']开始担心了。","balloon#b8cebe259e3874329c1b6f8278b3d756","机翻辅助：
+
+好像会突然飞走一样，[emb exp='tf.names.NPC.me']开始担心了。
+
+突然，好像飞出去了，[emb exp='tf.names.NPC.me']开始担心了。
+
+突然，好像要飞出去了，[emb exp='tf.names.NPC.me']开始担心了。"
+"balloon#6599a87f52bd3f124e9724eece0764b3","没事的啦。[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]赶快找到[emb exp='tf.names.itsuki.chiyo']，一起吃咖喱吧！","balloon#6599a87f52bd3f124e9724eece0764b3","机翻辅助：
+
+没事的啦。[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]赶快找到[emb exp='tf.names.itsuki.chiyo']，一起吃咖喱吧！
+
+听说没关系。[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]快点找到[emb exp='tf.names.itsuki.chiyo']，一起吃咖喱吧！
+
+没有的事。快点找到[emb exp='tf.names.itsuki.chiyo']，一起吃咖喱！[l][chara_mod time=""@f1"" name=""主人公"" face=""happy""]"
+"balloon#deb3704a4edeaf67ad075fb0222e2afd","哦、哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]听到这句话，让我稍微放心了。","balloon#deb3704a4edeaf67ad075fb0222e2afd","机翻辅助：
+
+哦、哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]听到这句话，让我稍微放心了。
+
+听了那句话，稍微安心了一点。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]
+
+哦、哦……听了你的话，我稍微放心了。[l][chara_mod time=""@f1"" name=""NPC"" face=""laugh"" position=""right""]"
+"balloon#74f5ed6ea54e8c25cf53d52f1be3e88f","[emb exp='tf.names.itsuki.me']这样的人看起来飘忽不定，或许也是没办法的事。","balloon#74f5ed6ea54e8c25cf53d52f1be3e88f","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']这样的人看起来飘忽不定，或许也是没办法的事。
+
+这样的[emb exp='tf.names.itsuki.me']看起来软绵绵的，也许是没办法的事。
+
+这样的[emb exp='tf.names.itsuki.me']看起来轻飘飘的，或许也是没办法的事。"
+"balloon#f7302539ffa3f079b784419b8e021c4d","现在还是脚踏实地，寻找[emb exp='tf.names.itsuki.chiyo']的线索吧。","balloon#f7302539ffa3f079b784419b8e021c4d","机翻辅助：
+
+现在还是脚踏实地，寻找[emb exp='tf.names.itsuki.chiyo']的线索吧。
+
+现在就脚踏实地，寻找[emb exp='tf.names.itsuki.chiyo']的线索吧。"
+"speaker_主人公","主人公","speaker_主人公",""

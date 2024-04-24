@@ -1,0 +1,58 @@
+"source","target","id","developer_comments"
+"balloon#732798eb8a5d88009fdc114b7ee6a520","好，大家听[emb exp='tf.names.NPC.me']说！","balloon#732798eb8a5d88009fdc114b7ee6a520","机翻辅助：
+
+好，大家听[emb exp='tf.names.NPC.me']说！
+
+好了，大家听[emb exp='tf.names.NPC.me']说！"
+"balloon#1605d587f9a524aee21743a916139dbd","事件这种东西，不管怎么说，第一发现者都很可疑。","balloon#1605d587f9a524aee21743a916139dbd","机翻辅助：
+
+事件这种东西，不管怎么说，第一发现者都很可疑。
+
+案件嘛，总觉得第一发现者很可疑。
+
+所谓的事件，不管怎么说第一发现者都觉得很奇怪。"
+"balloon#4b88a038d9756e4f428e9d1cb35821f6","而且一问之下，才发现根本没有人看到发现起火点时的情况。","balloon#4b88a038d9756e4f428e9d1cb35821f6","机翻辅助：
+
+而且一问之下，才发现根本没有人看到发现起火点时的情况。
+
+而且听了一下，发现火源时的样子谁都没看到。
+
+而且一问才知道，发现起火点的时候并没有人看到。"
+"balloon#82ff27712214ae2480d95088171613f2","也就是说……","balloon#82ff27712214ae2480d95088171613f2","机翻辅助：
+
+也就是说……"
+"balloon#197c719acfa0268604f7d4b8b1ad453e","我觉得这场骚动是[font color=@3][emb exp='tf.names.NPC.kumiko']自导自演[resetfont]，大家觉得呢？","balloon#197c719acfa0268604f7d4b8b1ad453e","机翻辅助：
+
+我觉得这场骚动是[font color=@3][emb exp='tf.names.NPC.kumiko']自导自演[resetfont]，大家觉得呢？
+
+我觉得这骚动是[emb exp='tf.names.NPC.kumiko']自导自演的，大家怎么样？[font color=@3][resetfont]
+
+我觉得这是[emb exp='tf.names.NPC.kumiko']的自编自演，大家觉得怎么样？[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#875d66fdae0196df9a4e5e46356cee0e","<font color='@3'>对于对${itsuki.kumiko}的怀疑</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#875d66fdae0196df9a4e5e46356cee0e","机翻辅助：
+
+<font color='@3'>对于对${itsuki.kumiko}的怀疑</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.kumiko}的怀疑</font>我的想法是……
+
+<font color='@3'>对于对${itsuki.kumiko}的怀疑，${itsuki.me}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#719940dbe74c1a3109d6e8dc3394d656","第一发现者果然很可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#719940dbe74c1a3109d6e8dc3394d656","机翻辅助：
+
+第一发现者果然很可疑！
+
+第一发现者果然很奇怪！
+
+第一发现者果然可疑！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#cf6768973a8a343edf93b70814c163d7","光凭他是第一发现者就怀疑很奇怪！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#cf6768973a8a343edf93b70814c163d7","机翻辅助：
+
+光凭他是第一发现者就怀疑很奇怪！
+
+只是第一发现者怀疑可笑！
+
+仅仅因为是第一发现者就怀疑是很奇怪的！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#066b89564deb46e715deed3e2a57a24e","有必要现在谈这个吗？","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#066b89564deb46e715deed3e2a57a24e","机翻辅助：
+
+有必要现在谈这个吗？
+
+那个话，现在有必要说吗？
+
+那件事有必要现在说吗？"

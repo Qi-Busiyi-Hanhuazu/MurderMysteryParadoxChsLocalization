@@ -1,0 +1,124 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#7d4a92ad15ccebc08b18406d65653a52","如果是这个推理的话，[font color=@3]我就能接受了[resetfont]！","balloon#7d4a92ad15ccebc08b18406d65653a52","机翻辅助：
+
+如果是这个推理的话，[font color=@3]我就能接受了[resetfont]！
+
+如果是这个推理的话，[font color=@3]能接受呢[resetfont]！
+
+如果是那个推理，[font color=@3]能理解[resetfont]！"
+"balloon#58deb4026d47e1ca6dd4d8fc1fcf5b1a","如果袭击[emb exp='tf.names.NPC.tetsuo']的犯人，就是袭击[emb exp='tf.names.NPC.me']的犯人……","balloon#58deb4026d47e1ca6dd4d8fc1fcf5b1a","机翻辅助：
+
+如果袭击[emb exp='tf.names.NPC.tetsuo']的犯人，就是袭击[emb exp='tf.names.NPC.me']的犯人……
+
+一想到袭击[emb exp='tf.names.NPC.tetsuo']的犯人袭击了[emb exp='tf.names.NPC.me']……
+
+一想到袭击[emb exp='tf.names.NPC.tetsuo']的凶手袭击了[emb exp='tf.names.NPC.me']……"
+"balloon#2e63483326d106a95c89df1c17190a98","[font color=@3][emb exp='tf.names.NPC.tetsuo']在犯案时间有不在场证明[resetfont]，所以不是犯人。[emb exp='tf.names.NPC.itsuki']","balloon#2e63483326d106a95c89df1c17190a98","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.tetsuo']在犯案时间有不在场证明[resetfont]，所以不是犯人。[emb exp='tf.names.NPC.itsuki']
+
+[emb exp='tf.names.NPC.tetsuo']的犯罪时间有不在场证明。[emb exp='tf.names.NPC.itsuki']不是犯人。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.tetsuo']的犯案时间有不在场证明[font color=@3][emb exp='tf.names.NPC.itsuki']不是犯人。[resetfont]"
+"balloon#f5d2c1409d77a6ede925df93db37393e","还有，关于[emb exp='tf.names.NPC.mashima']……","balloon#f5d2c1409d77a6ede925df93db37393e","机翻辅助：
+
+还有，关于[emb exp='tf.names.NPC.mashima']……"
+"balloon#018bafbfdc2cb3319691a07d49dd4cb3","[font color=@3][emb exp='tf.names.NPC.itsuki']和我有不在场证明，所以不是犯人[resetfont]。","balloon#018bafbfdc2cb3319691a07d49dd4cb3","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.itsuki']和我有不在场证明，所以不是犯人[resetfont]。
+
+和[emb exp='tf.names.NPC.itsuki']在同一时间有不在场证明，所以不是犯人。[font color=@3][resetfont]"
+"balloon#65ad7750656604d18b675a778813c7d6","没错，[font color=@3][emb exp='tf.names.itsuki.me']和[emb exp='tf.names.itsuki.mashima']两个人不可能犯案[resetfont]。","balloon#65ad7750656604d18b675a778813c7d6","机翻辅助：
+
+没错，[font color=@3][emb exp='tf.names.itsuki.me']和[emb exp='tf.names.itsuki.mashima']两个人不可能犯案[resetfont]。
+
+是的，对[emb exp='tf.names.itsuki.me']和[emb exp='tf.names.itsuki.mashima']两个人来说，犯罪是不可能的。[font color=@3][resetfont]
+
+对[emb exp='tf.names.itsuki.me']和[emb exp='tf.names.itsuki.mashima']两人来说，犯罪是不可能的。[font color=@3][resetfont]"
+"balloon#9fb77abe87dd3e6133d72cdd64c888a0","这么一来，能够袭击[emb exp='tf.names.NPC.me']的人就有限了……","balloon#9fb77abe87dd3e6133d72cdd64c888a0","机翻辅助：
+
+这么一来，能够袭击[emb exp='tf.names.NPC.me']的人就有限了……
+
+这样一来，能攻击[emb exp='tf.names.NPC.me']的人就有限了……
+
+那样的话，能袭击[emb exp='tf.names.NPC.me']的人是有限的……"
+"balloon#496564c15aad593f5736b0edfcf4029a","没错，剩下的嫌疑人……","balloon#496564c15aad593f5736b0edfcf4029a","机翻辅助：
+
+没错，剩下的嫌疑人……
+
+是的，剩下的嫌疑人……
+
+对，剩下的嫌疑人是……"
+"balloon#8d4bfd364bd0bdaab835cd0c432f5d71","我又被[emb exp='tf.names.NPC.itsuki']救了一次呢。","balloon#8d4bfd364bd0bdaab835cd0c432f5d71","机翻辅助：
+
+我又被[emb exp='tf.names.NPC.itsuki']救了一次呢。
+
+又被[emb exp='tf.names.NPC.itsuki']救了呢。"
+"balloon#83fb69816208ca4d393978d477e74ea0","不，能帮上[emb exp='tf.names.itsuki.NPC']的忙，真是太好了！","balloon#83fb69816208ca4d393978d477e74ea0","机翻辅助：
+
+不，能帮上[emb exp='tf.names.itsuki.NPC']的忙，真是太好了！
+
+不，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#8d539dce5b67ed83019728ff036d79e3","真的是这样吗？","balloon#8d539dce5b67ed83019728ff036d79e3","机翻辅助：
+
+真的是这样吗？"
+"balloon#ba914929fd34c5158ec77513f20651e1","我觉得这个推理[font color=@3]不太对[resetfont]……","balloon#ba914929fd34c5158ec77513f20651e1","机翻辅助：
+
+我觉得这个推理[font color=@3]不太对[resetfont]……
+
+我觉得那个推理有点不一样……[font color=@3][resetfont]
+
+我觉得那个推理，有点不一样……[font color=@3][resetfont]"
+"balloon#8f5eed4f87bda862ef210d65106a22a5","我觉得这个推理[font color=@3]完全不对[resetfont]……","balloon#8f5eed4f87bda862ef210d65106a22a5","机翻辅助：
+
+我觉得这个推理[font color=@3]完全不对[resetfont]……
+
+我认为那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#795b31aaa8e87462cd62a522344f1ecc","不……[emb exp='tf.names.NPC.me']才应该要怀疑[emb exp='tf.names.NPC.itsuki']。","balloon#795b31aaa8e87462cd62a522344f1ecc","机翻辅助：
+
+不……[emb exp='tf.names.NPC.me']才应该要怀疑[emb exp='tf.names.NPC.itsuki']。
+
+不……[emb exp='tf.names.NPC.me']才怀疑[emb exp='tf.names.NPC.itsuki']呢。
+
+不……因为[emb exp='tf.names.NPC.me']才怀疑[emb exp='tf.names.NPC.itsuki']。"
+"balloon#46d10acee27a35410d9621080f4c934c","然后，关于这件事……","balloon#46d10acee27a35410d9621080f4c934c","机翻辅助：
+
+然后，关于这件事……
+
+还有，关于这件事……"
+"balloon#67beaed8e7f21f67d5e257c496e96b37","如果[emb exp='tf.names.NPC.itsuki']能证明他的[font color=@3]不在场证明[resetfont]，我就能相信他了。","balloon#67beaed8e7f21f67d5e257c496e96b37","机翻辅助：
+
+如果[emb exp='tf.names.NPC.itsuki']能证明他的[font color=@3]不在场证明[resetfont]，我就能相信他了。
+
+如果能证明[emb exp='tf.names.NPC.itsuki']的不在场证明的话，我觉得可以相信。[font color=@3][resetfont]
+
+如果能证明[emb exp='tf.names.NPC.itsuki']的不在场证明的话，我想就能相信了。[font color=@3][resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#18d1932a50b7bb3dad766007f227a9d8","[emb exp='tf.names.itsuki.me']得想办法证明[font color=@3]我的不在场证明[resetfont]给[emb exp='tf.names.itsuki.NPC']看。","balloon#18d1932a50b7bb3dad766007f227a9d8","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']得想办法证明[font color=@3]我的不在场证明[resetfont]给[emb exp='tf.names.itsuki.NPC']看。
+
+想办法向[emb exp='tf.names.itsuki.NPC']证明[emb exp='tf.names.itsuki.me']的不在场证明。[font color=@3][resetfont]
+
+无论如何要向[emb exp='tf.names.itsuki.NPC']证明[emb exp='tf.names.itsuki.me']的不在场证明。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

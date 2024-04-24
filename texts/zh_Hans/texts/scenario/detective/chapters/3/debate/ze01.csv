@@ -1,0 +1,78 @@
+"source","target","id","developer_comments"
+"balloon#a9846bd16b4a6d057409150a28ee3efd","那么，由[emb exp='tf.names.NPC.me']来说吧。","balloon#a9846bd16b4a6d057409150a28ee3efd","机翻辅助：
+
+那么，由[emb exp='tf.names.NPC.me']来说吧。
+
+那么，[emb exp='tf.names.NPC.me']来谈谈吧。
+
+那么，[emb exp='tf.names.NPC.me']来说话吧。"
+"balloon#f36e4e92e1c13803579489e9ff5d343e","事件必定有动机。","balloon#f36e4e92e1c13803579489e9ff5d343e","机翻辅助：
+
+事件必定有动机。
+
+事件一定有动机。"
+"balloon#cceb360d2d5ff129e0561f8cd137891f","……这就是[emb exp='tf.names.NPC.me']的意见。","balloon#cceb360d2d5ff129e0561f8cd137891f","机翻辅助：
+
+……这就是[emb exp='tf.names.NPC.me']的意见。
+
+……那是[emb exp='tf.names.NPC.me']的意见。"
+"balloon#892386f3ced0c2a23d30deae01fa2944","于是[emb exp='tf.names.NPC.me']从动机的线探索袭击[emb exp='tf.names.NPC.tetsuo']的犯人……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]到达了。","balloon#892386f3ced0c2a23d30deae01fa2944","机翻辅助：
+
+于是[emb exp='tf.names.NPC.me']从动机的线探索袭击[emb exp='tf.names.NPC.tetsuo']的犯人……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]到达了。
+
+于是[emb exp='tf.names.NPC.me']从袭击[emb exp='tf.names.NPC.tetsuo']的动机出发，寻找凶手……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]终于到了。
+
+于是，[emb exp='tf.names.NPC.me']从动机这条线索，寻找袭击[emb exp='tf.names.NPC.tetsuo']的犯人……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]我找到了。"
+"balloon#23fed1471e2115dc0b9bf9772e3381eb","在这些人之中，只有一个，有杀害[emb exp='tf.names.NPC.tetsuo']的动机。","balloon#23fed1471e2115dc0b9bf9772e3381eb","机翻辅助：
+
+在这些人之中，只有一个，有杀害[emb exp='tf.names.NPC.tetsuo']的动机。
+
+其中只有一个有杀死[emb exp='tf.names.NPC.tetsuo']动机的人物。
+
+其中有杀死[emb exp='tf.names.NPC.tetsuo']动机的人，只有一个。"
+"balloon#a2ac939650804b97f79cb3b042be7d28","说到杀人的动机，向来都是怨恨或金钱纠纷。","balloon#a2ac939650804b97f79cb3b042be7d28","机翻辅助：
+
+说到杀人的动机，向来都是怨恨或金钱纠纷。
+
+说起杀人的动机，是怨恨或金钱纠纷和行情决定的。
+
+杀人的动机多半是怨恨或金钱纠纷。"
+"balloon#cac6070bfff52d65577271bba006045a","向[emb exp='tf.names.NPC.tetsuo']借了一大笔钱，对他抬不起头来的人物。","balloon#cac6070bfff52d65577271bba006045a","机翻辅助：
+
+向[emb exp='tf.names.NPC.tetsuo']借了一大笔钱，对他抬不起头来的人物。
+
+向[emb exp='tf.names.NPC.tetsuo']借了很多钱，在他面前抬不起头的人物。"
+"balloon#f080bea05a03e5ae0ffafdd9c3e0637c","没错，就是你……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""][PLAY_SE storage=""@se_im1""][emb exp='tf.names.NPC.ebihara']。","balloon#f080bea05a03e5ae0ffafdd9c3e0637c","机翻辅助：
+
+没错，就是你……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""][PLAY_SE storage=""@se_im1""][emb exp='tf.names.NPC.ebihara']。
+
+对，就是你……[l][chara_mod time=""@f1"" name=""NPC"" face=""doubt"" position=""right""][PLAY_SE storage=""@se_im1""][emb exp='tf.names.NPC.ebihara']。"
+"balloon#9123474ad8de2076fb8e1fc8465e83b0","[font color=@3]你是犯人[resetfont]，对吧？","balloon#9123474ad8de2076fb8e1fc8465e83b0","机翻辅助：
+
+[font color=@3]你是犯人[resetfont]，对吧？
+
+[font color=@3]你就是犯人吧？[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#beac0b8b096efbca6b96e8170ef3d73b","<font color='@3'>对于${itsuki.ebihara}的怀疑</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#beac0b8b096efbca6b96e8170ef3d73b","机翻辅助：
+
+<font color='@3'>对于${itsuki.ebihara}的怀疑</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.ebihara}的怀疑</font>的想法是……
+
+<font color='@3'>对${itsuki.ebihara}的怀疑</font>${itsuki.me}的看法是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","我才没有向${itsuki.tetsuo}借钱！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","机翻辅助：
+
+我才没有向${itsuki.tetsuo}借钱！
+
+我没有向${itsuki.tetsuo}借钱！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","今天没有和${itsuki.tetsuo}见面！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","机翻辅助：
+
+今天没有和${itsuki.tetsuo}见面！
+
+今天没见到${itsuki.tetsuo}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","我只是被他叫去山中小屋而已！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","机翻辅助：
+
+我只是被他叫去山中小屋而已！
+
+只是被叫去了山上的小屋而已！
+
+只是被叫到山中小屋去了！"

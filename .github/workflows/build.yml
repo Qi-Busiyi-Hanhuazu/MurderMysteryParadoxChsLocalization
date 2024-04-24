@@ -1,0 +1,53 @@
+name: Build
+
+on:
+  push:
+    branches: 
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+  workflow_dispatch:
+
+concurrency:
+  group: build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Commit Information
+        id: commit
+        run: |
+          echo "commit_id=commit-$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+      - name: Create Patch
+        run: |
+          sudo apt-get install p7zip-full -y
+          chmod +x scripts/build.sh
+          scripts/build.sh
+      - name: Upload patch
+        uses: actions/upload-artifact@v4
+        with:
+          name: patch
+          path: |
+            out/*
+      - name: GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "patch.zip"
+          name: "${{ steps.commit.outputs.commit_message }}"
+          body: |
+            本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**
+          prerelease: true
+          tag: publish
+          token: ${{ secrets.GITHUB_TOKEN }}

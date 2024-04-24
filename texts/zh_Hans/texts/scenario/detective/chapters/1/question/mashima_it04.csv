@@ -1,0 +1,65 @@
+"source","target","id","developer_comments"
+"balloon#eb509050baf05ab95d1f67a825fdf73a","12:43和[emb exp='tf.names.NPC.yohei']。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]那孩子不是嫌疑人，所以这件事令人信服。","balloon#eb509050baf05ab95d1f67a825fdf73a","机翻辅助：
+
+12:43和[emb exp='tf.names.NPC.yohei']。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]那孩子不是嫌疑人，所以这件事令人信服。
+
+他是在[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]12:43遇到[emb exp='tf.names.NPC.yohei']的。那孩子不是嫌犯，所以他的证词应该可信。
+
+12:43和[emb exp='tf.names.NPC.yohei']。因为那孩子不是嫌疑人，所以这话似乎可信。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#49ae907be01054d648bf9c41ea928ef6","可是，[emb exp='tf.names.NPC.kumiko']是在[font color=@3]12:53[resetfont]发现起火点的。","balloon#49ae907be01054d648bf9c41ea928ef6","机翻辅助：
+
+可是，[emb exp='tf.names.NPC.kumiko']是在[font color=@3]12:53[resetfont]发现起火点的。
+
+但是[emb exp='tf.names.NPC.kumiko']发现火源是在12:53。[font color=@3][resetfont]
+
+但是[emb exp='tf.names.NPC.kumiko']是在12:53发现起火点的。[font color=@3][resetfont]"
+"balloon#ad9511dbc7365ee5059bebc3123b8183","你和[emb exp='tf.names.NPC.yohei']是在案发前不久见面，但他的不在场证明还没成立……","balloon#ad9511dbc7365ee5059bebc3123b8183","机翻辅助：
+
+你和[emb exp='tf.names.NPC.yohei']是在案发前不久见面，但他的不在场证明还没成立……
+
+你和[emb exp='tf.names.NPC.yohei']见面是在事件发生之前，但是不在场证明成立了……
+
+你和[emb exp='tf.names.NPC.yohei']见面是在事件发生之前，但没能证明不在场……"
+"balloon#80bdafdd37662a98873e0ce8dd63b3a9","不对，等等，犯人是利用了摄像头的镜头吧。","balloon#80bdafdd37662a98873e0ce8dd63b3a9","机翻辅助：
+
+不对，等等，犯人是利用了摄像头的镜头吧。
+
+等等，凶手是利用了照相机的镜头。
+
+不，等等，犯人是用照相机的镜头的吧。"
+"balloon#6f0ef72638d34c3281391e66b6745280","对了，犯人引发火灾的真正时间是……！","balloon#6f0ef72638d34c3281391e66b6745280","机翻辅助：
+
+对了，犯人引发火灾的真正时间是……！
+
+对了，犯人发生火灾的真正时间是……！
+
+对了，凶手纵火的真正时间是……！"
+"balloon#cbf70537c6d6e5e536ea2e6f1338256b","可是，这和小火灾有什么关系？","balloon#cbf70537c6d6e5e536ea2e6f1338256b","机翻辅助：
+
+可是，这和小火灾有什么关系？
+
+可是，那个模糊与吵闹有关系吗？
+
+但是，这和骚动有什么关系吗？"
+"balloon#7e8d6cfefeda260aeb87ce752e3d4873","[emb exp='tf.names.NPC.kumiko']是在[font color=@3]12:53[resetfont]发现起火点的。","balloon#7e8d6cfefeda260aeb87ce752e3d4873","机翻辅助：
+
+[emb exp='tf.names.NPC.kumiko']是在[font color=@3]12:53[resetfont]发现起火点的。
+
+[emb exp='tf.names.NPC.kumiko']发现火源是在12:53。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.kumiko']发现起火点是在12:53。[font color=@3][resetfont]"
+"balloon#45f6afe13275627b06edbf7b8ec0ead3","你和[emb exp='tf.names.NPC.yohei']在火灾发生前不久见过面，但[font color=@3]不在场证明不成立[resetfont]吧。","balloon#45f6afe13275627b06edbf7b8ec0ead3","机翻辅助：
+
+你和[emb exp='tf.names.NPC.yohei']在火灾发生前不久见过面，但[font color=@3]不在场证明不成立[resetfont]吧。
+
+你和[emb exp='tf.names.NPC.yohei']见面是在案发前，但不在场证明不成立。[font color=@3][resetfont]
+
+你和[emb exp='tf.names.NPC.yohei']见面是在事件发生之前，但不在场证明不成立。[font color=@3][resetfont]"
+"balloon#f86654d0064de45d1969e8776c91ab58","虽然大家愿意相信[emb exp='tf.names.itsuki.yohei']的证词，但还是觉得它和那场骚动无关。","balloon#f86654d0064de45d1969e8776c91ab58","机翻辅助：
+
+虽然大家愿意相信[emb exp='tf.names.itsuki.yohei']的证词，但还是觉得它和那场骚动无关。
+
+虽然大家相信了[emb exp='tf.names.itsuki.yohei']的证词，但是大家都认为这和这场骚动没有关系。
+
+虽然相信了[emb exp='tf.names.itsuki.yohei']的证词，但却被认为与骚动无关。"
+"speaker_主人公","主人公","speaker_主人公",""

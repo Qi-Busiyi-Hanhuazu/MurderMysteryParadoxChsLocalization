@@ -1,0 +1,69 @@
+"source","target","id","developer_comments"
+"balloon#f37c3ea7601e06ebbaba330348c157c9","[emb exp='tf.names.NPC.me']有件事情无论如何都想问。","balloon#f37c3ea7601e06ebbaba330348c157c9","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有件事情无论如何都想问。
+
+[emb exp='tf.names.NPC.me']有无论如何都想说的话。
+
+[emb exp='tf.names.NPC.me']有些话无论如何都想说。"
+"balloon#a915301ef941be3d50a4450d3ae76848","……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']还有[emb exp='tf.names.NPC.iroha']都很熟。","balloon#a915301ef941be3d50a4450d3ae76848","机翻辅助：
+
+……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']还有[emb exp='tf.names.NPC.iroha']都很熟。
+
+……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']、[emb exp='tf.names.NPC.iroha']都很亲近。
+
+……[emb exp='tf.names.NPC.me']和[emb exp='tf.names.NPC.chiyo']和[emb exp='tf.names.NPC.iroha']都很亲近。"
+"balloon#41cfe9835d83f09a2e7ad0be8994c9ca","所以，我绝对饶不了凶手。","balloon#41cfe9835d83f09a2e7ad0be8994c9ca","机翻辅助：
+
+所以，我绝对饶不了凶手。
+
+所以绝对不能原谅犯人。
+
+所以绝对不能原谅凶手。"
+"balloon#7714aacfd186cac73a1af4ed883a758e","[emb exp='tf.names.NPC.me']在意的是[emb exp='tf.names.NPC.iroha']被发现的地点。","balloon#7714aacfd186cac73a1af4ed883a758e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在意的是[emb exp='tf.names.NPC.iroha']被发现的地点。
+
+[emb exp='tf.names.NPC.me']在意的是发现[emb exp='tf.names.NPC.iroha']的地方。"
+"balloon#a0be08b7ff93aea1a67d3962799ef93a","一般来说，遗体被放在那种地方的话，应该不会被发现才对。","balloon#a0be08b7ff93aea1a67d3962799ef93a","机翻辅助：
+
+一般来说，遗体被放在那种地方的话，应该不会被发现才对。
+
+一般来说，如果放在那样的地方，应该不会发现遗体。
+
+一般来说，放在那样的地方应该不会发现遗体。"
+"balloon#ff4035774b96917f8b5a220cb04cb0fd","为什么[emb exp='tf.names.NPC.iroha']的遗体会被弃置在[font color=@3]山中小屋[resetfont]呢？","balloon#ff4035774b96917f8b5a220cb04cb0fd","机翻辅助：
+
+为什么[emb exp='tf.names.NPC.iroha']的遗体会被弃置在[font color=@3]山中小屋[resetfont]呢？
+
+为什么[emb exp='tf.names.NPC.iroha']的遗体会被放置在山上的小屋里呢？[font color=@3][resetfont]
+
+为什么[emb exp='tf.names.NPC.iroha']的遗体会被放置在山中小屋里呢？[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#d17f7d0c0596979c7823a5c0add30322","${itsuki.iroha}<font color='@3'>在山中小屋被发现</font>是因为……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#d17f7d0c0596979c7823a5c0add30322","机翻辅助：
+
+${itsuki.iroha}<font color='@3'>在山中小屋被发现</font>是因为……
+
+${itsuki.iroha}<font color='@3'>在山中小屋被发现的</font>是因为……
+
+${itsuki.iroha}在山中小屋被发现的是……<font color='@3'></font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#a0bf6728b1729397d14af103cf8886ca","为了制造新的“神隐”事件！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#a0bf6728b1729397d14af103cf8886ca","机翻辅助：
+
+为了制造新的“神隐”事件！
+
+这是为了让大家看到新的“神隐”！
+
+这就是新的“神隐”！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#9c4801280c692960abe1c2b40bd2e786","${itsuki.iroha}原本就在山中小屋！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#9c4801280c692960abe1c2b40bd2e786","机翻辅助：
+
+${itsuki.iroha}原本就在山中小屋！
+
+因为${itsuki.iroha}原本就在山间小屋！
+
+因为${itsuki.iroha}原本就在山中小屋！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#218a4cf48ab2d78d031dfef002e309a7","我并不清楚确切的理由……","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#218a4cf48ab2d78d031dfef002e309a7","机翻辅助：
+
+我并不清楚确切的理由……
+
+连确切的理由都不知道……
+
+还不知道确切的理由……"

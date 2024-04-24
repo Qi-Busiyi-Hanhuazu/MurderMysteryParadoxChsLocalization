@@ -1,0 +1,38 @@
+"source","target","id","developer_comments"
+"balloon#a1e02fa26460eacf02f473d89655d4a3","[emb exp='tf.names.NPC.itsuki']……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]你现在有空吗？","balloon#a1e02fa26460eacf02f473d89655d4a3","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]你现在有空吗？
+
+[emb exp='tf.names.NPC.itsuki']……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]现在可以吗？"
+"balloon#46fc3e9ba87cb66c962490bc8fd9695c","[emb exp='tf.names.itsuki.NPC']……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你是不是在担心[emb exp='tf.names.itsuki.me']呢？","balloon#46fc3e9ba87cb66c962490bc8fd9695c","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你是不是在担心[emb exp='tf.names.itsuki.me']呢？
+
+[emb exp='tf.names.itsuki.NPC']……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你在关心[emb exp='tf.names.itsuki.me']吗。
+
+[emb exp='tf.names.itsuki.NPC']……是在关心[emb exp='tf.names.itsuki.me']吗？[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#b8086c877cdc04ee0d0c24ad40704947","怎么了？","balloon#b8086c877cdc04ee0d0c24ad40704947","机翻辅助：
+
+怎么了？"
+"balloon#67be62cacc831d70f8198980a0dc49bc","没人回答我。","balloon#67be62cacc831d70f8198980a0dc49bc","机翻辅助：
+
+没人回答我。
+
+没有回音。
+
+没有人回答。"
+"balloon#2c7cb0e8ee48757b954b9945f1f05ae9","是！","balloon#2c7cb0e8ee48757b954b9945f1f05ae9","机翻辅助：
+
+是！
+
+是的！
+
+好！"
+"balloon#4bfbe597da22378062ab5e747dcdaa79","我记得好像在哪里听过类似的对话……","balloon#4bfbe597da22378062ab5e747dcdaa79","机翻辅助：
+
+我记得好像在哪里听过类似的对话……
+
+我记得好像在哪里有过这样的对话……
+
+确实，这样的对话，在哪里呢……"
+"speaker_主人公","主人公","speaker_主人公",""

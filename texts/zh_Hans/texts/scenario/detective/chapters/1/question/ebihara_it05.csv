@@ -1,0 +1,52 @@
+"source","target","id","developer_comments"
+"balloon#e5a926b47e736564375eb2e0ee0d0449","喂！[l]你们是在怀疑[emb exp='tf.names.NPC.me']吗！","balloon#e5a926b47e736564375eb2e0ee0d0449","机翻辅助：
+
+喂！[l]你们是在怀疑[emb exp='tf.names.NPC.me']吗！
+
+喂！[l]你在怀疑[emb exp='tf.names.NPC.me']吗！？
+
+喂！你在怀疑[emb exp='tf.names.NPC.me']吗？？[l]"
+"balloon#0fd01c33f78a97ea8f76535196016c72","不、不是那样……","balloon#0fd01c33f78a97ea8f76535196016c72","机翻辅助：
+
+不、不是那样……
+
+不、不是这样的……
+
+哎呀，不是那样的……"
+"balloon#08861e3b265540a41f207df5fa58599b","……算了。","balloon#08861e3b265540a41f207df5fa58599b","机翻辅助：
+
+……算了。"
+"balloon#3a11d8ee55e4cff1e410cf64cb33456f","[emb exp='tf.names.NPC.me']可没做什么亏心事啊。","balloon#3a11d8ee55e4cff1e410cf64cb33456f","机翻辅助：
+
+[emb exp='tf.names.NPC.me']可没做什么亏心事啊。
+
+[emb exp='tf.names.NPC.me']没有什么亏心事。
+
+[emb exp='tf.names.NPC.me']没有亏心事。"
+"balloon#e63912924feba1d0aba6c455f2f74ab2","啊，对了，当时不在店里。","balloon#e63912924feba1d0aba6c455f2f74ab2","机翻辅助：
+
+啊，对了，当时不在店里。
+
+啊，对了，他不在店里。
+
+哦，对了，我没在店里。"
+"balloon#8836181344991fa0f7e55a7f707e87e6","……不在？","balloon#8836181344991fa0f7e55a7f707e87e6","机翻辅助：
+
+……不在？
+
+……不在吗？"
+"balloon#c5f491ea7e34cf1a7f6aa426354a0d31","[font color=@3]12:46[resetfont]送货[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""][font color=@3]去照相馆[resetfont]了啊！","balloon#c5f491ea7e34cf1a7f6aa426354a0d31","机翻辅助：
+
+[font color=@3]12:46[resetfont]送货[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""][font color=@3]去照相馆[resetfont]了啊！
+
+[font color=@3]差不多吧？[resetfont]去照相馆送行李[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""][font color=@3]所以呢！[resetfont]
+
+[font color=@3]是时候了吧？[resetfont]因为去照相馆送行李了啊！[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""][font color=@3][resetfont]"
+"balloon#7147d0ee818fd118b0d16e965d5c8683","原来如此。[l][chara_mod time=""@f1"" name=""主人公"" face=""think""][emb exp='tf.names.itsuki.NPC'][font color=@3]送货到照相馆[resetfont]……[l]不觉得不自然吗？","balloon#7147d0ee818fd118b0d16e965d5c8683","机翻辅助：
+
+原来如此。[l][chara_mod time=""@f1"" name=""主人公"" face=""think""][emb exp='tf.names.itsuki.NPC'][font color=@3]送货到照相馆[resetfont]……[l]不觉得不自然吗？
+
+原来如此。[l][chara_mod time=""@f1"" name=""主人公"" face=""think""][emb exp='tf.names.itsuki.NPC'][font color=@3]送货到照相馆[resetfont]……[l]不是很不自然吗。
+
+原来如此。[emb exp='tf.names.itsuki.NPC']因送货到照相馆……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]会不会不自然？[font color=@3][resetfont][l]"
+"speaker_主人公","主人公","speaker_主人公",""

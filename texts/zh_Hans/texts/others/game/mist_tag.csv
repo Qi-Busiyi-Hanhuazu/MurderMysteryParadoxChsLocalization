@@ -1,0 +1,11 @@
+"source","target","id","developer_comments"
+"text#54ca926bbeaaa36acbb420a05b945b09","我选了“${message.trim()}”。","text#54ca926bbeaaa36acbb420a05b945b09","机翻辅助：
+
+我选了“${message.trim()}”。
+
+选择了选项“${message.trim()}”。"
+"text#e08b4c79e0c879df55fb010d073800b0","Chapter Select","text#e08b4c79e0c879df55fb010d073800b0","机翻辅助：
+
+Chapter Select
+
+章节选择"

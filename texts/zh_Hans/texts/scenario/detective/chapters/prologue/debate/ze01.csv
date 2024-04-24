@@ -1,0 +1,72 @@
+"source","target","id","developer_comments"
+"balloon#3fe70c609ce43b9496ead8aaf13c58fe","那[emb exp='tf.names.NPC.me']要说了哦！","balloon#3fe70c609ce43b9496ead8aaf13c58fe","机翻辅助：
+
+那[emb exp='tf.names.NPC.me']要说了哦！
+
+那[emb exp='tf.names.NPC.me']来说吧！
+
+那么，[emb exp='tf.names.NPC.me']来说话吧！"
+"message10#944255f11e4808615f2fedf7b84b3189","- 歌叶的主张 -","message10#944255f11e4808615f2fedf7b84b3189","机翻辅助：
+
+- 歌叶的主张 -
+
+- 歌词的主张 -"
+"balloon#6a2423a9bc532e95124079cc2db335bf","事已至此，我就直说了……","balloon#6a2423a9bc532e95124079cc2db335bf","机翻辅助：
+
+事已至此，我就直说了……
+
+到了这里，请让我说清楚……
+
+既然已经到了这个地步，我就说清楚了……"
+"balloon#2a2dcec23bd325822e1fad6127dbbf67","[emb exp='tf.names.NPC.me']觉得[emb exp='tf.names.NPC.yohei']很可疑！","balloon#2a2dcec23bd325822e1fad6127dbbf67","机翻辅助：
+
+[emb exp='tf.names.NPC.me']觉得[emb exp='tf.names.NPC.yohei']很可疑！
+
+[emb exp='tf.names.NPC.me']觉得[emb exp='tf.names.NPC.yohei']很奇怪！"
+"balloon#d68516e86423f43be30df72c8153801d","我有我的理由……","balloon#d68516e86423f43be30df72c8153801d","机翻辅助：
+
+我有我的理由……
+
+也有好好的理由……
+
+也是有理由的……"
+"balloon#24e16a3d04cc4d770faaab4ef0544d6e","[emb exp='tf.names.NPC.me']注意到[emb exp='tf.names.NPC.yohei'][font color=@3]说谎[resetfont]了！","balloon#24e16a3d04cc4d770faaab4ef0544d6e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']注意到[emb exp='tf.names.NPC.yohei'][font color=@3]说谎[resetfont]了！
+
+[emb exp='tf.names.NPC.yohei']用西瓜的话[font color=@3]说谎[resetfont]的，[emb exp='tf.names.NPC.me']注意到了！
+
+[emb exp='tf.names.NPC.yohei']在西瓜的故事里说谎，[emb exp='tf.names.NPC.me']发现了！[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#c6037b2e6a8ee83bdac3817b1c8108cf","<font color='@3'>${itsuki.yohei}</font>他……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#c6037b2e6a8ee83bdac3817b1c8108cf","机翻辅助：
+
+<font color='@3'>${itsuki.yohei}</font>是……
+
+<font color='@3'>${itsuki.yohei}</font>……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6dc8c977beca4dab25fc1bb407be2226","在西瓜的数量上说谎了！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6dc8c977beca4dab25fc1bb407be2226","机翻辅助：
+
+在西瓜的数量上说谎了！
+
+关于西瓜数量的话题，我在说谎！
+
+因为西瓜的数量的话，说谎了！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#b1740323b31e0faa93a26123b1ce1f27","在西瓜的形状上说谎了！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#b1740323b31e0faa93a26123b1ce1f27","机翻辅助：
+
+她对西瓜的形状撒谎了！
+
+关于西瓜形状的话题，我在说谎！
+
+西瓜形状的话，说谎了！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#0fd5555c10d8c94a9ebd0300f7dc499f","在西瓜籽的事情上说谎了！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#0fd5555c10d8c94a9ebd0300f7dc499f","机翻辅助：
+
+她对西瓜籽的事情说了谎！
+
+说的是西瓜种子，撒谎了！
+
+关于西瓜籽的事，我在说谎！"
+"message10#407ef1a4ccec581402171ee624332f2b","树将自己的想法告诉了歌叶。","message10#407ef1a4ccec581402171ee624332f2b","机翻辅助：
+
+树将自己的想法告诉了歌叶。
+
+树把自己的想法告诉了歌叶。
+
+树向歌叶传达了自己的想法。"

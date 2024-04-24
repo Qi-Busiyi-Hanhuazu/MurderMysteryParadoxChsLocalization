@@ -1,0 +1,45 @@
+"source","target","id","developer_comments"
+"balloon#e23a1086a2861686c39c4821e684b6ef","我平常不会搭夜行渡轮，所以不清楚详情。","balloon#e23a1086a2861686c39c4821e684b6ef","机翻辅助：
+
+我平常不会搭夜行渡轮，所以不清楚详情。
+
+夜行渡轮平时不使用，详细情况不知道。
+
+我平时不坐夜行船，所以不知道详细情况。"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#533ece09c831183d4d97ad6410153474","[emb exp='tf.names.itsuki.NPC']似乎完全不知道夜行渡轮的事。","balloon#533ece09c831183d4d97ad6410153474","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']似乎完全不知道夜行渡轮的事。
+
+[emb exp='tf.names.itsuki.NPC']似乎完全不了解夜行渡轮。
+
+[emb exp='tf.names.itsuki.NPC']似乎对夜行渡轮一无所知。"
+"balloon#654ecb59f43e97d016e280da197496ea","说到船……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]我跟警察说过，也告诉你吧。","balloon#654ecb59f43e97d016e280da197496ea","机翻辅助：
+
+说到船……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]我跟警察说过，也告诉你吧。
+
+说起船……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]因为是和警察说过的话，所以也告诉你吧。
+
+说到船……我已经跟警察说过了，也跟你说一声吧。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#33b48628b62538bc94a415539b7c4f5d","虽然我有把船票交给警察，不过昨天……","balloon#33b48628b62538bc94a415539b7c4f5d","机翻辅助：
+
+虽然我有把船票交给警察，不过昨天……
+
+船票已经交给警察了，但是昨天……
+
+船票已经交给警察了，昨天……"
+"balloon#d8ae40f4f5e35c6c703267d6c8f8bd87","[font color=@3]我搭了17:00发车，19:20抵达的[resetfont]联络船，从[font color=@3]本土回到岛上。[resetfont]","balloon#d8ae40f4f5e35c6c703267d6c8f8bd87","机翻辅助：
+
+[font color=@3]我搭了17:00发车，19:20抵达的[resetfont]联络船，从[font color=@3]本土回到岛上。[resetfont]
+
+[font color=@3]乘坐17:00出发19:20到达的联络船，从本土回到了岛上。[resetfont][font color=@3][resetfont]
+
+[font color=@3]坐17:00出发19:20到达的渡轮，从本土回到岛上。[resetfont][font color=@3][resetfont]"
+"balloon#ec565fafa7edd8b5cc886815d274309a","所以[emb exp='tf.names.itsuki.NPC']在那个时间，[font color=@3]搭了联络船[resetfont]吗？","balloon#ec565fafa7edd8b5cc886815d274309a","机翻辅助：
+
+所以[emb exp='tf.names.itsuki.NPC']在那个时间，[font color=@3]搭了联络船[resetfont]吗？
+
+[emb exp='tf.names.itsuki.NPC']在那个时间乘坐了联络船吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.NPC']在那个时间，乘坐的是渡轮吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

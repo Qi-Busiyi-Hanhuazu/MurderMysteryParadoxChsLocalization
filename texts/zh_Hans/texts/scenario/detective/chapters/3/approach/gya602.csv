@@ -1,0 +1,177 @@
+"source","target","id","developer_comments"
+"balloon#d3127517240b10fbc20e1dc0652cdb7d","那么，就来谈谈那件事吧。","balloon#d3127517240b10fbc20e1dc0652cdb7d","机翻辅助：
+
+那么，就来谈谈那件事吧。
+
+那么，我们来谈谈那件事吧。
+
+那么，我来说说那件事吧。"
+"balloon#62380cdd4cbbdb4768d27b9261f10e61","[emb exp='tf.names.NPC.me']这边当然也在调查那个人……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]但是遇到瓶颈了。","balloon#62380cdd4cbbdb4768d27b9261f10e61","机翻辅助：
+
+[emb exp='tf.names.NPC.me']这边当然也在调查那个人……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]但是遇到瓶颈了。
+
+[emb exp='tf.names.NPC.me']当然也在进行那个人的调查……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]走投无路了。
+
+[emb exp='tf.names.NPC.me']当然也在调查那个人……走不通了。[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]"
+"balloon#2ac75f600bf49b1fc802022cffdfe24a","我到现在还是不懂那个人的“那个”……","balloon#2ac75f600bf49b1fc802022cffdfe24a","机翻辅助：
+
+我到现在还是不懂那个人的“那个”……
+
+那个人的那个，我一直不明白……
+
+那个人的那个，一直不明白……"
+"balloon#29d5af6fb98edb9c37a113778940ad9d","[emb exp='tf.names.NPC.itsuki']那边呢？","balloon#29d5af6fb98edb9c37a113778940ad9d","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']那边呢？
+
+[emb exp='tf.names.NPC.itsuki']怎么样？"
+"balloon#f6dcb13d85a662de62418ca048293586","关于那个，你有查到什么吗？","balloon#f6dcb13d85a662de62418ca048293586","机翻辅助：
+
+关于那个，你有查到什么吗？
+
+关于那个，你明白什么了吗？
+
+关于那个，你知道什么了吗？"
+"balloon#eb9940bf593b45a57efa5a8615af3235","说到[emb exp='tf.names.itsuki.NPC']说的那个人……[l][chara_mod time=""@f1"" name=""主人公"" face=""panic""]那个吗？","balloon#eb9940bf593b45a57efa5a8615af3235","机翻辅助：
+
+说到[emb exp='tf.names.itsuki.NPC']说的那个人……[l][chara_mod time=""@f1"" name=""主人公"" face=""panic""]那个吗？
+
+说起[emb exp='tf.names.itsuki.NPC']所说的那个人的那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""panic""]那件事吗？
+
+[emb exp='tf.names.itsuki.NPC']说的那个人的那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""panic""]那件事吗？"
+"SECRET_SELECTION/topic#062443513c5c0035973e0a3e5c519a1c","那个人的那件事……","SECRET_SELECTION/topic#062443513c5c0035973e0a3e5c519a1c","机翻辅助：
+
+那个人的那件事……
+
+那个人的那个……"
+"SECRET_SELECTION/text1#5751311cb40ad069ff1e84ffdb60d99e","是${itsuki.yuuki}的那个吧！","SECRET_SELECTION/text1#5751311cb40ad069ff1e84ffdb60d99e","机翻辅助：
+
+是${itsuki.yuuki}的那个吧！"
+"SECRET_SELECTION/text2#339b508925699f806b8569261fbed6fa","是${itsuki.mashima}的那个对吧！","SECRET_SELECTION/text2#339b508925699f806b8569261fbed6fa","机翻辅助：
+
+是${itsuki.mashima}的那个对吧！
+
+是${itsuki.mashima}的那个吧！"
+"SECRET_SELECTION/text3#65a0a08e8a8358d8983c49dbfa8e606e","是${itsuki.ebihara}的那个吗！","SECRET_SELECTION/text3#65a0a08e8a8358d8983c49dbfa8e606e","机翻辅助：
+
+是${itsuki.ebihara}的那个吗！
+
+是${itsuki.ebihara}的那个吧！
+
+是${itsuki.ebihara}的那个来着！"
+"balloon#fa150d229b65e60225f520cacda586a6","关于[emb exp='tf.names.NPC.yuuki']……","balloon#fa150d229b65e60225f520cacda586a6","机翻辅助：
+
+关于[emb exp='tf.names.NPC.yuuki']……"
+"balloon#ad787049f810f90726cd26ab2d769580","那件事的确也很令人在意，但不是那件事哦。","balloon#ad787049f810f90726cd26ab2d769580","机翻辅助：
+
+那件事的确也很令人在意，但不是那件事哦。
+
+确实也很在意，但不是那件事？
+
+我确实很在意，但不是那件事吧？"
+"balloon#6e711b1cb1c3f6bfdd516d23ac52ce8e","糟糕，原来不是[emb exp='tf.names.itsuki.yuuki']……！","balloon#6e711b1cb1c3f6bfdd516d23ac52ce8e","机翻辅助：
+
+糟糕，原来不是[emb exp='tf.names.itsuki.yuuki']……！
+
+糟了，不是[emb exp='tf.names.itsuki.yuuki']吗……！
+
+糟了，这不是[emb exp='tf.names.itsuki.yuuki']吗……！"
+"balloon#ab034e19b04cc9c1b0cbbb7d4a76edf3","[emb exp='tf.names.NPC.me']怀疑的是[emb exp='tf.names.NPC.ebihara']很奇怪。","balloon#ab034e19b04cc9c1b0cbbb7d4a76edf3","机翻辅助：
+
+[emb exp='tf.names.NPC.me']怀疑的是[emb exp='tf.names.NPC.ebihara']很奇怪。
+
+[emb exp='tf.names.NPC.me']的疑问是[emb exp='tf.names.NPC.ebihara']很可疑。
+
+[emb exp='tf.names.NPC.me']怀疑的是[emb exp='tf.names.NPC.ebihara']。很可疑。"
+"balloon#63dfb44522ffbf68dd7b3d1a2f5779aa","我希望你也能调查一下，是否有证据证明他的犯行，或是他的不在场证明。","balloon#63dfb44522ffbf68dd7b3d1a2f5779aa","机翻辅助：
+
+我希望你也能调查一下，是否有证据证明他的犯行，或是他的不在场证明。
+
+我希望你也能调查证明他犯案的证据或者不在场证明。
+
+我希望你也调查一下证明他犯罪的证据，或者不在场证明等。"
+"balloon#edab7a2609d63e73de764897182fe609","就……就是说啊！","balloon#edab7a2609d63e73de764897182fe609","机翻辅助：
+
+就……就是说啊！
+
+是、是啊！
+
+是啊，是啊！"
+"balloon#7c5644c7833f37354c7c50a391d07a10","我当然记得！","balloon#7c5644c7833f37354c7c50a391d07a10","机翻辅助：
+
+我当然记得！
+
+当然记得！"
+"balloon#9787cc11224996fad41741f9b8206786","关于[emb exp='tf.names.NPC.mashima']……","balloon#9787cc11224996fad41741f9b8206786","机翻辅助：
+
+关于[emb exp='tf.names.NPC.mashima']……"
+"balloon#98e16bdb72dadf31b0135ab6f1416803","糟糕，原来不是[emb exp='tf.names.itsuki.mashima']……！","balloon#98e16bdb72dadf31b0135ab6f1416803","机翻辅助：
+
+糟糕，原来不是[emb exp='tf.names.itsuki.mashima']……！
+
+糟了，不是[emb exp='tf.names.itsuki.mashima']吗……！
+
+糟了，这不是[emb exp='tf.names.itsuki.mashima']吗……！"
+"balloon#d012591ad54ff68013539d9445ca5a4a","我当然记得！","balloon#d012591ad54ff68013539d9445ca5a4a","机翻辅助：
+
+我当然记得！
+
+当然记得！"
+"balloon#fbd3de7da94667db30dd21235c122e4f","关于[emb exp='tf.names.NPC.ebihara']……","balloon#fbd3de7da94667db30dd21235c122e4f","机翻辅助：
+
+关于[emb exp='tf.names.NPC.ebihara']……"
+"balloon#c27c5c5ff6d7d05f80406e9006ba1a48","嗯，很高兴你记得。","balloon#c27c5c5ff6d7d05f80406e9006ba1a48","机翻辅助：
+
+嗯，很高兴你记得。
+
+嗯，你还记得我，我很高兴。
+
+嗯，很高兴你还记得。"
+"balloon#56af19b014816f079f13bf55f011f387","对，[emb exp='tf.names.itsuki.NPC']怀疑的是[emb exp='tf.names.itsuki.ebihara']的故事！","balloon#56af19b014816f079f13bf55f011f387","机翻辅助：
+
+对，[emb exp='tf.names.itsuki.NPC']怀疑的是[emb exp='tf.names.itsuki.ebihara']的故事！
+
+对，[emb exp='tf.names.itsuki.NPC']对[emb exp='tf.names.itsuki.ebihara']的事情抱有疑问！
+
+没错，[emb exp='tf.names.itsuki.NPC']对[emb exp='tf.names.itsuki.ebihara']有疑问！"
+"balloon#6fd0afc021c607c3def877af861d1fa5","……那么，调查的进展如何？","balloon#6fd0afc021c607c3def877af861d1fa5","机翻辅助：
+
+……那么，调查的进展如何？
+
+……然后，调查的进展如何？
+
+……还有，调查的进展如何？"
+"balloon#90b6297e5fa5314cd82c1e302afb4060","啊……呃……","balloon#90b6297e5fa5314cd82c1e302afb4060","机翻辅助：
+
+啊……呃……
+
+啊……嗯……"
+"balloon#606a692880b1186e7dd3338d115f86ac","看样子，[emb exp='tf.names.NPC.itsuki']也遇到瓶颈了……","balloon#606a692880b1186e7dd3338d115f86ac","机翻辅助：
+
+看样子，[emb exp='tf.names.NPC.itsuki']也遇到瓶颈了……
+
+看这样子，[emb exp='tf.names.NPC.itsuki']好像也走不通了……
+
+从那个样子来看，[emb exp='tf.names.NPC.itsuki']也走投无路了呢……"
+"balloon#cb830a662b8e69d02e03b2e1321dbc18","真伤脑筋……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]拜托你了，[emb exp='tf.names.NPC.itsuki']。","balloon#cb830a662b8e69d02e03b2e1321dbc18","机翻辅助：
+
+真伤脑筋……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]拜托你了，[emb exp='tf.names.NPC.itsuki']。
+
+哎呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]拜托你了，[emb exp='tf.names.NPC.itsuki']。
+
+哎呀呀……拜托了，[emb exp='tf.names.NPC.itsuki']。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal"" position=""right""]"
+"balloon#5c893b5ea3abc8ec90a3a2fc8b3bcaff","为了回答[emb exp='tf.names.itsuki.kamishiro']的问题，我得继续调查……","balloon#5c893b5ea3abc8ec90a3a2fc8b3bcaff","机翻辅助：
+
+为了回答[emb exp='tf.names.itsuki.kamishiro']的问题，我得继续调查……
+
+为了回答[emb exp='tf.names.itsuki.kamishiro']，也必须进行调查……
+
+为了回答[emb exp='tf.names.itsuki.kamishiro']，必须进行调查……"
+"balloon#5f31c6985b339bee43650954009f6ce0","既然知道[emb exp='tf.names.itsuki.ebihara']有动机，剩下就是不在场证明了。","balloon#5f31c6985b339bee43650954009f6ce0","机翻辅助：
+
+既然知道[emb exp='tf.names.itsuki.ebihara']有动机，剩下就是不在场证明了。
+
+既然知道[emb exp='tf.names.itsuki.ebihara']有动机，剩下的就是不在场证明了。
+
+既然知道[emb exp='tf.names.itsuki.ebihara']有动机的可能性，剩下的就是不在场证明了。"
+"speaker_主人公","主人公","speaker_主人公",""

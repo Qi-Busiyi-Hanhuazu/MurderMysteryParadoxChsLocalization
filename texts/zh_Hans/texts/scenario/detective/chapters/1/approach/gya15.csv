@@ -1,0 +1,274 @@
+"source","target","id","developer_comments"
+"balloon#2bad186715b88f30ae6438e2bdf5ed81","话说回来，少年。","balloon#2bad186715b88f30ae6438e2bdf5ed81","机翻辅助：
+
+话说回来，少年。
+
+话说少年。
+
+对了，少年。"
+"balloon#1e123e38ce15ed562d64cc3d35ca5cd1","你父母没教你吗？","balloon#1e123e38ce15ed562d64cc3d35ca5cd1","机翻辅助：
+
+你父母没教你吗？
+
+父母没有教过你吗？
+
+父母没教你吗？"
+"balloon#d538755a8db68022cfbc368bd1dc3ace","回答清楚一点……[l]是，一次。就一次。","balloon#d538755a8db68022cfbc368bd1dc3ace","机翻辅助：
+
+回答清楚一点……[l]是，一次。就一次。
+
+回答很明确……[l]是的，只有一次。
+
+回答很明确……是的，一次的话。[l]"
+"balloon#65ff2de7d1c5f71e63e2c877660c58ab","啊，好的……","balloon#65ff2de7d1c5f71e63e2c877660c58ab","机翻辅助：
+
+啊，好的……
+
+啊，是的……"
+"balloon#18ad13a6bec90851896c77e0af09ab97","啊……","balloon#18ad13a6bec90851896c77e0af09ab97","机翻辅助：
+
+啊……"
+"balloon#72adb4dffe1f8f7cb8012322cee425c5","哎呀呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]算了，没关系。","balloon#72adb4dffe1f8f7cb8012322cee425c5","机翻辅助：
+
+哎呀呀……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]算了，没关系。
+
+哎呀呀……嗯，好吧。[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]
+
+哎呀，算了吧。[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]"
+"balloon#f7a3f7f01bb793e9f5efad5801697392","我也不是想和你闲聊。","balloon#f7a3f7f01bb793e9f5efad5801697392","机翻辅助：
+
+我也不是想和你闲聊。
+
+我并不是想和你闲聊。
+
+我不是想和你闲聊。"
+"balloon#c186e7b5a911dfae321622d2dfd55e97","我就直说了……","balloon#c186e7b5a911dfae321622d2dfd55e97","机翻辅助：
+
+我就直说了……
+
+话不多说……
+
+马上……"
+"balloon#14bf2370ca83320096451d0d9b0d7e94","你还记得刚才说的[font color=@3]被抹消的火柴[resetfont]吗？","balloon#14bf2370ca83320096451d0d9b0d7e94","机翻辅助：
+
+你还记得刚才说的[font color=@3]被抹消的火柴[resetfont]吗？
+
+刚才说的[font color=@3]被踩灭的火柴[resetfont]的事，还记得吗？"
+"balloon#075223a25aa7c3debc9a4ea43a0ab8e8","哦，我记得！","balloon#075223a25aa7c3debc9a4ea43a0ab8e8","机翻辅助：
+
+哦，我记得！"
+"balloon#c7572aaf9f9671af2d952b04074642c2","[emb exp='tf.names.NPC.me']也在进行调查……","balloon#c7572aaf9f9671af2d952b04074642c2","机翻辅助：
+
+[emb exp='tf.names.NPC.me']也在进行调查……"
+"balloon#329c7762a268aa5ede380d2226c4e3a1","但可以听听你的意见吗？","balloon#329c7762a268aa5ede380d2226c4e3a1","机翻辅助：
+
+但可以听听你的意见吗？
+
+能让我听听你的意见吗？"
+"balloon#a0ddd0f91f57bc58123e841fb54020cd","这个嘛，呃……","balloon#a0ddd0f91f57bc58123e841fb54020cd","机翻辅助：
+
+这个嘛，呃……
+
+是啊，那个……
+
+是啊，嗯……"
+"balloon#71b490fc542487448c72ce6ca6a4342a","我有在调查，但还没整理好想法。","balloon#71b490fc542487448c72ce6ca6a4342a","机翻辅助：
+
+我有在调查，但还没整理好想法。
+
+虽然在调查，但是还没有总结出想法。
+
+虽然正在调查，但还没想好。"
+"balloon#7995af30ed2eb1198bfe456b42217539","现在就先让茶沉淀一下吧……","balloon#7995af30ed2eb1198bfe456b42217539","机翻辅助：
+
+现在就先让茶沉淀一下吧……
+
+这里先把茶弄脏吧……
+
+这里先把茶泡好吗……"
+"SECRET_SELECTION/topic#65d6c531e00674cc39f815f690de7894","说到火柴……","SECRET_SELECTION/topic#65d6c531e00674cc39f815f690de7894","机翻辅助：
+
+说到火柴……
+
+说起火柴……"
+"SECRET_SELECTION/text1#1bf9743077b6891cab10ff00c2ddd80b","一根火柴是火灾的元凶呢！","SECRET_SELECTION/text1#1bf9743077b6891cab10ff00c2ddd80b","机翻辅助：
+
+一根火柴是火灾的元凶呢！
+
+一根，是火灾的源头吧！
+
+一根，是火灾的根源吧！"
+"SECRET_SELECTION/text2#511e924eb805f87c904dfca4d425a069","有少女在卖呢！","SECRET_SELECTION/text2#511e924eb805f87c904dfca4d425a069","机翻辅助：
+
+有少女在卖呢！
+
+少女在卖呢！"
+"SECRET_SELECTION/text3#e652e97017a2e468dd7a831763c6b48d","可能是有人用的！","SECRET_SELECTION/text3#e652e97017a2e468dd7a831763c6b48d","机翻辅助：
+
+可能是有人用的！
+
+可能是谁用的！
+
+可能有人用过！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#f683bfbc7d2ccab1783e7b27a1285dcc","一根火柴……","balloon#f683bfbc7d2ccab1783e7b27a1285dcc","机翻辅助：
+
+一根火柴……
+
+一本，火灾的根源……
+
+一根，火灾的源头……"
+"balloon#01cdc0df8bb48167178a746a460ec776","没错，就是这样……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]仅仅一根火柴，就会引发大火灾。","balloon#01cdc0df8bb48167178a746a460ec776","机翻辅助：
+
+没错，就是这样……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]仅仅一根火柴，就会引发大火灾。
+
+没错，就是这样……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]只有一根火柴会引起大火。
+
+对，没错……一根火柴就会引发大火。[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]"
+"balloon#dfec6ba708cbccc3403e7c855a34ec0d","虽然简短，却非常有深意。","balloon#dfec6ba708cbccc3403e7c855a34ec0d","机翻辅助：
+
+虽然简短，却非常有深意。
+
+虽然很短，但却是非常含蓄的词语。
+
+这句话虽然简短，却非常含蓄。"
+"balloon#7459729b8fad2532ae78b3f3b97eee61","少女……","balloon#7459729b8fad2532ae78b3f3b97eee61","机翻辅助：
+
+少女……"
+"balloon#e55523c2353cd7fae26c1818a97a30dc","那是“卖火柴的小女孩”吧。","balloon#e55523c2353cd7fae26c1818a97a30dc","机翻辅助：
+
+那是“卖火柴的小女孩”吧。
+
+那是“卖火柴的少女”吧。
+
+那就是“卖火柴的小女孩”。"
+"balloon#229bcc76d8b050716bd35283884f193a","在安徒生的作品中，那也是……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]没错……","balloon#229bcc76d8b050716bd35283884f193a","机翻辅助：
+
+在安徒生的作品中，那也是……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]没错……
+
+在安徒生的一系列作品中，那是……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]是吗……
+
+在安徒生的作品群中，那是……[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]是……"
+"balloon#85e1967596181951fcd0ce2758f73b02","非常悲伤的故事。","balloon#85e1967596181951fcd0ce2758f73b02","机翻辅助：
+
+非常悲伤的故事。
+
+这是一个非常悲伤的故事。"
+"balloon#04ebaedc9cead20f3a969f2b43de0816","虽然我已经很久没读了。","balloon#04ebaedc9cead20f3a969f2b43de0816","机翻辅助：
+
+虽然我已经很久没读了。
+
+读的已经是很久以前的事了。
+
+读这本书是很久以前的事了。"
+"balloon#4577add3a0b65ecfc68839f9b6b4ed81","我原本以为最近的小孩对童话没兴趣……","balloon#4577add3a0b65ecfc68839f9b6b4ed81","机翻辅助：
+
+我原本以为最近的小孩对童话没兴趣……
+
+我一直觉得最近的孩子对童话不感兴趣……
+
+我以为最近的孩子对童话什么的不感兴趣……"
+"balloon#03b8326e9c3733d192453b4c092097b4","没错，应该有人用了火柴。","balloon#03b8326e9c3733d192453b4c092097b4","机翻辅助：
+
+没错，应该有人用了火柴。
+
+是的，应该有人用了火柴。"
+"balloon#8bb4f85d039a7657a10ff2d9ce1ad8bf","当然，我们就是在找那个某人……","balloon#8bb4f85d039a7657a10ff2d9ce1ad8bf","机翻辅助：
+
+当然，我们就是在找那个某人……
+
+当然，我们是在寻找那个人……
+
+当然，我们是想找出那个人……"
+"balloon#657a371ae028324cae3a13945c560519","但先确认这个理所当然的前提，是很重要的事。","balloon#657a371ae028324cae3a13945c560519","机翻辅助：
+
+但先确认这个理所当然的前提，是很重要的事。
+
+确认那个理所当然的前提是很重要的。
+
+确认这个理所当然的前提是很重要的。"
+"balloon#b236215113776a33ef04af89e4444916","明明还年轻，却是个有前途的少年。","balloon#b236215113776a33ef04af89e4444916","机翻辅助：
+
+明明还年轻，却是个有前途的少年。
+
+明明很年轻，却是个很有看点的少年。
+
+虽然年纪轻轻，却很有看头。"
+"balloon#c12bf58a30e6dbdb4614d19235002d2d","太好了，顺利蒙混过去了！","balloon#c12bf58a30e6dbdb4614d19235002d2d","机翻辅助：
+
+太好了，顺利蒙混过去了！
+
+太好了，骗得好！
+
+太好了，成功蒙混过关！"
+"balloon#f0d5dcb072cf13cebe2784ee88b0ed4a","……你以为我会这么说吗？","balloon#f0d5dcb072cf13cebe2784ee88b0ed4a","机翻辅助：
+
+……你以为我会这么说吗？
+
+……但是，你觉得会这么说吗？
+
+……但是，你觉得我会说吗？"
+"balloon#aa8cbc62ae1b3efed43c4c7d216fea99","你以为用那种骗小孩的话，就能让[emb exp='tf.names.NPC.me']接受吗？","balloon#aa8cbc62ae1b3efed43c4c7d216fea99","机翻辅助：
+
+你以为用那种骗小孩的话，就能让[emb exp='tf.names.NPC.me']接受吗？
+
+这种骗小孩子的话，[emb exp='tf.names.NPC.me']能接受吗？
+
+这样的欺骗孩子的话，[emb exp='tf.names.NPC.me']能接受吗？"
+"balloon#bce3deecd85d6c0c4e2a2f4912941683","糟、糟了！","balloon#bce3deecd85d6c0c4e2a2f4912941683","机翻辅助：
+
+糟、糟了！
+
+糟了！"
+"balloon#55a75ffb3f1dd3075d08a425d9c73679","他可不是能用这种话骗过去的人啊！","balloon#55a75ffb3f1dd3075d08a425d9c73679","机翻辅助：
+
+他可不是能用这种话骗过去的人啊！
+
+不是能蒙混过关的人！
+
+你可不是个会耍赖的人！"
+"balloon#31cb75bc6e0286a329358858bbdcbd87","哎呀哎呀……[l]似乎还没找到真相呢。","balloon#31cb75bc6e0286a329358858bbdcbd87","机翻辅助：
+
+哎呀哎呀……[l]似乎还没找到真相呢。
+
+哎呀……[l]好像还没有找到真相呢。
+
+哎呀呀……好像还没有找到真相。[l]"
+"balloon#76bdb670611dc92da7b64ae9df8b0dff","如果知道了火柴和骚动有什么关联，就告诉我吧。","balloon#76bdb670611dc92da7b64ae9df8b0dff","机翻辅助：
+
+如果知道了火柴和骚动有什么关联，就告诉我吧。
+
+关于火柴和模糊的关系，如果知道了什么，请告诉我。
+
+如果你知道火柴和吵闹的关系，请告诉我。"
+"balloon#2c7cb0e8ee48757b954b9945f1f05ae9","是！","balloon#2c7cb0e8ee48757b954b9945f1f05ae9","机翻辅助：
+
+是！
+
+是的！
+
+好！"
+"balloon#b30bfbbbfd0174e87207ced647abf7af","……看来稍微能正常回答了呢。","balloon#b30bfbbbfd0174e87207ced647abf7af","机翻辅助：
+
+……看来稍微能正常回答了呢。
+
+……好像能有一点正经的回答了呢。
+
+……你好像已经能稍微回答一些正面的问题了。"
+"balloon#635f9928bc3a5c63a06ed6f413f840b6","要是不确实进行调查，就无法得到[emb exp='tf.names.itsuki.NPC']的信任。","balloon#635f9928bc3a5c63a06ed6f413f840b6","机翻辅助：
+
+要是不确实进行调查，就无法得到[emb exp='tf.names.itsuki.NPC']的信任。
+
+如果不好好进行调查的话，就得不到[emb exp='tf.names.itsuki.NPC']的信用。
+
+如果不好好调查，就无法得到[emb exp='tf.names.itsuki.NPC']的信任。"
+"balloon#5ae33d76991d0ec13943532612af9ad4","[font color=@3]再重新思考一下火柴的主人[resetfont]吧。","balloon#5ae33d76991d0ec13943532612af9ad4","机翻辅助：
+
+[font color=@3]再重新思考一下火柴的主人[resetfont]吧。
+
+[font color=@3]让我们再想想火柴的主人[resetfont]。
+
+[font color=@3]让我们重新考虑一下火柴的主人。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

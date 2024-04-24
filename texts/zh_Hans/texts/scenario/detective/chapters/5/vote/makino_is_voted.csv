@@ -1,0 +1,27 @@
+"source","target","id","developer_comments"
+"balloon#b23728eeb531c25ca3f2efd0c0357060","好紧张啊……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]希望我没有被怀疑。","balloon#b23728eeb531c25ca3f2efd0c0357060","机翻辅助：
+
+好紧张啊……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]希望我没有被怀疑。
+
+好紧张啊……要是没被怀疑就好了。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]
+
+要是不被怀疑就好了。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]"
+"balloon#f0eec1ad1858d6649ae50efb314db5d9","[emb exp='tf.names.NPC.me']是[font color=@3][emb exp='f.vote_count']票[resetfont]呢。","balloon#f0eec1ad1858d6649ae50efb314db5d9","机翻辅助：
+
+[emb exp='tf.names.NPC.me']是[font color=@3][emb exp='f.vote_count']票[resetfont]呢。
+
+[emb exp='tf.names.NPC.me']是[font color=@3][emb exp='f.vote_count']票[resetfont]。"
+"balloon#a610b896058c4e7e4bd013ffa3abf17c","呼……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy"" position=""right""]我放心了。","balloon#a610b896058c4e7e4bd013ffa3abf17c","机翻辅助：
+
+呼……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy"" position=""right""]我放心了。
+
+嗯……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy"" position=""right""]放心了。
+
+呼……我放心了。[l][chara_mod time=""@f1"" name=""NPC"" face=""happy"" position=""right""]"
+"balloon#f64e408f03bec9799d3b0acca4d3bf02","真丢脸，身为警察的[emb exp='tf.names.NPC.me']居然被怀疑……","balloon#f64e408f03bec9799d3b0acca4d3bf02","机翻辅助：
+
+真丢脸，身为警察的[emb exp='tf.names.NPC.me']居然被怀疑……
+
+真没出息，身为警察的[emb exp='tf.names.NPC.me']竟然会被怀疑……
+
+真可怜，作为警察的[emb exp='tf.names.NPC.me']竟然被怀疑了……"

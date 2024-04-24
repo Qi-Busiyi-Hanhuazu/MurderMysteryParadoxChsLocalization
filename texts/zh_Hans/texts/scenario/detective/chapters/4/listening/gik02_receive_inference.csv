@@ -1,0 +1,152 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#a25535721f20c6b7b2529ae06188354f","嗯，这个推理[font color=@3]可以接受[resetfont]呢！","balloon#a25535721f20c6b7b2529ae06188354f","机翻辅助：
+
+嗯，这个推理[font color=@3]可以接受[resetfont]呢！
+
+嗯，如果是那个推理[font color=@3]能理解[resetfont]！
+
+嗯，这个推理的话[font color=@3]能接受[resetfont]呢！"
+"balloon#e6f394b06df509663e34eb88fcd1ba30","也就是说，这样想才比较自然……","balloon#e6f394b06df509663e34eb88fcd1ba30","机翻辅助：
+
+也就是说，这样想才比较自然……
+
+也就是说，这样想是自然的……
+
+也就是说，这样想是很自然的……"
+"balloon#6ebe250dc68c069af4a0f2f9d8bfd058","今天刚送来的笔记本放在厨房里，能用的人有限。","balloon#6ebe250dc68c069af4a0f2f9d8bfd058","机翻辅助：
+
+今天刚送来的笔记本放在厨房里，能用的人有限。
+
+放在厨房里，能使用今天刚交货的记事本的人是有限的。
+
+厨房里放着今天刚交货的记事本，能用的人不多。"
+"balloon#d8c8abc361db553ea9098248bc0b4701","用颜料在上面画出“神隐之印”的人……","balloon#d8c8abc361db553ea9098248bc0b4701","机翻辅助：
+
+用颜料在上面画出“神隐之印”的人……
+
+能在那里用颜料画出“神隐之印”是因为……
+
+在那里能用颜料画出“神隐之印”的是……"
+"balloon#5e95601e0b400dcc6c460e831036a15c","只有在那个时间点把颜料带到厨房，之后又在厨房里的人。","balloon#5e95601e0b400dcc6c460e831036a15c","机翻辅助：
+
+只有在那个时间点把颜料带到厨房，之后又在厨房里的人。
+
+在那个时机把颜料带到厨房，之后只有在厨房里的人物。
+
+只有那个时候把颜料搬到厨房，之后又待在厨房的人。"
+"balloon#b02b32d0ac2b208397c4bbeea1e98393","也就是说[font color=@3][emb exp='tf.names.NPC.chiyo']画了“神隐之印”[resetfont]。","balloon#b02b32d0ac2b208397c4bbeea1e98393","机翻辅助：
+
+也就是说[font color=@3][emb exp='tf.names.NPC.chiyo']画了“神隐之印”[resetfont]。
+
+也就是说，[emb exp='tf.names.NPC.chiyo']画了[font color=@3]神隐之印[resetfont]。
+
+也就是说[font color=@3][emb exp='tf.names.NPC.chiyo']画了“神隐之印”。[resetfont]"
+"balloon#a829efe949324ead9c35b5d2ea451093","[emb exp='tf.names.NPC.chiyo']把颜料带到厨房是[font color=@3]13:30[resetfont]。","balloon#a829efe949324ead9c35b5d2ea451093","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']把颜料带到厨房是[font color=@3]13:30[resetfont]。
+
+[emb exp='tf.names.NPC.chiyo']把颜料带进厨房的时间是13:30。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.chiyo']把颜料拿到厨房是13:30。[font color=@3][resetfont]"
+"balloon#4245c63e388701f91c23fce57a4fb098","[emb exp='tf.names.NPC.me']在玄关前发现“神隐之印”是[font color=@3]13:49[resetfont]。","balloon#4245c63e388701f91c23fce57a4fb098","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在玄关前发现“神隐之印”是[font color=@3]13:49[resetfont]。
+
+[emb exp='tf.names.NPC.me']在大门前发现[font color=@3]神隐之印[resetfont]是在13:49。
+
+[emb exp='tf.names.NPC.me']在玄关前发现了[font color=@3]神隐之印[resetfont]。"
+"balloon#9a432357179ae59e8755e4f0356b6400","[emb exp='tf.names.NPC.chiyo']画“神隐之印”的时间，是在这段时间的某处……","balloon#9a432357179ae59e8755e4f0356b6400","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']画“神隐之印”的时间，是在这段时间的某处……
+
+[emb exp='tf.names.NPC.chiyo']画“神隐之印”是在这中间的某个地方……
+
+[emb exp='tf.names.NPC.chiyo']描绘“神隐之印”是在这期间的某个地方……"
+"balloon#92311d7dad4f2013a560e2d07b70229f","应该是这样吧。","balloon#92311d7dad4f2013a560e2d07b70229f","机翻辅助：
+
+应该是这样吧。
+
+就是这样吧。
+
+大概就是这样吧。"
+"balloon#74dbe81cdd5ff00af10ed746b890344d","[emb exp='tf.names.itsuki.chiyo'][font color=@3]在厨房画了“神隐之印”[resetfont]，看来是不会有错了。","balloon#74dbe81cdd5ff00af10ed746b890344d","机翻辅助：
+
+[emb exp='tf.names.itsuki.chiyo'][font color=@3]在厨房画了“神隐之印”[resetfont]，看来是不会有错了。
+
+[emb exp='tf.names.itsuki.chiyo']在厨房画了[font color=@3]神隐之印[resetfont]，这似乎没错。
+
+[emb exp='tf.names.itsuki.chiyo'][font color=@3]在厨房画了“神隐的记号”[resetfont]，好像没错。"
+"balloon#0da7e6cc5cbfdff666d409beb27560b5","又被你帮了一把呢。","balloon#0da7e6cc5cbfdff666d409beb27560b5","机翻辅助：
+
+又被你帮了一把呢。
+
+又被你救了。"
+"balloon#205e5fb413ccb885ddcc0a9054a3cecd","哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#205e5fb413ccb885ddcc0a9054a3cecd","机翻辅助：
+
+哎呀，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+不，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#ee51e5ff20ab90e2bd1cfc6e9f155709","谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#ee51e5ff20ab90e2bd1cfc6e9f155709","机翻辅助：
+
+谢谢你，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#d58c7c6c996c6cb8ab59a2344dad8584","真的吗？","balloon#d58c7c6c996c6cb8ab59a2344dad8584","机翻辅助：
+
+真的吗？"
+"balloon#e9b41da125df6a5b51b1e39a5b18ff47","[font color=@3]我觉得[resetfont]你的推理有点不对。","balloon#e9b41da125df6a5b51b1e39a5b18ff47","机翻辅助：
+
+[font color=@3]我觉得[resetfont]你的推理有点不对。
+
+我觉得这个推理有点不对。[font color=@3][resetfont]
+
+我觉得那个推理有点不一样。[font color=@3][resetfont]"
+"balloon#dbd2778583eec3cabce2a61512ea644c","[font color=@3]我觉得[resetfont]你的推理完全不对……","balloon#dbd2778583eec3cabce2a61512ea644c","机翻辅助：
+
+[font color=@3]我觉得[resetfont]你的推理完全不对……
+
+我觉得那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#8c233eb09a259b8fa74e213bcfa7f5cb","哎呀呀，抱歉问了这么难的问题。","balloon#8c233eb09a259b8fa74e213bcfa7f5cb","机翻辅助：
+
+哎呀呀，抱歉问了这么难的问题。
+
+不、不，很抱歉问了这么难的事情。
+
+不、不好意思问这么复杂的问题。"
+"balloon#a05153a037d41ec1870c62521bd4c798","关于这件事……","balloon#a05153a037d41ec1870c62521bd4c798","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#2db6937152c0e1badba917e3e82a5ca9","[font color=@3]看来有必要弄清楚“神隐之印”是在哪里画出来的[resetfont]。","balloon#2db6937152c0e1badba917e3e82a5ca9","机翻辅助：
+
+[font color=@3]看来有必要弄清楚“神隐之印”是在哪里画出来的[resetfont]。
+
+[font color=@3][resetfont]看来有必要查明“神隐之印”是在哪里画的。
+
+[font color=@3]有必要弄清楚“神隐之印”是在哪里画的。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#636bfb9f8c6c4b0a83f4b75f332dcfea","[font color=@3]我们再重新审视一遍线索，看看有没有画出“神隐之印”的场所[resetfont]。","balloon#636bfb9f8c6c4b0a83f4b75f332dcfea","机翻辅助：
+
+[font color=@3]我们再重新审视一遍线索，看看有没有画出“神隐之印”的场所[resetfont]。
+
+[font color=@3]是否有描绘“神隐之印”的场所的信息，让我们重新审视一下线索吧。[resetfont]
+
+[font color=@3]让我们重新审视一下是否有画有“神隐之印”的地方的信息。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

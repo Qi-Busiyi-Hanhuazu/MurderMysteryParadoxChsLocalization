@@ -1,0 +1,112 @@
+[
+  {
+    "start": 139,
+    "end": 236,
+    "key": "balloon#d721c486b35642bbd8f47e8bf201649c"
+  },
+  {
+    "start": 313,
+    "end": 357,
+    "key": "balloon#94c6f3a501156ee67c34e636ec6b361a"
+  },
+  {
+    "start": 423,
+    "end": 430,
+    "key": "balloon#c2666fd33a9b7f0ba281be62d902d0fc"
+  },
+  {
+    "start": 510,
+    "end": 634,
+    "key": "balloon#93b349101833f03ce24966a50be87e07"
+  },
+  {
+    "start": 709,
+    "end": 765,
+    "key": "balloon#1376a11366dd0eae61c948823da801c6"
+  },
+  {
+    "start": 842,
+    "end": 948,
+    "key": "balloon#e3691ec92d57a5b021f72523d553c283"
+  },
+  {
+    "start": 1014,
+    "end": 1043,
+    "key": "balloon#08ea987c23ed8379bdc52195e169551d"
+  },
+  {
+    "start": 1152,
+    "end": 1162,
+    "key": "SECRET_SELECTION/topic#a701ec2ff0e599718f197a1cad55ce22"
+  },
+  {
+    "start": 1171,
+    "end": 1186,
+    "key": "SECRET_SELECTION/text1#8af39afc61a2aa7147b977ed35de709f"
+  },
+  {
+    "start": 1195,
+    "end": 1207,
+    "key": "SECRET_SELECTION/text2#268bbc6fbf1f828c42722137be7caa3e"
+  },
+  {
+    "start": 1216,
+    "end": 1231,
+    "key": "SECRET_SELECTION/text3#fa1107a921411be40a52a34c5350b1a8"
+  },
+  {
+    "start": 1634,
+    "end": 1641,
+    "key": "balloon#a43151a34026d1b23a315bc3a3b4a4fd"
+  },
+  {
+    "start": 1746,
+    "end": 1788,
+    "key": "balloon#2ba15ee7f55ecb1646c0ff2d8871b4f7"
+  },
+  {
+    "start": 1866,
+    "end": 1926,
+    "key": "balloon#f8464f1b294611329152b9ad4e94e783"
+  },
+  {
+    "start": 2003,
+    "end": 2063,
+    "key": "balloon#2c896494055211cc4cf7dc3a290f0333"
+  },
+  {
+    "start": 2138,
+    "end": 2159,
+    "key": "balloon#01c7a45044f6bb7efd1aa44307f0b1b9"
+  },
+  {
+    "start": 2235,
+    "end": 2310,
+    "key": "balloon#b2acc036b6b31fb74bee198c2a263421"
+  },
+  {
+    "start": 2420,
+    "end": 2463,
+    "key": "balloon#1a77931f7e652116eea401e3703a1b31"
+  },
+  {
+    "start": 2524,
+    "end": 2582,
+    "key": "balloon#d650e932f24cdd7b4f09bea9f85b5fbf"
+  },
+  {
+    "start": 2644,
+    "end": 2666,
+    "key": "balloon#f71bd10106333c4e6542bf1e779a4711"
+  },
+  {
+    "start": 2725,
+    "end": 2770,
+    "key": "balloon#0418c0af257464584c730820148c8d35"
+  },
+  {
+    "start": 2831,
+    "end": 2857,
+    "key": "balloon#60f647b6816a87eb865775787f191c6a"
+  }
+]

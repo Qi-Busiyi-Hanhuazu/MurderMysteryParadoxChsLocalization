@@ -1,0 +1,57 @@
+"source","target","id","developer_comments"
+"balloon#aad36434a853c4ed03213ef3a554c295","那么，可以听[emb exp='tf.names.NPC.me']说吗？","balloon#aad36434a853c4ed03213ef3a554c295","机翻辅助：
+
+那么，可以听[emb exp='tf.names.NPC.me']说吗？
+
+那么，可以听听[emb exp='tf.names.NPC.me']的话吗？"
+"balloon#93b1afaa27630bbf846c4fd4af2e5ef2","感谢大家花时间到这里来，告诉我们事情的经过。","balloon#93b1afaa27630bbf846c4fd4af2e5ef2","机翻辅助：
+
+感谢大家花时间到这里来，告诉我们事情的经过。
+
+大家花了这么多时间，让我听了你们的话。
+
+大家花了这么多时间，听了这么多话。"
+"balloon#13a67e91978c05551ac66b5f02ba9e30","我要再次感谢各位协助调查。","balloon#13a67e91978c05551ac66b5f02ba9e30","机翻辅助：
+
+我要再次感谢各位协助调查。
+
+再次感谢您对搜查的协助。
+
+再次感谢您协助调查。"
+"balloon#9ae3988462bc00c837b0ce7c8a05af8d","虽然出现了各种各样的假设……[l][chara_mod time=""@f1"" name=""NPC"" face=""sincere"" position=""right""]但老实说，[emb exp='tf.names.NPC.me']无法接受。","balloon#9ae3988462bc00c837b0ce7c8a05af8d","机翻辅助：
+
+虽然出现了各种各样的假设……[l][chara_mod time=""@f1"" name=""NPC"" face=""sincere"" position=""right""]但老实说，[emb exp='tf.names.NPC.me']无法接受。
+
+虽然出现了各种各样的假说……[l][chara_mod time=""@f1"" name=""NPC"" face=""sincere"" position=""right""]说实话，[emb exp='tf.names.NPC.me']不是很理解。
+
+出现了各种各样的假设……说实话，[emb exp='tf.names.NPC.me']无法理解。[l][chara_mod time=""@f1"" name=""NPC"" face=""sincere"" position=""right""]"
+"balloon#347e95654a4746db1ebd41974c8b79fd","所以，请让我再问一次……","balloon#347e95654a4746db1ebd41974c8b79fd","机翻辅助：
+
+所以，请让我再问一次……
+
+所以，请允许我再问一次……"
+"balloon#7b6d49a836b265e366a0f4d49d3c747d","这次的事情，[font color=@3]到底发生了什么？[resetfont]想听听大家的看法。","balloon#7b6d49a836b265e366a0f4d49d3c747d","机翻辅助：
+
+这次的事情，[font color=@3]到底发生了什么？[resetfont]想听听大家的看法。
+
+关于这次的事件，[font color=@3]到底发生了什么事[resetfont]？想听听各位的见解。
+
+这次的事情，到底发生了什么？我想听听大家的看法。[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#b7660088ac2c4b6908ccb77f6b0eb440","<font color='@3'>对于${itsuki_p.mashima}的主张</font>，${itsuki_p.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#b7660088ac2c4b6908ccb77f6b0eb440","机翻辅助：
+
+<font color='@3'>对于${itsuki_p.mashima}的主张</font>，${itsuki_p.me}的想法是……
+
+<font color='@3'>对于${itsuki_p.mashima}的主张，${itsuki_p.me}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#fcabd0c8aeb608f26c79f548fd227d0c","这是失踪事件！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#fcabd0c8aeb608f26c79f548fd227d0c","机翻辅助：
+
+这是失踪事件！
+
+这是一起失踪事件！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d1c74dc62a80423611128ae4eea0fec1","这是绑架事件！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#d1c74dc62a80423611128ae4eea0fec1","机翻辅助：
+
+这是绑架事件！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#89b0d02421b35d4f2074221b21198564","这是杀人事件！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#89b0d02421b35d4f2074221b21198564","机翻辅助：
+
+这是杀人事件！
+
+这是一桩凶杀案！"

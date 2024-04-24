@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#b23728eeb531c25ca3f2efd0c0357060","緊張するね……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]疑われてないと、いいんだけど。","balloon#b23728eeb531c25ca3f2efd0c0357060","NPC"
+"balloon#f0eec1ad1858d6649ae50efb314db5d9","[emb exp='tf.names.NPC.me']は、[font color=@3][emb exp='f.vote_count']票[resetfont]だね。","balloon#f0eec1ad1858d6649ae50efb314db5d9","NPC"
+"balloon#a610b896058c4e7e4bd013ffa3abf17c","ふぅ……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy"" position=""right""]安心したよ。","balloon#a610b896058c4e7e4bd013ffa3abf17c","NPC"
+"balloon#8720911f74589c40ecac36db5aacb9f0","つまり、[emb exp='tf.names.NPC.me']の票数は……","balloon#8720911f74589c40ecac36db5aacb9f0","NPC"
+"balloon#afb29eb4a8f150ed7a1d74423b6cce1c","……もう、役目は果たせたはずだ。","balloon#afb29eb4a8f150ed7a1d74423b6cce1c","NPC"
+"balloon#f64e408f03bec9799d3b0acca4d3bf02","情けない、警察官である[emb exp='tf.names.NPC.me']が疑われてしまうなんて……。","balloon#f64e408f03bec9799d3b0acca4d3bf02","NPC"

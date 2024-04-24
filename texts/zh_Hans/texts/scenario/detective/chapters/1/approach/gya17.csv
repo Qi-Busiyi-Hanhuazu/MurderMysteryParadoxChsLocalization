@@ -1,0 +1,193 @@
+"source","target","id","developer_comments"
+"balloon#e79fbb1d69add627dd4880f058597cd1","所谓的那件事……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""][emb exp='tf.names.NPC.me']怀疑火柴的主人[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]就是犯人。","balloon#e79fbb1d69add627dd4880f058597cd1","机翻辅助：
+
+所谓的那件事……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""][emb exp='tf.names.NPC.me']怀疑火柴的主人[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]就是犯人。
+
+那件事是……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""][emb exp='tf.names.NPC.me']怀疑火柴的主人[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]说的。
+
+那件事是指……[emb exp='tf.names.NPC.me']怀疑火柴的主人[emb exp='tf.names.NPC.mashima']。[l][chara_mod time=""@f1"" name=""NPC"" face=""smile""][font color=@3][resetfont]"
+"balloon#5080d3953e54fa8959b8a1be70615e8a","是的，我记得。","balloon#5080d3953e54fa8959b8a1be70615e8a","机翻辅助：
+
+是的，我记得。"
+"balloon#79862c9cf8b6ffa8ea30692b66d8da36","虽然[emb exp='tf.names.NPC.me']也在进行调查……","balloon#79862c9cf8b6ffa8ea30692b66d8da36","机翻辅助：
+
+虽然[emb exp='tf.names.NPC.me']也在进行调查……
+
+[emb exp='tf.names.NPC.me']也在进行调查……
+
+[emb exp='tf.names.NPC.me']这边也在进行调查……"
+"balloon#9f4c8628a64bbe8cba61112750767bf7","老实说，他明明是警察，却有很重的嫌疑。","balloon#9f4c8628a64bbe8cba61112750767bf7","机翻辅助：
+
+老实说，他明明是警察，却有很重的嫌疑。
+
+老实说，他明明是警察却黑漆漆的。
+
+老实说，他虽然是警察，却很黑。"
+"balloon#a7da4e74c62edf707b614ddad8aa57da","在照相馆前使用火柴，实在太可疑了。","balloon#a7da4e74c62edf707b614ddad8aa57da","机翻辅助：
+
+在照相馆前使用火柴，实在太可疑了。
+
+在照相馆前用火柴，真让人怀疑。
+
+竟然在照相馆前用火柴，真是令人怀疑。"
+"balloon#521e3acd112a7ea6fb1435601a9341f9","虽然还没有确切的证据，但[emb exp='tf.names.itsuki.mashima']的行动确实有可疑之处。","balloon#521e3acd112a7ea6fb1435601a9341f9","机翻辅助：
+
+虽然还没有确切的证据，但[emb exp='tf.names.itsuki.mashima']的行动确实有可疑之处。
+
+虽然还没有确凿的证据，但[emb exp='tf.names.itsuki.mashima']的行动确实有可疑之处。
+
+虽然还没有确凿的证据，但事实上[emb exp='tf.names.itsuki.mashima']的行为有可疑之处。"
+"balloon#42864be40e1168baf0e173518ecf14cd","可疑的行动是指……","balloon#42864be40e1168baf0e173518ecf14cd","机翻辅助：
+
+可疑的行动是指……
+
+可疑的行动，那是……"
+"SECRET_SELECTION/topic#75195c831f8053030c7becae43d1abc1","${itsuki.mashima}明明是警察……","SECRET_SELECTION/topic#75195c831f8053030c7becae43d1abc1","机翻辅助：
+
+${itsuki.mashima}明明是警察……"
+"SECRET_SELECTION/text1#c23ea2434158e2f958b6225284d76802","却在别人家门前抽烟！","SECRET_SELECTION/text1#c23ea2434158e2f958b6225284d76802","机翻辅助：
+
+却在别人家门前抽烟！
+
+在别人家门前吸一口！
+
+在别人家门口休息一下！"
+"SECRET_SELECTION/text2#08df13394dfb2becc6933f84c9d12907","还乱扔火柴！","SECRET_SELECTION/text2#08df13394dfb2becc6933f84c9d12907","机翻辅助：
+
+还乱扔火柴！
+
+把火柴扔了！
+
+乱扔火柴！"
+"SECRET_SELECTION/text3#c9d802dec708781cc853d4cedc5ac10f","说那副眼镜很可疑！","SECRET_SELECTION/text3#c9d802dec708781cc853d4cedc5ac10f","机翻辅助：
+
+说那副眼镜很可疑！
+
+那个眼镜很奇怪！
+
+那副眼镜很可疑！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#1f14f5e5177fd27fb961f78c92c73098","在别人家门前抽烟……","balloon#1f14f5e5177fd27fb961f78c92c73098","机翻辅助：
+
+在别人家门前抽烟……
+
+在别人家门口吸烟……
+
+在别人家门前吸烟……"
+"balloon#bddd8894b0b3a3f0cf02318db66b9445","没错，[emb exp='tf.names.NPC.mashima']的行动非常可疑。","balloon#bddd8894b0b3a3f0cf02318db66b9445","机翻辅助：
+
+没错，[emb exp='tf.names.NPC.mashima']的行动非常可疑。
+
+对，[emb exp='tf.names.NPC.mashima']的行动非常奇怪。"
+"balloon#3e877ef59bb956feb018b1eb3f88ab51","乱扔火柴……","balloon#3e877ef59bb956feb018b1eb3f88ab51","机翻辅助：
+
+乱扔火柴……"
+"balloon#c48c1b5503c1946015bb58409e00cd2a","没错，[emb exp='tf.names.NPC.mashima']的行动，是警察所不该有的行为。","balloon#c48c1b5503c1946015bb58409e00cd2a","机翻辅助：
+
+没错，[emb exp='tf.names.NPC.mashima']的行动，是警察所不该有的行为。
+
+没错，[emb exp='tf.names.NPC.mashima']的行为是警察不应该有的。
+
+是的，[emb exp='tf.names.NPC.mashima']的行动是警察不应该有的。"
+"balloon#593ed51001383e1b2cffee42f808fb19","眼镜吗……","balloon#593ed51001383e1b2cffee42f808fb19","机翻辅助：
+
+眼镜吗……
+
+是眼镜吗……"
+"balloon#14c3adf3bfc464148b6dc65cfd902048","眼镜应该……不用特别提出来吧？","balloon#14c3adf3bfc464148b6dc65cfd902048","机翻辅助：
+
+眼镜应该……不用特别提出来吧？
+
+那又另当别论……不必特意提出来吧？
+
+那倒没什么……不刻意拿出来不是也可以吗？"
+"balloon#271bc9edb43969721cb16f87dbc3d95b","嗯，你说得对……","balloon#271bc9edb43969721cb16f87dbc3d95b","机翻辅助：
+
+嗯，你说得对……
+
+嗯，你说得没错……
+
+嗯，那是对的……"
+"balloon#f0136b5bc1404fac264dcef605097119","而且，别看他那样……","balloon#f0136b5bc1404fac264dcef605097119","机翻辅助：
+
+而且，别看他那样……
+
+然后其实他看起来是那样的……
+
+而且其实他看起来是那样的……"
+"balloon#52f5173cf8169eab31460d3a378d2328","听说他以前很调皮。","balloon#52f5173cf8169eab31460d3a378d2328","机翻辅助：
+
+听说他以前很调皮。
+
+听说以前相当调皮。
+
+听说你以前很调皮。"
+"balloon#f6226c616d552dc3573ed7a71544ca2d","咦，他看起来明明很严肃！？","balloon#f6226c616d552dc3573ed7a71544ca2d","机翻辅助：
+
+咦，他看起来明明很严肃！？
+
+啊，看起来那么硬！？
+
+啊，看起来那么死板啊！？"
+"balloon#d866fdd753429760992299ddf91c02d2","虽然现在很稳重……","balloon#d866fdd753429760992299ddf91c02d2","机翻辅助：
+
+虽然现在很稳重……
+
+现在才冷静下来……"
+"balloon#8b7d62689e6e03a616a7100e365204a9","但以前被称为“真岛大哥”，在岛上的年轻人之间很有威望……","balloon#8b7d62689e6e03a616a7100e365204a9","机翻辅助：
+
+但以前被称为“真岛大哥”，在岛上的年轻人之间很有威望……
+
+以前被称为“真岛大哥”，岛上的年轻人都对他另眼相看……
+
+以前被称为“真岛的哥哥”，被岛上的年轻人看了一眼……"
+"balloon#c8df7808113120a944924f6a166ea386","你说什么！","balloon#c8df7808113120a944924f6a166ea386","机翻辅助：
+
+你说什么！
+
+什么！
+
+你说什么？"
+"balloon#30b770f9871785d00947605cd1d1b8d3","绝对不能惹他生气……","balloon#30b770f9871785d00947605cd1d1b8d3","机翻辅助：
+
+绝对不能惹他生气……
+
+绝对不能让他生气的家伙……"
+"balloon#de9ab1fa36c08d5d71887d9e46bdf071","这只是传闻。","balloon#de9ab1fa36c08d5d71887d9e46bdf071","机翻辅助：
+
+这只是传闻。
+
+到底是传闻。
+
+说到底，这只是传闻。"
+"balloon#fb803ff4f6b81a3eab5bec5582103587","不知道是真是假。","balloon#fb803ff4f6b81a3eab5bec5582103587","机翻辅助：
+
+不知道是真是假。
+
+真假难辨。
+
+真伪的程度很难理解。"
+"balloon#f4ca8aff3a218e4fa349e050ca0eca9e","虽然不知道传闻是真是假……","balloon#f4ca8aff3a218e4fa349e050ca0eca9e","机翻辅助：
+
+虽然不知道传闻是真是假……
+
+虽然不知道传闻的真伪……
+
+虽然不知道谣言的真伪……"
+"balloon#1de6bb50f870904a466d12c91148ba7f","但不能因为他是警察就放心。","balloon#1de6bb50f870904a466d12c91148ba7f","机翻辅助：
+
+但不能因为他是警察就放心。
+
+不能因为是警察就放心。
+
+因为是警察，所以不能放心。"
+"balloon#5a8e296b61af58d9841bc2686fc04846","现在，就让我们再一次确认他的不在场证明吧。","balloon#5a8e296b61af58d9841bc2686fc04846","机翻辅助：
+
+现在，就让我们再一次确认他的不在场证明吧。
+
+再确认一次他的不在场证明吧。
+
+我再确认一下他的不在场证明。"
+"speaker_主人公","主人公","speaker_主人公",""

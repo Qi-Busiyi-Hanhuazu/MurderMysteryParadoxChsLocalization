@@ -1,0 +1,51 @@
+"source","target","id","developer_comments"
+"balloon#f724768c609226f7ec622ada917d3c60","[emb exp='tf.names.NPC.me']有事情想问大家。","balloon#f724768c609226f7ec622ada917d3c60","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有事情想问大家。
+
+[emb exp='tf.names.NPC.me']有事想问大家。
+
+[emb exp='tf.names.NPC.me']有件事想问大家。"
+"balloon#d66b695055b6b85984629003ab27cb74","在引发骚动的火种被设置的时间，你们各自在做什么呢？","balloon#d66b695055b6b85984629003ab27cb74","机翻辅助：
+
+在引发骚动的火种被设置的时间，你们各自在做什么呢？
+
+在骚乱的火源被设置了的时间，各自做着什么？
+
+在引爆骚乱的时间里，他们各自都做了些什么？"
+"balloon#f4e747b4e762fc283e51a8a745e2dff8","希望大家告诉我[font color=@3]犯案时刻的不在场证明[resetfont]。","balloon#f4e747b4e762fc283e51a8a745e2dff8","机翻辅助：
+
+希望大家告诉我[font color=@3]犯案时刻的不在场证明[resetfont]。
+
+希望大家能告诉我犯罪时间的不在场证明。[font color=@3][resetfont]
+
+希望你能告诉我大家作案时间的不在场证明。[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#f2b4969a4c59a49c69f4f353609acf0c","<font color='@3'>${itsuki.NPC}的提问</font>${itsuki.me}的回答是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#f2b4969a4c59a49c69f4f353609acf0c","机翻辅助：
+
+<font color='@3'>${itsuki.NPC}的提问</font>${itsuki.me}的回答是……
+
+<font color='@3'>对于${itsuki.NPC}的问题</font>，${itsuki.me}的回答是……
+
+<font color='@3'>对于${itsuki.NPC}的问题，${itsuki.me}的回答是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6a00d3e6ee384c54c83964bbe5d341d5","12:22，我在村公所前和${itsuki.kamishiro}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6a00d3e6ee384c54c83964bbe5d341d5","机翻辅助：
+
+12:22，我在村公所前和${itsuki.kamishiro}在一起！
+
+12:22，在村公所前和${itsuki.kamishiro}在一起！
+
+在役所前和${itsuki.kamishiro}在一起！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#3e5e0656970f8317e738ea90e1500022","12:43，我在码头和${itsuki_p.yohei}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#3e5e0656970f8317e738ea90e1500022","机翻辅助：
+
+12:43，我在码头和${itsuki_p.yohei}在一起！
+
+12:43，在码头和${itsuki_p.yohei}在一起！
+
+在码头和${itsuki_p.yohei}在一起！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ba58dd79af7796ab580aa6c6d81fa85a","12:50，我在照相馆和${itsuki_p.NPC}在一起！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ba58dd79af7796ab580aa6c6d81fa85a","机翻辅助：
+
+12:50，我在照相馆和${itsuki_p.NPC}在一起！
+
+12:50，在照相馆和${itsuki_p.NPC}在一起！
+
+在照相馆和${itsuki_p.NPC}在一起！"
+"speaker_久美子","久美子","speaker_久美子",""

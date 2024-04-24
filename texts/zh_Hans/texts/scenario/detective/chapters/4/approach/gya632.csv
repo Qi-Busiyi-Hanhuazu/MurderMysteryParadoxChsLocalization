@@ -1,0 +1,186 @@
+"source","target","id","developer_comments"
+"balloon#1ae221cc461eb86f1f57126da9dcb4f1","没错，不要露出那种嫌麻烦的表情。","balloon#1ae221cc461eb86f1f57126da9dcb4f1","机翻辅助：
+
+没错，不要露出那种嫌麻烦的表情。
+
+对，别露出麻烦的表情。
+
+是的，不要露出麻烦的表情。"
+"balloon#15a5a31a718887a3b2419a09f316f911","糟糕，被她看穿了吗……","balloon#15a5a31a718887a3b2419a09f316f911","机翻辅助：
+
+糟糕，被她看穿了吗……
+
+哎呀，出现在脸上了吗……
+
+哎呀，都写在脸上了吗……"
+"balloon#72bd2dafcd840598bb62926d918e48dd","然后，[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]虽然问这种突然的问题不太好，但是[emb exp='tf.names.NPC.itsuki']……","balloon#72bd2dafcd840598bb62926d918e48dd","机翻辅助：
+
+然后，[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]虽然问这种突然的问题不太好，但是[emb exp='tf.names.NPC.itsuki']……
+
+就这样。[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]听到突然踏入的事情也是什么，[emb exp='tf.names.NPC.itsuki']……
+
+就这样。[l][chara_mod time=""@f1"" name=""NPC"" face=""stunned"" position=""right""]突然问这么深入的问题也不太好，[emb exp='tf.names.NPC.itsuki']……"
+"balloon#8453962fe7387172225f601a7a265514","她跟佐仓家到底是什么关系？","balloon#8453962fe7387172225f601a7a265514","机翻辅助：
+
+她跟佐仓家到底是什么关系？
+
+和佐仓家到底是什么关系呢？
+
+你和佐仓家到底是什么关系？"
+"balloon#c3f37846968bcfbb7e507e616d20a634","[emb exp='tf.names.itsuki.NPC']怀疑佐仓家。","balloon#c3f37846968bcfbb7e507e616d20a634","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']怀疑佐仓家。"
+"balloon#a7e0df2c45b247e461ba0ea4429c620e","还是慎重回答比较好吧。","balloon#a7e0df2c45b247e461ba0ea4429c620e","机翻辅助：
+
+还是慎重回答比较好吧。"
+"SECRET_SELECTION/topic#cd47e70ac679aed0ab7fa9723960e269","${itsuki.me}，天泽树……","SECRET_SELECTION/topic#cd47e70ac679aed0ab7fa9723960e269","机翻辅助：
+
+${itsuki.me}，天泽树……"
+"SECRET_SELECTION/text1#946165b089cb6c400540f1668c59a5f3","佐仓家的一族！","SECRET_SELECTION/text1#946165b089cb6c400540f1668c59a5f3","机翻辅助：
+
+佐仓家的一族！
+
+是佐仓家的一族！
+
+是佐仓家一族！"
+"SECRET_SELECTION/text2#aa07866ab24e7eb71a31b1043affcc93","我们是陌生人！","SECRET_SELECTION/text2#aa07866ab24e7eb71a31b1043affcc93","机翻辅助：
+
+我们是陌生人！
+
+毫无关系的陌生人！
+
+是陌生人！"
+"SECRET_SELECTION/text3#02fcc711e50168efce80828ce7f8e197","我是樱花照相馆的客人！","SECRET_SELECTION/text3#02fcc711e50168efce80828ce7f8e197","机翻辅助：
+
+我是樱花照相馆的客人！
+
+樱花照相馆的客人！"
+"balloon#49f7895bfc16a14f034ff971f15ad7c3","一族……","balloon#49f7895bfc16a14f034ff971f15ad7c3",""
+"balloon#3b564067d31b05dd0fbb6cfaf77afa17","说是这么说，我却从来没听过你的名字。","balloon#3b564067d31b05dd0fbb6cfaf77afa17","机翻辅助：
+
+说是这么说，我却从来没听过你的名字。
+
+不过，我从来没听过你的名字。
+
+尽管如此，我从来没听说过你的名字。"
+"balloon#37a8e5fe5acdd9b72cd9f8def9c5e3f4","恕我失礼，你……","balloon#37a8e5fe5acdd9b72cd9f8def9c5e3f4","机翻辅助：
+
+恕我失礼，你……
+
+恕我冒昧，你……
+
+对不起，你……"
+"balloon#670fae4122cc972b7358dae34f93d573","天泽……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]呃，我是佐仓久美子的养女！","balloon#670fae4122cc972b7358dae34f93d573","机翻辅助：
+
+天泽……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]呃，我是佐仓久美子的养女！
+
+天泽……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]嗯，我是佐仓久美子的养子！
+
+天泽……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]嗯，是佐仓久美子的养子！"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#2a396890b7436ba8a6fa096bf864792f","哦，是吗，是[emb exp='tf.names.NPC.chiyo']的女儿啊。","balloon#2a396890b7436ba8a6fa096bf864792f","机翻辅助：
+
+哦，是吗，是[emb exp='tf.names.NPC.chiyo']的女儿啊。
+
+哦，原来是[emb exp='tf.names.NPC.chiyo']的女儿啊。
+
+喂，是[emb exp='tf.names.NPC.chiyo']的女儿吧。"
+"balloon#dce4facf39f437ef653db5b961516510","我有听过这个传闻。","balloon#dce4facf39f437ef653db5b961516510","机翻辅助：
+
+我有听过这个传闻。
+
+我听说了那个传闻。"
+"balloon#f06f31ac428615c1a3388b77e94cbe89","陌生人……","balloon#f06f31ac428615c1a3388b77e94cbe89","机翻辅助：
+
+陌生人……
+
+毫无关系的陌生人……"
+"balloon#5f4618d06c675dc2c7fe18dc5df31d45","说是这么说，但是她和[emb exp='tf.names.NPC.yohei']的关系好像也很亲近。","balloon#5f4618d06c675dc2c7fe18dc5df31d45","机翻辅助：
+
+说是这么说，但是她和[emb exp='tf.names.NPC.yohei']的关系好像也很亲近。
+
+不过，他好像和[emb exp='tf.names.NPC.yohei']很亲密。
+
+虽然这么说，但好像和[emb exp='tf.names.NPC.yohei']很亲近。"
+"balloon#261814c44634895e2c7b4cfa5caf45e6","与佐仓家的联系……","balloon#261814c44634895e2c7b4cfa5caf45e6","机翻辅助：
+
+与佐仓家的联系……
+
+和佐仓家的联系……"
+"balloon#c1f2083658f3db88772d4a99138311e5","她该不会隐瞒了什么吧？","balloon#c1f2083658f3db88772d4a99138311e5","机翻辅助：
+
+她该不会隐瞒了什么吧？
+
+不会是隐瞒了什么吧？
+
+不会是在隐瞒什么吧？"
+"balloon#a04a97f389355c85f0d4c1576656cd6c","对不起，其实我们是亲戚……","balloon#a04a97f389355c85f0d4c1576656cd6c","机翻辅助：
+
+对不起，其实我们是亲戚……
+
+对不起，其实是亲戚……
+
+对不起，我们真的是亲戚……"
+"balloon#b4881676d15dd66971603a47512b7c0c","是吗，那一开始直接说清楚不就好了。","balloon#b4881676d15dd66971603a47512b7c0c","机翻辅助：
+
+是吗，那一开始直接说清楚不就好了。
+
+这样啊，那你一开始就这么说就好了。
+
+这样啊，那从一开始就这样说就好了。"
+"balloon#6e9aa54ad6042ee12efa860069a06780","照相馆的客人……","balloon#6e9aa54ad6042ee12efa860069a06780","机翻辅助：
+
+照相馆的客人……"
+"balloon#8610fbacaa8439793d1f5cb702a72c28","和佐仓家的联系……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]他该不会是隐瞒了什么吧？","balloon#8610fbacaa8439793d1f5cb702a72c28","机翻辅助：
+
+和佐仓家的联系……[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]他该不会是隐瞒了什么吧？
+
+和佐仓家的联系……不会是隐瞒了什么吧？[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]
+
+和佐仓家的联系……难道是隐瞒了什么吗？[l][chara_mod time=""@f1"" name=""NPC"" face=""earnest"" position=""right""]"
+"balloon#67d0567b8d841b63ea7b09a850058c64","对不起，我现在能回答的只有这些。","balloon#67d0567b8d841b63ea7b09a850058c64","机翻辅助：
+
+对不起，我现在能回答的只有这些。
+
+对不起，现在能回答的只有那个程度。"
+"balloon#36bab6fcde537437826f1cd2c2591586","……总而言之。","balloon#36bab6fcde537437826f1cd2c2591586","机翻辅助：
+
+……总而言之。
+
+……总之。"
+"balloon#b8a308ab22e0b141cc201d9206a6170c","[emb exp='tf.names.NPC.me']怀疑这件事和佐仓家的人有某种关系。","balloon#b8a308ab22e0b141cc201d9206a6170c","机翻辅助：
+
+[emb exp='tf.names.NPC.me']怀疑这件事和佐仓家的人有某种关系。
+
+这件事，[emb exp='tf.names.NPC.me']盯着佐仓家的人有什么关系。
+
+这件事，[emb exp='tf.names.NPC.me']一直盯着佐仓家的人。"
+"balloon#7d3e294991526d2f0605c17cdb0a6e57","既然你也是亲戚之一，那我今后也会关注你的。","balloon#7d3e294991526d2f0605c17cdb0a6e57","机翻辅助：
+
+既然你也是亲戚之一，那我今后也会关注你的。
+
+如果你也是亲属之一的话，我今后会关注的。
+
+如果你也是我的亲戚之一的话，我会一直关注你的。"
+"balloon#ec406dc58978e955bd95e917e63dbad4","[emb exp='tf.names.itsuki.NPC']的怀疑指向了佐仓家。","balloon#ec406dc58978e955bd95e917e63dbad4","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']的怀疑指向了佐仓家。
+
+[emb exp='tf.names.itsuki.NPC']的嫌疑正转向佐仓家。
+
+[emb exp='tf.names.itsuki.NPC']的嫌疑转向了佐仓家。"
+"balloon#9f73538cb59fea5708b113126ccc2676","这究竟是单纯的臆测，还是正确的呢？","balloon#9f73538cb59fea5708b113126ccc2676","机翻辅助：
+
+这究竟是单纯的臆测，还是正确的呢？
+
+那到底是单纯的臆想，还是正确的呢？
+
+这到底是单纯的想法，还是正确的呢。"
+"balloon#1bc4b76d241c8b35d72b5b9995529ce6","不管怎样，我们都要弄清楚到底是谁画出了“神隐之印”。","balloon#1bc4b76d241c8b35d72b5b9995529ce6","机翻辅助：
+
+不管怎样，我们都要弄清楚到底是谁画出了“神隐之印”。
+
+不管怎么说，从实际谁能画出“神隐之印”来明确吧。
+
+不管怎样，我们先来了解一下究竟是谁画出了“神隐之印”。"
+"speaker_主人公","主人公","speaker_主人公",""

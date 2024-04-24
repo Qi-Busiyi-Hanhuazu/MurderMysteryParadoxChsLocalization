@@ -1,0 +1,64 @@
+"source","target","id","developer_comments"
+"balloon#732798eb8a5d88009fdc114b7ee6a520","好，大家听[emb exp='tf.names.NPC.me']说！","balloon#732798eb8a5d88009fdc114b7ee6a520","机翻辅助：
+
+好，大家听[emb exp='tf.names.NPC.me']说！
+
+好了，大家听[emb exp='tf.names.NPC.me']说！"
+"balloon#942e0804f0bf8ab535455d68d1475038","[emb exp='tf.names.NPC.me']在12:25左右，看到出入照相馆的[font color=@3]可疑人影[resetfont]！","balloon#942e0804f0bf8ab535455d68d1475038","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在12:25左右，看到出入照相馆的[font color=@3]可疑人影[resetfont]！
+
+[emb exp='tf.names.NPC.me']在12:25左右，看见出入照相馆的可疑人影[font color=@3]！[resetfont]
+
+[emb exp='tf.names.NPC.me']在12:25左右看到了出入照相馆的可疑人影！[font color=@3][resetfont]"
+"balloon#1c80fd2226ae3255e150a117db101180","然后我针对这件事调查了一下，终于查出那个人影的真面目。","balloon#1c80fd2226ae3255e150a117db101180","机翻辅助：
+
+然后我针对这件事调查了一下，终于查出那个人影的真面目。
+
+于是，我调查了一下那个，终于到达了那个真面目。
+
+我一直在调查这件事，终于找到了真相。"
+"balloon#b082cc3b08858b38a4c02227990b0caa","人影的真面目是……","balloon#b082cc3b08858b38a4c02227990b0caa","机翻辅助：
+
+人影的真面目是……"
+"balloon#3009dedf299fa875ce4aaa8b2d8c3cb0","[emb exp='tf.names.NPC.kamishiro']，就是你！","balloon#3009dedf299fa875ce4aaa8b2d8c3cb0","机翻辅助：
+
+[emb exp='tf.names.NPC.kamishiro']，就是你！
+
+[emb exp='tf.names.NPC.kamishiro']，是你！"
+"balloon#ade56c8dca6470119415c85a095f6409","我觉得这场骚动[font color=@3]和[emb exp='tf.names.NPC.kamishiro']有关[resetfont]……","balloon#ade56c8dca6470119415c85a095f6409","机翻辅助：
+
+我觉得这场骚动[font color=@3]和[emb exp='tf.names.NPC.kamishiro']有关[resetfont]……
+
+我觉得这骚动和[emb exp='tf.names.NPC.kamishiro']有关系……[font color=@3][resetfont]
+
+我觉得这和[emb exp='tf.names.NPC.kamishiro']有关……[font color=@3][resetfont]"
+"balloon#863db2cf6d155e29393b75d1dfe9c878","大家觉得呢？","balloon#863db2cf6d155e29393b75d1dfe9c878","机翻辅助：
+
+大家觉得呢？
+
+大家怎么样？"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#bd65a5cd29eda7ad4e2b9fba887d00d7","<font color='@3'>对于对${itsuki.kamishiro}的怀疑</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#bd65a5cd29eda7ad4e2b9fba887d00d7","机翻辅助：
+
+<font color='@3'>对于对${itsuki.kamishiro}的怀疑</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.kamishiro}的怀疑</font>我的想法是……
+
+<font color='@3'>对于对${itsuki.kamishiro}的怀疑，${itsuki.me}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#80f64645eb8cb9e141ddfacb76469580","出入照相馆的${itsuki.kamishiro}很可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#80f64645eb8cb9e141ddfacb76469580","机翻辅助：
+
+出入照相馆的${itsuki.kamishiro}很可疑！
+
+出入照相馆的${itsuki.kamishiro}很奇怪！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#61f3048e47fb35949f190e202d954daf","可疑的人影跟事件无关！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#61f3048e47fb35949f190e202d954daf","机翻辅助：
+
+可疑的人影跟事件无关！
+
+可疑的人影与事件无关！
+
+可疑人影与事件无关！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#a29d6e06b81ac9ed7e5bb30868425168","人影的真面目不是${itsuki.kamishiro}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#a29d6e06b81ac9ed7e5bb30868425168","机翻辅助：
+
+人影的真面目不是${itsuki.kamishiro}！
+
+人影的原形不是${itsuki.kamishiro}！"

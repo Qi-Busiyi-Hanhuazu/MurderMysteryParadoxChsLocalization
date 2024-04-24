@@ -1,0 +1,109 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d834127d66037718d59ec9acc8a213f2","原来如此，如果是这个推理[font color=@3]我能够接受[resetfont]！","balloon#d834127d66037718d59ec9acc8a213f2","机翻辅助：
+
+原来如此，如果是这个推理[font color=@3]我能够接受[resetfont]！
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哇！
+
+原来如此，这种推理是可以理解的！[font color=@3][resetfont]"
+"balloon#fd84dfd2c1cd07cdc798a94814d3963c","[font color=@3][emb exp='tf.names.NPC.itsuki']不可能犯案[resetfont]的确是这样没错。","balloon#fd84dfd2c1cd07cdc798a94814d3963c","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.itsuki']不可能犯案[resetfont]的确是这样没错。
+
+的确，[emb exp='tf.names.NPC.itsuki']是不可能作案的。[font color=@3][resetfont]
+
+确实，[emb exp='tf.names.NPC.itsuki']不可能犯罪。[font color=@3][resetfont]"
+"balloon#35f78408c7c07991fbdc2fea89851e31","怀疑你，真的很抱歉。","balloon#35f78408c7c07991fbdc2fea89851e31","机翻辅助：
+
+怀疑你，真的很抱歉。
+
+我很怀疑，真的很抱歉。
+
+让你怀疑我，真的很抱歉。"
+"balloon#0b69735bc17f006e2f5748459d9f5155","请不要放在心上！","balloon#0b69735bc17f006e2f5748459d9f5155","机翻辅助：
+
+请不要放在心上！
+
+请不要介意！
+
+请不要在意！"
+"balloon#6613cc76f686b3a81fc44a1235b4ef68","[emb exp='tf.names.itsuki_p.me']也很高兴能洗清嫌疑！","balloon#6613cc76f686b3a81fc44a1235b4ef68","机翻辅助：
+
+[emb exp='tf.names.itsuki_p.me']也很高兴能洗清嫌疑！
+
+[emb exp='tf.names.itsuki_p.me']也释疑了，太好了！
+
+[emb exp='tf.names.itsuki_p.me']也能消除怀疑真是太好了！"
+"balloon#edc3ada0b22450c5579ab1956bc59145","谢谢你让我相信你，[emb exp='tf.names.NPC.itsuki']！","balloon#edc3ada0b22450c5579ab1956bc59145","机翻辅助：
+
+谢谢你让我相信你，[emb exp='tf.names.NPC.itsuki']！
+
+谢谢你让我相信，[emb exp='tf.names.NPC.itsuki']！
+
+谢谢你让我相信了，[emb exp='tf.names.NPC.itsuki']！"
+"balloon#3246983d8c3220ee65f1644cff7fa860","如果又发生什么事，就再拜托你了。","balloon#3246983d8c3220ee65f1644cff7fa860","机翻辅助：
+
+如果又发生什么事，就再拜托你了。
+
+再发生什么事的时候，让我依靠你。"
+"balloon#a1a4cb67508b2209c4dede1350f20800","那是真的吗？","balloon#a1a4cb67508b2209c4dede1350f20800","机翻辅助：
+
+那是真的吗？
+
+这是真的吗？"
+"balloon#fcda918aac94459ff4e502829b011f99","[font color=@3]我觉得[resetfont]那个推理有点不对……","balloon#fcda918aac94459ff4e502829b011f99","机翻辅助：
+
+[font color=@3]我觉得[resetfont]那个推理有点不对……
+
+那个推理有点不一样……[font color=@3][resetfont]
+
+我觉得你的推理有点不对……[font color=@3][resetfont]"
+"balloon#76c739f4c5c35d0d2565f5ae4cc0f6b2","[font color=@3]我觉得[resetfont]那个推理完全不对……","balloon#76c739f4c5c35d0d2565f5ae4cc0f6b2","机翻辅助：
+
+[font color=@3]我觉得[resetfont]那个推理完全不对……
+
+我觉得你的推理完全不对……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#414b5ffd9331e11408d9bf24c52ddb3f","不，请不要在意。","balloon#414b5ffd9331e11408d9bf24c52ddb3f","机翻辅助：
+
+不，请不要在意。
+
+不，别介意。
+
+不，别放在心上。"
+"balloon#36b940ffbd341506db4992c2848464ad","关于这件事，[emb exp='tf.names.NPC.me']啊……","balloon#36b940ffbd341506db4992c2848464ad","机翻辅助：
+
+关于这件事，[emb exp='tf.names.NPC.me']啊……
+
+关于这件事，[emb exp='tf.names.NPC.me']……"
+"balloon#368962253c34e9b1c28f27c3cb3da554","[font color=@3][resetfont]如果没有正确的犯案时间与不在场证明，我实在无法相信。","balloon#368962253c34e9b1c28f27c3cb3da554","机翻辅助：
+
+[font color=@3][resetfont]如果没有正确的犯案时间与不在场证明，我实在无法相信。
+
+[font color=@3]如果没有准确的作案时间和不在场证明，我觉得很难相信。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#71897ec561cb3c264439a26a3a5fc90f","[font color=@3]你要锁定犯案时刻[resetfont]，证明[emb exp='tf.names.itsuki.me']的不在场证明。","balloon#71897ec561cb3c264439a26a3a5fc90f","机翻辅助：
+
+[font color=@3]你要锁定犯案时刻[resetfont]，证明[emb exp='tf.names.itsuki.me']的不在场证明。
+
+[font color=@3]准确锁定作案时间，证明[emb exp='tf.names.itsuki.me']的不在场证明。[resetfont]
+
+[font color=@3]要准确地确定犯罪时间，证明[emb exp='tf.names.itsuki.me']的不在场证明。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

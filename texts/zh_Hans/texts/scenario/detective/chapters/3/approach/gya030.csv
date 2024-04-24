@@ -1,0 +1,137 @@
+"source","target","id","developer_comments"
+"jname#306dabdefad24ea1133de463a5defb6c","佐仓大助","jname#306dabdefad24ea1133de463a5defb6c","机翻辅助：
+
+佐仓大助"
+"balloon#e4101e81d0a3c517913e3e879006fe2c","说[emb exp='tf.names.NPC.me']进了后山。","balloon#e4101e81d0a3c517913e3e879006fe2c","机翻辅助：
+
+说[emb exp='tf.names.NPC.me']进了后山。
+
+[emb exp='tf.names.NPC.me']进了后山。"
+"balloon#8fadf4a8c50c8abcac68cacc79dc1e35","……是啊，我进去了。[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]我什么也没做。我进后山是因为——","balloon#8fadf4a8c50c8abcac68cacc79dc1e35","机翻辅助：
+
+……是啊，我进去了。[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]我什么也没做。我进后山是因为——
+
+……嗯，进来了。[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]没有什嚒亏心事。
+
+……嗯，进了。我没有做什么亏心事。[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]"
+"balloon#c8166cac6d197850a3b38e4adaf841a9","我在巡回诊疗时，总是会走后山抄捷径。","balloon#c8166cac6d197850a3b38e4adaf841a9","机翻辅助：
+
+我在巡回诊疗时，总是会走后山抄捷径。
+
+这个后山在诊疗的时候，总是作为近道使用。
+
+这后山是我看病的时候经常走的近道。"
+"balloon#43267b925ca7de15232dfc00449905bc","今天也和平常一样，只是经过这里而已。","balloon#43267b925ca7de15232dfc00449905bc","机翻辅助：
+
+今天也和平常一样，只是经过这里而已。
+
+今天也和平时一样，只是经过这里而已。
+
+今天也和平时一样，只是从这里走过而已。"
+"balloon#cb0dd0e6a93be584cb11dc8f0d5b828a","抄捷径……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise"" position=""left""]原来还可以这样用啊。","balloon#cb0dd0e6a93be584cb11dc8f0d5b828a","机翻辅助：
+
+抄捷径……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise"" position=""left""]原来还可以这样用啊。
+
+近道……原来可以这么用啊。[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise"" position=""left""]
+
+能用那种方法啊。[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise"" position=""left""]"
+"balloon#0e773047890535abdcabe687a9b8494f","说到后山，听说事件发生前不久，有人来到这里。","balloon#0e773047890535abdcabe687a9b8494f","机翻辅助：
+
+说到后山，听说事件发生前不久，有人来到这里。
+
+说到后山，听说事发前有人来过这里。
+
+说起里山，听说有人在事件发生之前来到这里。"
+"balloon#34a8ae50c0f8188d24d046fa819b2eb6","那是……","balloon#34a8ae50c0f8188d24d046fa819b2eb6","机翻辅助：
+
+那是……
+
+那是因为……"
+"balloon#ad1e39ee5e6d0a08baf10bcf3c2d34e0","[emb exp='tf.names.daisuke_3.ebihara']。","balloon#ad1e39ee5e6d0a08baf10bcf3c2d34e0","机翻辅助：
+
+[emb exp='tf.names.daisuke_3.ebihara']。
+
+是[emb exp='tf.names.daisuke_3.ebihara']。"
+"balloon#f18c014617ad8480682102e002d0c1f6","咦，[emb exp='tf.names.itsuki.daisuke']！","balloon#f18c014617ad8480682102e002d0c1f6","机翻辅助：
+
+咦，[emb exp='tf.names.itsuki.daisuke']！
+
+啊，[emb exp='tf.names.itsuki.daisuke']！"
+"balloon#117cb7a831a93432b314c224ad323f94","我正在询问来搜索[emb exp='tf.names.NPC.tetsuo']的[emb exp='tf.names.NPC.daisuke']，有没有人进出后山。","balloon#117cb7a831a93432b314c224ad323f94","机翻辅助：
+
+我正在询问来搜索[emb exp='tf.names.NPC.tetsuo']的[emb exp='tf.names.NPC.daisuke']，有没有人进出后山。
+
+我正在询问来搜索[emb exp='tf.names.NPC.tetsuo']的[emb exp='tf.names.NPC.daisuke']，有人出入后山。
+
+我向前来搜索[emb exp='tf.names.NPC.tetsuo']的[emb exp='tf.names.NPC.daisuke']打听后山有人出入的情况。"
+"balloon#31ea34577ec1ffe3f811563c8fb09d57","抱歉，我听到你们说话，忍不住插嘴了。","balloon#31ea34577ec1ffe3f811563c8fb09d57","机翻辅助：
+
+抱歉，我听到你们说话，忍不住插嘴了。
+
+对不起，听了你的话，我忍不住脱口而出。
+
+对不起，听了你的话，我不由得插嘴了。"
+"balloon#75c4484f04b7ab627303c42af2e14534","[emb exp='tf.names.daisuke_3.me'][font color=@3]目击到[emb exp='tf.names.daisuke_3.ebihara']从派出所附近进入后山[resetfont]，是[l][font color=@3]14:54[resetfont]。","balloon#75c4484f04b7ab627303c42af2e14534","机翻辅助：
+
+[emb exp='tf.names.daisuke_3.me'][font color=@3]目击到[emb exp='tf.names.daisuke_3.ebihara']从派出所附近进入后山[resetfont]，是[l][font color=@3]14:54[resetfont]。
+
+[emb exp='tf.names.daisuke_3.me']亲眼看到了从驻地附近进入后山的[emb exp='tf.names.daisuke_3.ebihara']。[font color=@3]14:54[resetfont]。[l][font color=@3][resetfont]
+
+[emb exp='tf.names.daisuke_3.me']亲眼看见[emb exp='tf.names.daisuke_3.ebihara']从派出所附近进入后山。[font color=@3]14:54哦。[resetfont][l][font color=@3][resetfont]"
+"balloon#d88160d237f2631f93d0fa59debd473e","[emb exp='tf.names.itsuki.daisuke'][font color=@3]目击到进入后山的[emb exp='tf.names.itsuki.ebihara'][resetfont]吗？","balloon#d88160d237f2631f93d0fa59debd473e","机翻辅助：
+
+[emb exp='tf.names.itsuki.daisuke'][font color=@3]目击到进入后山的[emb exp='tf.names.itsuki.ebihara'][resetfont]吗？
+
+[emb exp='tf.names.itsuki.daisuke']看到进入后山的[emb exp='tf.names.itsuki.ebihara']了吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.daisuke']看到[emb exp='tf.names.itsuki.ebihara']进入后山[font color=@3]了吗？[resetfont]"
+"balloon#c9fe6cd027546bc55b6f137a6136f8a7","打扰了，[emb exp='tf.names.daisuke_3.me']要回镇上了！","balloon#c9fe6cd027546bc55b6f137a6136f8a7","机翻辅助：
+
+打扰了，[emb exp='tf.names.daisuke_3.me']要回镇上了！
+
+打扰了，[emb exp='tf.names.daisuke_3.me']要回城上去了！
+
+打扰了，[emb exp='tf.names.daisuke_3.me']要回城了！"
+"balloon#1eac29df1dc6c4c437a72c18aa396929","好的，谢谢你们。","balloon#1eac29df1dc6c4c437a72c18aa396929","机翻辅助：
+
+好的，谢谢你们。
+
+好的，谢谢您。
+
+好的，谢谢。"
+"balloon#1bb27a29e0197bd43b399b60ec81648c","……就是这样，我们得知事件发生前不久进入后山的人物资讯了。","balloon#1bb27a29e0197bd43b399b60ec81648c","机翻辅助：
+
+……就是这样，我们得知事件发生前不久进入后山的人物资讯了。
+
+……因此，知道了事件发生前进入后山的人物的信息。
+
+……因此，我们掌握了事件发生前进入后山的人的信息。"
+"balloon#2f393993c6a393c58c6190c322a11ab7","这样有帮上调查吗？","balloon#2f393993c6a393c58c6190c322a11ab7","机翻辅助：
+
+这样有帮上调查吗？
+
+有助于调查吗？
+
+对调查有帮助吗？"
+"balloon#ce57ba7d74a7fb889dad07936ba3d322","好、好的，非常感谢！","balloon#ce57ba7d74a7fb889dad07936ba3d322","机翻辅助：
+
+好、好的，非常感谢！
+
+是、是，谢谢！
+
+好、好的，谢谢！"
+"balloon#1bb96a09d56e54569a788f7559ae87e0","这的确可能是很重要的情报……","balloon#1bb96a09d56e54569a788f7559ae87e0","机翻辅助：
+
+这的确可能是很重要的情报……
+
+确实这可能是重要的信息……
+
+这确实可能是重要的情报……"
+"speaker_主人公","主人公","speaker_主人公",""
+"speaker_佐倉 大助","佐仓大助","speaker_佐倉 大助","机翻辅助：
+
+佐仓大助"

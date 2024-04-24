@@ -1,0 +1,171 @@
+"source","target","id","developer_comments"
+"balloon#d3ec46b4e9d8c08b76fb5412590495c7","盯……","balloon#d3ec46b4e9d8c08b76fb5412590495c7","机翻辅助：
+
+盯……
+
+嗯……
+
+吉……"
+"balloon#1f57a49c909cca7445c9a5e9027dad2b","那个，你所谓的“盯”到底是什么意思？","balloon#1f57a49c909cca7445c9a5e9027dad2b","机翻辅助：
+
+那个，你所谓的“盯”到底是什么意思？
+
+那个，那个“zi”是什么？
+
+那个，那个叫“じー”的家伙，是什么呢？"
+"balloon#637abe4afaa5f958c4339bea9509cca7","我太在意了。","balloon#637abe4afaa5f958c4339bea9509cca7","机翻辅助：
+
+我太在意了。
+
+太在意了。"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#f1d6451f25e6534ac9d329b57f5b2f2b","虽然我不想把这种事说出口……","balloon#f1d6451f25e6534ac9d329b57f5b2f2b","机翻辅助：
+
+虽然我不想把这种事说出口……
+
+虽然不想说出这样的话来听……
+
+我不想听你这么说……"
+"balloon#bd55f133bfcec77d79a49fa88b981154","[emb exp='tf.names.NPC.itsuki']，你连[emb exp='tf.names.NPC.iroha']都杀了？","balloon#bd55f133bfcec77d79a49fa88b981154","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你连[emb exp='tf.names.NPC.iroha']都杀了？
+
+[emb exp='tf.names.NPC.itsuki']把[emb exp='tf.names.NPC.iroha']也杀了？
+
+[emb exp='tf.names.NPC.itsuki']也杀了[emb exp='tf.names.NPC.iroha']吗？"
+"balloon#95c59ae66ba80047db1365d02c274674","“じー”的真面目是那个吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]虽然和[emb exp='tf.names.itsuki.me']没有关系，但是怎么回答才好呢。","balloon#95c59ae66ba80047db1365d02c274674","机翻辅助：
+
+“じー”的真面目是那个吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]虽然和[emb exp='tf.names.itsuki.me']没有关系，但是怎么回答才好呢。
+
+“盯——”的真面目就是这个吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""][emb exp='tf.names.itsuki.me']该怎么回答“和我无关”呢。
+
+“吉”的真实身份是那个吗……和[emb exp='tf.names.itsuki.me']无关，该怎么回答才好呢？[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]"
+"SECRET_SELECTION/topic#059fd43288b24935a98384b8224cf725","${itsuki.me}……","SECRET_SELECTION/topic#059fd43288b24935a98384b8224cf725","机翻辅助：
+
+${itsuki.me}……"
+"SECRET_SELECTION/text1#293c6d85b1371d8809aefdf5137e4073","我没杀${itsuki.iroha}！","SECRET_SELECTION/text1#293c6d85b1371d8809aefdf5137e4073","机翻辅助：
+
+我没杀${itsuki.iroha}！
+
+${itsuki.iroha}没有杀！
+
+我没有杀${itsuki.iroha}！"
+"SECRET_SELECTION/text2#b2281c94d1e0c0c46fd2424a3cc5c14f","我没杀${itsuki.iroha}！","SECRET_SELECTION/text2#b2281c94d1e0c0c46fd2424a3cc5c14f","机翻辅助：
+
+我没杀${itsuki.iroha}！
+
+${itsuki.iroha}也没杀！"
+"SECRET_SELECTION/text3#b349476005e1a523bea426990574000e","我没杀${itsuki.iroha}！","SECRET_SELECTION/text3#b349476005e1a523bea426990574000e","机翻辅助：
+
+我没杀${itsuki.iroha}！
+
+我没有杀${itsuki.iroha}！"
+"balloon#6c767ab68d8d811ed95dc71a7e025c39","[emb exp='tf.names.NPC.iroha']加上“也”……","balloon#6c767ab68d8d811ed95dc71a7e025c39","机翻辅助：
+
+[emb exp='tf.names.NPC.iroha']加上“也”……
+
+[emb exp='tf.names.NPC.iroha']“哈”是指……
+
+[emb exp='tf.names.NPC.iroha']“哈”的意思是……"
+"balloon#1d80c4f1015ec398dc48b5174db5d157","也就是说，[emb exp='tf.names.NPC.chiyo']被杀了？！","balloon#1d80c4f1015ec398dc48b5174db5d157","机翻辅助：
+
+也就是说，[emb exp='tf.names.NPC.chiyo']被杀了？！
+
+[emb exp='tf.names.NPC.chiyo']已经到手了吧！？
+
+[emb exp='tf.names.NPC.chiyo']已经动手了吧！？"
+"balloon#a690ffeb8096d96f740998ca1fe5af68","真亏你有脸说出这种话！","balloon#a690ffeb8096d96f740998ca1fe5af68","机翻辅助：
+
+真亏你有脸说出这种话！
+
+你竟敢说那种话！
+
+居然能毫不畏惧地说出这种话！"
+"balloon#501da007a5ea28b65a8c605c4615ce79","呜呜，我好像刺激到[emb exp='tf.names.itsuki.NPC']了。","balloon#501da007a5ea28b65a8c605c4615ce79","机翻辅助：
+
+呜呜，我好像刺激到[emb exp='tf.names.itsuki.NPC']了。
+
+嗯，好像刺激了[emb exp='tf.names.itsuki.NPC']。
+
+呜呜，好像刺激到[emb exp='tf.names.itsuki.NPC']了。"
+"balloon#4e3442e78377ff453c7b075805f74659","[emb exp='tf.names.NPC.iroha']加上“也”……","balloon#4e3442e78377ff453c7b075805f74659","机翻辅助：
+
+[emb exp='tf.names.NPC.iroha']加上“也”……
+
+[emb exp='tf.names.NPC.iroha']“也是”是指……
+
+[emb exp='tf.names.NPC.iroha']“也”的意思是……"
+"balloon#336d743b00cf5fa535b0f28aa5ee31ce","也就是说，我接在[emb exp='tf.names.NPC.chiyo']之后否认了？！","balloon#336d743b00cf5fa535b0f28aa5ee31ce","机翻辅助：
+
+也就是说，我接在[emb exp='tf.names.NPC.chiyo']之后否认了？！
+
+继[emb exp='tf.names.NPC.chiyo']之后，又否定了吧。
+
+继[emb exp='tf.names.NPC.chiyo']之后，又否定了。"
+"balloon#1b04155fb87c38b71f2b4425b6a29fc2","……光是用说的，谁都做得到。","balloon#1b04155fb87c38b71f2b4425b6a29fc2","机翻辅助：
+
+……光是用说的，谁都做得到。
+
+……只要是语言，谁都能说。
+
+……如果只是语言的话，谁都能说。"
+"balloon#ad794d51803a22fb0002d1d8169ca143","不过，我还是记下刚才从[emb exp='tf.names.NPC.itsuki']口中听到的话吧。","balloon#ad794d51803a22fb0002d1d8169ca143","机翻辅助：
+
+不过，我还是记下刚才从[emb exp='tf.names.NPC.itsuki']口中听到的话吧。
+
+但是从[emb exp='tf.names.NPC.itsuki']的口中听到的那句话，要记住吗。
+
+但是，我从[emb exp='tf.names.NPC.itsuki']的口中听到过这句话，请记住吧。"
+"balloon#384a2e502c9562ceb9cbc3f7142673ec","太好了，[emb exp='tf.names.itsuki.NPC']好像听懂了。","balloon#384a2e502c9562ceb9cbc3f7142673ec","机翻辅助：
+
+太好了，[emb exp='tf.names.itsuki.NPC']好像听懂了。
+
+太好了，好像传给[emb exp='tf.names.itsuki.NPC']了。
+
+太好了，好像好好地传达给[emb exp='tf.names.itsuki.NPC']了。"
+"balloon#2390343b339be39b934b11f428b93364","[emb exp='tf.names.NPC.iroha']加上“被”……","balloon#2390343b339be39b934b11f428b93364","机翻辅助：
+
+[emb exp='tf.names.NPC.iroha']加上“被”……
+
+[emb exp='tf.names.NPC.iroha']“把”的意思是……
+
+[emb exp='tf.names.NPC.iroha']“を”是指……"
+"balloon#c186a1003bf8a0524eb1a3a8a45bca47","也就是说，[emb exp='tf.names.NPC.chiyo']被杀了？！","balloon#c186a1003bf8a0524eb1a3a8a45bca47","机翻辅助：
+
+也就是说，[emb exp='tf.names.NPC.chiyo']被杀了？！
+
+[emb exp='tf.names.NPC.chiyo']到手了吗！？
+
+难道[emb exp='tf.names.NPC.chiyo']已经动手了吗！？"
+"balloon#241de8d419c04a26b444e66cdae3c374","“盯——”是指……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]还有什么事吗？","balloon#241de8d419c04a26b444e66cdae3c374","机翻辅助：
+
+“盯——”是指……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]还有什么事吗？
+
+那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]还有什么？？
+
+“吉”，那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]还有什么？？"
+"balloon#74e68e03b78cdf5ac6d69e08df1abd9d","不，没什么……","balloon#74e68e03b78cdf5ac6d69e08df1abd9d","机翻辅助：
+
+不，没什么……"
+"balloon#16d768c501aff27cff10b7912bd27701","……不管怎么说，[emb exp='tf.names.itsuki.me']好像都不太被信任啊。","balloon#16d768c501aff27cff10b7912bd27701","机翻辅助：
+
+……不管怎么说，[emb exp='tf.names.itsuki.me']好像都不太被信任啊。
+
+……不管怎么说，[emb exp='tf.names.itsuki.me']都不太被信任吧。
+
+……不管怎么说，大家都不太相信[emb exp='tf.names.itsuki.me']吧。"
+"balloon#c6a31dd5056b5696846f10e0fb1193e1","就算是隔着邮件，那个[emb exp='tf.names.itsuki.iroha']会对[emb exp='tf.names.itsuki.utaha']说这么重的话吗？","balloon#c6a31dd5056b5696846f10e0fb1193e1","机翻辅助：
+
+就算是隔着邮件，那个[emb exp='tf.names.itsuki.iroha']会对[emb exp='tf.names.itsuki.utaha']说这么重的话吗？
+
+即使隔着邮件，那个[emb exp='tf.names.itsuki.iroha']也会对[emb exp='tf.names.itsuki.utaha']说得那么强烈吗。
+
+即使是通过短信，那个[emb exp='tf.names.itsuki.iroha']对[emb exp='tf.names.itsuki.utaha']说得那么强硬吗？"
+"balloon#455fea6c3e6d93652fe26059fb1122cc","从邮件发送时间附近的状况来看，说不定能发现什么线索。","balloon#455fea6c3e6d93652fe26059fb1122cc","机翻辅助：
+
+从邮件发送时间附近的状况来看，说不定能发现什么线索。
+
+从邮件发送时间附近的状况，或许能看到些什么。
+
+从发送邮件的时间附近的状况来看，可能会看到什么。"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,215 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#4a268c232b0f2777da8f2f88674ac195","我[font color=@3]不得不认同你的推理。[resetfont]","balloon#4a268c232b0f2777da8f2f88674ac195","机翻辅助：
+
+我[font color=@3]不得不认同你的推理。[resetfont]
+
+这种推理，似乎不得不接受。[font color=@3][resetfont]
+
+这种推理，不得不接受。[font color=@3][resetfont]"
+"balloon#dcfa57d87e0b1a4326d11afe7ba0e8d9","也就是说，你想说[emb exp='tf.names.NPC.me']跟事件有关吧。","balloon#dcfa57d87e0b1a4326d11afe7ba0e8d9","机翻辅助：
+
+也就是说，你想说[emb exp='tf.names.NPC.me']跟事件有关吧。
+
+换句话说，你是想说[emb exp='tf.names.NPC.me']和这个案子有关。
+
+也就是说，你想说[emb exp='tf.names.NPC.me']和事件有关。"
+"balloon#66ef4203ee97b754d5da5d34d5eb4676","[emb exp='tf.names.itsuki.me']也不想相信。","balloon#66ef4203ee97b754d5da5d34d5eb4676","机翻辅助：
+
+[emb exp='tf.names.itsuki.me']也不想相信。
+
+[emb exp='tf.names.itsuki.me']也不愿意相信。"
+"balloon#6fd3421c0ac307cc06327898b21ea2fe","可是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]我也想不到其他可能性了。","balloon#6fd3421c0ac307cc06327898b21ea2fe","机翻辅助：
+
+可是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]我也想不到其他可能性了。
+
+但是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]我想不出其他的了。
+
+但是……我想不出别的了。[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#ec0ca81f2db63db1b5381c95fd0aa2a4","就算无法证明自己的不在场证明……","balloon#ec0ca81f2db63db1b5381c95fd0aa2a4","机翻辅助：
+
+就算无法证明自己的不在场证明……
+
+因为无法证明自己的不在场证明……
+
+虽说不能证明自己的不在场证明……"
+"balloon#9ef1ef5efcc3a8419758cb5d781532ef","没想到，你居然会开始怀疑[emb exp='tf.names.NPC.me']。","balloon#9ef1ef5efcc3a8419758cb5d781532ef","机翻辅助：
+
+没想到，你居然会开始怀疑[emb exp='tf.names.NPC.me']。
+
+没想到你竟然开始怀疑[emb exp='tf.names.NPC.me']。
+
+不会吧，你竟然开始怀疑[emb exp='tf.names.NPC.me']了。"
+"balloon#d74159b8759251386fe5c34eaf322cbf","我真的很伤心啊，[emb exp='tf.names.NPC.itsuki']。","balloon#d74159b8759251386fe5c34eaf322cbf","机翻辅助：
+
+我真的很伤心啊，[emb exp='tf.names.NPC.itsuki']。
+
+真的很悲伤啊，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#9545e7a097fe8db112fa9ad75411fa7c","怎么会……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""][emb exp='tf.names.itsuki.me']也不想怀疑你啊。","balloon#9545e7a097fe8db112fa9ad75411fa7c","机翻辅助：
+
+怎么会……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""][emb exp='tf.names.itsuki.me']也不想怀疑你啊。
+
+怎么会……[emb exp='tf.names.itsuki.me']也不想怀疑。[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]
+
+[emb exp='tf.names.itsuki.me']也不是想怀疑。[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]"
+"balloon#c38b2f0b54cc63c57886448857709074","你要说的只有这些吗？","balloon#c38b2f0b54cc63c57886448857709074","机翻辅助：
+
+你要说的只有这些吗？
+
+只是这样吗？
+
+事情就这么简单吗？"
+"balloon#864ed052a1f8e823e2fcd41965e13603","有空提出这种无聊的假设，不如先证明自己的不在场证明。","balloon#864ed052a1f8e823e2fcd41965e13603","机翻辅助：
+
+有空提出这种无聊的假设，不如先证明自己的不在场证明。
+
+有时间提出无聊的假设，不如先证明自己的不在场证明。
+
+如果有时间提出无聊的假设，首先要证明自己的不在场证明。"
+"balloon#df83611d52e4fe11cba79c68159031e6","别忘了你的立场，你可是被发现时手里还握着凶器啊。","balloon#df83611d52e4fe11cba79c68159031e6","机翻辅助：
+
+别忘了你的立场，你可是被发现时手里还握着凶器啊。
+
+不要忘记自己的立场，你是在向被害者推凶器的状态下被发现的。
+
+不要忘记自己的立场，你被发现时身上插着凶器。"
+"balloon#34710db4c320c91018dc385f46f85762","在那种状态下被发现的少年，提出的荒唐无稽的推理……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]警方真的会相信吗？","balloon#34710db4c320c91018dc385f46f85762","机翻辅助：
+
+在那种状态下被发现的少年，提出的荒唐无稽的推理……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]警方真的会相信吗？
+
+在这种状态下被发现的少年的荒诞推理……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]警察到底信不信？
+
+在这种状态下被发现的少年，竟然做出如此荒唐的推理……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]警察会相信吗？"
+"balloon#4d94db04be460b8aac6eb7d0236ded3b","话……话是这么说没错……","balloon#4d94db04be460b8aac6eb7d0236ded3b","机翻辅助：
+
+话……话是这么说没错……
+
+话、话是这么说……
+
+那个，那个是那样的……"
+"balloon#0070d7fd6c06ed191b1f3d9966e76a44","这个话题就到此为止。","balloon#0070d7fd6c06ed191b1f3d9966e76a44","机翻辅助：
+
+这个话题就到此为止。
+
+这个故事到此为止。
+
+这个话题到此为止。"
+"balloon#5487ee6fc370e696b006ea36a5b8cfd8","你先证明自己的清白吧。","balloon#5487ee6fc370e696b006ea36a5b8cfd8","机翻辅助：
+
+你先证明自己的清白吧。
+
+首先证明自己的清白。
+
+首先，要证明自己的无辜。"
+"balloon#e6c29574791ef210053efc683c3f0362","现在这个时候，我很难反驳什么……","balloon#e6c29574791ef210053efc683c3f0362","机翻辅助：
+
+现在这个时候，我很难反驳什么……
+
+现在在这里，很难反驳什么……
+
+此时此刻，很难反驳什么……"
+"balloon#dcce8a0a808fb5057345cb80b94c3fca","不过[emb exp='tf.names.itsuki.NPC']的反应，让[emb exp='tf.names.itsuki.me']确定了自己的想法。","balloon#dcce8a0a808fb5057345cb80b94c3fca","机翻辅助：
+
+不过[emb exp='tf.names.itsuki.NPC']的反应，让[emb exp='tf.names.itsuki.me']确定了自己的想法。
+
+但是[emb exp='tf.names.itsuki.NPC']的反应确实证实了[emb exp='tf.names.itsuki.me']的想法。
+
+但是[emb exp='tf.names.itsuki.NPC']的反应，让[emb exp='tf.names.itsuki.me']的想法变得真切。"
+"balloon#3edaf76ee66b60ddedc2e5713b0845a7","动机和具体的行动等等，还有很多不知道的事情……","balloon#3edaf76ee66b60ddedc2e5713b0845a7","机翻辅助：
+
+动机和具体的行动等等，还有很多不知道的事情……
+
+动机和具体的行动等，还有很多不明白的事情……
+
+动机和具体的行动等，还有很多不知道的地方……"
+"balloon#7df879180cfca6855ebc5f58e464ec09","但是，只有这一点可以确定。","balloon#7df879180cfca6855ebc5f58e464ec09","机翻辅助：
+
+但是，只有这一点可以确定。
+
+但是，只有这个没错。
+
+不过，这一点是不会错的。"
+"balloon#0f3ac6a787c9163f48a93cc476e9b176","[emb exp='tf.names.itsuki.NPC']是凶手。","balloon#0f3ac6a787c9163f48a93cc476e9b176","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']是凶手。
+
+[emb exp='tf.names.itsuki.NPC']是小黑。
+
+[emb exp='tf.names.itsuki.NPC']是黑色的。"
+"balloon#4ad7ac305a506ecbeffab6d1710cffe1","他恐怕因为某种理由，和[font color=@3][emb exp='tf.names.itsuki.kageyama'][resetfont]是共犯关系。","balloon#4ad7ac305a506ecbeffab6d1710cffe1","机翻辅助：
+
+他恐怕因为某种理由，和[font color=@3][emb exp='tf.names.itsuki.kageyama'][resetfont]是共犯关系。
+
+因为某些理由，和[emb exp='tf.names.itsuki.kageyama']有共犯关系吧。[font color=@3][resetfont]
+
+因为某种原因，和[emb exp='tf.names.itsuki.kageyama']有共犯关系。[font color=@3][resetfont]"
+"balloon#bf863da910f44c40ccee14085b950139","真的是这样吗？","balloon#bf863da910f44c40ccee14085b950139","机翻辅助：
+
+真的是这样吗？"
+"balloon#39933992580b535b88f22d800a3c5b08","我觉得这个推理[font color=@3]有点不对[resetfont]……","balloon#39933992580b535b88f22d800a3c5b08","机翻辅助：
+
+我觉得这个推理[font color=@3]有点不对[resetfont]……
+
+我觉得那个推理有点不一样……[font color=@3][resetfont]
+
+我觉得这个推理有点不对……[font color=@3][resetfont]"
+"balloon#040891c3fbc4de93aaf8cc3dad59d514","我觉得这个推理[font color=@3]完全不对[resetfont]……","balloon#040891c3fbc4de93aaf8cc3dad59d514","机翻辅助：
+
+我觉得这个推理[font color=@3]完全不对[resetfont]……
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]
+
+我认为那个推理是完全不同的……[font color=@3][resetfont]"
+"balloon#0942105affd92b98eabe928eb6d69aff","对不起，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#0942105affd92b98eabe928eb6d69aff","机翻辅助：
+
+对不起，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，对不起……"
+"balloon#fce09152383ad7fa8f830f7d7f161a57","别在意。","balloon#fce09152383ad7fa8f830f7d7f161a57","机翻辅助：
+
+别在意。
+
+别放在心上。"
+"balloon#a284ea147cc7bd2cb825b7ade1b8366c","总之，关于这件事……","balloon#a284ea147cc7bd2cb825b7ade1b8366c","机翻辅助：
+
+总之，关于这件事……
+
+总之，这件事……"
+"balloon#aa6e416d00127856c3ea3dd5062468b7","我要揭穿[emb exp='tf.names.NPC.itsuki']的不在场证明。","balloon#aa6e416d00127856c3ea3dd5062468b7","机翻辅助：
+
+我要揭穿[emb exp='tf.names.NPC.itsuki']的不在场证明。
+
+我们要查明[emb exp='tf.names.NPC.itsuki']的不在场证明。
+
+要查明[emb exp='tf.names.NPC.itsuki']的不在场证明。"
+"balloon#10036051e1e05805d31767101697d44d","虽然说[emb exp='tf.names.itsuki.me']的不在场证明是[emb exp='tf.names.itsuki.NPC']……","balloon#10036051e1e05805d31767101697d44d","机翻辅助：
+
+虽然说[emb exp='tf.names.itsuki.me']的不在场证明是[emb exp='tf.names.itsuki.NPC']……
+
+[emb exp='tf.names.itsuki.NPC']是[emb exp='tf.names.itsuki.me']的不在场证明……
+
+[emb exp='tf.names.itsuki.NPC']说[emb exp='tf.names.itsuki.me']有不在场证明……"
+"balloon#16ffec1da3fbf599e3a92f84fc889e38","但[emb exp='tf.names.itsuki.me']的不在场证明恐怕是[font color=@3]无法证明[resetfont]。","balloon#16ffec1da3fbf599e3a92f84fc889e38","机翻辅助：
+
+但[emb exp='tf.names.itsuki.me']的不在场证明恐怕是[font color=@3]无法证明[resetfont]。
+
+[emb exp='tf.names.itsuki.me']的不在场证明恐怕是无法证明的。[font color=@3][resetfont]"
+"balloon#aa97ee63da9b60023cdf8473eeaa77a0","为了调查[emb exp='tf.names.itsuki.me']手上这个有力的线索——西装的动向……","balloon#aa97ee63da9b60023cdf8473eeaa77a0","机翻辅助：
+
+为了调查[emb exp='tf.names.itsuki.me']手上这个有力的线索——西装的动向……
+
+为了找出[emb exp='tf.names.itsuki.me']手上那件有力线索的西装的动向……
+
+为了探寻[emb exp='tf.names.itsuki.me']手中有力线索的西装的动向……"
+"balloon#3cdda2b219637633526fc0e2ded89561","[font color=@3]只能调查本土和岛上人的来往[resetfont]。","balloon#3cdda2b219637633526fc0e2ded89561","机翻辅助：
+
+[font color=@3]只能调查本土和岛上人的来往[resetfont]。
+
+[font color=@3]只能调查[resetfont]本岛和岛上的人的往来。
+
+[font color=@3]只能调查本土和岛屿的来往。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

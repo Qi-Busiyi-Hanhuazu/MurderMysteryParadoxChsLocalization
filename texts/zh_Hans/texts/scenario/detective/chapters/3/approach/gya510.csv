@@ -1,0 +1,170 @@
+"source","target","id","developer_comments"
+"balloon#03a84637abd2dba31bc296681a89deef","然后啊，我把你叫出来……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]是因为……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那个。","balloon#03a84637abd2dba31bc296681a89deef","机翻辅助：
+
+然后啊，我把你叫出来……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]是因为……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那个。
+
+所以，把你叫出来的是……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]那个……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]那个。
+
+所以才把你叫出来的……[l][chara_mod time=""@f1"" name=""NPC"" face=""trouble"" position=""right""]那个……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]就是那个。"
+"balloon#31712215962039a9906d81c62e76e770","反正[emb exp='tf.names.NPC.itsuki']也在怀疑[emb exp='tf.names.NPC.me']吧！？","balloon#31712215962039a9906d81c62e76e770","机翻辅助：
+
+反正[emb exp='tf.names.NPC.itsuki']也在怀疑[emb exp='tf.names.NPC.me']吧！？"
+"balloon#a86bf8bab49848cbddb4d20b49706613","我想说现在的话，你或许会愿意听我说，但没想到会来这招……","balloon#a86bf8bab49848cbddb4d20b49706613","机翻辅助：
+
+我想说现在的话，你或许会愿意听我说，但没想到会来这招……
+
+我想如果是现在的话也许能听到你的话，是这样来的吗……
+
+我想，如果是现在的话，他也许会听我说，原来是这么来的……"
+"balloon#040492121797f372a69b7ef8a014c7b2","真伤脑筋……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]如果老实说我在怀疑你，你会愿意听我说吗？","balloon#040492121797f372a69b7ef8a014c7b2","机翻辅助：
+
+真伤脑筋……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]如果老实说我在怀疑你，你会愿意听我说吗？
+
+真让人为难啊……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]能坦率地说怀疑，听我说话吗。
+
+真伤脑筋啊……如果坦率地表示怀疑，对方会听吗？[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"SECRET_SELECTION/topic#ac89d4185aa5e4baf653773566e02205","居然怀疑${itsuki_p.ebihara}……","SECRET_SELECTION/topic#ac89d4185aa5e4baf653773566e02205","机翻辅助：
+
+居然怀疑${itsuki_p.ebihara}……
+
+竟然怀疑${itsuki_p.ebihara}……"
+"SECRET_SELECTION/text1#594409b5828135fe6987dddffac857f4","太离谱了！","SECRET_SELECTION/text1#594409b5828135fe6987dddffac857f4","机翻辅助：
+
+太离谱了！
+
+通达示威奈德！
+
+怎么可能！"
+"SECRET_SELECTION/text2#11b35508f4d4775437ea4544d368c025","正是如此！","SECRET_SELECTION/text2#11b35508f4d4775437ea4544d368c025","机翻辅助：
+
+正是如此！
+
+就是这样！"
+"SECRET_SELECTION/text3#3bf1e8c75bfd51a6612036acdd87b310","彼此彼此吧！","SECRET_SELECTION/text3#3bf1e8c75bfd51a6612036acdd87b310","机翻辅助：
+
+彼此彼此吧！
+
+那是彼此彼此吧！
+
+那是互相的吧！"
+"balloon#f91910d5d3f4c7e08eb764dcd59ecb65","竟然说太离谱了……","balloon#f91910d5d3f4c7e08eb764dcd59ecb65","机翻辅助：
+
+竟然说太离谱了……
+
+东示威奈德斯。
+
+怎么可能……说是。"
+"balloon#b4c02a8756b0cdf4283e81286ea2ca80","真可疑！","balloon#b4c02a8756b0cdf4283e81286ea2ca80","机翻辅助：
+
+真可疑！
+
+可疑啊！
+
+真奇怪啊！"
+"balloon#640a4a568b47db8232b377adf45f1bed","果然在怀疑[emb exp='tf.names.NPC.me']吧！","balloon#640a4a568b47db8232b377adf45f1bed","机翻辅助：
+
+果然在怀疑[emb exp='tf.names.NPC.me']吧！
+
+果然还是怀疑[emb exp='tf.names.NPC.me']吧！
+
+你果然是在怀疑[emb exp='tf.names.NPC.me']吧！"
+"balloon#5fd9cbaa76f90322ee0212638f042033","糟糕，我没能掩饰住我在怀疑的事……！","balloon#5fd9cbaa76f90322ee0212638f042033","机翻辅助：
+
+糟糕，我没能掩饰住我在怀疑的事……！
+
+糟了，我隐瞒不了我的怀疑……！
+
+糟了，我没办法隐瞒我的怀疑……！"
+"balloon#69609ec394e4e51e1c7ff2fa9dff4487","竟然说正是如此……","balloon#69609ec394e4e51e1c7ff2fa9dff4487","机翻辅助：
+
+竟然说正是如此……
+
+说得对……
+
+就是这样……"
+"balloon#e7e915e3def23584904d5554d674aaf7","混、混账！","balloon#e7e915e3def23584904d5554d674aaf7","机翻辅助：
+
+混、混账！
+
+笨蛋，混蛋！
+
+笨蛋！"
+"balloon#6bf57e19df1db7e623a75d378a69865d","给我稍微说得婉转一点！","balloon#6bf57e19df1db7e623a75d378a69865d","机翻辅助：
+
+给我稍微说得婉转一点！
+
+再给我包一点！
+
+再稍微包裹一下！"
+"balloon#ddbae19fec5867bfa2811afbf3a16ef7","糟糕，我不该老实说我在怀疑……！","balloon#ddbae19fec5867bfa2811afbf3a16ef7","机翻辅助：
+
+糟糕，我不该老实说我在怀疑……！
+
+糟了，不应该坦率地说怀疑什么的……！
+
+糟了，不应该坦率地说怀疑……！"
+"balloon#037f31aabd6a7cb45fe886e04b3011ed","彼此彼此……","balloon#037f31aabd6a7cb45fe886e04b3011ed","机翻辅助：
+
+彼此彼此……
+
+彼此……"
+"balloon#44ecde2b5f8e995edb5ae464ad565a3b","虽然[emb exp='tf.names.NPC.me']也不相信[emb exp='tf.names.NPC.itsuki']啦。","balloon#44ecde2b5f8e995edb5ae464ad565a3b","机翻辅助：
+
+虽然[emb exp='tf.names.NPC.me']也不相信[emb exp='tf.names.NPC.itsuki']啦。
+
+当然，[emb exp='tf.names.NPC.me']是不相信[emb exp='tf.names.NPC.itsuki']的。
+
+是啊，[emb exp='tf.names.NPC.me']不相信[emb exp='tf.names.NPC.itsuki']。"
+"balloon#f38d1c7be320069f4b025a21542979b7","喂，[emb exp='tf.names.NPC.me']什么时候怀疑你了！","balloon#f38d1c7be320069f4b025a21542979b7","机翻辅助：
+
+喂，[emb exp='tf.names.NPC.me']什么时候怀疑你了！
+
+啊，[emb exp='tf.names.NPC.me']什么时候怀疑过你啊！
+
+[emb exp='tf.names.NPC.me']、我什么时候怀疑过你啦！"
+"balloon#628b4e1ca69b17b8b5e53258eb737e6f","哎，就是开始谈话的时候，你不是说“[emb exp='tf.names.ebihara_3.itsuki']是犯人吗！”……","balloon#628b4e1ca69b17b8b5e53258eb737e6f","机翻辅助：
+
+哎，就是开始谈话的时候，你不是说“[emb exp='tf.names.ebihara_3.itsuki']是犯人吗！”……
+
+啊，你看，对话开始的时候，“[emb exp='tf.names.ebihara_3.itsuki']是犯人吗！”……
+
+嗯，你看，讨论开始的时候“[emb exp='tf.names.ebihara_3.itsuki']是犯人吗！”说是……"
+"balloon#b7423dee603ec3fc6e8f704b0e0ec66b","……呃，这是你自己说过的话，却已经不记得了。","balloon#b7423dee603ec3fc6e8f704b0e0ec66b","机翻辅助：
+
+……呃，这是你自己说过的话，却已经不记得了。
+
+……这是不记得自己说过的话的家伙。
+
+……我不记得自己说过这样的话。"
+"balloon#d449122004070f0bbc9a9367dce90020","真是的，果然没救了！","balloon#d449122004070f0bbc9a9367dce90020","机翻辅助：
+
+真是的，果然没救了！
+
+真是的，果然说不过去啊！
+
+真想，果然不像话！"
+"balloon#9c33442d17f863ef767254ff9fc4c48d","和你根本就没什么好说的！","balloon#9c33442d17f863ef767254ff9fc4c48d","机翻辅助：
+
+和你根本就没什么好说的！
+
+和你没什么好说的！
+
+我没有和你说的话！"
+"balloon#e95123e4e2ba3e5f9fa3cbdd82f94d5e","啊……请等一下！","balloon#e95123e4e2ba3e5f9fa3cbdd82f94d5e","机翻辅助：
+
+啊……请等一下！"
+"balloon#1437d4b204c921f93738d401d5f56c9a","走掉了……[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]看来还是不肯听人说话啊。","balloon#1437d4b204c921f93738d401d5f56c9a","机翻辅助：
+
+走掉了……[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]看来还是不肯听人说话啊。
+
+走了……你好像还没听我说呢。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]
+
+我走了……还没能听到你的话呢。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]"
+"balloon#eb5ce9fd9c15731cbfd3b54ee7238c0e","现在只能先解决其他人的疑问了吧。","balloon#eb5ce9fd9c15731cbfd3b54ee7238c0e","机翻辅助：
+
+现在只能先解决其他人的疑问了吧。
+
+现在只能先解决别人的疑问了吗。
+
+现在只能先解决别人的疑问。"
+"speaker_主人公","主人公","speaker_主人公",""

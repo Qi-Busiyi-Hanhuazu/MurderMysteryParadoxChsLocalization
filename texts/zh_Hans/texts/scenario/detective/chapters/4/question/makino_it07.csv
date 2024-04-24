@@ -1,0 +1,61 @@
+"source","target","id","developer_comments"
+"balloon#69a52d9d410558b18445dac5afb13ffd","什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是吗，这样的话……","balloon#69a52d9d410558b18445dac5afb13ffd","机翻辅助：
+
+什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]是吗，这样的话……
+
+听说……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]这样啊……
+
+你说什么……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]这样的话……"
+"balloon#0544fbb50fa95faf429989973a6dbe6f","你看看这个！","balloon#0544fbb50fa95faf429989973a6dbe6f","机翻辅助：
+
+你看看这个！
+
+请看一下这个！"
+"balloon#360f08c149114e5405991773150f266e","这是旧报纸的剪报……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]啊，同样的记号！","balloon#360f08c149114e5405991773150f266e","机翻辅助：
+
+这是旧报纸的剪报……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]啊，同样的记号！
+
+旧报纸的剪报……[l][chara_mod time=""@f1"" name=""主人公"" face=""surprise""]啊，同样的记号！"
+"balloon#6b7f8d560e384b1f7a8203348cc3de03","没错，这是被称为“式音岛神隐”事件的剪报。","balloon#6b7f8d560e384b1f7a8203348cc3de03","机翻辅助：
+
+没错，这是被称为“式音岛神隐”事件的剪报。
+
+没错，就是被称为“式音岛神隐”的未解决事件的剪报。
+
+是的，被称为“式音岛神隐”，是未解决事件的剪报。"
+"balloon#6eb48830d9ab2d62a37e986fe8e607ce","其实[emb exp='tf.names.NPC.me']对这个事件也很感兴趣……","balloon#6eb48830d9ab2d62a37e986fe8e607ce","机翻辅助：
+
+其实[emb exp='tf.names.NPC.me']对这个事件也很感兴趣……
+
+其实[emb exp='tf.names.NPC.me']也对这个事件很感兴趣呢……
+
+其实[emb exp='tf.names.NPC.me']也对这个案子很感兴趣……"
+"balloon#0aae91667defb27dc88ad123ca664633","没想到会在这里看到同样的记号。","balloon#0aae91667defb27dc88ad123ca664633","机翻辅助：
+
+没想到会在这里看到同样的记号。
+
+没想到会这样遇到同样的标志。
+
+没想到会这样碰到同样的记号。"
+"balloon#a114970b7e3ff564ed392c82d31e1467","虽然不知道这个记号是当时的警察公开了多少情报……","balloon#a114970b7e3ff564ed392c82d31e1467","机翻辅助：
+
+虽然不知道这个记号是当时的警察公开了多少情报……
+
+这个标志，不知道当时的警察公开到什么程度……
+
+这个印章，不知道当时警察公开了多少信息……"
+"balloon#19450f9973c6b944913dfdaf07a0bbe6","作为过去事件的共通点，[font color=@3]在尸体旁都发现了用血画的记号[resetfont]。","balloon#19450f9973c6b944913dfdaf07a0bbe6","机翻辅助：
+
+作为过去事件的共通点，[font color=@3]在尸体旁都发现了用血画的记号[resetfont]。
+
+过去的事件的共同点是，尸体旁边一定会发现用血画的记号。[font color=@3][resetfont]
+
+过去的案件有一个共同点，就是一定会在尸体旁边发现用血画的印记。[font color=@3][resetfont]"
+"balloon#0a360a0dc24e9bb769fc952739093243","[font color=@3]在尸体旁用血画的记号[resetfont]吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]这究竟有什么意义呢？","balloon#0a360a0dc24e9bb769fc952739093243","机翻辅助：
+
+[font color=@3]在尸体旁用血画的记号[resetfont]吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]这究竟有什么意义呢？
+
+[font color=@3]尸体旁边用血画的印记[resetfont]吗……[l][chara_mod time=""@f1"" name=""主人公"" face=""think""]这其中有什么意义呢？
+
+[font color=@3]尸体旁边是用血画的记号吗……这有什么意义呢。[resetfont][l][chara_mod time=""@f1"" name=""主人公"" face=""think""]"
+"speaker_主人公","主人公","speaker_主人公",""

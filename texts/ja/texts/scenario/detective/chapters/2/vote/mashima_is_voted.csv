@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#23115e699da268ed0ca67161f09f0714","この票数で[emb exp='tf.names.NPC.me']が警官としてどれだけ信頼されているか、はっきりしますね。","balloon#23115e699da268ed0ca67161f09f0714","NPC"
+"balloon#e4688e17e4b526740919b6317cdc2665","[emb exp='tf.names.NPC.me']は、[font color=@3][emb exp='f.vote_count']票[resetfont]だ。","balloon#e4688e17e4b526740919b6317cdc2665","NPC"
+"balloon#de24c0b6693e675e14646b48d3a58040","誰かに疑われたりしてないか、内心ちょっと心配していましたよ。","balloon#de24c0b6693e675e14646b48d3a58040","NPC"
+"balloon#0e113505936fbdb1baa7173c950e2ffe","……これが報い、ですか。","balloon#0e113505936fbdb1baa7173c950e2ffe","NPC"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……。","balloon#9c1a2d238dba9a227727e6958e4f48f5","NPC"
+"balloon#4d477ed281d7b0ad6bf83b9b2ecb31e8","警官である[emb exp='tf.names.NPC.me']が、少しでも疑われているようでは、だめですね。","balloon#4d477ed281d7b0ad6bf83b9b2ecb31e8","NPC"

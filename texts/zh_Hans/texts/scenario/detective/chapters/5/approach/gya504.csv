@@ -1,0 +1,136 @@
+"source","target","id","developer_comments"
+"balloon#db738bde95ca2d70dbf2b480485cc5e2","那么，少年侦探君。","balloon#db738bde95ca2d70dbf2b480485cc5e2","机翻辅助：
+
+那么，少年侦探君。
+
+哎呀呀，少年侦探君。"
+"balloon#7d8663404e970fa26dca2451ef5971d4","我听说了，你一直在做侦探的工作。[l][chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]那也很好……","balloon#7d8663404e970fa26dca2451ef5971d4","机翻辅助：
+
+我听说了，你一直在做侦探的工作。[l][chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]那也很好……
+
+我听说你一直在模仿侦探。[l][chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]那也不错……
+
+我听说你一直在模仿侦探。[l][chara_mod time=""@f1"" name=""NPC"" face=""think"" position=""right""]那也很好……"
+"balloon#20ba4bad2710a91c699db2e5feec935a","[emb exp='tf.names.NPC.itsuki']自己没有不在场证明呢。","balloon#20ba4bad2710a91c699db2e5feec935a","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']自己没有不在场证明呢。
+
+[emb exp='tf.names.NPC.itsuki']自己没有不在场证明。
+
+[emb exp='tf.names.NPC.itsuki']自己也没有不在场证明。"
+"balloon#ce0fe49928649f091c27e8ef1c157b93","明明是犯人，却自以为是侦探。","balloon#ce0fe49928649f091c27e8ef1c157b93","机翻辅助：
+
+明明是犯人，却自以为是侦探。
+
+明明是犯人，却假装是侦探。
+
+明明是凶手，却装出侦探的样子。"
+"balloon#8dd97f6617f55e4fd4b4f636fe981349","你以为你是谁啊？","balloon#8dd97f6617f55e4fd4b4f636fe981349","机翻辅助：
+
+你以为你是谁啊？
+
+你打算干什么？
+
+你有什么打算？"
+"balloon#d12a09ebd0d4661c63e5659c30a8c1b7","在父母面前做出这种举动，难道不觉得丢脸吗？","balloon#d12a09ebd0d4661c63e5659c30a8c1b7","机翻辅助：
+
+在父母面前做出这种举动，难道不觉得丢脸吗？
+
+在父母面前那样模仿，不觉得羞耻吗？
+
+在父母面前做那种事，不觉得羞耻吗？"
+"balloon#cd8ee0ef3dd70c42c99d03158ef6588a","没有不在场证明是事实……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]我该怎么反驳才好？","balloon#cd8ee0ef3dd70c42c99d03158ef6588a","机翻辅助：
+
+没有不在场证明是事实……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]我该怎么反驳才好？
+
+没有不在场证明是事实……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]应该说什么呢。
+
+没有不在场证明是事实……[l][chara_mod time=""@f1"" name=""主人公"" face=""stunned""]该说什么好呢？"
+"SECRET_SELECTION/topic#ef3f50918372e7fbb00e876b6dbec8e6","即使如此，${itsuki.me}……","SECRET_SELECTION/topic#ef3f50918372e7fbb00e876b6dbec8e6","机翻辅助：
+
+即使如此，${itsuki.me}……
+
+尽管如此，${itsuki.me}……
+
+尽管如此，${itsuki.me}还是……"
+"SECRET_SELECTION/text1#cdec9b38f2e9a947870a35b0b38cd2b6","才不是犯人！","SECRET_SELECTION/text1#cdec9b38f2e9a947870a35b0b38cd2b6","机翻辅助：
+
+才不是犯人！
+
+我不知道犯人！
+
+我不知道凶手是谁！"
+"SECRET_SELECTION/text2#863a024e6f59c4c0c336aab81fdc1729","才不是什么犯人！","SECRET_SELECTION/text2#863a024e6f59c4c0c336aab81fdc1729","机翻辅助：
+
+才不是什么犯人！
+
+不是犯人！
+
+我不是凶手！"
+"SECRET_SELECTION/text3#b9748784d5b8b0ea05b8160164663ff0","才没有什么犯人！","SECRET_SELECTION/text3#b9748784d5b8b0ea05b8160164663ff0","机翻辅助：
+
+才没有什么犯人！
+
+没有犯人！"
+"balloon#97adea6217be75609e5d954e5bc33f54","……你说你不知道？？","balloon#97adea6217be75609e5d954e5bc33f54","机翻辅助：
+
+……你说你不知道？？
+
+……不知道，是吗？？
+
+……不知道？？"
+"balloon#81588b03b7d3834e1a3a3647f26f7d2f","……你说你不是犯人？？","balloon#81588b03b7d3834e1a3a3647f26f7d2f","机翻辅助：
+
+……你说你不是犯人？？
+
+……不是犯人吗？？
+
+……不是凶手？？"
+"balloon#f8b5e9b21e91d22e7047530742ebb436","……你说没有犯人？？","balloon#f8b5e9b21e91d22e7047530742ebb436","机翻辅助：
+
+……你说没有犯人？？
+
+……不在，是吗？？
+
+……没有？？"
+"balloon#fad3a9786f750c2f86148f14e71aefb0","哎呀哎呀哎呀哎呀。","balloon#fad3a9786f750c2f86148f14e71aefb0","机翻辅助：
+
+哎呀哎呀哎呀哎呀。
+
+哎呀哎呀哎呀。"
+"balloon#317963f39ca99443ea52657ff33efd84","名侦探居然打算用这种脑袋空空的气势来蒙混过去。","balloon#317963f39ca99443ea52657ff33efd84","机翻辅助：
+
+名侦探居然打算用这种脑袋空空的气势来蒙混过去。
+
+名侦探竟然能凭着这种头脑空空的气势渡过难关。
+
+名侦探就凭这种头脑空虚的气势，想要突破。"
+"balloon#422760a6edeb64757b459a4097268981","看来你已经烧坏脑袋了呢，少年侦探。","balloon#422760a6edeb64757b459a4097268981","机翻辅助：
+
+看来你已经烧坏脑袋了呢，少年侦探。
+
+这好像是烤好的，少年侦探君。
+
+看来是烧翻了，少年侦探君。"
+"balloon#7de9792a6c7887254ca1cc4a2cffce6d","虽然被[emb exp='tf.names.itsuki.NPC']这么说很不甘心，但他说得没错。","balloon#7de9792a6c7887254ca1cc4a2cffce6d","机翻辅助：
+
+虽然被[emb exp='tf.names.itsuki.NPC']这么说很不甘心，但他说得没错。
+
+虽然被[emb exp='tf.names.itsuki.NPC']这么说有点冤枉，但事实确实如此。
+
+被[emb exp='tf.names.itsuki.NPC']说了很不甘心，就是这样。"
+"balloon#dc7ad183996daad48a6769d5cb6587e3","这不是光靠气势就能蒙混过去的状况。","balloon#dc7ad183996daad48a6769d5cb6587e3","机翻辅助：
+
+这不是光靠气势就能蒙混过去的状况。
+
+并不是只靠气势就能克服的状况。
+
+这不是光靠气势就能克服的状况。"
+"balloon#04e4077b116f412e7a59c5835f432b97","既然无法证明[emb exp='tf.names.itsuki.me']的不在场证明，就必须找出其他证据。","balloon#04e4077b116f412e7a59c5835f432b97","机翻辅助：
+
+既然无法证明[emb exp='tf.names.itsuki.me']的不在场证明，就必须找出其他证据。
+
+既然不能证明[emb exp='tf.names.itsuki.me']的不在场证明，就必须找出其他证据。
+
+既然[emb exp='tf.names.itsuki.me']不能证明我的不在场证明，我必须找到其他的东西。"
+"speaker_主人公","主人公","speaker_主人公",""

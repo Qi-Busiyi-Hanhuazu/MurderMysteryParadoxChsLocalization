@@ -1,0 +1,160 @@
+"source","target","id","developer_comments"
+"text#4dde8f937618f185c01f6d0e6518a6f5","${character.name}询问线索……","text#4dde8f937618f185c01f6d0e6518a6f5","机翻辅助：
+
+${character.name}询问线索……
+
+${character.name}提问的线索是……
+
+${character.name}的线索是……"
+"text#49314b1a9a40152f469fa75ed852ffe3","剩余${getCost()}分→ ","text#49314b1a9a40152f469fa75ed852ffe3","机翻辅助：
+
+剩余${getCost()}分→ 
+
+剩余部分${getCost()}"
+"text#4395ef2c8c1612e0fd14cbd814836035","${getCost() - cost}分","text#4395ef2c8c1612e0fd14cbd814836035","机翻辅助：
+
+${getCost() - cost}分
+
+${getCost() - cost}分钟"
+"text#b2c4649c07383d6bd984d17d2f165ad5","${charactor.sysname}我对的疑问，答案是……","text#b2c4649c07383d6bd984d17d2f165ad5","机翻辅助：
+
+${charactor.sysname}我对的疑问，答案是……
+
+${charactor.sysname}对于这个疑问，我的回答是……"
+"text#c6989f3f7bfd6481b86aea83c4185338","${charactor.name}的疑问","text#c6989f3f7bfd6481b86aea83c4185338","机翻辅助：
+
+${charactor.name}的疑问
+
+${charactor.name}疑问"
+"text#1ad9dc0af2744eaad8a1d87d18bac422","树的推理","text#1ad9dc0af2744eaad8a1d87d18bac422","机翻辅助：
+
+树的推理"
+"text#3d2487ff202a626f0c1128d77ef87bdb","剩余${cost}分→ ","text#3d2487ff202a626f0c1128d77ef87bdb","机翻辅助：
+
+剩余${cost}分→ 
+
+剩余部分${cost}"
+"text#bdbad1005287d0e4fb758e57dc8f9977","${new_cost}分","text#bdbad1005287d0e4fb758e57dc8f9977","机翻辅助：
+
+${new_cost}分
+
+${new_cost}分钟"
+"text#0a80e88c6f654b8b2dc02a752fdf8e9a","剩余","text#0a80e88c6f654b8b2dc02a752fdf8e9a","机翻辅助：
+
+剩余
+
+其余"
+"text#daf783c8cdf97643b4d2b4ec6e5b8f21","分","text#daf783c8cdf97643b4d2b4ec6e5b8f21","机翻辅助：
+
+分
+
+分钟"
+"text#a22af7de6aa5f273b4694b9b10a4814f","${mist_save.npc}要将推理告诉吗？","text#a22af7de6aa5f273b4694b9b10a4814f","机翻辅助：
+
+${mist_save.npc}要将推理告诉吗？
+
+${mist_save.npc}告知推理吗？"
+"text#4e55c82da35899dad22d2b6cf3cb2b7d","${character.name}要现在立刻将推理告诉吗？","text#4e55c82da35899dad22d2b6cf3cb2b7d","机翻辅助：
+
+${character.name}要现在立刻将推理告诉吗？
+
+${character.name}现在马上去传达这个推理吗？"
+"text#17ea220303087daf374455affb01cf5b","※转移到与${character.name}的密谈。","text#17ea220303087daf374455affb01cf5b","机翻辅助：
+
+※转移到与${character.name}的密谈。
+
+转移到与※${character.name}的密谈。
+
+※将进入与的密谈。${character.name}"
+"text#f6118280b10685c86bbe4ded92d2fc13","推理的说服力","text#f6118280b10685c86bbe4ded92d2fc13","机翻辅助：
+
+推理的说服力"
+"text#93473b34f80d4e84196d12a5b702bac2","要对的疑问进行推理吗？","text#93473b34f80d4e84196d12a5b702bac2","机翻辅助：
+
+要对的疑问进行推理吗？
+
+推理问题的答案吗？
+
+推理对疑问的答案？"
+"text#0078da09e9174398d3087423e5a131a9","将新的【线索】写入笔记本。","text#0078da09e9174398d3087423e5a131a9","机翻辅助：
+
+将新的【线索】写入笔记本。
+
+把新的线索记在笔记本上。
+
+在笔记本上记下了新的线索。"
+"text#2e6dca70feb603c2130ecba960fa33b2","${npc_name}将的【线索】写入笔记本。","text#2e6dca70feb603c2130ecba960fa33b2","机翻辅助：
+
+${npc_name}将的【线索】写入笔记本。
+
+${npc_name}的【线索】记在笔记本上。"
+"text#d75d7460577f4e5376cb024db2aee6ed","${npc_name}将的【疑问】写入笔记本。","text#d75d7460577f4e5376cb024db2aee6ed","机翻辅助：
+
+${npc_name}将的【疑问】写入笔记本。
+
+${npc_name}的【疑问】记在笔记本上。
+
+${npc_name}的【疑问】写在笔记本上。"
+"text#14c8006271ebf5aac78f16505f42bd65","将新的【疑问】写入笔记本。","text#14c8006271ebf5aac78f16505f42bd65","机翻辅助：
+
+将新的【疑问】写入笔记本。
+
+把新的【疑问】写在笔记本上。
+
+在笔记本上记下了新的疑问。"
+"text#a4f60e12bdb80e1867ae2c88b6f5bf54","※可从“推理笔记”内的【地图】进行确认。","text#a4f60e12bdb80e1867ae2c88b6f5bf54","机翻辅助：
+
+※可从“推理笔记”内的【地图】进行确认。
+
+※可以从“推理笔记”内的【地图】确认。
+
+※可从“推理笔记”内的【地图】中确认。"
+"text#52dc5fbd23929d5eab0942882d4aefa2","${chara_name}要询问关于音彦哥的线索吗？","text#52dc5fbd23929d5eab0942882d4aefa2","机翻辅助：
+
+${chara_name}要询问关于音彦哥的线索吗？
+
+${chara_name}你要问关于这个线索的问题吗？
+
+${chara_name}问关于这个线索吗？"
+"text#767d409996a79c10d34037e50fc8ca58","※若是提出会让人起疑的问题，有可能会降低信用度。","text#767d409996a79c10d34037e50fc8ca58","机翻辅助：
+
+※若是提出会让人起疑的问题，有可能会降低信用度。
+
+※怀疑的问题可能会减少信用度。
+
+※令人怀疑的提问可能会降低信誉度。"
+"text#4c40da19b1e762d2aa16609c451ea31d","分 ","text#4c40da19b1e762d2aa16609c451ea31d","机翻辅助：
+
+分 
+
+分钟"
+"text#e0161069ae4aec840f27dac0fe7aa3e7","要从这一章开始游戏吗？","text#e0161069ae4aec840f27dac0fe7aa3e7","机翻辅助：
+
+要从这一章开始游戏吗？
+
+从这个章节开始游戏吗？"
+"text#2e4747dd7447c4d980dfc45cfc0d011c","※自动存档将会被覆盖。","text#2e4747dd7447c4d980dfc45cfc0d011c","机翻辅助：
+
+※自动存档将会被覆盖。
+
+※自动保存数据被覆盖。
+
+※自动保护数据将被重写。"
+"text#575f45db83e0f75135de5e2589ccbca3","- 是","text#575f45db83e0f75135de5e2589ccbca3","机翻辅助：
+
+- 是
+
+- 是的"
+"text#2511191259c4c14a55e3417e9cb80583","- 否","text#2511191259c4c14a55e3417e9cb80583","机翻辅助：
+
+- 否
+
+- 没有"
+"text#e24c97149b52ef13078e3204061f641a","- 确定","text#e24c97149b52ef13078e3204061f641a","机翻辅助：
+
+- 确定
+
+- 决定"
+"text#5b0b3067cba3a3c7abeca764f43847ff","- 取消","text#5b0b3067cba3a3c7abeca764f43847ff","机翻辅助：
+
+- 取消"

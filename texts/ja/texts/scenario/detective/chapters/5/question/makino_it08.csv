@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#60e229626aa637b8e357ff4b3b7e7ae1","なるほど……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]そうはいっても、[emb exp='tf.names.NPC.jin']と[emb exp='tf.names.NPC.kageyama']はほぼ初対面の気がするけどね。","balloon#60e229626aa637b8e357ff4b3b7e7ae1","NPC"
+"balloon#85de6d06ad1d44f810b0cafa5910aefc","でも、初対面といえば……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]ちょっと思い出したことがある。","balloon#85de6d06ad1d44f810b0cafa5910aefc","NPC"
+"balloon#43ce48da25fb823ee4b0cb7d5c42fc7d","今朝、[emb exp='tf.names.NPC.jin']と話をしたとき……","balloon#43ce48da25fb823ee4b0cb7d5c42fc7d","NPC"
+"balloon#a0271894d1c2aede527f5f3b0f666220","彼、[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]の話をしたんだ。","balloon#a0271894d1c2aede527f5f3b0f666220","NPC"
+"balloon#7eb3b2beacd7257a7f0f4d062baa1b7b","いったい、いつ接点があったのか不思議だったんだけど。","balloon#7eb3b2beacd7257a7f0f4d062baa1b7b","NPC"
+"balloon#ce0a125fe157b6db1367a4fe5638090b","えっ、[emb exp='tf.names.itsuki.jin']は亡くなる前の[font color=@3][emb exp='tf.names.itsuki.mashima']に会ったことがある[resetfont]のか。","balloon#ce0a125fe157b6db1367a4fe5638090b","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

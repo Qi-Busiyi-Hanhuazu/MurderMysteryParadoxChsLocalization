@@ -1,0 +1,61 @@
+"source","target","id","developer_comments"
+"balloon#362977c852229f75bc75686fd16df2be","那么，就由[emb exp='tf.names.NPC.me']来说吧。","balloon#362977c852229f75bc75686fd16df2be","机翻辅助：
+
+那么，就由[emb exp='tf.names.NPC.me']来说吧。
+
+那么，[emb exp='tf.names.NPC.me']来谈谈。
+
+那么，[emb exp='tf.names.NPC.me']来说吧。"
+"balloon#e3368ee0074d0a0977cb7b47b86278e6","哎呀，虽然只是隐约感觉到……","balloon#e3368ee0074d0a0977cb7b47b86278e6","机翻辅助：
+
+哎呀，虽然只是隐约感觉到……
+
+哎呀，已经差不多了……
+
+哎呀，已经没有什么了……"
+"balloon#a3cfc33af47e38f4e0bc76ba78d47779","我感受到各位严厉的视线了哦。","balloon#a3cfc33af47e38f4e0bc76ba78d47779","机翻辅助：
+
+我感受到各位严厉的视线了哦。
+
+我感受到了大家严厉的视线。"
+"balloon#004b54fa98fd5e07d2bd3d375ad81663","[emb exp='tf.names.NPC.me']有那么可疑吗！？","balloon#004b54fa98fd5e07d2bd3d375ad81663","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有那么可疑吗！？
+
+[emb exp='tf.names.NPC.me']有那么可疑吗？？
+
+[emb exp='tf.names.NPC.me']有那么奇怪吗！？"
+"balloon#9497add7be6215281a812d9306dd00ab","不过，无论各位怎么想，我都要说清楚。","balloon#9497add7be6215281a812d9306dd00ab","机翻辅助：
+
+不过，无论各位怎么想，我都要说清楚。
+
+但是，不管大家怎么想，我都会说清楚的。
+
+但是，不管大家怎么想，我都会明确地说出来。"
+"balloon#3edad2522b1532caa1c2d6895916ad73","这个影山稔是……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""][font color=@3]无辜[resetfont]！","balloon#3edad2522b1532caa1c2d6895916ad73","机翻辅助：
+
+这个影山稔是……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""][font color=@3]无辜[resetfont]！
+
+我影山稔……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""][font color=@3]是无辜的！[resetfont]
+
+这个影山稔……[l][chara_mod time=""@f1"" name=""NPC"" face=""what"" position=""right""][font color=@3]是无辜的！[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#597ec9f1871fed9fad9f792061ddbb30","<font color='@3'>对于${itsuki_p.NPC}的主张</font>，${itsuki_p.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#597ec9f1871fed9fad9f792061ddbb30","机翻辅助：
+
+<font color='@3'>对于${itsuki_p.NPC}的主张</font>，${itsuki_p.me}的想法是……
+
+<font color='@3'>对于${itsuki_p.NPC}的主张，${itsuki_p.me}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#f28a64be79d9b9c87bc656e0c4fabe11","${itsuki_p.NPC}是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#f28a64be79d9b9c87bc656e0c4fabe11","机翻辅助：
+
+${itsuki_p.NPC}是犯人！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#10926fdd58596c42c37bfb5a10abbaff","${itsuki_p.NPC}不是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#10926fdd58596c42c37bfb5a10abbaff","机翻辅助：
+
+${itsuki_p.NPC}不是犯人！
+
+${itsuki_p.NPC}不是凶手！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#13ed618802f682a9310382d7545f35bc","无法断定！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#13ed618802f682a9310382d7545f35bc","机翻辅助：
+
+无法断定！
+
+哪边都不能说！
+
+都不能说！"

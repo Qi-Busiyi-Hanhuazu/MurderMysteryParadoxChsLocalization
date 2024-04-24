@@ -1,0 +1,82 @@
+"source","target","id","developer_comments"
+"balloon#55b6b5878d94f4d3da828ce4639d7022","那可以请你们听[emb exp='tf.names.NPC.me']说吗？","balloon#55b6b5878d94f4d3da828ce4639d7022","机翻辅助：
+
+那可以请你们听[emb exp='tf.names.NPC.me']说吗？
+
+那就听[emb exp='tf.names.NPC.me']说吧。
+
+那么，请听[emb exp='tf.names.NPC.me']说。"
+"message10#d493189107cb9398edc608c9beddfa2d","- 彩叶的主张 -","message10#d493189107cb9398edc608c9beddfa2d","机翻辅助：
+
+- 彩叶的主张 -"
+"balloon#3bd56e8e3652a0652561e28a9b5d796d","其实[emb exp='tf.names.NPC.me']啊，听到了“消失的西瓜是自己的”这样奇怪的发言……","balloon#3bd56e8e3652a0652561e28a9b5d796d","机翻辅助：
+
+其实[emb exp='tf.names.NPC.me']啊，听到了“消失的西瓜是自己的”这样奇怪的发言……
+
+其实[emb exp='tf.names.NPC.me']啊，听到了“消失的西瓜是我的”这种奇怪的话……
+
+其实[emb exp='tf.names.NPC.me']听到过“消失的西瓜是我的”这样奇怪的发言……"
+"balloon#728228c9c6b345fd33707ad8971c2012","从[emb exp='tf.names.NPC.chiyo']的口中！","balloon#728228c9c6b345fd33707ad8971c2012","机翻辅助：
+
+从[emb exp='tf.names.NPC.chiyo']的口中！
+
+从[emb exp='tf.names.NPC.chiyo']的嘴里！"
+"balloon#24cfcc4f2bc027552c8eee1784b5f231","除了犯人之外，应该没有人会认为消失的西瓜是自己的吧……？","balloon#24cfcc4f2bc027552c8eee1784b5f231","机翻辅助：
+
+除了犯人之外，应该没有人会认为消失的西瓜是自己的吧……？
+
+除了犯人以外，难道不认为消失的西瓜是自己的份儿吗……？
+
+除了凶手，大概没有人会认为消失的西瓜是自己的吧……？"
+"balloon#8f5d57693a610692ab6cecdd5ef1d999","所以[emb exp='tf.names.NPC.me']觉得[font color=@3][emb exp='tf.names.NPC.chiyo']很可疑[resetfont]！","balloon#8f5d57693a610692ab6cecdd5ef1d999","机翻辅助：
+
+所以[emb exp='tf.names.NPC.me']觉得[font color=@3][emb exp='tf.names.NPC.chiyo']很可疑[resetfont]！
+
+所以[emb exp='tf.names.NPC.me']觉得[emb exp='tf.names.NPC.chiyo']很可疑！[font color=@3][resetfont]
+
+所以[emb exp='tf.names.NPC.me']觉得[emb exp='tf.names.NPC.chiyo']很奇怪！[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#69d9245e9ce539967aefc4824f5e43da","关于<font color='@3'>${itsuki.chiyo}</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#69d9245e9ce539967aefc4824f5e43da","机翻辅助：
+
+<font color='@3'>${itsuki.me}对${itsuki.chiyo}</font>的想法是……
+
+<font color='@3'>对${itsuki.chiyo}</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.chiyo}的想法是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#03db304c2f99b71309071b3436c70733","嗯，${itsuki.chiyo}很可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#03db304c2f99b71309071b3436c70733","机翻辅助：
+
+嗯，${itsuki.chiyo}很可疑！
+
+嗯，${itsuki.chiyo}很奇怪！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#1aec1865e138292465c301ea698040ec","不对，${itsuki.chiyo}不可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#1aec1865e138292465c301ea698040ec","机翻辅助：
+
+不对，${itsuki.chiyo}不可疑！
+
+不，${itsuki.chiyo}不奇怪！
+
+不，${itsuki.chiyo}并不奇怪！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#af98b4f672a96226fd79a31467b5918a","这样讲的${itsuki.NPC}才可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#af98b4f672a96226fd79a31467b5918a","机翻辅助：
+
+这样讲的${itsuki.NPC}才可疑！
+
+那样的${itsuki.NPC}，才奇怪！
+
+这样的${itsuki.NPC}才可疑！"
+"message10#1d332465886ae5b6160aad0b23ff0c8a","树[font color=@1]同意[resetfont]了彩叶的主张。","message10#1d332465886ae5b6160aad0b23ff0c8a","机翻辅助：
+
+树[font color=@1]同意[resetfont]了彩叶的主张。
+
+树赞同彩叶的主张。[font color=@1][resetfont]
+
+树对彩叶的主张表示赞同。[font color=@1][resetfont]"
+"message10#faa91c3751a6f5d0226b251d42060ac9","树[font color=@1]没有同意[resetfont]彩叶的主张。","message10#faa91c3751a6f5d0226b251d42060ac9","机翻辅助：
+
+树[font color=@1]没有同意[resetfont]彩叶的主张。
+
+树对彩叶的主张[font color=@1]不赞同[resetfont]。
+
+树并不赞同彩叶的主张。[font color=@1][resetfont]"
+"message10#48b23d6a7d95224fd4b6cf4260aeb0eb","树[font color=@1]否定[resetfont]了彩叶的主张。","message10#48b23d6a7d95224fd4b6cf4260aeb0eb","机翻辅助：
+
+树[font color=@1]否定[resetfont]了彩叶的主张。
+
+树否定了彩叶的主张。[font color=@1][resetfont]"

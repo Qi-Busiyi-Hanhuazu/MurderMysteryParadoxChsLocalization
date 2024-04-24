@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#352bcee93cfdedb99835919f0d29c3d0","収れん火災……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]まさかそんなトリックが仕掛けられていたなんて。","balloon#352bcee93cfdedb99835919f0d29c3d0","NPC"
+"balloon#9b5981f3d422bc046e576deabe7f6bc6","それが仕掛けられたのって、[emb exp='tf.names.NPC.me']が火元を見つけた[font color=@3]12:53[resetfont]より前なのよね。","balloon#9b5981f3d422bc046e576deabe7f6bc6","NPC"
+"balloon#99e91155f848a35739e39b3282406528","その時間にアリバイがないのは……。","balloon#99e91155f848a35739e39b3282406528","NPC"
+"balloon#07d5d2b41669e441e3e8f05e3d7b505d","そう、犯人は……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]でもなんで……。","balloon#07d5d2b41669e441e3e8f05e3d7b505d","主人公"
+"balloon#165e60bf05f22268aaedab36eecfc831","つまり……。","balloon#165e60bf05f22268aaedab36eecfc831","NPC"
+"balloon#55040b190cc5199b9595a79a64c149f9","そう、収れん火災によって、犯行時刻と確認すべきアリバイが変わるはずだ。","balloon#55040b190cc5199b9595a79a64c149f9","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,1263 @@
+"source","target","id","developer_comments"
+"[0]/text","犯案时间，是指发生小骚动的时间吧。","[0]/text","机翻辅助：
+
+犯案时间，是指发生小骚动的时间吧。
+
+犯案时间就是发生骚乱的时间。
+
+犯罪时间是发生骚乱的时间吧。"
+"[1]/text","不在场证明，是吗？","[1]/text","机翻辅助：
+
+不在场证明，是吗？
+
+不在场证明吗。
+
+不在场证明吗？"
+"[2]/text","……犯案时间，我想想。！","[2]/text","机翻辅助：
+
+……犯案时间，我想想。！
+
+……犯罪时间，是啊。"
+"[3]/text","你一定回答得出来吧，[emb exp='tf.names.kumiko_p.itsuki']！","[3]/text","机翻辅助：
+
+你一定回答得出来吧，[emb exp='tf.names.kumiko_p.itsuki']！
+
+如果是你的话就能回答了吧，[emb exp='tf.names.kumiko_p.itsuki']！
+
+你能回答的吧，[emb exp='tf.names.kumiko_p.itsuki']！"
+"[4]/text","呃，这个……","[4]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[6]/text","………………","[6]/text",""
+"[7]/text","…………","[7]/text",""
+"[8]/text","……","[8]/text",""
+"[10]/text","……咦，你是认真的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……","[10]/text","机翻辅助：
+
+……咦，你是认真的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……
+
+……诶，你是认真说的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……"
+"[13]/text","我那个时间的确和[emb exp='tf.names.kamishiro.itsuki']在一起……","[13]/text","机翻辅助：
+
+我那个时间的确和[emb exp='tf.names.kamishiro.itsuki']在一起……
+
+确实那个时间和[emb exp='tf.names.kamishiro.itsuki']在一起……
+
+那个时间确实是和[emb exp='tf.names.kamishiro.itsuki']在一起……"
+"[14]/text","………………","[14]/text",""
+"[15]/text","…………","[15]/text",""
+"[16]/text","……","[16]/text",""
+"[18]/text","对啊，谢谢你。[l]
+[chara_mod time='@f1' name='久美子' face='what'][emb exp='tf.names.kumiko_p.itsuki']……","[18]/text","机翻辅助：
+
+对啊，谢谢你。[l]
+[chara_mod time='@f1' name='久美子' face='what'][emb exp='tf.names.kumiko_p.itsuki']……
+
+是啊，谢谢。[l]
+[chara_mod time='@f1' name='久美子' face='what'][emb exp='tf.names.kumiko_p.itsuki']……"
+"[21]/text","………………","[21]/text",""
+"[22]/text","…………","[22]/text",""
+"[23]/text","……","[23]/text",""
+"[25]/text","你现在才说这个做什么？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……","[25]/text","机翻辅助：
+
+你现在才说这个做什么？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……
+
+你现在在说什么？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……
+
+事到如今，你在说什么呢？[l]
+[chara_mod time='@f1' name='久美子' face='confused'][emb exp='tf.names.kumiko_p.itsuki']……"
+"[28]/text","顺带一提，[emb exp='tf.names.ebihara_p.me']在骚动发生前都和[emb exp='tf.names.ebihara_p.yohei']在一起哦！","[28]/text","机翻辅助：
+
+顺带一提，[emb exp='tf.names.ebihara_p.me']在骚动发生前都和[emb exp='tf.names.ebihara_p.yohei']在一起哦！
+
+顺便说一下，[emb exp='tf.names.ebihara_p.me']在骚动之前一直和[emb exp='tf.names.ebihara_p.yohei']在一起哦！
+
+顺便一提，直到骚动之前[emb exp='tf.names.ebihara_p.me']还和[emb exp='tf.names.ebihara_p.yohei']在一起呢！"
+"[29]/text","你不用[emb exp='tf.names.mashima_p.me']回答不在场证明吧。[l][chara_mod time='@f1' name='真島' face='normal']因为和[emb exp='tf.names.mashima_p.kumiko']在一起。","[29]/text","机翻辅助：
+
+你不用[emb exp='tf.names.mashima_p.me']回答不在场证明吧。[l][chara_mod time='@f1' name='真島' face='normal']因为和[emb exp='tf.names.mashima_p.kumiko']在一起。
+
+[emb exp='tf.names.mashima_p.me']没有必要回答不在场证明吧。[l][chara_mod time='@f1' name='真島' face='normal']因为和[emb exp='tf.names.mashima_p.kumiko']在一起。
+
+[emb exp='tf.names.mashima_p.me']没必要回答不在场证明吧。[l][chara_mod time='@f1' name='真島' face='normal']因为我都和[emb exp='tf.names.mashima_p.kumiko']在一起。"
+"[30]/text","[emb exp='tf.names.kamishiro.me']在诊所都和[emb exp='tf.names.kamishiro.chiyo']在一起哦。[l]
+[chara_mod time='@f1' name='神代' face='laugh']请去问本人。","[30]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.me']在诊所都和[emb exp='tf.names.kamishiro.chiyo']在一起哦。[l]
+[chara_mod time='@f1' name='神代' face='laugh']请去问本人。
+
+[emb exp='tf.names.kamishiro.me']在诊所和[emb exp='tf.names.kamishiro.chiyo']在一起。[l]
+[chara_mod time='@f1' name='神代' face='laugh']请问一下本人。
+
+[emb exp='tf.names.kamishiro.me']在诊所和[emb exp='tf.names.kamishiro.chiyo']在一起。请问问您本人。[l]
+[chara_mod time='@f1' name='神代' face='laugh']"
+"[31]/text","……","[31]/text",""
+"[32]/text","谢谢大家。[l]
+[chara_mod time='@f1' name='久美子' face='smile']这样我就确定自己的想法了。","[32]/text","机翻辅助：
+
+谢谢大家。[l]
+[chara_mod time='@f1' name='久美子' face='smile']这样我就确定自己的想法了。
+
+谢谢大家。[l]
+[chara_mod time='@f1' name='久美子' face='smile']这样一来，我对自己的想法有了信心。
+
+谢谢大家。这么一来，我就确信自己的想法了。[l]
+[chara_mod time='@f1' name='久美子' face='smile']"
+"[33]/text","在发生小骚动之前，你都在照相馆，这表示你……","[33]/text","机翻辅助：
+
+在发生小骚动之前，你都在照相馆，这表示你……
+
+在模糊起床之前到照相馆的话，你……
+
+你在少爷起床之前就去了照相馆，说明你……"
+"[34]/text","简单来说，就是很可疑。","[34]/text","机翻辅助：
+
+简单来说，就是很可疑。
+
+坦率地说，很奇怪。
+
+直截了当地说，很可疑。"
+"[35]/text","唔嗯，也就是说[emb exp='tf.names.mashima_p.itsuki']比[emb exp='tf.names.mashima_p.kumiko']先到照相馆了。","[35]/text","机翻辅助：
+
+唔嗯，也就是说[emb exp='tf.names.mashima_p.itsuki']比[emb exp='tf.names.mashima_p.kumiko']先到照相馆了。
+
+嗯，[emb exp='tf.names.mashima_p.itsuki']比[emb exp='tf.names.mashima_p.kumiko']先在照相馆。
+
+嗯，[emb exp='tf.names.mashima_p.itsuki']比[emb exp='tf.names.mashima_p.kumiko']先到了照相馆。"
+"[36]/text","可是，你看起来不像坏孩子。[l]
+[chara_mod time='@f1' name='久美子' face='trouble']所以请相信我……","[36]/text","机翻辅助：
+
+可是，你看起来不像坏孩子。[l]
+[chara_mod time='@f1' name='久美子' face='trouble']所以请相信我……
+
+但我也看不出你像个坏孩子。[l]
+[chara_mod time='@f1' name='久美子' face='trouble']所以希望你能相信我……
+
+但是，你看起来不像坏孩子。所以，我想让你相信我……[l]
+[chara_mod time='@f1' name='久美子' face='trouble']"
+"[37]/text","呃，这个……","[37]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[40]/text","的确，[emb exp='tf.names.kumiko_p.itsuki']不可能犯案呢。","[40]/text","机翻辅助：
+
+的确，[emb exp='tf.names.kumiko_p.itsuki']不可能犯案呢。
+
+的确，[emb exp='tf.names.kumiko_p.itsuki']是不可能作案的。
+
+确实，[emb exp='tf.names.kumiko_p.itsuki']是不可能犯罪的。"
+"[41]/text","@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！","[41]/text","机翻辅助：
+
+@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！
+
+@好，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]，好像有充分的说服力
+[font color=@3]！[resetfont]
+
+@好吧，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]
+[font color=@3][resetfont]似乎有足够的说服力！"
+"[42]/text","[emb exp='tf.names.kumiko_p.itsuki']……","[42]/text",""
+"[45]/text","原来如此，看来大家都能接受。","[45]/text","机翻辅助：
+
+原来如此，看来大家都能接受。
+
+原来如此，这似乎可以接受。
+
+原来如此，那好像是可以理解的话。"
+"[47]/text","……","[47]/text",""
+"[48]/text","……","[48]/text",""
+"[50]/text","……你什么都不回答呢。","[50]/text","机翻辅助：
+
+……你什么都不回答呢。
+
+……什么都不回答我呢。
+
+……什么都不回答。"
+"[51]/text","[emb exp='tf.names.kumiko_p.itsuki']，太遗憾了……","[51]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']，太遗憾了……
+
+[emb exp='tf.names.kumiko_p.itsuki']，真遗憾啊……"
+"[53]/text","那是真的吗？[l]
+[chara_mod time='@f1' name='NPC' face='stunned'][emb exp='tf.names.kumiko_p.me']总觉得[font color=@3]不对[resetfont]……","[53]/text","机翻辅助：
+
+那是真的吗？[l]
+[chara_mod time='@f1' name='NPC' face='stunned'][emb exp='tf.names.kumiko_p.me']总觉得[font color=@3]不对[resetfont]……
+
+这是真的吗？[l]
+[chara_mod time='@f1' name='NPC' face='stunned'][emb exp='tf.names.kumiko_p.me']总觉得[font color=@3]不太对……[resetfont]
+
+这是真的吗？[l]
+[chara_mod time='@f1' name='NPC' face='stunned'][emb exp='tf.names.kumiko_p.me']总觉得不是[font color=@3]……[resetfont]"
+"[54]/text","@看来[emb exp='tf.names.itsuki.me']的推理[font color=@3]线索不够充分[resetfont]……","[54]/text","机翻辅助：
+
+@看来[emb exp='tf.names.itsuki.me']的推理[font color=@3]线索不够充分[resetfont]……
+
+@看来[emb exp='tf.names.itsuki.me']的推理缺少线索……[font color=@3][resetfont]
+
+@看来[emb exp='tf.names.itsuki.me']的推理缺乏线索……[font color=@3][resetfont]"
+"[55]/text","[emb exp='tf.names.kumiko_p.itsuki']……","[55]/text",""
+"[58]/text","[emb exp='tf.names.ebihara_p.itsuki']，你很可疑哦！","[58]/text","机翻辅助：
+
+[emb exp='tf.names.ebihara_p.itsuki']，你很可疑哦！
+
+[emb exp='tf.names.ebihara_p.itsuki']，你真奇怪！
+
+[emb exp='tf.names.ebihara_p.itsuki']，你太可疑了！"
+"[60]/text","的确，会让人怀疑呢。","[60]/text","机翻辅助：
+
+的确，会让人怀疑呢。
+
+确实，很想怀疑呢。
+
+确实令人怀疑。"
+"[62]/text","很遗憾，我不得不怀疑你。","[62]/text","机翻辅助：
+
+很遗憾，我不得不怀疑你。"
+"[64]/text","我确实觉得没见过[emb exp='tf.names.ebihara_p.itsuki']……[l][chara_mod time='@f1' name='海老原' face='badsurprise']你下手了吗？","[64]/text","机翻辅助：
+
+我确实觉得没见过[emb exp='tf.names.ebihara_p.itsuki']……[l][chara_mod time='@f1' name='海老原' face='badsurprise']你下手了吗？
+
+确实，我以为[emb exp='tf.names.ebihara_p.itsuki']是看不到的脸……[l][chara_mod time='@f1' name='海老原' face='badsurprise']做了吗？
+
+的确，我一直以为你没见过[emb exp='tf.names.ebihara_p.itsuki']……[l][chara_mod time='@f1' name='海老原' face='badsurprise']做了吗？"
+"[65]/text","结果，我到现在还是不知道你是谁。","[65]/text","机翻辅助：
+
+结果，我到现在还是不知道你是谁。
+
+结果，你是哪里的谁，到现在还不清楚。
+
+结果，到现在还不知道你是哪里的谁。"
+"[66]/text","[emb exp='tf.names.kumiko_p.itsuki']……","[66]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']……"
+"[67]/text","如果[emb exp='tf.names.kamishiro.itsuki']不是犯人，[font color=@3]能不能让我看看证明你无辜的证据？[resetfont]","[67]/text","机翻辅助：
+
+如果[emb exp='tf.names.kamishiro.itsuki']不是犯人，[font color=@3]能不能让我看看证明你无辜的证据？[resetfont]
+
+如果[emb exp='tf.names.kamishiro.itsuki']不是犯人的话，能给我看一下证明自己无罪的证据吗？[font color=@3][resetfont]
+
+如果[emb exp='tf.names.kamishiro.itsuki']不是凶手的话，能给我看一下证明他清白的证据吗？[font color=@3][resetfont]"
+"[68]/text","呃，这个……","[68]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[71]/text","的确，这样看来[emb exp='tf.names.NPC.itsuki']不可能犯案呢。","[71]/text","机翻辅助：
+
+的确，这样看来[emb exp='tf.names.NPC.itsuki']不可能犯案呢。
+
+确实，这样的话[emb exp='tf.names.NPC.itsuki']是不可能作案的。
+
+确实，这样的话，[emb exp='tf.names.NPC.itsuki']是不可能犯罪的。"
+"[72]/text","@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！","[72]/text","机翻辅助：
+
+@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！
+
+@好，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]，好像有充分的说服力
+[font color=@3]！[resetfont]
+
+@好吧，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]
+[font color=@3][resetfont]似乎有足够的说服力！"
+"[73]/text","果然，就跟[emb exp='tf.names.kamishiro.me']猜想的一样……","[73]/text","机翻辅助：
+
+果然，就跟[emb exp='tf.names.kamishiro.me']猜想的一样……
+
+果然，正如[emb exp='tf.names.kamishiro.me']所预料的那样……
+
+果然如[emb exp='tf.names.kamishiro.me']所料……"
+"[76]/text","原来如此，这样我就懂了。","[76]/text","机翻辅助：
+
+原来如此，这样我就懂了。
+
+原来如此，这样的话就能理解了。
+
+原来如此，那就可以理解了。"
+"[78]/text","……","[78]/text",""
+"[79]/text","……","[79]/text",""
+"[81]/text","沉默……[l]吗？[l]
+[chara_mod time='@f1' name='神代' face='trouble']不过那也是一种答案吧。","[81]/text","机翻辅助：
+
+沉默……[l]吗？[l]
+[chara_mod time='@f1' name='神代' face='trouble']不过那也是一种答案吧。
+
+沉默……[l]吗。[l]
+[chara_mod time='@f1' name='神代' face='trouble']这也是一个答案吧。
+
+沉默……[l]是吗？嗯，这也是一个答案吧。[l]
+[chara_mod time='@f1' name='神代' face='trouble']"
+"[82]/text","可是，你以为这样就能得到我的信任吗？","[82]/text","机翻辅助：
+
+可是，你以为这样就能得到我的信任吗？
+
+但是，你认为这样就能获得信任吗？
+
+但是，你觉得这样能得到信用吗？"
+"[84]/text","你在说什么？[l]
+[chara_mod time='@f1' name='神代' face='panic'][emb exp='tf.names.kamishiro.me']觉得[font color=@3]不是[resetfont]……","[84]/text","机翻辅助：
+
+你在说什么？[l]
+[chara_mod time='@f1' name='神代' face='panic'][emb exp='tf.names.kamishiro.me']觉得[font color=@3]不是[resetfont]……
+
+你在说什么啊？[l]
+[chara_mod time='@f1' name='神代' face='panic'][emb exp='tf.names.kamishiro.me']觉得[font color=@3]不是[resetfont]我做的……
+
+你在说什么呢？[l]
+[chara_mod time='@f1' name='神代' face='panic'][emb exp='tf.names.kamishiro.me']觉得不是[font color=@3]……[resetfont]"
+"[85]/text","@看来[emb exp='tf.names.itsuki.me']的推理[font color=@3]线索不够充分[resetfont]……","[85]/text","机翻辅助：
+
+@看来[emb exp='tf.names.itsuki.me']的推理[font color=@3]线索不够充分[resetfont]……
+
+@看来[emb exp='tf.names.itsuki.me']的推理缺少线索……[font color=@3][resetfont]
+
+@看来[emb exp='tf.names.itsuki.me']的推理缺乏线索……[font color=@3][resetfont]"
+"[86]/text","真遗憾，少年。[l]
+[chara_mod time='@f1' name='神代' face='what']我原本很期待你的……","[86]/text","机翻辅助：
+
+真遗憾，少年。[l]
+[chara_mod time='@f1' name='神代' face='what']我原本很期待你的……
+
+很遗憾，少年。[l]
+[chara_mod time='@f1' name='神代' face='what']我对你很期待……"
+"[89]/text","[emb exp='tf.names.ebihara_p.itsuki']，你好像怪怪的耶。","[89]/text","机翻辅助：
+
+[emb exp='tf.names.ebihara_p.itsuki']，你好像怪怪的耶。
+
+[emb exp='tf.names.ebihara_p.itsuki']，总觉得很奇怪。
+
+[emb exp='tf.names.ebihara_p.itsuki']，有点可疑。"
+"[91]/text","的确，我也懂想怀疑他的心情。","[91]/text","机翻辅助：
+
+的确，我也懂想怀疑他的心情。
+
+确实，也能理解想怀疑他的心情。
+
+确实，我能理解你对他产生怀疑的心情。"
+"[93]/text","[emb exp='tf.names.kumiko_p.me']也不太清楚……","[93]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.me']也不太清楚……
+
+[emb exp='tf.names.kumiko_p.me']不太明白……"
+"[95]/text","[emb exp='tf.names.mashima_p.me']、[emb exp='tf.names.mashima_p.me']承认那根火柴是我的。[l]
+[chara_mod time='@f1' name='真島' face='frantic']可是，点火的人不是我！","[95]/text","机翻辅助：
+
+[emb exp='tf.names.mashima_p.me']、[emb exp='tf.names.mashima_p.me']承认那根火柴是我的。[l]
+[chara_mod time='@f1' name='真島' face='frantic']可是，点火的人不是我！
+
+[emb exp='tf.names.mashima_p.me']承认那、那根火柴是[emb exp='tf.names.mashima_p.me']的。[l]
+[chara_mod time='@f1' name='真島' face='frantic']但是，放火的不是我！
+
+[emb exp='tf.names.mashima_p.me']承认那根火柴是[emb exp='tf.names.mashima_p.me']的。[l]
+[chara_mod time='@f1' name='真島' face='frantic']但是，点火的不是我！"
+"[96]/text","火柴确实是[emb exp='tf.names.ebihara_p.mashima']的东西啦……[l][chara_mod time='@f1' name='海老原' face='badsurprise']难道是你？","[96]/text","机翻辅助：
+
+火柴确实是[emb exp='tf.names.ebihara_p.mashima']的东西啦……[l][chara_mod time='@f1' name='海老原' face='badsurprise']难道是你？
+
+确实说到火柴的话就是[emb exp='tf.names.ebihara_p.mashima']了……难道是你？[l][chara_mod time='@f1' name='海老原' face='badsurprise']
+
+说到火柴确实是[emb exp='tf.names.ebihara_p.mashima']啊……难道是你？[l][chara_mod time='@f1' name='海老原' face='badsurprise']"
+"[97]/text","[emb exp='tf.names.kumiko_p.mashima']……","[97]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.mashima']……"
+"[98]/text","对[emb exp='tf.names.NPC.me']来说最可疑的资讯，就是火源的火柴和你的关系。","[98]/text","机翻辅助：
+
+对[emb exp='tf.names.NPC.me']来说最可疑的资讯，就是火源的火柴和你的关系。
+
+对[emb exp='tf.names.NPC.me']来说最可疑的信息是能成为火源的火柴和你的关系。
+
+对[emb exp='tf.names.NPC.me']来说最可疑的情报，就是你和可能成为起火点的火柴之间的关系。"
+"[99]/text","唔唔……[l][chara_mod time='@f1' name='真島' face='sad'][emb exp='tf.names.mashima_p.itsuki'][font color=@3]愿意相信[emb exp='tf.names.mashima_p.me']吗？[resetfont]","[99]/text","机翻辅助：
+
+唔唔……[l][chara_mod time='@f1' name='真島' face='sad'][emb exp='tf.names.mashima_p.itsuki'][font color=@3]愿意相信[emb exp='tf.names.mashima_p.me']吗？[resetfont]
+
+嗯……[l][chara_mod time='@f1' name='真島' face='sad'][emb exp='tf.names.mashima_p.itsuki']能相信[emb exp='tf.names.mashima_p.me']的话吗？[font color=@3][resetfont]
+
+嗯……[emb exp='tf.names.mashima_p.itsuki']会相信[emb exp='tf.names.mashima_p.me']的话吗？[l][chara_mod time='@f1' name='真島' face='sad'][font color=@3][resetfont]"
+"[100]/text","呃，这个……","[100]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[102]/text","………………","[102]/text",""
+"[103]/text","…………","[103]/text",""
+"[104]/text","……","[104]/text",""
+"[106]/text","你也这么想吗？[l]
+[chara_mod time='@f1' name='神代' face='normal']就跟[emb exp='tf.names.kamishiro.me']猜想的一样……","[106]/text","机翻辅助：
+
+你也这么想吗？[l]
+[chara_mod time='@f1' name='神代' face='normal']就跟[emb exp='tf.names.kamishiro.me']猜想的一样……
+
+你也这么想吗。[l]
+[chara_mod time='@f1' name='神代' face='normal']正如[emb exp='tf.names.kamishiro.me']所料……
+
+你也这么认为吗？正如[emb exp='tf.names.kamishiro.me']所料……[l]
+[chara_mod time='@f1' name='神代' face='normal']"
+"[109]/text","……原来[emb exp='tf.names.mashima_p.itsuki']也在怀疑[emb exp='tf.names.mashima_p.me']啊。","[109]/text","机翻辅助：
+
+……原来[emb exp='tf.names.mashima_p.itsuki']也在怀疑[emb exp='tf.names.mashima_p.me']啊。
+
+……[emb exp='tf.names.mashima_p.itsuki']也在怀疑[emb exp='tf.names.mashima_p.me']呢。
+
+……[emb exp='tf.names.mashima_p.itsuki']也在怀疑[emb exp='tf.names.mashima_p.me']啊。"
+"[111]/text","………………","[111]/text",""
+"[112]/text","…………","[112]/text",""
+"[113]/text","……","[113]/text",""
+"[115]/text","原来如此……[l][chara_mod time='@f1' name='神代' face='normal'][emb exp='tf.names.kamishiro.itsuki']有证据可以否定[emb exp='tf.names.kamishiro.mashima']的犯行。","[115]/text","机翻辅助：
+
+原来如此……[l][chara_mod time='@f1' name='神代' face='normal'][emb exp='tf.names.kamishiro.itsuki']有证据可以否定[emb exp='tf.names.kamishiro.mashima']的犯行。
+
+原来如此……[l][chara_mod time='@f1' name='神代' face='normal'][emb exp='tf.names.kamishiro.itsuki']有可以否定[emb exp='tf.names.kamishiro.mashima']罪行的根据。
+
+原来如此……[emb exp='tf.names.kamishiro.itsuki']拥有可以否定[emb exp='tf.names.kamishiro.mashima']罪行的根据。[l][chara_mod time='@f1' name='神代' face='normal']"
+"[116]/text","谢谢你相信我，[emb exp='tf.names.mashima_p.itsuki']。","[116]/text","机翻辅助：
+
+谢谢你相信我，[emb exp='tf.names.mashima_p.itsuki']。"
+"[118]/text","………………","[118]/text",""
+"[119]/text","…………","[119]/text",""
+"[120]/text","……","[120]/text",""
+"[122]/text","很遗憾，竟然说出这么愚蠢的话。[l]
+[chara_mod time='@f1' name='神代' face='what']我对你抱有很大的期待……","[122]/text","机翻辅助：
+
+很遗憾，竟然说出这么愚蠢的话。[l]
+[chara_mod time='@f1' name='神代' face='what']我对你抱有很大的期待……
+
+说那种愚蠢的话，真遗憾。[l]
+[chara_mod time='@f1' name='神代' face='what']我对你很期待……
+
+说那样愚蠢的话，我很遗憾。[l]
+[chara_mod time='@f1' name='神代' face='what']我对你很期待……"
+"[125]/text","谢谢你相信我，[emb exp='tf.names.mashima_p.itsuki']。","[125]/text","机翻辅助：
+
+谢谢你相信我，[emb exp='tf.names.mashima_p.itsuki']。"
+"[127]/text","……","[127]/text",""
+"[128]/text","……","[128]/text",""
+"[129]/text","是啊，我相信[emb exp='tf.names.kumiko_p.mashima']不是犯人。","[129]/text","机翻辅助：
+
+是啊，我相信[emb exp='tf.names.kumiko_p.mashima']不是犯人。
+
+是啊，我相信[emb exp='tf.names.kumiko_p.mashima']不是凶手。"
+"[130]/text","怎么了怎么了，你们口径一致！[l]
+[chara_mod time='@f1' name='海老原' face='doubt']反而很可疑啊！","[130]/text","机翻辅助：
+
+怎么了怎么了，你们口径一致！[l]
+[chara_mod time='@f1' name='海老原' face='doubt']反而很可疑啊！
+
+什么呀，异口同声！[l]
+[chara_mod time='@f1' name='海老原' face='doubt']反而很奇怪！
+
+什么什么，异口同声！[l]
+[chara_mod time='@f1' name='海老原' face='doubt']反而可疑了！"
+"[131]/text","不管是谁都会这么说吧？[l]
+[chara_mod time='@f1' name='神代' face='think']……就算是犯人也一样。","[131]/text","机翻辅助：
+
+不管是谁都会这么说吧？[l]
+[chara_mod time='@f1' name='神代' face='think']……就算是犯人也一样。
+
+谁都会这么说吧？[l]
+[chara_mod time='@f1' name='神代' face='think']……即使是凶手。
+
+谁都会这么说吧？[l]
+[chara_mod time='@f1' name='神代' face='think']……即使是犯人。"
+"[132]/text","[emb exp='tf.names.NPC.itsuki']，你能不能告诉[emb exp='tf.names.NPC.me']，我[font color=@3]是否清白[resetfont]？","[132]/text","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']，你能不能告诉[emb exp='tf.names.NPC.me']，我[font color=@3]是否清白[resetfont]？
+
+[emb exp='tf.names.NPC.itsuki']，[emb exp='tf.names.NPC.me'][font color=@3]是否清白[resetfont]，能让我听听你的想法吗？"
+"[133]/text","呃，这个……","[133]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[135]/text","………………","[135]/text",""
+"[136]/text","…………","[136]/text",""
+"[137]/text","……","[137]/text",""
+"[139]/text","很遗憾，我还以为你能够看穿真相……","[139]/text","机翻辅助：
+
+很遗憾，我还以为你能够看穿真相……
+
+很遗憾，我以为你能看清真相……"
+"[142]/text","你为什么要怀疑[emb exp='tf.names.kumiko_p.mashima']……？","[142]/text","机翻辅助：
+
+你为什么要怀疑[emb exp='tf.names.kumiko_p.mashima']……？
+
+为什么要怀疑[emb exp='tf.names.kumiko_p.mashima']呢……？
+
+为什么怀疑[emb exp='tf.names.kumiko_p.mashima']……？"
+"[144]/text","………………","[144]/text",""
+"[145]/text","…………","[145]/text",""
+"[146]/text","……","[146]/text",""
+"[148]/text","谢谢你相信我，[emb exp='tf.names.NPC.itsuki']。","[148]/text","机翻辅助：
+
+谢谢你相信我，[emb exp='tf.names.NPC.itsuki']。"
+"[151]/text","当然啊，[emb exp='tf.names.kumiko_p.mashima']不是犯人。","[151]/text","机翻辅助：
+
+当然啊，[emb exp='tf.names.kumiko_p.mashima']不是犯人。
+
+当然了，[emb exp='tf.names.kumiko_p.mashima']不是犯人。
+
+当然啦，[emb exp='tf.names.kumiko_p.mashima']不是凶手。"
+"[153]/text","………………","[153]/text",""
+"[154]/text","…………","[154]/text",""
+"[155]/text","……","[155]/text",""
+"[157]/text","[emb exp='tf.names.kumiko_p.itsuki']……[l][chara_mod time='@f1' name='久美子' face='trouble']你为什么要说这种话？","[157]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']……[l][chara_mod time='@f1' name='久美子' face='trouble']你为什么要说这种话？
+
+[emb exp='tf.names.kumiko_p.itsuki']……[l][chara_mod time='@f1' name='久美子' face='trouble']你为什么这么说？
+
+[emb exp='tf.names.kumiko_p.itsuki']……[l][chara_mod time='@f1' name='久美子' face='trouble']为什么这么说？"
+"[159]/text","很遗憾，我还以为他能够看穿真相……","[159]/text","机翻辅助：
+
+很遗憾，我还以为他能够看穿真相……
+
+很遗憾，我以为他能看清真相……"
+"[162]/text","你身为警察，却只会强调自己的清白，这该怎么说呢。","[162]/text","机翻辅助：
+
+你身为警察，却只会强调自己的清白，这该怎么说呢。
+
+作为警察的你，只诉说自己的清白，总觉得。
+
+身为警察的你，竟然一味地控诉自己的清白，真是莫名其妙。"
+"[163]/text","[emb exp='tf.names.kamishiro.ebihara']说得没错。","[163]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.ebihara']说得没错。
+
+正如[emb exp='tf.names.kamishiro.ebihara']所说。"
+"[164]/text","怎么了怎么了，突然拿出莫名其妙的镜头？","[164]/text","机翻辅助：
+
+怎么了怎么了，突然拿出莫名其妙的镜头？
+
+怎么了，突然不太明白，把镜头拿出来吧？
+
+什么嘛，突然把看不太懂的镜片拿出来啊？"
+"[165]/text","摄像头的镜头……[l][chara_mod time='@f1' name='神代' face='normal']这样的话，不就表示[emb exp='tf.names.kamishiro.kumiko']知道些什么吗？","[165]/text","机翻辅助：
+
+摄像头的镜头……[l][chara_mod time='@f1' name='神代' face='normal']这样的话，不就表示[emb exp='tf.names.kamishiro.kumiko']知道些什么吗？
+
+照相机的镜头……[l][chara_mod time='@f1' name='神代' face='normal']那样的话，应该知道[emb exp='tf.names.kamishiro.kumiko']是什么吧？
+
+照相机的镜头……[l][chara_mod time='@f1' name='神代' face='normal']如果是这样的话，[emb exp='tf.names.kamishiro.kumiko']应该知道些什么吧？"
+"[166]/text","虽然和我们家用的镜头一样……[l][chara_mod time='@f1' name='久美子' face='confused']我只知道这些。","[166]/text","机翻辅助：
+
+虽然和我们家用的镜头一样……[l][chara_mod time='@f1' name='久美子' face='confused']我只知道这些。
+
+和我们家使用的镜头是一样的……[l][chara_mod time='@f1' name='久美子' face='confused']我只知道这些。
+
+和我家用的镜片是一样的……我只知道这些。[l][chara_mod time='@f1' name='久美子' face='confused']"
+"[167]/text","这样啊……[l]
+[chara_mod time='@f1' name='真島' face='normal']你对这个[font color=@3]镜头有头绪[resetfont]吗？","[167]/text","机翻辅助：
+
+这样啊……[l]
+[chara_mod time='@f1' name='真島' face='normal']你对这个[font color=@3]镜头有头绪[resetfont]吗？
+
+是吗……[l]
+[chara_mod time='@f1' name='真島' face='normal']你对这个[font color=@3]镜头有印象[resetfont]吗？
+
+原来是这样……你对这个镜头有印象吗？[l]
+[chara_mod time='@f1' name='真島' face='normal'][font color=@3][resetfont]"
+"[168]/text","呃，这个……","[168]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[170]/text","………………","[170]/text",""
+"[171]/text","…………","[171]/text",""
+"[172]/text","……","[172]/text",""
+"[173]/text","……这样啊，谢谢你。","[173]/text","机翻辅助：
+
+……这样啊，谢谢你。
+
+……这样啊，谢谢。
+
+……是吗，谢谢。"
+"[174]/text","……","[174]/text",""
+"[175]/text","………………","[175]/text",""
+"[176]/text","…………","[176]/text",""
+"[177]/text","……","[177]/text",""
+"[179]/text","不过，两端的伤痕又是什么……？[l]
+[chara_mod time='@f1' name='久美子' face='confused']那可能也是某人带来的。","[179]/text","机翻辅助：
+
+不过，两端的伤痕又是什么……？[l]
+[chara_mod time='@f1' name='久美子' face='confused']那可能也是某人带来的。
+
+但是，这两端的伤是什么呢……？[l]
+[chara_mod time='@f1' name='久美子' face='confused']果然是谁带进来的。
+
+但是，这两端的伤是什么呢……？果然，可能是谁带来的。[l]
+[chara_mod time='@f1' name='久美子' face='confused']"
+"[181]/text","这和事件没有关联，就先别管镜片的事吧。","[181]/text","机翻辅助：
+
+这和事件没有关联，就先别管镜片的事吧。
+
+和事件的关系也不确定，镜头的事就到此为止吧。
+
+和事件的关系也不确定，镜头的话就到此为止吧。"
+"[182]/text","………………","[182]/text",""
+"[183]/text","…………","[183]/text",""
+"[184]/text","……","[184]/text",""
+"[186]/text","为什么你能断定没有关联呢？[l]
+[chara_mod time='@f1' name='真島' face='trouble']我还以为你一定能回答……","[186]/text","机翻辅助：
+
+为什么你能断定没有关联呢？[l]
+[chara_mod time='@f1' name='真島' face='trouble']我还以为你一定能回答……
+
+为什么可以断言没有关系呢。[l]
+[chara_mod time='@f1' name='真島' face='trouble']我以为你能回答……
+
+为什么能断言没有关系呢？我以为你能回答得出来……[l]
+[chara_mod time='@f1' name='真島' face='trouble']"
+"[189]/text","这样断定的确有点奇怪呢……","[189]/text","机翻辅助：
+
+这样断定的确有点奇怪呢……
+
+确实这样决定有点奇怪……
+
+确实，这么断定有点奇怪……"
+"[191]/text","你到底在在意那个镜片的什么部分？","[191]/text","机翻辅助：
+
+你到底在在意那个镜片的什么部分？
+
+那镜片到底有什么让你在意的？
+
+你到底在意那个镜头的什么。"
+"[192]/text","[emb exp='tf.names.kamishiro.ebihara']说得没错。","[192]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.ebihara']说得没错。
+
+正如[emb exp='tf.names.kamishiro.ebihara']所说。"
+"[193]/text","咦咦，你在怀疑[emb exp='tf.names.kumiko_p.me']吗？","[193]/text","机翻辅助：
+
+咦咦，你在怀疑[emb exp='tf.names.kumiko_p.me']吗？
+
+咦，[emb exp='tf.names.kumiko_p.me']被怀疑了！？
+
+咦，[emb exp='tf.names.kumiko_p.me']被怀疑了？？"
+"[194]/text","第一发现者与事件有关的事，[l]听说很多……","[194]/text","机翻辅助：
+
+第一发现者与事件有关的事，[l]听说很多……
+
+我听说[l]是第一发现者，很多都和事件有关……
+
+听说第一发现者参与事件的情况很多……[l]"
+"[195]/text","[emb exp='tf.names.kamishiro.kumiko']的确是第一个发现者，[l]
+[chara_mod time='@f1' name='神代' face='confused']难道说，她想说是我放火烧家吗？","[195]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.kumiko']的确是第一个发现者，[l]
+[chara_mod time='@f1' name='神代' face='confused']难道说，她想说是我放火烧家吗？
+
+[emb exp='tf.names.kamishiro.kumiko']的确是第一发现者，但[l]
+[chara_mod time='@f1' name='神代' face='confused']你以为她放火烧了自己的房子？
+
+确实[emb exp='tf.names.kamishiro.kumiko']是第一发现者，不过，她自己的家放火了？[l]
+[chara_mod time='@f1' name='神代' face='confused']"
+"[196]/text","[emb exp='tf.names.kumiko_p.itsuki']，你[font color=@3]相信[emb exp='tf.names.kumiko_p.me'][resetfont]对吧？","[196]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']，你[font color=@3]相信[emb exp='tf.names.kumiko_p.me'][resetfont]对吧？
+
+[emb exp='tf.names.kumiko_p.itsuki']，你会相信[emb exp='tf.names.kumiko_p.me']吗？[font color=@3][resetfont]
+
+[emb exp='tf.names.kumiko_p.itsuki']，你会相信[emb exp='tf.names.kumiko_p.me']的，对吧？[font color=@3][resetfont]"
+"[197]/text","呃，这个……","[197]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[199]/text","………………","[199]/text",""
+"[200]/text","…………","[200]/text",""
+"[201]/text","……","[201]/text",""
+"[203]/text","是吧？[chara_mod time='@f1' name='海老原' face='normal']谢谢你懂我！","[203]/text","机翻辅助：
+
+是吧？[chara_mod time='@f1' name='海老原' face='normal']谢谢你懂我！
+
+是啊，[chara_mod time='@f1' name='海老原' face='normal']谢谢你理解我！
+
+谢谢你理解我！[chara_mod time='@f1' name='海老原' face='normal']"
+"[206]/text","……没错，我知道了。[l]
+[chara_mod time='@f1' name='久美子' face='sad']这就是[emb exp='tf.names.kumiko_p.itsuki']的想法吧。","[206]/text","机翻辅助：
+
+……没错，我知道了。[l]
+[chara_mod time='@f1' name='久美子' face='sad']这就是[emb exp='tf.names.kumiko_p.itsuki']的想法吧。
+
+……是的，我知道了。[l]
+[chara_mod time='@f1' name='久美子' face='sad']这就是[emb exp='tf.names.kumiko_p.itsuki']的想法。
+
+……是吗，我知道了。这就是[emb exp='tf.names.kumiko_p.itsuki']的想法。[l]
+[chara_mod time='@f1' name='久美子' face='sad']"
+"[208]/text","……","[208]/text",""
+"[209]/text","………………","[209]/text",""
+"[210]/text","…………","[210]/text",""
+"[211]/text","……","[211]/text",""
+"[212]/text","或、或许的确是这样啦……","[212]/text","机翻辅助：
+
+或、或许的确是这样啦……
+
+嗯，也许是吧……
+
+啊，也许是这样啊……"
+"[213]/text","光是这样就怀疑我，我可受不了。[l]
+[chara_mod time='@f1' name='久美子' face='normal']谢谢你，[emb exp='tf.names.kumiko_p.itsuki']！","[213]/text","机翻辅助：
+
+光是这样就怀疑我，我可受不了。[l]
+[chara_mod time='@f1' name='久美子' face='normal']谢谢你，[emb exp='tf.names.kumiko_p.itsuki']！
+
+如果只是因为这个而被怀疑的话就受不了了。[l]
+[chara_mod time='@f1' name='久美子' face='normal']谢谢，[emb exp='tf.names.kumiko_p.itsuki']！
+
+如果仅仅因为这一点就被怀疑的话，那可不得了。[l]
+[chara_mod time='@f1' name='久美子' face='normal']谢谢你，[emb exp='tf.names.kumiko_p.itsuki']！"
+"[215]/text","的确，调查时不能有先入为主的观念呢。","[215]/text","机翻辅助：
+
+的确，调查时不能有先入为主的观念呢。
+
+确实，搜查切忌钻牛角尖。
+
+确实，搜查时不能深信不疑。"
+"[217]/text","………………","[217]/text",""
+"[218]/text","…………","[218]/text",""
+"[219]/text","……","[219]/text",""
+"[221]/text","怎么怎么，难道你也是共犯吗……？","[221]/text","机翻辅助：
+
+怎么怎么，难道你也是共犯吗……？
+
+什么啊，那么你也是共犯吗……？
+
+怎么回事，原来你也是共犯啊……？"
+"[224]/text","[emb exp='tf.names.kumiko_p.itsuki']说得没错！[l]
+[chara_mod time='@f1' name='久美子' face='confused']为什么你要怀疑我，[emb exp='tf.names.kumiko_p.ebihara']！","[224]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']说得没错！[l]
+[chara_mod time='@f1' name='久美子' face='confused']为什么你要怀疑我，[emb exp='tf.names.kumiko_p.ebihara']！
+
+[emb exp='tf.names.kumiko_p.itsuki']说得对！[l]
+[chara_mod time='@f1' name='久美子' face='confused']为什么要怀疑，[emb exp='tf.names.kumiko_p.ebihara']！
+
+[emb exp='tf.names.kumiko_p.itsuki']说得没错！为什么要怀疑呢，[emb exp='tf.names.kumiko_p.ebihara']！[l]
+[chara_mod time='@f1' name='久美子' face='confused']"
+"[226]/text","……冷静地考虑的话是这样的。[l]
+[chara_mod time='@f1' name='真島' face='normal'][emb exp='tf.names.mashima_p.me']做的事情怎么样了。","[226]/text","机翻辅助：
+
+……冷静地考虑的话是这样的。[l]
+[chara_mod time='@f1' name='真島' face='normal'][emb exp='tf.names.mashima_p.me']做的事情怎么样了。
+
+……冷静想想，的确是这样呢。[l]
+[chara_mod time='@f1' name='真島' face='normal'][emb exp='tf.names.mashima_p.me']怎么会这样，我真是的。
+
+……冷静地想想确实如此。[emb exp='tf.names.mashima_p.me']做的事有点不对劲。[l]
+[chara_mod time='@f1' name='真島' face='normal']"
+"[228]/text","……","[228]/text",""
+"[229]/text","我明明就只是在听……[l][chara_mod time='@f1' name='神代' face='badsurprise']你那句话是认真的吗？","[229]/text","机翻辅助：
+
+我明明就只是在听……[l][chara_mod time='@f1' name='神代' face='badsurprise']你那句话是认真的吗？
+
+如果默默地听的话……[l][chara_mod time='@f1' name='神代' face='badsurprise']你是认真地说的吗？
+
+只要默默听着……[l][chara_mod time='@f1' name='神代' face='badsurprise']那是认真的吗？"
+"[230]/text","抱歉，[emb exp='tf.names.ebihara_p.kamishiro']。[l]
+[chara_mod time='@f1' name='海老原' face='doubt'][emb exp='tf.names.ebihara_p.me']为了岛上的和平，是认真的认真的！","[230]/text","机翻辅助：
+
+抱歉，[emb exp='tf.names.ebihara_p.kamishiro']。[l]
+[chara_mod time='@f1' name='海老原' face='doubt'][emb exp='tf.names.ebihara_p.me']为了岛上的和平，是认真的认真的！
+
+对不起，[emb exp='tf.names.ebihara_p.kamishiro']。[l]
+[chara_mod time='@f1' name='海老原' face='doubt']为了岛上的和平，[emb exp='tf.names.ebihara_p.me']是认真的！
+
+不好意思，[emb exp='tf.names.ebihara_p.kamishiro']。为了岛上的和平，[emb exp='tf.names.ebihara_p.me']是真心的真心！[l]
+[chara_mod time='@f1' name='海老原' face='doubt']"
+"[231]/text","连否认都显得愚蠢呢。","[231]/text","机翻辅助：
+
+连否认都显得愚蠢呢。
+
+连否定都是愚蠢的。
+
+连否定都是愚蠢的话。"
+"[232]/text","[emb exp='tf.names.mashima_p.kamishiro']要找出可疑人影的真面目吗？","[232]/text","机翻辅助：
+
+[emb exp='tf.names.mashima_p.kamishiro']要找出可疑人影的真面目吗？
+
+[emb exp='tf.names.mashima_p.kamishiro']是可疑人影的原形吗。
+
+[emb exp='tf.names.mashima_p.kamishiro']是可疑人影的真面目吗？"
+"[233]/text","出入我家的可疑人影……[l][chara_mod time='@f1' name='久美子' face='confused']如果那是真的，的确很可疑呢。","[233]/text","机翻辅助：
+
+出入我家的可疑人影……[l][chara_mod time='@f1' name='久美子' face='confused']如果那是真的，的确很可疑呢。
+
+出入我家的可疑人影……[l][chara_mod time='@f1' name='久美子' face='confused']如果是真的，确实很可疑。
+
+进出我家的可疑人影……如果那是真的，确实很可疑。[l][chara_mod time='@f1' name='久美子' face='confused']"
+"[234]/text","那边那个默默听着的少年。[l]
+[chara_mod time='@f1' name='神代' face='badsurprise'][emb exp='tf.names.kamishiro.itsuki']也在怀疑[emb exp='tf.names.kamishiro.me']吗？","[234]/text","机翻辅助：
+
+那边那个默默听着的少年。[l]
+[chara_mod time='@f1' name='神代' face='badsurprise'][emb exp='tf.names.kamishiro.itsuki']也在怀疑[emb exp='tf.names.kamishiro.me']吗？
+
+默默地听着，那里的少年。[l]
+[chara_mod time='@f1' name='神代' face='badsurprise'][emb exp='tf.names.kamishiro.itsuki']也会怀疑[emb exp='tf.names.kamishiro.me']吗？
+
+那里的少年默默地听着。[l]
+[chara_mod time='@f1' name='神代' face='badsurprise'][emb exp='tf.names.kamishiro.itsuki']也怀疑[emb exp='tf.names.kamishiro.me']吗？"
+"[235]/text","呃，这个……","[235]/text","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"[237]/text","………………","[237]/text",""
+"[238]/text","…………","[238]/text",""
+"[239]/text","……","[239]/text",""
+"[241]/text","是吧？[chara_mod time='@f1' name='海老原' face='normal']谢谢你懂我！","[241]/text","机翻辅助：
+
+是吧？[chara_mod time='@f1' name='海老原' face='normal']谢谢你懂我！
+
+是啊，[chara_mod time='@f1' name='海老原' face='normal']谢谢你理解我！
+
+谢谢你理解我！[chara_mod time='@f1' name='海老原' face='normal']"
+"[244]/text","稍微相信了[emb exp='tf.names.kamishiro.itsuki']的[emb exp='tf.names.kamishiro.me']，真是大错特错。","[244]/text","机翻辅助：
+
+稍微相信了[emb exp='tf.names.kamishiro.itsuki']的[emb exp='tf.names.kamishiro.me']，真是大错特错。
+
+相信[emb exp='tf.names.kamishiro.itsuki']的[emb exp='tf.names.kamishiro.me']错了。
+
+[emb exp='tf.names.kamishiro.me']对[emb exp='tf.names.kamishiro.itsuki']有一点信任，可是我错了。"
+"[246]/text","………………","[246]/text",""
+"[247]/text","…………","[247]/text",""
+"[248]/text","……","[248]/text",""
+"[249]/text","哎，或许是这样没错啦……","[249]/text","机翻辅助：
+
+哎，或许是这样没错啦……
+
+嗯，也许是吧……
+
+啊，也许是这样啊……"
+"[250]/text","没错，[emb exp='tf.names.kamishiro.itsuki']说得对。[l]
+[chara_mod time='@f1' name='神代' face='laugh']谢谢你，少年。","[250]/text","机翻辅助：
+
+没错，[emb exp='tf.names.kamishiro.itsuki']说得对。[l]
+[chara_mod time='@f1' name='神代' face='laugh']谢谢你，少年。
+
+没错，正如[emb exp='tf.names.kamishiro.itsuki']所说。[l]
+[chara_mod time='@f1' name='神代' face='laugh']谢谢，少年。
+
+没错，[emb exp='tf.names.kamishiro.itsuki']说得没错。谢谢你，少年。[l]
+[chara_mod time='@f1' name='神代' face='laugh']"
+"[252]/text","………………","[252]/text",""
+"[253]/text","…………","[253]/text",""
+"[254]/text","……","[254]/text",""
+"[256]/text","你有什么根据吗？[l]
+明明就没有证据……","[256]/text","机翻辅助：
+
+你有什么根据吗？[l]
+明明就没有证据……
+
+有什么根据吗？[l]
+明明没有证据……
+
+有什么根据吗？明明没有证据……[l]"
+"[259]/text","哎，就是这么回事呢。[l]
+[chara_mod time='@f1' name='神代' face='laugh' position='smile']你指出了重点呢，少年。","[259]/text","机翻辅助：
+
+哎，就是这么回事呢。[l]
+[chara_mod time='@f1' name='神代' face='laugh' position='smile']你指出了重点呢，少年。
+
+嗯，是这样的。[l]
+[chara_mod time='@f1' name='神代' face='laugh' position='smile']这是很好的指责，少年。
+
+嗯，就是这样啊。[l]
+[chara_mod time='@f1' name='神代' face='laugh' position='smile']很好的指摘，少年。"
+"[261]/text","……","[261]/text",""
+"[262]/text","……","[262]/text",""
+"[263]/text","好，大家都说完了吧！","[263]/text","机翻辅助：
+
+好，大家都说完了吧！
+
+好了，大家都说完了！"
+"[264]/text","等等，我还没听到[emb exp='tf.names.kumiko_p.itsuki']的话呢。","[264]/text","机翻辅助：
+
+等等，我还没听到[emb exp='tf.names.kumiko_p.itsuki']的话呢。
+
+等等，我还没听到[emb exp='tf.names.kumiko_p.itsuki']的故事呢。"
+"[265]/text","那么，[emb exp='tf.names.kamishiro.itsuki']说了呢。[l]
+[chara_mod time='@f1' name='神代' face='normal']你知道犯人是谁了。","[265]/text","机翻辅助：
+
+那么，[emb exp='tf.names.kamishiro.itsuki']说了呢。[l]
+[chara_mod time='@f1' name='神代' face='normal']你知道犯人是谁了。
+
+那么，[emb exp='tf.names.kamishiro.itsuki']说了。[l]
+[chara_mod time='@f1' name='神代' face='normal']他说知道犯人是谁了。
+
+那么，[emb exp='tf.names.kamishiro.itsuki']说过吧。知道凶手是谁了吗？[l]
+[chara_mod time='@f1' name='神代' face='normal']"
+"[266]/text","这是真的吗，[emb exp='tf.names.mashima_p.itsuki']？[l]
+[chara_mod time='@f1' name='真島' face='sincere']我想听你说……[l]犯人的真面目。","[266]/text","机翻辅助：
+
+这是真的吗，[emb exp='tf.names.mashima_p.itsuki']？[l]
+[chara_mod time='@f1' name='真島' face='sincere']我想听你说……[l]犯人的真面目。
+
+那是真的吗，[emb exp='tf.names.mashima_p.itsuki']？[l]
+[chara_mod time='@f1' name='真島' face='sincere']想让我听听……[l]犯人的真面目。
+
+这是真的吗，[emb exp='tf.names.mashima_p.itsuki']？[l]
+[chara_mod time='@f1' name='真島' face='sincere']想让我听听……[l]凶手的真面目。"
+"[268]/text","[emb exp='tf.names.kumiko_p.itsuki']，你是认真的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused']这种话，没有人会相信哦。","[268]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']，你是认真的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused']这种话，没有人会相信哦。
+
+[emb exp='tf.names.kumiko_p.itsuki']，你是认真说的吗？[l]
+[chara_mod time='@f1' name='久美子' face='confused']这样的话，谁都不会相信的。
+
+[emb exp='tf.names.kumiko_p.itsuki']，你是认真的吗？那种话谁都不会相信的。[l]
+[chara_mod time='@f1' name='久美子' face='confused']"
+"[270]/text","虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。","[270]/text","机翻辅助：
+
+虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。
+
+不太明白，不过，如果是[emb exp='tf.names.ebihara_p.itsuki']的话相信做也可以。
+
+虽然不太清楚，但[emb exp='tf.names.ebihara_p.itsuki']的话你可以相信。"
+"[271]/text","我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……","[271]/text","机翻辅助：
+
+我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，不能接受啊……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，我不能接受啊……"
+"[273]/text","既然[emb exp='tf.names.NPC.itsuki']这么说，或许有点道理……","[273]/text","机翻辅助：
+
+既然[emb exp='tf.names.NPC.itsuki']这么说，或许有点道理……
+
+如果[emb exp='tf.names.NPC.itsuki']这么说的话，也许有一个道理……
+
+[emb exp='tf.names.NPC.itsuki']这么说，或许有一定的道理……"
+"[274]/text","是这样吗？[l]
+[chara_mod time='@f1' name='真島' face='worry']我觉得[emb exp='tf.names.mashima_p.kumiko']不是犯人。","[274]/text","机翻辅助：
+
+是这样吗？[l]
+[chara_mod time='@f1' name='真島' face='worry']我觉得[emb exp='tf.names.mashima_p.kumiko']不是犯人。
+
+那又如何呢？[l]
+[chara_mod time='@f1' name='真島' face='worry']我觉得[emb exp='tf.names.mashima_p.kumiko']不是犯人。
+
+那怎么样呢？我觉得[emb exp='tf.names.mashima_p.kumiko']不是凶手。[l]
+[chara_mod time='@f1' name='真島' face='worry']"
+"[275]/text","，你讲得这么随便，是想做什么？）","[275]/text","机翻辅助：
+
+，你讲得这么随便，是想做什么？）
+
+说了那么恰当的话，你想做什么？
+
+你说得那么随便，到底想干什么？"
+"[277]/text","……","[277]/text",""
+"[278]/text","@怀疑[emb exp='tf.names.itsuki.kumiko']真的好吗……？","[278]/text","机翻辅助：
+
+@怀疑[emb exp='tf.names.itsuki.kumiko']真的好吗……？
+
+@怀疑[emb exp='tf.names.itsuki.kumiko']，真的好吗……？"
+"[280]/text","[emb exp='tf.names.kamishiro.itsuki']，不好玩。[l]
+[chara_mod time='@f1' name='神代' face='doubt']这种开玩笑的玩笑。","[280]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.itsuki']，不好玩。[l]
+[chara_mod time='@f1' name='神代' face='doubt']这种开玩笑的玩笑。
+
+开这种玩笑不好笑哦。[l]
+[chara_mod time='@f1' name='神代' face='doubt']这种胡闹的玩笑。[emb exp='tf.names.kamishiro.itsuki']
+
+[emb exp='tf.names.kamishiro.itsuki']，真没意思。这么开玩笑的玩笑。[l]
+[chara_mod time='@f1' name='神代' face='doubt']"
+"[282]/text","虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。","[282]/text","机翻辅助：
+
+虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。
+
+不太明白，不过，如果是[emb exp='tf.names.ebihara_p.itsuki']的话相信做也可以。
+
+虽然不太清楚，但[emb exp='tf.names.ebihara_p.itsuki']的话你可以相信。"
+"[283]/text","我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……","[283]/text","机翻辅助：
+
+我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，不能接受啊……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，我不能接受啊……"
+"[285]/text","如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……","[285]/text","机翻辅助：
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我想相信你……
+
+[emb exp='tf.names.kumiko_p.itsuki']说的话，我愿意相信……"
+"[286]/text","[emb exp='tf.names.kumiko_p.me']也不太清楚……","[286]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.me']也不太清楚……
+
+[emb exp='tf.names.kumiko_p.me']不太明白……"
+"[288]/text","既然[emb exp='tf.names.mashima_p.itsuki']这么说，或许有点道理……","[288]/text","机翻辅助：
+
+既然[emb exp='tf.names.mashima_p.itsuki']这么说，或许有点道理……
+
+如果[emb exp='tf.names.mashima_p.itsuki']这么说的话，也许有一个道理……
+
+[emb exp='tf.names.mashima_p.itsuki']这么说，或许有一定的道理……"
+"[289]/text","是这样吗？[l]
+我觉得[emb exp='tf.names.mashima_p.kamishiro']不是犯人……","[289]/text","机翻辅助：
+
+是这样吗？[l]
+我觉得[emb exp='tf.names.mashima_p.kamishiro']不是犯人……
+
+那又如何呢？[l]
+我认为[emb exp='tf.names.mashima_p.kamishiro']不是犯人……
+
+那怎么样呢？我觉得[emb exp='tf.names.mashima_p.kamishiro']不是凶手……[l]"
+"[290]/text","，你讲得这么随便，是想做什么？）","[290]/text","机翻辅助：
+
+，你讲得这么随便，是想做什么？）
+
+说了那么恰当的话，你想做什么？
+
+你说得那么随便，到底想干什么？"
+"[292]/text","@怀疑[emb exp='tf.names.itsuki.kamishiro']真的好吗……？","[292]/text","机翻辅助：
+
+@怀疑[emb exp='tf.names.itsuki.kamishiro']真的好吗……？
+
+@怀疑[emb exp='tf.names.itsuki.kamishiro']，真的好吗……？"
+"[294]/text","怀疑[emb exp='tf.names.mashima_p.me']这个警察吗……","[294]/text","机翻辅助：
+
+怀疑[emb exp='tf.names.mashima_p.me']这个警察吗……
+
+是警察，你怀疑[emb exp='tf.names.mashima_p.me']吗……
+
+[emb exp='tf.names.mashima_p.me']是警察，你怀疑我吗……"
+"[296]/text","如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……","[296]/text","机翻辅助：
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我想相信你……
+
+[emb exp='tf.names.kumiko_p.itsuki']说的话，我愿意相信……"
+"[297]/text","[emb exp='tf.names.kumiko_p.me']也不太清楚……","[297]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.me']也不太清楚……
+
+[emb exp='tf.names.kumiko_p.me']不太明白……"
+"[299]/text","虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。","[299]/text","机翻辅助：
+
+虽然不太懂，不过如果是[emb exp='tf.names.ebihara_p.itsuki']说的话，相信他也没关系。
+
+不太明白，不过，如果是[emb exp='tf.names.ebihara_p.itsuki']的话相信做也可以。
+
+虽然不太清楚，但[emb exp='tf.names.ebihara_p.itsuki']的话你可以相信。"
+"[300]/text","我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……","[300]/text","机翻辅助：
+
+我无法接受[emb exp='tf.names.ebihara_p.itsuki']的话耶……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，不能接受啊……
+
+[emb exp='tf.names.ebihara_p.itsuki']的话，我不能接受啊……"
+"[302]/text","如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我是很想听……","[302]/text","机翻辅助：
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我是很想听……
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我想倾听……
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我很想倾听……"
+"[303]/text","我完全无法接受[emb exp='tf.names.kamishiro.itsuki']的说法。","[303]/text","机翻辅助：
+
+我完全无法接受[emb exp='tf.names.kamishiro.itsuki']的说法。
+
+[emb exp='tf.names.kamishiro.itsuki']说的话，完全不能理解。
+
+[emb exp='tf.names.kamishiro.itsuki']说的话，我完全不能接受。"
+"[305]/text","@怀疑[emb exp='tf.names.itsuki.mashima']真的好吗……？","[305]/text","机翻辅助：
+
+@怀疑[emb exp='tf.names.itsuki.mashima']真的好吗……？
+
+@怀疑[emb exp='tf.names.itsuki.mashima']，真的好吗……？"
+"[307]/text","的确，如果是这样的推理，我就能接受了……！","[307]/text","机翻辅助：
+
+的确，如果是这样的推理，我就能接受了……！
+
+确实，这样的推理可以接受……！
+
+确实，那个推理是可以理解的……！"
+"[309]/text","就如[emb exp='tf.names.kumiko_p.itsuki']所说，没有不在场证明的只有[emb exp='tf.names.NPC.ebihara']。","[309]/text","机翻辅助：
+
+就如[emb exp='tf.names.kumiko_p.itsuki']所说，没有不在场证明的只有[emb exp='tf.names.NPC.ebihara']。
+
+正如[emb exp='tf.names.kumiko_p.itsuki']所说，没有不在场证明的只有[emb exp='tf.names.NPC.ebihara']。
+
+正如[emb exp='tf.names.kumiko_p.itsuki']所说，只有[emb exp='tf.names.NPC.ebihara']没有不在场证明。"
+"[311]/text","我被[emb exp='tf.names.kamishiro.itsuki']吓到了。[l]
+[chara_mod time='@f1' name='神代' face='normal']没想到他这么接近真相……","[311]/text","机翻辅助：
+
+我被[emb exp='tf.names.kamishiro.itsuki']吓到了。[l]
+[chara_mod time='@f1' name='神代' face='normal']没想到他这么接近真相……
+
+我被[emb exp='tf.names.kamishiro.itsuki']吓到了。[l]
+[chara_mod time='@f1' name='神代' face='normal']竟然如此接近真相……
+
+[emb exp='tf.names.kamishiro.itsuki']吓了我一跳。竟然如此接近真相……[l]
+[chara_mod time='@f1' name='神代' face='normal']"
+"[313]/text","@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！","[313]/text","机翻辅助：
+
+@好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！
+
+@好，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]，好像有充分的说服力
+[font color=@3]！[resetfont]
+
+@好吧，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]
+[font color=@3][resetfont]似乎有足够的说服力！"
+"[314]/text","……","[314]/text",""
+"[315]/text","喂喂，[emb exp='tf.names.ebihara_p.itsuki']，你是认真的吗？[l]
+[chara_mod time='@f1' name='海老原' face='confused']而且，居然连大家都有份！","[315]/text","机翻辅助：
+
+喂喂，[emb exp='tf.names.ebihara_p.itsuki']，你是认真的吗？[l]
+[chara_mod time='@f1' name='海老原' face='confused']而且，居然连大家都有份！
+
+喂喂，[emb exp='tf.names.ebihara_p.itsuki']，你是认真说的吗？[l]
+[chara_mod time='@f1' name='海老原' face='confused']而且，大家都好！
+
+喂喂[emb exp='tf.names.ebihara_p.itsuki']，你是认真的吗？[l]
+[chara_mod time='@f1' name='海老原' face='confused']而且，连大家都哟！"
+"[316]/text","总之，不是[emb exp='tf.names.ebihara_p.me']干的！[l]
+[chara_mod time='@f1' name='海老原' face='badsurprise']相信我！！","[316]/text","机翻辅助：
+
+总之，不是[emb exp='tf.names.ebihara_p.me']干的！[l]
+[chara_mod time='@f1' name='海老原' face='badsurprise']相信我！！
+
+总之[emb exp='tf.names.ebihara_p.me']没有做！[l]
+[chara_mod time='@f1' name='海老原' face='badsurprise']相信我！！
+
+总之，[emb exp='tf.names.ebihara_p.me']没做！[l]
+[chara_mod time='@f1' name='海老原' face='badsurprise']相信我！！"
+"[318]/text","@……[emb exp='tf.names.itsuki.ebihara']。","[318]/text","机翻辅助：
+
+@……[emb exp='tf.names.itsuki.ebihara']。
+
+@……[emb exp='tf.names.itsuki.ebihara']"
+"[320]/text","你在说什么啊，[emb exp='tf.names.ebihara_p.itsuki']。[l]
+[chara_mod time='@f1' name='海老原' face='confused']这种话太乱来了！","[320]/text","机翻辅助：
+
+你在说什么啊，[emb exp='tf.names.ebihara_p.itsuki']。[l]
+[chara_mod time='@f1' name='海老原' face='confused']这种话太乱来了！
+
+你在说什么，[emb exp='tf.names.ebihara_p.itsuki']。[l]
+[chara_mod time='@f1' name='海老原' face='confused']这种话太荒唐了！
+
+说什么呢，[emb exp='tf.names.ebihara_p.itsuki']。那种话太荒唐了！[l]
+[chara_mod time='@f1' name='海老原' face='confused']"
+"[322]/text","如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……","[322]/text","机翻辅助：
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我是很想相信……
+
+如果是[emb exp='tf.names.kumiko_p.itsuki']说的话，我想相信你……
+
+[emb exp='tf.names.kumiko_p.itsuki']说的话，我愿意相信……"
+"[323]/text","[emb exp='tf.names.kumiko_p.me']也不太清楚……","[323]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.me']也不太清楚……
+
+[emb exp='tf.names.kumiko_p.me']不太明白……"
+"[325]/text","既然[emb exp='tf.names.mashima_p.itsuki']这么说，或许有点道理……","[325]/text","机翻辅助：
+
+既然[emb exp='tf.names.mashima_p.itsuki']这么说，或许有点道理……
+
+如果[emb exp='tf.names.mashima_p.itsuki']这么说的话，也许有一个道理……
+
+[emb exp='tf.names.mashima_p.itsuki']这么说，或许有一定的道理……"
+"[326]/text","，你讲得这么随便，是想做什么？）","[326]/text","机翻辅助：
+
+，你讲得这么随便，是想做什么？）
+
+说了那么恰当的话，你想做什么？
+
+你说得那么随便，到底想干什么？"
+"[328]/text","如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我是很想听……","[328]/text","机翻辅助：
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我是很想听……
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我想倾听……
+
+如果是[emb exp='tf.names.kamishiro.itsuki']说的话，我很想倾听……"
+"[329]/text","[emb exp='tf.names.kamishiro.itsuki']说的话一点说服力都没有。","[329]/text","机翻辅助：
+
+[emb exp='tf.names.kamishiro.itsuki']说的话一点说服力都没有。
+
+[emb exp='tf.names.kamishiro.itsuki']说的话，完全没有说服力。
+
+[emb exp='tf.names.kamishiro.itsuki']的话完全没有说服力。"
+"[331]/text","@怀疑[emb exp='tf.names.itsuki.ebihara']真的好吗……？","[331]/text","机翻辅助：
+
+@怀疑[emb exp='tf.names.itsuki.ebihara']真的好吗……？
+
+@怀疑[emb exp='tf.names.itsuki.ebihara']，真的好吗……？"
+"[332]/text","你什么都不知道吗！","[332]/text","机翻辅助：
+
+你什么都不知道吗！
+
+什么都没有！
+
+什么都没有啊！"
+"[334]/text","选择沉默吗？","[334]/text","机翻辅助：
+
+选择沉默吗？
+
+选择沉默，是吗。
+
+是选择沉默吗？"
+"[336]/text","说已经知道犯人，原来是骗人的吗……","[336]/text","机翻辅助：
+
+说已经知道犯人，原来是骗人的吗……
+
+知道凶手是谁，这是骗人的吧……
+
+知道了犯人是骗人的吧……"
+"[338]/text","[emb exp='tf.names.kumiko_p.itsuki']，这样真的好吗……？","[338]/text","机翻辅助：
+
+[emb exp='tf.names.kumiko_p.itsuki']，这样真的好吗……？
+
+[emb exp='tf.names.kumiko_p.itsuki']，真的那样就好了吗……？"
+"[340]/text","@这下糟了，因为隐瞒不说，反而[font color=@3]被所有人怀疑[resetfont]了。","[340]/text","机翻辅助：
+
+@这下糟了，因为隐瞒不说，反而[font color=@3]被所有人怀疑[resetfont]了。
+
+@这太糟糕了，因为沉默反而遭到了所有人的怀疑。[font color=@3][resetfont]
+
+@这可不妙，沉默反而会被所有人怀疑。[font color=@3][resetfont]"
+"speaker_久美子","久美子","speaker_久美子",""
+"speaker_真島","真岛","speaker_真島","机翻辅助：
+
+真岛"
+"speaker_神代","神代","speaker_神代","机翻辅助：
+
+神代
+
+杉田智"
+"speaker_NPC","NPC","speaker_NPC",""
+"speaker_海老原","海老原","speaker_海老原",""

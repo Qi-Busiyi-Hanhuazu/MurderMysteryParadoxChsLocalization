@@ -1,0 +1,98 @@
+"source","target","id","developer_comments"
+"balloon#b2a2d8000d32e7ce8c7279cbc94d17ac","好，该把[emb exp='tf.names.itsuki.me']的想法告诉大家了。","balloon#b2a2d8000d32e7ce8c7279cbc94d17ac","机翻辅助：
+
+好，该把[emb exp='tf.names.itsuki.me']的想法告诉大家了。
+
+好，该把[emb exp='tf.names.itsuki.me']的想法传达给大家了。
+
+好吧，该[emb exp='tf.names.itsuki.me']把我的想法告诉所有人了。"
+"balloon#31024f2c0bbba6968fdb18c9983f7c3b","恐怕只有这次机会了！","balloon#31024f2c0bbba6968fdb18c9983f7c3b","机翻辅助：
+
+恐怕只有这次机会了！
+
+恐怕只有这一次机会！
+
+机会恐怕只有这一次！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#772cf55b31b711179febe4e63046ba27","<font color='@3'>最可疑的人</font>是谁……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#772cf55b31b711179febe4e63046ba27","机翻辅助：
+
+<font color='@3'>最可疑的人</font>是谁……
+
+<font color='@3'>最奇怪的人</font>是谁……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","我知道了，说出来吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#e8a1bf7024929ab7171d6f99fafddad3","机翻辅助：
+
+我知道了，说出来吧！
+
+知道了，告诉你吧！
+
+我知道了，就转告吧！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","我不知道，还是别说吧！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#a6a3b4cf3963259f92c3902982a0202a","机翻辅助：
+
+我不知道，还是别说吧！
+
+因为不明白，所以保持沉默吧！
+
+我不知道，就闭嘴吧！"
+"javascript#4a622f127baeae041b4eef6a8884069f","返回","javascript#4a622f127baeae041b4eef6a8884069f","机翻辅助：
+
+返回
+
+后退"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#7bc047044aa76243c7f4590caedd6742","最可疑的人，那就是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#7bc047044aa76243c7f4590caedd6742","机翻辅助：
+
+最可疑的人，那就是……
+
+最可疑的人物，那就是……
+
+最可疑的人是……"
+"javascript#38cffef722128b383d2b128bd40a8223","{0}是犯人的证据……","javascript#38cffef722128b383d2b128bd40a8223","机翻辅助：
+
+没有任何证据证明……
+
+{0}是犯人的根据……"
+"SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","请思考能让对方接受犯人是谁的推理。","SET_FOOTER_HELP_TEXT/text#09970d0be0e6015b0ed9e52ff7bfa09e","机翻辅助：
+
+请思考能让对方接受犯人是谁的推理。
+
+可以让人接受是犯人，考虑推理吧。
+
+思考一下能让人相信是凶手的推理吧。"
+"balloon#93b5fbab7013ca43a0c5e470f7df31df","好，把[emb exp='tf.names.itsuki.me']的推理告诉大家吧！","balloon#93b5fbab7013ca43a0c5e470f7df31df","机翻辅助：
+
+好，把[emb exp='tf.names.itsuki.me']的推理告诉大家吧！
+
+好吧，[emb exp='tf.names.itsuki.me']要把我的推理传达给所有人！
+
+好，[emb exp='tf.names.itsuki.me']把我的推理告诉大家！"
+"message10#d2617d68b05678262b9cb2018ee45090","树在所有人面前，发表了最可疑的是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。","message10#d2617d68b05678262b9cb2018ee45090","机翻辅助：
+
+树在所有人面前，发表了最可疑的是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+树在所有人面前披露了最可疑的是
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。
+
+树在所有人面前宣布了最可疑的，
+[font color=@1]【[emb exp='f.suspect_chara.name']】[resetfont]
+的推理。"
+"balloon#3034498464f129c645fa50a4517cabad","虽然这只是[emb exp='tf.names.itsuki.me']的猜想……","balloon#3034498464f129c645fa50a4517cabad","机翻辅助：
+
+虽然这只是[emb exp='tf.names.itsuki.me']的猜想……
+
+这就是[emb exp='tf.names.itsuki.me']的想法……
+
+这是[emb exp='tf.names.itsuki.me']的想法……"
+"balloon#17af777fb988781f7c5f2182d8b6e0d4","大家觉得呢？","balloon#17af777fb988781f7c5f2182d8b6e0d4","机翻辅助：
+
+你觉得呢？
+
+怎么样呢？
+
+怎么样？"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"speaker_主人公","主人公","speaker_主人公",""

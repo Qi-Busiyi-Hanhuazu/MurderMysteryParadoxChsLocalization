@@ -1,0 +1,8 @@
+"source","target","id","developer_comments"
+"balloon#63ef6e76e54db1fcacdeae8a09a2ec6b","[emb exp='tf.names.NPC.itsuki']……[l][chara_mod time=""@f1"" name=""NPC"" face=""smile"" position=""right""]いいか？","balloon#63ef6e76e54db1fcacdeae8a09a2ec6b","NPC"
+"balloon#6bbf6c80ac9db366838466a3882821b7","[emb exp='tf.names.itsuki.NPC']。","balloon#6bbf6c80ac9db366838466a3882821b7","主人公"
+"balloon#2b51dab9ed5a25929497acd85a6ceef2","[emb exp='tf.names.itsuki.me']のこと気にかけてくれているのかなぁ……。","balloon#2b51dab9ed5a25929497acd85a6ceef2","主人公"
+"balloon#fd983b3a07c9812c58fc8c4f28075ae6","どうした、返事がないぞ？","balloon#fd983b3a07c9812c58fc8c4f28075ae6","NPC"
+"balloon#330a0b31d0ee658ad7e4fb4c9b3937cc","……はいっ！","balloon#330a0b31d0ee658ad7e4fb4c9b3937cc","主人公"
+"balloon#66709a06c5c38379bcc40a41e027c94d","あれ、こんなやりとり、どこかで誰かとしたような……。","balloon#66709a06c5c38379bcc40a41e027c94d","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

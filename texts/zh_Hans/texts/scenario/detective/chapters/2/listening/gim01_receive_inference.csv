@@ -1,0 +1,121 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d8e63b4e5116f097315104e25c693f24","原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。","balloon#d8e63b4e5116f097315104e25c693f24","机翻辅助：
+
+原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。
+
+原来如此，那种推理[emb exp='tf.names.NPC.me']也能理解[font color=@3]哟。[resetfont]
+
+原来如此，这个推理[emb exp='tf.names.NPC.me']也能接受。[font color=@3][resetfont]"
+"balloon#f5e70999fa997344f19f38f2f4af5d76","能够从操场进出的门，凭小孩子的力气是打不开的。","balloon#f5e70999fa997344f19f38f2f4af5d76","机翻辅助：
+
+能够从操场进出的门，凭小孩子的力气是打不开的。
+
+能够从校园出入的门，以孩子的力量是打不开的。
+
+可以从校园出入的门，孩子的力量是打不开的。"
+"balloon#be1f5c38c4da02e214898b4793bc281a","[emb exp='tf.names.NPC.utaha']躲藏的附近围栏上，有一个小小的洞。","balloon#be1f5c38c4da02e214898b4793bc281a","机翻辅助：
+
+[emb exp='tf.names.NPC.utaha']躲藏的附近围栏上，有一个小小的洞。
+
+[emb exp='tf.names.NPC.utaha']藏身的附近的围栏上，有一个小洞。
+
+[emb exp='tf.names.NPC.utaha']隐藏的附近的栅栏上，有一个小漏洞。"
+"balloon#e4bc631c5fac35bade8f470c65a7bd1b","然后，在洞的另一侧发现了[emb exp='tf.names.NPC.utaha']的鞋子……","balloon#e4bc631c5fac35bade8f470c65a7bd1b","机翻辅助：
+
+然后，在洞的另一侧发现了[emb exp='tf.names.NPC.utaha']的鞋子……
+
+然后，在漏洞的前方发现了[emb exp='tf.names.NPC.utaha']的鞋子……
+
+然后，在洞口发现了[emb exp='tf.names.NPC.utaha']的鞋子……"
+"balloon#147d1ded20004af767d5893c3a6aa106","小孩子很难在那种地方，连鞋子都没穿地到处走。","balloon#147d1ded20004af767d5893c3a6aa106","机翻辅助：
+
+小孩子很难在那种地方，连鞋子都没穿地到处走。
+
+小孩子很难在那样的地方没有鞋子到处走动。
+
+小孩子很难在没有鞋子的情况下在那样的地方走来走去。"
+"balloon#dbaa887d2db86a1768b55944aecea610","这个状况确实应该怀疑是事件。","balloon#dbaa887d2db86a1768b55944aecea610","机翻辅助：
+
+这个状况确实应该怀疑是事件。
+
+这确实是应该怀疑事件性的状况吧。
+
+这确实是应该怀疑事件性质的状况。"
+"balloon#eb850b4f79ccdd59b4c227e547f68933","是的，[emb exp='tf.names.itsuki_p.utaha']有可能是被某人带走了。","balloon#eb850b4f79ccdd59b4c227e547f68933","机翻辅助：
+
+是的，[emb exp='tf.names.itsuki_p.utaha']有可能是被某人带走了。
+
+是的，[emb exp='tf.names.itsuki_p.utaha']有可能被人带走了。
+
+是的，[emb exp='tf.names.itsuki_p.utaha']可能被人带走了。"
+"balloon#a58296e0818cb061823f55c8135c8c87","感谢你们协助调查。","balloon#a58296e0818cb061823f55c8135c8c87","机翻辅助：
+
+感谢你们协助调查。
+
+感谢你协助调查。"
+"balloon#429323690f059ae3eeb506e744b67d3b","看来可以稍微信任你了。","balloon#429323690f059ae3eeb506e744b67d3b","机翻辅助：
+
+看来可以稍微信任你了。
+
+我好像可以相信你一点。
+
+我可以相信你一点。"
+"balloon#734618aedb2c4d9919811d85ccba8fc8","那是真的吗？","balloon#734618aedb2c4d9919811d85ccba8fc8","机翻辅助：
+
+那是真的吗？
+
+这是真的吗？"
+"balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","[font color=@3]我觉得你的推理[resetfont]有点不对……","balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对……
+
+我觉得那个推理有点不对……[font color=@3][resetfont]
+
+不要觉得那个推理有点不一样……[font color=@3][resetfont]"
+"balloon#0712fd0d86d74b1a8b4889e19d76fa10","[font color=@3]我觉得你的推理[resetfont]完全不对……","balloon#0712fd0d86d74b1a8b4889e19d76fa10","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对……
+
+不要认为那个推理是完全不同的……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#3f14f54a0059a384cb2c1ed159509ebc","不，请别在意。","balloon#3f14f54a0059a384cb2c1ed159509ebc","机翻辅助：
+
+不，请别在意。
+
+不，请不要介意。"
+"balloon#fbd7aa1712f85a3e0751efb24baad9aa","关于这件事……","balloon#fbd7aa1712f85a3e0751efb24baad9aa","机翻辅助：
+
+关于这件事……"
+"balloon#7f9596dbf210852e4ba57e2bac1a5a12","[font color=@3][resetfont]似乎有必要找到能够证明事件性的具体物证。","balloon#7f9596dbf210852e4ba57e2bac1a5a12","机翻辅助：
+
+[font color=@3][resetfont]似乎有必要找到能够证明事件性的具体物证。
+
+[font color=@3]看来有必要找到能够证明事件性质的具体物证。[resetfont]
+
+[font color=@3]有必要找到显示事件性的具体物证。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#904b671090a60f13d9f66c36b451dde1","[font color=@3][resetfont]有没有什么能够证明是事件的线索呢？让我们重新审视一遍吧。","balloon#904b671090a60f13d9f66c36b451dde1","机翻辅助：
+
+[font color=@3][resetfont]有没有什么能够证明是事件的线索呢？让我们重新审视一遍吧。
+
+[font color=@3]有没有什么可以认为是事件的，让我们重新审视一下线索吧。[resetfont]
+
+[font color=@3]让我们重新审视一下线索，看看有没有什么可以视为事件的线索。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

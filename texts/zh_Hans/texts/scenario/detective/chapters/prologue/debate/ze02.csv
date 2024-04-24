@@ -1,0 +1,73 @@
+"source","target","id","developer_comments"
+"balloon#3fe70c609ce43b9496ead8aaf13c58fe","那[emb exp='tf.names.NPC.me']要说了哦！","balloon#3fe70c609ce43b9496ead8aaf13c58fe","机翻辅助：
+
+那[emb exp='tf.names.NPC.me']要说了哦！
+
+那[emb exp='tf.names.NPC.me']来说吧！
+
+那么，[emb exp='tf.names.NPC.me']来说话吧！"
+"message10#944255f11e4808615f2fedf7b84b3189","- 歌叶的主张 -","message10#944255f11e4808615f2fedf7b84b3189","机翻辅助：
+
+- 歌叶的主张 -
+
+- 歌词的主张 -"
+"balloon#2a6216fe79904c00d135e785e6a79e7c","[emb exp='tf.names.NPC.me']在14:38左右离开厨房时，西瓜的确有五块。","balloon#2a6216fe79904c00d135e785e6a79e7c","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在14:38左右离开厨房时，西瓜的确有五块。
+
+14:38左右[emb exp='tf.names.NPC.me']从厨房出来的时候，西瓜确实有五片。
+
+14:38左右[emb exp='tf.names.NPC.me']从厨房出来的时候，确实有五片西瓜。"
+"balloon#dd17c2c22dae61990f0fa62854867fb3","所以啊，有人在[emb exp='tf.names.NPC.me']之后进出了厨房……","balloon#dd17c2c22dae61990f0fa62854867fb3","机翻辅助：
+
+所以啊，有人在[emb exp='tf.names.NPC.me']之后进出厨房……
+
+所以啊，[emb exp='tf.names.NPC.me']之后有人进出厨房……
+
+所以呢，[emb exp='tf.names.NPC.me']后面有人出入厨房……"
+"balloon#31e9458a64fcb2b34fa47a796fadb768","我想应该是其中一个人拿走了一块西瓜！","balloon#31e9458a64fcb2b34fa47a796fadb768","机翻辅助：
+
+我想应该是其中一个人拿了一块西瓜去！
+
+我猜是谁拿走了一块西瓜！
+
+我想其中有人拿走了一片西瓜！"
+"balloon#0230e3a6726c031dbf18b544be04d956","所以[emb exp='tf.names.NPC.me']觉得在[emb exp='tf.names.NPC.me']之后，[font color=@3]最后进厨房的人[resetfont]很可疑！","balloon#0230e3a6726c031dbf18b544be04d956","机翻辅助：
+
+所以[emb exp='tf.names.NPC.me']觉得[font color=@3]最后进厨房的人[resetfont]很可疑！
+
+所以[emb exp='tf.names.NPC.me']觉得在我之后，最后一个进厨房的人[font color=@3]很可疑！[resetfont]
+
+所以[emb exp='tf.names.NPC.me']觉得最后进厨房的人很奇怪！[font color=@3][resetfont]"
+"balloon#ab9aae7d28aec9bf596456565fb8f38e","那到底是谁呢？","balloon#ab9aae7d28aec9bf596456565fb8f38e","机翻辅助：
+
+那到底是谁呢？"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#fe0d3238f9ed3013902cbfe013d1f525","<font color='@3'>最后进入厨房的</font>是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#fe0d3238f9ed3013902cbfe013d1f525","机翻辅助：
+
+<font color='@3'>最后进入厨房的</font>是……
+
+<font color='@3'>最后进厨房的</font>是……
+
+<font color='@3'>最后进入厨房的是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#5a6b3b5294912d9c54a311d8871a3d41","是${itsuki.chiyo}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#5a6b3b5294912d9c54a311d8871a3d41","机翻辅助：
+
+是${itsuki.chiyo}！
+
+${itsuki.chiyo}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e19a922ac40b74b417846a8c9adfcd20","是${itsuki.iroha}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e19a922ac40b74b417846a8c9adfcd20","机翻辅助：
+
+是${itsuki.iroha}！
+
+${itsuki.iroha}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#2b5e3b9dcb095da83980ccad929e799d","是${itsuki.yohei}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#2b5e3b9dcb095da83980ccad929e799d","机翻辅助：
+
+是${itsuki.yohei}！
+
+${itsuki.yohei}！"
+"message10#407ef1a4ccec581402171ee624332f2b","树将自己的想法告诉了歌叶。","message10#407ef1a4ccec581402171ee624332f2b","机翻辅助：
+
+树将自己的想法告诉了歌叶。
+
+树把自己的想法告诉了歌叶。
+
+树向歌叶传达了自己的想法。"

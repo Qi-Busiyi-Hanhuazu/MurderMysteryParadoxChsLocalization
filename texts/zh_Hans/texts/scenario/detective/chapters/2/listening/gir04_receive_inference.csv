@@ -1,0 +1,144 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#c78e8ab4fc77e08edabeddc172f23b6e","不错耶，这个推理[font color=@3]可以接受[resetfont]！","balloon#c78e8ab4fc77e08edabeddc172f23b6e","机翻辅助：
+
+不错耶，这个推理[font color=@3]可以接受[resetfont]！
+
+好啊，这个推理的话[font color=@3]能接受[resetfont]哟！
+
+好啊，如果是那个推理[font color=@3]能理解[resetfont]哟！"
+"balloon#8660e6b1f7e53dbb61ae0ea33bffb354","[emb exp='tf.names.NPC.utaha']不见的时间是[chara_mod time=""@f1"" name=""NPC"" face=""earnest""]15:03到15:12之间……","balloon#8660e6b1f7e53dbb61ae0ea33bffb354","机翻辅助：
+
+[emb exp='tf.names.NPC.utaha']不见的时间是[chara_mod time=""@f1"" name=""NPC"" face=""earnest""]15:03到15:12之间……
+
+[emb exp='tf.names.NPC.utaha']不见了[chara_mod time=""@f1"" name=""NPC"" face=""earnest""]15:03到15:12之间……"
+"balloon#ae833df37dc749603c923b0972b39e2e","离开学校的人，只有一个。","balloon#ae833df37dc749603c923b0972b39e2e","机翻辅助：
+
+离开学校的人，只有一个。
+
+校外的人物只有一个。
+
+校外的人只有一个。"
+"balloon#ed964ebff8f08b8e1bae299cec58ee8b","那就是在那之前从校门出去的……","balloon#ed964ebff8f08b8e1bae299cec58ee8b","机翻辅助：
+
+那就是在那之前从校门出去的……
+
+那是，之前从校门出去的……
+
+那是之前从校门出去的……"
+"balloon#b812a54646ac8c6e84489925afab783c","[font color=@3]好像只有[resetfont][emb exp='tf.names.NPC.mashima']。","balloon#b812a54646ac8c6e84489925afab783c","机翻辅助：
+
+[font color=@3]好像只有[resetfont][emb exp='tf.names.NPC.mashima']。
+
+[font color=@3]好像只有[emb exp='tf.names.NPC.mashima'][resetfont]。
+
+[font color=@3]好像只有[emb exp='tf.names.NPC.mashima']。[resetfont]"
+"balloon#90c241e22923bfe488c92258519baea3","没错，[font color=@3]从15:03到15:12之间，只有[emb exp='tf.names.itsuki_p.mashima']在校外[resetfont]。","balloon#90c241e22923bfe488c92258519baea3","机翻辅助：
+
+没错，[font color=@3]从15:03到15:12之间，只有[emb exp='tf.names.itsuki_p.mashima']在校外[resetfont]。
+
+没错，从15:03到15:12之间，只有[emb exp='tf.names.itsuki_p.mashima']在校外。[font color=@3][resetfont]
+
+对，从15:03到15:12，只有[emb exp='tf.names.itsuki_p.mashima']在校外。[font color=@3][resetfont]"
+"balloon#8a8029c66444a33dc0225e5964f2b7f3","为什么[emb exp='tf.names.NPC.mashima']会……？","balloon#8a8029c66444a33dc0225e5964f2b7f3","机翻辅助：
+
+为什么[emb exp='tf.names.NPC.mashima']会……？
+
+为什么，[emb exp='tf.names.NPC.mashima']……？
+
+为什么[emb exp='tf.names.NPC.mashima']……？"
+"balloon#041ab29b65b906edb1a113b1c00b308a","不过，这似乎是无庸置疑的事实。","balloon#041ab29b65b906edb1a113b1c00b308a","机翻辅助：
+
+不过，这似乎是无庸置疑的事实。
+
+但是，这似乎是毫无疑问的事实。
+
+但这似乎是不争的事实。"
+"balloon#0acf05cc12441976d01a982411baa420","光靠[emb exp='tf.names.NPC.me']一个人，是无法得出这个结论的……","balloon#0acf05cc12441976d01a982411baa420","机翻辅助：
+
+光靠[emb exp='tf.names.NPC.me']一个人，是无法得出这个结论的……
+
+如果只有[emb exp='tf.names.NPC.me']一个人的话，不可能得出这样的结论……
+
+只有[emb exp='tf.names.NPC.me']一个人是无法得出这样的结论的……"
+"balloon#3d095c322187b28d85b0b962192eb8d7","……嗯，[emb exp='tf.names.itsuki.me']也还无法相信。","balloon#3d095c322187b28d85b0b962192eb8d7","机翻辅助：
+
+……嗯，[emb exp='tf.names.itsuki.me']也还无法相信。
+
+……嗯，[emb exp='tf.names.itsuki.me']也还不相信。
+
+……嗯，[emb exp='tf.names.itsuki.me']也还是不敢相信。"
+"balloon#1b96452bb82599e963c639a34552d327","我能得出这个结论，都是多亏了你。","balloon#1b96452bb82599e963c639a34552d327","机翻辅助：
+
+我能得出这个结论，都是多亏了你。
+
+能走到这里，多亏了你。
+
+我能走到这里，多亏了你。"
+"balloon#c04df4f7466083a3320c8c082018739a","真的很谢谢你，[emb exp='tf.names.NPC.itsuki']。","balloon#c04df4f7466083a3320c8c082018739a","机翻辅助：
+
+真的很谢谢你，[emb exp='tf.names.NPC.itsuki']。
+
+真的谢谢你，[emb exp='tf.names.NPC.itsuki']。"
+"balloon#734618aedb2c4d9919811d85ccba8fc8","那是真的吗？","balloon#734618aedb2c4d9919811d85ccba8fc8","机翻辅助：
+
+那是真的吗？
+
+这是真的吗？"
+"balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","[font color=@3]我觉得你的推理[resetfont]有点不对……","balloon#8e6ba8d73bd7f716d70d4a3082cd3bcd","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对……
+
+我觉得那个推理有点不对……[font color=@3][resetfont]
+
+不要觉得那个推理有点不一样……[font color=@3][resetfont]"
+"balloon#0712fd0d86d74b1a8b4889e19d76fa10","[font color=@3]我觉得你的推理[resetfont]完全不对……","balloon#0712fd0d86d74b1a8b4889e19d76fa10","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对……
+
+不要认为那个推理是完全不同的……[font color=@3][resetfont]
+
+我觉得那个推理完全不一样……[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#958590be5e1c54d867bebc118b328014","没关系，谢谢你帮忙思考。","balloon#958590be5e1c54d867bebc118b328014","机翻辅助：
+
+没关系，谢谢你帮忙思考。
+
+没关系，谢谢你考虑。
+
+没关系，谢谢你替我考虑。"
+"balloon#2fc9da6d6bb8c96da0f51a3e3f179e90","关于这件事……","balloon#2fc9da6d6bb8c96da0f51a3e3f179e90","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#036531c5c7733458a5610614c8267121","[font color=@3]看来有必要弄清楚五个人的行动[resetfont]。","balloon#036531c5c7733458a5610614c8267121","机翻辅助：
+
+[font color=@3]看来有必要弄清楚五个人的行动[resetfont]。
+
+[font color=@3]看来有必要明确5人所有人的行动。[resetfont]
+
+[font color=@3]看来有必要明确5个人的全部行动。[resetfont]"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#d5ca01836908702961435e1568e3d26c","[font color=@3]我再重新检视一次线索，看看有没有遗漏[resetfont]。","balloon#d5ca01836908702961435e1568e3d26c","机翻辅助：
+
+[font color=@3]我再重新检视一次线索，看看有没有遗漏[resetfont]。
+
+[font color=@3]让我们重新审视一下不在场证明[resetfont]是否有疏漏。
+
+[font color=@3]不在场证明中有没有遗漏，让我们重新审视一下线索。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

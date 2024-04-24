@@ -1,0 +1,90 @@
+"source","target","id","developer_comments"
+"balloon#152ec85d6f162ae6c3089cbc248958db","照相馆跟平常一样，非常安静。","balloon#152ec85d6f162ae6c3089cbc248958db","机翻辅助：
+
+照相馆跟平常一样，非常安静。
+
+照相馆和平时一样，非常安静。
+
+照相馆和平常一样，非常安静。"
+"balloon#aaeebb8348b3b903bbab6e6a4e51db9e","[emb exp='tf.names.NPC.chiyo']只是在寝室和厨房之间来来去去而已。","balloon#aaeebb8348b3b903bbab6e6a4e51db9e","机翻辅助：
+
+[emb exp='tf.names.NPC.chiyo']只是在寝室和厨房之间来来去去而已。
+
+[emb exp='tf.names.NPC.chiyo']在卧室和厨房之间来回走动。
+
+[emb exp='tf.names.NPC.chiyo']在卧室和厨房里来回走动。"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#7a89c3202e0ff8f0198b2c440a1c7be4","[emb exp='tf.names.itsuki.chiyo']在寝室和厨房之间来来去去啊……","balloon#7a89c3202e0ff8f0198b2c440a1c7be4","机翻辅助：
+
+[emb exp='tf.names.itsuki.chiyo']在寝室和厨房之间来来去去啊……
+
+原来是[emb exp='tf.names.itsuki.chiyo']在卧室和厨房之间来回跑啊……
+
+[emb exp='tf.names.itsuki.chiyo']来往于卧室和厨房……"
+"balloon#a065e78aa120319b46616cf6adc40d78","竟然无声无息地消失了……","balloon#a065e78aa120319b46616cf6adc40d78","机翻辅助：
+
+竟然无声无息地消失了……
+
+竟然悄无声息地消失了……
+
+没有声音就消失了……"
+"balloon#e2f9092dc72980df1ee8691de8257eea","真的好不可思议。","balloon#e2f9092dc72980df1ee8691de8257eea","机翻辅助：
+
+真的好不可思议。
+
+真是不可思议啊。"
+"balloon#2b60566db17ae1506ffd452b2fac5a6b","然后啊，我刚才拼命思考，想看看有没有漏掉什么……","balloon#2b60566db17ae1506ffd452b2fac5a6b","机翻辅助：
+
+然后啊，我刚才拼命思考，想看看有没有漏掉什么……
+
+这样啊，有没有什么看漏的，刚才拼命地想了一下……
+
+对了，刚才我拼命想看看有没有遗漏的地方……"
+"balloon#0804b0227b0b2b70570ac51764e56991","你去看看放在那里的东西吧！","balloon#0804b0227b0b2b70570ac51764e56991","机翻辅助：
+
+你去看看放在那里的东西吧！
+
+请看一下放在那里的那个！
+
+你看一下放在那里的东西！"
+"balloon#d23143b7e89f9518362cc27e92a64f83","那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]颜、颜料？","balloon#d23143b7e89f9518362cc27e92a64f83","机翻辅助：
+
+那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]颜、颜料？
+
+那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]诶，颜料？
+
+那是因为……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]诶，颜料？"
+"balloon#53f2838e2dc6bf0c5dd29972939d7caa","啊，很不可思议吧……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]居然会在厨房里。","balloon#53f2838e2dc6bf0c5dd29972939d7caa","机翻辅助：
+
+啊，很不可思议吧……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]居然会在厨房里。
+
+啊，不可思议吧……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]竟然在厨房里。
+
+啊，真是不可思议啊……竟然在厨房里。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#dda75ec5974bc5f1cfdb2601c4f20cdf","其实，[emb exp='tf.names.NPC.me']……","balloon#dda75ec5974bc5f1cfdb2601c4f20cdf","机翻辅助：
+
+其实，[emb exp='tf.names.NPC.me']……
+
+其实，是[emb exp='tf.names.NPC.me']……"
+"balloon#5bb662989a7b918b2abc4250ed8da6ec","[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']从寝室把颜料搬到厨房[resetfont]。","balloon#5bb662989a7b918b2abc4250ed8da6ec","机翻辅助：
+
+[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']从寝室把颜料搬到厨房[resetfont]。
+
+[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']把颜料从卧室搬到厨房。[resetfont]
+
+[font color=@3]我从起居室看到了[emb exp='tf.names.NPC.chiyo']把颜料从卧室搬到厨房。[resetfont]"
+"balloon#cc9776d7f90fb2f6ccd89da7c5d82c26","时间是[font color=@3]13:30[resetfont]哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]因为节目正好开始。","balloon#cc9776d7f90fb2f6ccd89da7c5d82c26","机翻辅助：
+
+时间是[font color=@3]13:30[resetfont]哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]因为节目正好开始。
+
+时间是13:30……正好节目开始了。[font color=@3][resetfont][l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]
+
+时间是13:30[font color=@3]……正好节目开始了。[resetfont][l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#d34fd94f9d89809e83675ae487c50b9d","[emb exp='tf.names.itsuki.chiyo'][font color=@3]从寝室把颜料搬到厨房[resetfont]吗？","balloon#d34fd94f9d89809e83675ae487c50b9d","机翻辅助：
+
+[emb exp='tf.names.itsuki.chiyo'][font color=@3]从寝室把颜料搬到厨房[resetfont]吗？
+
+是[emb exp='tf.names.itsuki.chiyo']把颜料从卧室搬到厨房的吗？[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.chiyo']把颜料从卧室搬到厨房了吗。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

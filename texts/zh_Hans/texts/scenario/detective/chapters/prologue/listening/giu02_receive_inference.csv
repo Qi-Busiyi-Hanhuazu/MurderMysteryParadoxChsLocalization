@@ -1,0 +1,155 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#7b41a8d7b7a1dfe61a84f02df9c0b41a","这样啊，如果是那个推理的话，[font color=@3]我可以接受[resetfont]哦！","balloon#7b41a8d7b7a1dfe61a84f02df9c0b41a","机翻辅助：
+
+这样啊，如果是那个推理的话，[font color=@3]我可以接受[resetfont]哦！
+
+这样啊，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+是吗，那个推理[font color=@3]能理解[resetfont]哟！"
+"balloon#1e7e5a2544e14818712c1c3196d1acd4","好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+似乎[font color=@3]有十足的说服力[resetfont]！","balloon#1e7e5a2544e14818712c1c3196d1acd4","机翻辅助：
+
+好，[emb exp='tf.names.itsuki.me']推理时选择的[font color=@3]线索[resetfont]，
+[font color=@3]似乎有十足的说服力[resetfont]！
+
+好，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]，好像有充分的说服力
+[font color=@3]！[resetfont]
+
+好吧，[emb exp='tf.names.itsuki.me']选择推理的[font color=@3]线索[resetfont]
+[font color=@3][resetfont]似乎有足够的说服力！"
+"balloon#b2bc62f48719c993369109659c27fa43","[emb exp='tf.names.NPC.yohei']的西瓜话题有矛盾呢。","balloon#b2bc62f48719c993369109659c27fa43","机翻辅助：
+
+[emb exp='tf.names.NPC.yohei']的西瓜话题有矛盾呢。
+
+[emb exp='tf.names.NPC.yohei']的西瓜故事好矛盾啊。
+
+[emb exp='tf.names.NPC.yohei']的西瓜故事自相矛盾。"
+"balloon#82ff27712214ae2480d95088171613f2","也就是说……","balloon#82ff27712214ae2480d95088171613f2","机翻辅助：
+
+也就是说……"
+"balloon#7031c604b8dc312471d7a5cec5793b94","[font color=@3]也就是说[resetfont][emb exp='tf.names.NPC.yohei']在说谎。","balloon#7031c604b8dc312471d7a5cec5793b94","机翻辅助：
+
+[font color=@3]也就是说[resetfont][emb exp='tf.names.NPC.yohei']在说谎。
+
+[font color=@3][emb exp='tf.names.NPC.yohei']在说谎。[resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.yohei']说谎了。[resetfont]"
+"balloon#08ada570b0a7d9f70f0344519d1dcedf","对，[font color=@3][emb exp='tf.names.itsuki.yohei']在西瓜的话题上说谎了[resetfont]。","balloon#08ada570b0a7d9f70f0344519d1dcedf","机翻辅助：
+
+对，[font color=@3][emb exp='tf.names.itsuki.yohei']在西瓜的话题上说谎了[resetfont]。
+
+是的，[emb exp='tf.names.itsuki.yohei']在西瓜的故事中撒谎了。[font color=@3][resetfont]
+
+没错，[emb exp='tf.names.itsuki.yohei']在西瓜的故事里撒了谎。[font color=@3][resetfont]"
+"balloon#a9ee552d7199182fa5dc4d202a27a8c9","可是……[l]为什么要特地撒那种谎呢？","balloon#a9ee552d7199182fa5dc4d202a27a8c9","机翻辅助：
+
+可是……[l]为什么要特地撒那种谎呢？
+
+但是……[l]为什么特意撒了那样的谎呢。
+
+但是……为什么要特意撒这种谎呢？[l]"
+"balloon#f5578df439479e660f2579180eab1d05","嗯，的确是这样呢。","balloon#f5578df439479e660f2579180eab1d05","机翻辅助：
+
+嗯，的确是这样呢。
+
+嗯，确实是这样。
+
+嗯，的确如此。"
+"balloon#5246e9dda8a75dc5ce4eb32e503c5c2f","那果然就是……","balloon#5246e9dda8a75dc5ce4eb32e503c5c2f","机翻辅助：
+
+那果然就是……
+
+那个，果然……
+
+果然……"
+"balloon#b374cb4c12e69ee3a0d08faaec334785","谢谢你回答我，[emb exp='tf.names.NPC.itsuki']。","balloon#b374cb4c12e69ee3a0d08faaec334785","机翻辅助：
+
+谢谢你回答我，[emb exp='tf.names.NPC.itsuki']。
+
+[emb exp='tf.names.NPC.itsuki']，谢谢你回答我。
+
+[emb exp='tf.names.NPC.itsuki']，谢谢你的回答。"
+"balloon#86297f51f9454a06c44af7439b3d3239","那件事是真的吗？","balloon#86297f51f9454a06c44af7439b3d3239","机翻辅助：
+
+那件事是真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……","balloon#6d77d886a6d9fa4759e5e2dc64fc7a5e","机翻辅助：
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不对[resetfont]……
+
+[emb exp='tf.names.NPC.me']觉得有点不一样……[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']觉得[font color=@3]有点不一样……[resetfont]"
+"balloon#346cb98ff74a440cea0992f8b62f415e","看来[emb exp='tf.names.itsuki.me']的推理，[font color=@3]缺少了一部分正确的线索[resetfont]……","balloon#346cb98ff74a440cea0992f8b62f415e","机翻辅助：
+
+看来[emb exp='tf.names.itsuki.me']的推理，[font color=@3]缺少了一部分正确的线索[resetfont]……
+
+看来[emb exp='tf.names.itsuki.me']的推理缺少一部分正确的线索……[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.me']的推理似乎缺少了一些正确的线索……[font color=@3][resetfont]"
+"balloon#e72264e180c186ee551e4850557c9a2c","嗯——[emb exp='tf.names.NPC.me']觉得[font color=@3]完全不对[resetfont]……","balloon#e72264e180c186ee551e4850557c9a2c","机翻辅助：
+
+嗯——[emb exp='tf.names.NPC.me']觉得[font color=@3]完全不对[resetfont]……
+
+嗯，那个话[emb exp='tf.names.NPC.me']觉得完全不一样……[font color=@3][resetfont]
+
+嗯，那件事[emb exp='tf.names.NPC.me']觉得完全不是……[font color=@3][resetfont]"
+"balloon#2b358ac4f02ee5b4c15e70a41fe9b60a","看来[emb exp='tf.names.itsuki.me']的推理，
+[font color=@3]完全猜错了[resetfont]……","balloon#2b358ac4f02ee5b4c15e70a41fe9b60a","机翻辅助：
+
+看来[emb exp='tf.names.itsuki.me']的推理，
+[font color=@3]完全猜错了[resetfont]……
+
+看来[emb exp='tf.names.itsuki.me']的推理是完全猜错了……
+[font color=@3][resetfont]
+
+看来[emb exp='tf.names.itsuki.me']的推理完全错了……
+[font color=@3][resetfont]"
+"balloon#ae009158b6bdc782a0fbedd035ca2f00","对不起，我无法回答[emb exp='f.npc_nickname']的疑问……","balloon#ae009158b6bdc782a0fbedd035ca2f00","机翻辅助：
+
+对不起，我无法回答[emb exp='f.npc_nickname']的疑问……
+
+没能回答[emb exp='f.npc_nickname']的疑问，对不起……"
+"balloon#6ad8b491fc196f2a0aff55bf790ab5a9","别在意。","balloon#6ad8b491fc196f2a0aff55bf790ab5a9","机翻辅助：
+
+别在意。
+
+别放在心上。"
+"balloon#285acec759742f0c4671fdd87d6e45fd","关于这件事，我啊……","balloon#285acec759742f0c4671fdd87d6e45fd","机翻辅助：
+
+关于这件事，我啊……
+
+关于这件事，我……"
+"balloon#95608f7fd18d07136129b95fd628e126","[font color=@3]线索之间互相矛盾的故事[resetfont]没有，
+各有一人，我觉得重新确认这些很重要。","balloon#95608f7fd18d07136129b95fd628e126","机翻辅助：
+
+[font color=@3]线索之间互相矛盾的故事[resetfont]没有，
+各有一人，我觉得重新确认这些很重要。
+
+[font color=@3]线索之间有没有矛盾的话[resetfont]
+我觉得每个人再确认一下很重要。
+
+[font color=@3]我觉得一个人一个人地重新确认线索之间有没有矛盾的话很重要。[resetfont]"
+"balloon#08e16f9d6c1e4377272ad6dc102b9a15","重新确认线索之间的关系，
+[font color=@3]再次推理[resetfont]吧。","balloon#08e16f9d6c1e4377272ad6dc102b9a15","机翻辅助：
+
+重新确认线索之间的关系，
+[font color=@3]再次推理[resetfont]吧。
+
+重新确认线索之间的关系，再推理一次。
+[font color=@3][resetfont]
+
+让我们重新确认线索之间的关系，重新进行推理。
+[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

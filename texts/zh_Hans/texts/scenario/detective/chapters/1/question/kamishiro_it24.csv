@@ -1,0 +1,21 @@
+"source","target","id","developer_comments"
+"balloon#717915fa85dd1bfddf3ec2047b677ce7","从窗户掉下某种东西的声音吗？[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""badsurprise""]说到照相馆的窗户……","balloon#717915fa85dd1bfddf3ec2047b677ce7","机翻辅助：
+
+从窗户掉下某种东西的声音吗？[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""badsurprise""]说到照相馆的窗户……
+
+是什么东西从窗户掉下来的声音吗？[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""badsurprise""]说起照相馆的窗户……
+
+是从窗户掉下来的声音吗。[l]
+[chara_mod time=""@f1"" name=""NPC"" face=""badsurprise""]说起照相馆的窗户……"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#667f41565962f97309e666538cef094f","[emb exp='tf.names.itsuki.NPC']有什么头绪吗……？","balloon#667f41565962f97309e666538cef094f","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']有什么头绪吗……？
+
+不知道[emb exp='tf.names.itsuki.NPC']有没有想到什么……？
+
+[emb exp='tf.names.itsuki.NPC']会想到什么呢……？"
+"speaker_主人公","主人公","speaker_主人公",""

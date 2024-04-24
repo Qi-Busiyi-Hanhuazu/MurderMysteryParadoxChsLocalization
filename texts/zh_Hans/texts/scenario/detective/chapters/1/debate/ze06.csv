@@ -1,0 +1,59 @@
+"source","target","id","developer_comments"
+"balloon#aad36434a853c4ed03213ef3a554c295","那么，可以听[emb exp='tf.names.NPC.me']说吗？","balloon#aad36434a853c4ed03213ef3a554c295","机翻辅助：
+
+那么，可以听[emb exp='tf.names.NPC.me']说吗？
+
+那么，可以听听[emb exp='tf.names.NPC.me']的话吗？"
+"balloon#2b0c561b95bc25bfe967245808c3120e","我有件事情想请大家帮忙看看。","balloon#2b0c561b95bc25bfe967245808c3120e","机翻辅助：
+
+我有件事情想请大家帮忙看看。
+
+我有想让大家看的东西。
+
+我有想让大家看看的东西。"
+"balloon#faa76483eeb1f41d1fbe7462551a89ab","……就是这个。","balloon#faa76483eeb1f41d1fbe7462551a89ab","机翻辅助：
+
+……就是这个。"
+"balloon#a4b7dfde8a4672333c4002eb991502d2","这是掉在照相馆外面的相机镜头。","balloon#a4b7dfde8a4672333c4002eb991502d2","机翻辅助：
+
+这是掉在照相馆外面的相机镜头。
+
+那是掉在照相馆外面的相机镜头。
+
+落在照相馆外面的相机镜头。"
+"balloon#3566f17b7a1cedd4232c5411a406a798","虽然不确定跟事件有没有关系，但实在让人很在意。","balloon#3566f17b7a1cedd4232c5411a406a798","机翻辅助：
+
+虽然不确定跟事件有没有关系，但实在让人很在意。
+
+虽然和事件的关系还不确定，但还是很在意。
+
+虽然和案子的关系还不确定，但我很在意。"
+"balloon#ed02fc124f9eb4695d2f0949551e2dc5","有没有人对这个[font color=@3]镜头有印象[resetfont]？","balloon#ed02fc124f9eb4695d2f0949551e2dc5","机翻辅助：
+
+有没有人对这个[font color=@3]镜头有印象[resetfont]？
+
+这个[font color=@3]对镜头有头绪的人[resetfont]，没有吗？
+
+对这个镜头有印象的人有吗？[font color=@3][resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#d15b5409254b281580714ad786b4e0ea","<font color='@3'>${itsuki.NPC}的提问</font>${itsuki.me}的回答是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#d15b5409254b281580714ad786b4e0ea","机翻辅助：
+
+<font color='@3'>${itsuki.NPC}的提问</font>${itsuki.me}的回答是……
+
+<font color='@3'>对于${itsuki.NPC}的问题</font>，${itsuki.me}的回答是……
+
+<font color='@3'>对于${itsuki.NPC}的问题，${itsuki.me}的回答是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#f67955a4acc643d7b12c05c39efd8ecd","我对镜头没有印象。","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#f67955a4acc643d7b12c05c39efd8ecd","机翻辅助：
+
+我对镜头没有印象。
+
+我对镜头没有头绪。"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#9aeb0aa51bc25eaac134dbfbfbd16584","镜头是${itsuki_p.kumiko}的吧？","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#9aeb0aa51bc25eaac134dbfbfbd16584","机翻辅助：
+
+镜头是${itsuki_p.kumiko}的吧？
+
+镜头不是${itsuki_p.kumiko}的吗？"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#395304d192ef2d1b4ae8d99eafa726da","请不要扯跟事件无关的话题！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#395304d192ef2d1b4ae8d99eafa726da","机翻辅助：
+
+请不要扯跟事件无关的话题！
+
+请不要谈论与事件无关的话题！"

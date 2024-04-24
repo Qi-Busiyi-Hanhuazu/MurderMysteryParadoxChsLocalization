@@ -1,0 +1,166 @@
+"source","target","id","developer_comments"
+"balloon#9a345f2c3dc674f7c407ce10858f8ad1","刚才你说过会把事情全部告诉我吧。","balloon#9a345f2c3dc674f7c407ce10858f8ad1","机翻辅助：
+
+刚才你说过会把事情全部告诉我吧。
+
+刚才你说会把所有的事情都告诉我。
+
+你刚才说你会把事情都说清楚的。"
+"balloon#1063cea2f41a5aa7f6cd0c14a74a8205","虽然现在是这种状况……","balloon#1063cea2f41a5aa7f6cd0c14a74a8205","机翻辅助：
+
+虽然现在是这种状况……
+
+现在是这种状况……
+
+现在是这样的状况……"
+"balloon#f5134b1a0c663aabc5be2abf0c0982e8","不，正因为是这种状况，我才想问出我最在意的事情。","balloon#f5134b1a0c663aabc5be2abf0c0982e8","机翻辅助：
+
+不，正因为是这种状况，我才想问出我最在意的事情。
+
+不，正因为是这样的状况，所以希望你能告诉我最在意的事情。
+
+不，正因为是这样的状况，我才更想告诉你我最在意的事情。"
+"balloon#c26633b53dbfa2c11178903b77128330","那个想杀[emb exp='tf.names.NPC.chiyo']，结果自杀的男人……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]和你是什么关系？","balloon#c26633b53dbfa2c11178903b77128330","机翻辅助：
+
+那个想杀[emb exp='tf.names.NPC.chiyo']，结果自杀的男人……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]和你是什么关系？
+
+想杀[emb exp='tf.names.NPC.chiyo']而自杀的男人和……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]你的关系。
+
+那个想要杀死[emb exp='tf.names.NPC.chiyo']而自杀的男人……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]是你的关系。"
+"balloon#b82295315b3948335a72e7ba6eb21bc4","这……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]我能够回答吗？","balloon#b82295315b3948335a72e7ba6eb21bc4","机翻辅助：
+
+这……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]我能够回答吗？
+
+那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]有什么可以回答的吗。
+
+那是因为……有什么能回答的吗？[l][chara_mod time=""@f1"" name=""主人公"" face=""sad""]"
+"balloon#511e65f165c53b33213721463d1ce19b","从她们的对话听来，她们似乎从很久以前就认识了……","balloon#511e65f165c53b33213721463d1ce19b","机翻辅助：
+
+从她们的对话听来，她们似乎从很久以前就认识了……
+
+从很久以前就有见过面的口吻，好像交换了很多对话……
+
+好像用很久以前就认识的口气说了很多话……"
+"balloon#2c831abb195193af0379b21889705319","[emb exp='tf.names.NPC.itsuki']和他，到底是什么关系呢？","balloon#2c831abb195193af0379b21889705319","机翻辅助：
+
+[emb exp='tf.names.NPC.itsuki']和他，到底是什么关系呢？
+
+[emb exp='tf.names.NPC.itsuki']和他到底是什么关系？"
+"balloon#c747254f9109e6e29a70f5fe38011dc7","……现在这个状况，我可不想再被怀疑了。","balloon#c747254f9109e6e29a70f5fe38011dc7","机翻辅助：
+
+……现在这个状况，我可不想再被怀疑了。
+
+……在现在这种情况下，我想尽量避免被怀疑。
+
+……现在这种情况下，我想尽量避免被怀疑。"
+"SECRET_SELECTION/topic#9e9821bf7e1ccc4af88904a0ea7f641b","${itsuki.me}跟他之间的关系……","SECRET_SELECTION/topic#9e9821bf7e1ccc4af88904a0ea7f641b","机翻辅助：
+
+${itsuki.me}跟他之间的关系……
+
+他和${itsuki.me}的关系……"
+"SECRET_SELECTION/text1#d9e571e52e642524ce933e9c40a2a31f","昨天才第一次见面！","SECRET_SELECTION/text1#d9e571e52e642524ce933e9c40a2a31f","机翻辅助：
+
+昨天才第一次见面！
+
+昨天是初次见面！"
+"SECRET_SELECTION/text2#8c88249792670d6a649613a24815c653","不能告诉${itsuki.NPC}！","SECRET_SELECTION/text2#8c88249792670d6a649613a24815c653","机翻辅助：
+
+不能告诉${itsuki.NPC}！
+
+这是${itsuki.NPC}教不了的！"
+"SECRET_SELECTION/text3#ac6319316579596d5cfb2f92c8b9be91","杀害${itsuki.chiyo}的真凶是他！","SECRET_SELECTION/text3#ac6319316579596d5cfb2f92c8b9be91","机翻辅助：
+
+杀害${itsuki.chiyo}的真凶是他！
+
+杀死${itsuki.chiyo}的真凶是他！
+
+杀死${itsuki.chiyo}的真凶就是他！"
+"balloon#9ec5734440723b5829b18f5e5c39e0ec","初次见面！？","balloon#9ec5734440723b5829b18f5e5c39e0ec","机翻辅助：
+
+初次见面！？
+
+因为是初次见面！？"
+"balloon#00a76fbe187bfb0dc59f892c95146959","竟然说不能教我！？","balloon#00a76fbe187bfb0dc59f892c95146959","机翻辅助：
+
+竟然说不能教我！？
+
+不能告诉你！？
+
+教不了的傻瓜！？"
+"balloon#2ea91f37ec5c618c4c672a792c8a051d","你是真凶！？","balloon#2ea91f37ec5c618c4c672a792c8a051d","机翻辅助：
+
+你是真凶！？
+
+是真凶！？
+
+捉拿真凶！？"
+"balloon#a96b1928add9743f88b0a27d82b4bd4e","那真的……","balloon#a96b1928add9743f88b0a27d82b4bd4e","机翻辅助：
+
+那真的……
+
+那真是……"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#b550c5ab86ae19f4f0deaa8ce004f4fc","……啊啊，不行不行！","balloon#b550c5ab86ae19f4f0deaa8ce004f4fc","机翻辅助：
+
+……啊啊，不行不行！
+
+……啊，不行不行不行！
+
+……啊，不行不行！"
+"balloon#1644ffed584b99088f4f3c0775c6fcd3","现在就算问你的意见，我也会用怀疑的眼光看待。","balloon#1644ffed584b99088f4f3c0775c6fcd3","机翻辅助：
+
+现在就算问你的意见，我也会用怀疑的眼光看待。
+
+现在，即使听了你的意见，也会用得意的眼神看你。
+
+现在，即使听了你的意见，也总是用怀疑的眼神看。"
+"balloon#0fd495160bcbfbfd636aeacf39b42555","先入为主是大忌……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]我差点就迷失了。","balloon#0fd495160bcbfbfd636aeacf39b42555","机翻辅助：
+
+先入为主是大忌……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]我差点就迷失了。
+
+不能有先入为主的观念……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]差点就迷失了这一点。
+
+切忌先入为主……我差点把那个看丢了。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused"" position=""right""]"
+"balloon#55cbe5c0c076008ce804c0d084a47069","我坦率地感谢她让我想起这件事。","balloon#55cbe5c0c076008ce804c0d084a47069","机翻辅助：
+
+我坦率地感谢她让我想起这件事。
+
+让我想起这件事，我由衷地感谢。
+
+让我想起了，那是坦率地感谢。"
+"balloon#8139f2a03fe43af9c66c3190f0a93a5e","……如果[emb exp='tf.names.itsuki.NPC']已经消化完毕，就表示结果圆满吗？","balloon#8139f2a03fe43af9c66c3190f0a93a5e","机翻辅助：
+
+……如果[emb exp='tf.names.itsuki.NPC']已经消化完毕，就表示结果圆满吗？
+
+……如果能在[emb exp='tf.names.itsuki.NPC']身上消化掉的话，结果会很好吗？
+
+……如果能在[emb exp='tf.names.itsuki.NPC']中消化的话，结果会很好吧？"
+"balloon#439c0438a4be610e1572ca16aa54d919","未来的我，大概只能带进坟墓里了吧。","balloon#439c0438a4be610e1572ca16aa54d919","机翻辅助：
+
+未来的我，大概只能带进坟墓里了吧。
+
+未来的我，一定只能带到坟墓去了吧。
+
+未来的我，一定只能带到墓地吧。"
+"balloon#4f1fdd8419edb9e469dfde971bb3beef","因为不管跟谁说，都不可能有人相信……","balloon#4f1fdd8419edb9e469dfde971bb3beef","机翻辅助：
+
+因为不管跟谁说，都不可能有人相信……
+
+因为不管跟谁说，都不可能得到信任……
+
+无论对谁说，都不可能被相信……"
+"balloon#d7ae4819b6ed326680f8223def1bc918","比起未来的我，还是先解决现在的我吧。","balloon#d7ae4819b6ed326680f8223def1bc918","机翻辅助：
+
+比起未来的我，还是先解决现在的我吧。
+
+首先，比起未来的我，现在的我是先决条件。
+
+首先，比起未来的我，现在的我是先决定的。"
+"balloon#f15e0757585fab4821077d4873fdb19d","今天早上之前发生在[emb exp='tf.names.itsuki.me']身上的事，首先要找知道那个线索的人。","balloon#f15e0757585fab4821077d4873fdb19d","机翻辅助：
+
+今天早上之前发生在[emb exp='tf.names.itsuki.me']身上的事，首先要找知道那个线索的人。
+
+今天早上之前发生在[emb exp='tf.names.itsuki.me']身上的事情，首先要找出能找出线索的人。
+
+[emb exp='tf.names.itsuki.me']要先找出知道今天早上发生在我身上的事情的人。首先，我要找到线索。"
+"speaker_主人公","主人公","speaker_主人公",""

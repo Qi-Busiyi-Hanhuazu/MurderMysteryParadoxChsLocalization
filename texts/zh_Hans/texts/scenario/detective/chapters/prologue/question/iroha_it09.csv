@@ -1,0 +1,79 @@
+"source","target","id","developer_comments"
+"balloon#17d757a439b9e3fa28925858174e34e2","……他问[emb exp='tf.names.NPC.me']这个，是想问什么？","balloon#17d757a439b9e3fa28925858174e34e2","机翻辅助：
+
+……他问[emb exp='tf.names.NPC.me']这个，是想问什么？
+
+……你要问[emb exp='tf.names.NPC.me']那个啊。
+
+……你要问[emb exp='tf.names.NPC.me']那个。"
+"balloon#a3e775a26c3013a7bda74243aa1a7a4d","难道他是在怀疑[emb exp='tf.names.NPC.me']吗？","balloon#a3e775a26c3013a7bda74243aa1a7a4d","机翻辅助：
+
+难道他是在怀疑[emb exp='tf.names.NPC.me']吗？
+
+难道[emb exp='tf.names.NPC.me']被怀疑了吗？
+
+难道[emb exp='tf.names.NPC.me']被怀疑了？"
+"balloon#c4039805f0521cf2a8168e8316808369","不、不是那样……！","balloon#c4039805f0521cf2a8168e8316808369","机翻辅助：
+
+不、不是那样……！
+
+哎呀，不是那样的……！
+
+不、不是这样的……！"
+"balloon#730a5b09eac316e50f98d962463720ac","哎，要我说几次都行。","balloon#730a5b09eac316e50f98d962463720ac","机翻辅助：
+
+哎，要我说几次都行。
+
+嗯，说多少遍都行。
+
+嗯，不管说多少次。"
+"balloon#68512b05160b793e8011a381114e731e","我确实有在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过……","balloon#68512b05160b793e8011a381114e731e","机翻辅助：
+
+我确实有在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过……
+
+我确实在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过……
+
+确实和[emb exp='tf.names.NPC.chiyo']在厨房擦肩而过……"
+"balloon#18ebb3f32806198ebfc27792b4c54db4","[emb exp='tf.names.NPC.me']在14:41左右进入厨房时，也[font color=@3]和[emb exp='tf.names.NPC.yohei']擦身而过[resetfont]。","balloon#18ebb3f32806198ebfc27792b4c54db4","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在14:41左右进入厨房时，也[font color=@3]和[emb exp='tf.names.NPC.yohei']擦身而过[resetfont]。
+
+[emb exp='tf.names.NPC.me']14:41左右进厨房的时候，在那里和[emb exp='tf.names.NPC.yohei']也进错了。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']14:41左右进厨房的时候，在那里和[emb exp='tf.names.NPC.yohei']也混进去了。[font color=@3][resetfont]"
+"balloon#757ad4fd0b52622a9d3a509755c7e2a0","也就是说，厨房里依序有[emb exp='tf.names.itsuki.yohei']、[emb exp='tf.names.itsuki.iroha']、[emb exp='tf.names.itsuki.chiyo']经过吗？","balloon#757ad4fd0b52622a9d3a509755c7e2a0","机翻辅助：
+
+也就是说，厨房里依序有[emb exp='tf.names.itsuki.yohei']、[emb exp='tf.names.itsuki.iroha']、[emb exp='tf.names.itsuki.chiyo']经过吗？
+
+也就是说，厨房是按照[emb exp='tf.names.itsuki.yohei']、[emb exp='tf.names.itsuki.iroha']、[emb exp='tf.names.itsuki.chiyo']的顺序出入的吗。
+
+也就是说，厨房是[emb exp='tf.names.itsuki.yohei']、[emb exp='tf.names.itsuki.iroha']、[emb exp='tf.names.itsuki.chiyo']依次进出的吗？"
+"balloon#a2d9597e95ef25ac708bc590e7bf5655","算了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]我确实有在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过。","balloon#a2d9597e95ef25ac708bc590e7bf5655","机翻辅助：
+
+算了……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]我确实有在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过。
+
+嘛，好啊……[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]确实在厨房和[emb exp='tf.names.NPC.chiyo']擦肩而过。
+
+算了，算了……因为我确实在厨房和[emb exp='tf.names.NPC.chiyo']擦身而过。[l][chara_mod time=""@f1"" name=""NPC"" face=""normal""]"
+"balloon#f9f32f3ba9296b3d37dda69aacbe0689","而且[emb exp='tf.names.NPC.me']在14:41左右进入厨房时，也[font color=@3]和[emb exp='tf.names.NPC.yohei']擦身而过[resetfont]。","balloon#f9f32f3ba9296b3d37dda69aacbe0689","机翻辅助：
+
+而且[emb exp='tf.names.NPC.me']在14:41左右进入厨房时，也[font color=@3]和[emb exp='tf.names.NPC.yohei']擦身而过[resetfont]。
+
+而且14:41左右[emb exp='tf.names.NPC.me']进厨房的时候，在那里和[emb exp='tf.names.NPC.yohei']也混进去了。[font color=@3][resetfont]
+
+而且14:41左右[emb exp='tf.names.NPC.me']进厨房的时候，在那里和[emb exp='tf.names.NPC.yohei']也进错了。[font color=@3][resetfont]"
+"balloon#8b727a1e6076d896b1e121b437eb2699","所以大家都知道[emb exp='tf.names.NPC.me']有进入厨房。","balloon#8b727a1e6076d896b1e121b437eb2699","机翻辅助：
+
+所以大家都知道[emb exp='tf.names.NPC.me']有进入厨房。
+
+所以大家都知道[emb exp='tf.names.NPC.me']经常出入厨房。
+
+所以，大家都知道[emb exp='tf.names.NPC.me']出入厨房。"
+"balloon#add55da64171f0227d1b34d207e8402b","不只是[emb exp='f.npc_nickname']，连[emb exp='tf.names.itsuki.yohei']也有进入厨房吗……","balloon#add55da64171f0227d1b34d207e8402b","机翻辅助：
+
+不只是[emb exp='f.npc_nickname']，连[emb exp='tf.names.itsuki.yohei']也有进入厨房吗……
+
+原来不止[emb exp='f.npc_nickname']，[emb exp='tf.names.itsuki.yohei']也经常出入厨房……
+
+不仅仅是[emb exp='f.npc_nickname']，[emb exp='tf.names.itsuki.yohei']也进出厨房了吗……"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,7 @@
+"source","target","id","developer_comments"
+"balloon#abdff6fbd7e9fe6cd0e2c635a22cb67b","えっ、そのスーツって……[l][chara_mod time=""@f1"" name=""NPC"" face=""badsurprise""]まさか。","balloon#abdff6fbd7e9fe6cd0e2c635a22cb67b","NPC"
+"balloon#6744ef95f091dec83739ad491de29111","なにか知っているんですか？","balloon#6744ef95f091dec83739ad491de29111","主人公"
+"balloon#bad9b8cbf0615ff987b40e6134a98d50","[emb exp='tf.names.NPC.me']は昨日、[emb exp='tf.names.NPC.kageyama']と一緒に仕事で本土へ行っていたんだけど……","balloon#bad9b8cbf0615ff987b40e6134a98d50","NPC"
+"balloon#83a03e679b78d05bdc5a6e4450b19a2b","そのスーツ[font color=@3][emb exp='tf.names.NPC.kageyama']が着ていたものと同じ[resetfont]にしか、見えないの。","balloon#83a03e679b78d05bdc5a6e4450b19a2b","NPC"
+"balloon#4c9ba430351754a020534a3b9bf38624","山小屋で見つかった茶色いスーツは、[font color=@3]昨日本土で[emb exp='tf.names.itsuki.kageyama']が着ていた[resetfont]ものと同じだと。","balloon#4c9ba430351754a020534a3b9bf38624","主人公"
+"speaker_主人公","主人公","speaker_主人公",""

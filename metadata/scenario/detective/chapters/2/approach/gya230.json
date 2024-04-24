@@ -1,0 +1,97 @@
+[
+  {
+    "start": 137,
+    "end": 143,
+    "key": "jname#93c95f9c58659ed36bd1701bf7d97844"
+  },
+  {
+    "start": 303,
+    "end": 309,
+    "key": "balloon#d38c80d5d1303ea1eb8c3429197afb7f"
+  },
+  {
+    "start": 376,
+    "end": 470,
+    "key": "balloon#3004dde9afcf05ab6874ef165eaef284"
+  },
+  {
+    "start": 556,
+    "end": 603,
+    "key": "balloon#bc47061ac0dd94554faad0678913c5b4"
+  },
+  {
+    "start": 666,
+    "end": 675,
+    "key": "balloon#1a30be482e352ed7eeaece417dad531f"
+  },
+  {
+    "start": 762,
+    "end": 765,
+    "key": "balloon#9c1a2d238dba9a227727e6958e4f48f5"
+  },
+  {
+    "start": 843,
+    "end": 1134,
+    "key": "balloon#2bfaff1eb7a06ee1e3aaf8ccd54b94a0"
+  },
+  {
+    "start": 1199,
+    "end": 1253,
+    "key": "balloon#5928493bef56aa0bb797f77878b4be76"
+  },
+  {
+    "start": 1368,
+    "end": 1380,
+    "key": "SECRET_SELECTION/topic#749b7fef9da02d8d827479cbe51c93c5"
+  },
+  {
+    "start": 1389,
+    "end": 1399,
+    "key": "SECRET_SELECTION/text1#bbfcaee1a8d52f5fe2d9daf185030279"
+  },
+  {
+    "start": 1408,
+    "end": 1416,
+    "key": "SECRET_SELECTION/text2#e3f2fc56d5a604e52699297324699f5a"
+  },
+  {
+    "start": 1615,
+    "end": 1634,
+    "key": "balloon#7e4eaecaf83cec6c338c693c1506c7f8"
+  },
+  {
+    "start": 1698,
+    "end": 1714,
+    "key": "balloon#1ea445695837e033cd317ee692b06ca7"
+  },
+  {
+    "start": 1801,
+    "end": 1825,
+    "key": "balloon#ec46842b875ba108bd81658e85a9cfc3"
+  },
+  {
+    "start": 1903,
+    "end": 1909,
+    "key": "balloon#a2e31520a109dabca0b99c15dfbbd296"
+  },
+  {
+    "start": 2031,
+    "end": 2042,
+    "key": "balloon#ba74bd0d14175b0d9f4030fc3c40ef8b"
+  },
+  {
+    "start": 2100,
+    "end": 2158,
+    "key": "balloon#101f33b6107742a87bc4a0039424e1b8"
+  },
+  {
+    "start": 2216,
+    "end": 2258,
+    "key": "balloon#a2478a559a28d8a802c8634e587225bb"
+  },
+  {
+    "start": 2373,
+    "end": 2381,
+    "key": "balloon#786f7f436fc763a880945c8572b784a1"
+  }
+]

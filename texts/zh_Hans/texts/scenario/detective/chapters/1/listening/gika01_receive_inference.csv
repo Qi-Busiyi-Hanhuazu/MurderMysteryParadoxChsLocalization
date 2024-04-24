@@ -1,0 +1,110 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d8e63b4e5116f097315104e25c693f24","原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。","balloon#d8e63b4e5116f097315104e25c693f24","机翻辅助：
+
+原来如此，这个推理[font color=@3][emb exp='tf.names.NPC.me']也能接受[resetfont]。
+
+原来如此，那种推理[emb exp='tf.names.NPC.me']也能理解[font color=@3]哟。[resetfont]
+
+原来如此，这个推理[emb exp='tf.names.NPC.me']也能接受。[font color=@3][resetfont]"
+"balloon#59c73623bdbdb9301990546a6423bb39","[font color=@3]被踩熄的火柴，的确很有可能是[emb exp='tf.names.NPC.mashima']放的[resetfont]。","balloon#59c73623bdbdb9301990546a6423bb39","机翻辅助：
+
+[font color=@3]被踩熄的火柴，的确很有可能是[emb exp='tf.names.NPC.mashima']放的[resetfont]。
+
+确实，被踩灭的火柴的主人很有可能是[emb exp='tf.names.NPC.mashima'][font color=@3]。[resetfont]
+
+确实，被踩灭的火柴的主人很有可能是[emb exp='tf.names.NPC.mashima']。[font color=@3][resetfont]"
+"balloon#1c0c907976cb95dd7433280ed1ba24d9","没错，就是[font color=@3]这张火柴的主人是[emb exp='tf.names.itsuki.mashima'][resetfont]吧。","balloon#1c0c907976cb95dd7433280ed1ba24d9","机翻辅助：
+
+没错，就是[font color=@3]这张火柴的主人是[emb exp='tf.names.itsuki.mashima'][resetfont]吧。
+
+没错，[font color=@3]这根火柴的主人是[emb exp='tf.names.itsuki.mashima'][resetfont]吧。
+
+是的，这根火柴的主人应该是[emb exp='tf.names.itsuki.mashima']吧。[font color=@3][resetfont]"
+"balloon#3694beb3da343e4660be84ad127f88df","你挺有一套的嘛。","balloon#3694beb3da343e4660be84ad127f88df","机翻辅助：
+
+你挺有一套的嘛。
+
+你真能干。"
+"balloon#09e8f374979fc3eaf299b5ee9b644909","真是帮了大忙。","balloon#09e8f374979fc3eaf299b5ee9b644909","机翻辅助：
+
+真是帮了大忙。
+
+帮了大忙了。
+
+你帮了我大忙了。"
+"balloon#35863d74654f6e7de8c4436b8a04fd83","是的，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！","balloon#35863d74654f6e7de8c4436b8a04fd83","机翻辅助：
+
+是的，能帮上[emb exp='tf.names.itsuki.NPC']的忙真是太好了！
+
+是的，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#5c37530254d8e83d4127244ece1200d4","看来可以信任你。","balloon#5c37530254d8e83d4127244ece1200d4","机翻辅助：
+
+看来可以信任你。
+
+我好像可以相信你。
+
+我可以相信你。"
+"balloon#73708cacfa3e7687d6d3656205f2d12a","下次再拜托你了。","balloon#73708cacfa3e7687d6d3656205f2d12a","机翻辅助：
+
+下次再拜托你了。
+
+我会再拜托你的。"
+"balloon#dee5e396785fd4700d139f06c2f4a830","真的吗？","balloon#dee5e396785fd4700d139f06c2f4a830","机翻辅助：
+
+真的吗？
+
+真的是这样吗？"
+"balloon#04f7f12ab2b6ade3f628ae3f1d3edcfe","[font color=@3]我觉得你的推理[resetfont]有点不对……","balloon#04f7f12ab2b6ade3f628ae3f1d3edcfe","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对……
+
+我觉得那个推理有点不一样……[font color=@3][resetfont]
+
+这个推理，我觉得有点不对……[font color=@3][resetfont]"
+"balloon#ec11a8ed2ccfe17b201da260aaa88bd2","[font color=@3]我觉得你的推理[resetfont]完全不对……","balloon#ec11a8ed2ccfe17b201da260aaa88bd2","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对……
+
+我认为那个推理是完全不同的……[font color=@3][resetfont]
+
+这个推理，我觉得完全不一样……[font color=@3][resetfont]"
+"balloon#1e1cf5cccd0db3c354cfe8155bc07842","很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……","balloon#1e1cf5cccd0db3c354cfe8155bc07842","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki_p.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki_p.NPC']的疑问，很抱歉……"
+"balloon#c1c84092698aef1f95564c2e998b82de","我对你没有那么高的期待哦。","balloon#c1c84092698aef1f95564c2e998b82de","机翻辅助：
+
+我对你没有那么高的期待哦。
+
+我对你没那么期待。"
+"balloon#fbd7aa1712f85a3e0751efb24baad9aa","关于这件事……","balloon#fbd7aa1712f85a3e0751efb24baad9aa","机翻辅助：
+
+关于这件事……"
+"balloon#39183dc5a78a98d4ab3aed753c46919d","[font color=@3]火柴与犯罪现场[resetfont]看来有必要弄清楚两者的关系。","balloon#39183dc5a78a98d4ab3aed753c46919d","机翻辅助：
+
+[font color=@3]火柴与犯罪现场[resetfont]看来有必要弄清楚两者的关系。
+
+[font color=@3]火柴和犯罪现场[resetfont]，有必要明确双方的关系。
+
+[font color=@3][resetfont]有必要弄清楚火柴和犯案现场之间的关系呢。"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#c5db088ee12083e6033706f891c6a3b9","[font color=@3]有没有和火柴和犯案现场[resetfont]都有关系的人物呢，重新审视线索吧。","balloon#c5db088ee12083e6033706f891c6a3b9","机翻辅助：
+
+[font color=@3]有没有和火柴和犯案现场[resetfont]都有关系的人物呢，重新审视线索吧。
+
+让我们重新审视一下线索，看看有没有同时与火柴和犯罪现场有关的人物。[font color=@3][resetfont]
+
+看看有没有和火柴和犯罪现场有关的人。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

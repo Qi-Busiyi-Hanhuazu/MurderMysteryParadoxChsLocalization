@@ -1,0 +1,206 @@
+"source","target","id","developer_comments"
+"[0]/title","想相信树","[0]/title","机翻辅助：
+
+想相信树
+
+想要相信树
+
+我想相信树"
+"[0]/desc","仁想要相信<font color='@1'>树不是犯人</font>。能够证明树的清白的<font color='@1'> @sl_a  @sl_c </font>是什么？","[0]/desc","机翻辅助：
+
+仁想要相信<font color='@1'>树不是犯人</font>。能够证明树的清白的<font color='@1'> @sl_a  @sl_c </font>是什么？
+
+仁想相信树不是犯人。证明树的无辜的是什么？<font color='@1'></font><font color='@1'> @sl_a  @sl_c </font>
+
+仁相信树不是犯人。能证明树清白的<font color='@1'>是什么？</font><font color='@1'> @sl_a  @sl_c </font>"
+"[0]/inference_help_text","要解决仁的疑问，需要<br><font color=@1>指出影山行动时间上的矛盾</font><br>的线索。","[0]/inference_help_text","机翻辅助：
+
+要解决仁的疑问，需要<br><font color=@1>指出影山行动时间上的矛盾</font><br>的线索。
+
+为了解决仁的疑问，我们需要能反映影山行动时间矛盾的线索。<br><font color=@1></font><br>
+
+要想解决仁的疑问，就必须掌握影山行动时间矛盾的线索。<br><font color=@1></font><br>"
+"[1]/title","树身上发生了什么事？","[1]/title","机翻辅助：
+
+树身上发生了什么事？
+
+树身上发生了什么？"
+"[1]/desc","牧野在意<font color='@1'>树在照相馆发生了什么事</font>。能够特定树发生过什么事的<font color='@1'> @sl_c @sl_b </font>是什么？","[1]/desc","机翻辅助：
+
+牧野在意<font color='@1'>树在照相馆发生了什么事</font>。能够特定树发生过什么事的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+牧野很在意照相馆里的树木身上发生了什么。与树发生的事情的特定相连的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>
+
+牧野在照相馆很在意树发生了什么事。与树发生的事件的特定相关的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>"
+"[1]/inference_help_text","为了解决牧野的疑问，需要<br><font color=@1>显示树睡着的原因</font><br>的线索。","[1]/inference_help_text","机翻辅助：
+
+为了解决牧野的疑问，需要<br><font color=@1>显示树睡着的原因</font><br>的线索。
+
+为了解决牧野的疑问，我们需要找出能证明树木沉睡原因的线索。<br><font color=@1></font><br>
+
+要想解决牧野的疑问，就需要有线索来证明树木长眠的原因。<br><font color=@1></font><br>"
+"[2]/title","钮扣的主人是谁？","[2]/title","机翻辅助：
+
+钮扣的主人是谁？
+
+纽扣的主人是？
+
+纽扣的主人是谁？"
+"[2]/desc","牧野在意<font color='@1'>彩叶紧握的纽扣是谁的</font>。能够特定纽扣主人的<font color='@1'> @sl_b @sl_c </font>是什么？","[2]/desc","机翻辅助：
+
+牧野在意<font color='@1'>彩叶紧握的纽扣是谁的</font>。能够特定纽扣主人的<font color='@1'> @sl_b @sl_c </font>是什么？
+
+牧野很在意彩叶握着的纽扣的主人。与持有者的特定相连的<font color='@1'>是什么？</font><font color='@1'> @sl_b @sl_c </font>
+
+牧野很在意彩叶紧握的那颗纽扣的主人。与锁定所有者相关的<font color='@1'>是什么？</font><font color='@1'> @sl_b @sl_c </font>"
+"[2]/inference_help_text","为了解决牧野的疑问，需要<br><font color=@1>显示钮扣原本附着的衣服，以及衣服的主人</font><br>的线索。","[2]/inference_help_text","机翻辅助：
+
+为了解决牧野的疑问，需要<br><font color=@1>显示钮扣原本附着的衣服，以及衣服的主人</font><br>的线索。
+
+为了解决牧野的疑问，我们需要<br><font color=@1>有扣子的衣服和能证明那是谁的</font><br>线索。
+
+要想解决牧野的疑问，就需要有线索。<br><font color=@1></font><br>"
+"[3]/title","影山很可疑","[3]/title","机翻辅助：
+
+影山很可疑
+
+影山可疑"
+"[3]/desc","牧野怀疑影山是<font color='@1'>在照相馆杀害彩叶的犯人</font>。能够证明影山的犯行，或是证明其清白的<font color='@1'> @sl_c </font>是什么？","[3]/desc","机翻辅助：
+
+牧野怀疑影山是<font color='@1'>在照相馆杀害彩叶的犯人</font>。能够证明影山的犯行，或是证明其清白的<font color='@1'> @sl_c </font>是什么？
+
+牧野怀疑影山是在照相馆杀害彩叶的犯人。证明影山的罪行，或者证明其无罪的是什么？<font color='@1'></font><font color='@1'> @sl_c </font>
+
+牧野怀疑影山就是在照相馆杀害彩叶的凶手。能证明影山的罪行或清白的<font color='@1'>是什么？</font><font color='@1'> @sl_c </font>"
+"[3]/inference_help_text","为了解决牧野的疑问，需要<br><font color=@1>显示彩叶的推定死亡时间与影山行动的关联</font><br>的线索。","[3]/inference_help_text","机翻辅助：
+
+为了解决牧野的疑问，需要<br><font color=@1>显示彩叶的推定死亡时间与影山行动的关联</font><br>的线索。
+
+为了解决牧野的疑问，有必要提供彩叶的推定死亡时间和影山行动之间的联系的线索。<br><font color=@1></font><br>
+
+为了解决牧野的疑问，需要掌握彩叶死亡推定时间和影山行动的联系。<br><font color=@1></font><br>"
+"[4]/title","彩叶强烈拒绝接人的理由？","[4]/title","机翻辅助：
+
+彩叶强烈拒绝接人的理由？
+
+彩叶强烈拒绝迎接的理由是？
+
+彩叶强烈拒绝迎接的理由是什么？"
+"[4]/desc","结城对彩叶的行动感到不对劲。<font color='@1'>为何强烈拒绝22:30去照相馆接她</font>？能够特定当时照相馆发生过什么事的<font color='@1'> @sl_c </font>是什么？","[4]/desc","机翻辅助：
+
+结城对彩叶的行动感到不对劲。<font color='@1'>为何强烈拒绝22:30去照相馆接她</font>？能够特定当时照相馆发生过什么事的<font color='@1'> @sl_c </font>是什么？
+
+结城对彩叶的行为感到不协调。<font color='@1'>为什么在22:30强烈拒绝迎接照相馆？那个时候在照相馆发生的事的特定相连的</font>是什么？<font color='@1'> @sl_c </font>
+
+结城对彩叶的行为感到奇怪。<font color='@1'>为什么在22:30强烈拒绝照相馆的迎接？与确定当时照相馆发生的事情相关的</font>是什么？<font color='@1'> @sl_c </font>"
+"[4]/inference_help_text","为了解决结城的疑问，需要<br><font color=@1>显示彩叶寄出邮件时照相馆内的状况</font><br>的线索。","[4]/inference_help_text","机翻辅助：
+
+为了解决结城的疑问，需要<br><font color=@1>显示彩叶寄出邮件时照相馆内的状况</font><br>的线索。
+
+为了解决结城的疑问，需要提供彩叶发送邮件时照相馆内的状况。<br><font color=@1></font><br>
+
+为了解决结城的疑问，需要线索。<br><font color=@1></font><br>"
+"[5]/title","千世的杀害状况？","[5]/title","机翻辅助：
+
+千世的杀害状况？
+
+千世的杀害状况是？
+
+千世的被害情况如何？"
+"[5]/desc","日下部在意<font color='@1'>千世被杀害时的状况</font>。能够特定状况的<font color='@1'> @sl_c @sl_b </font>是什么？","[5]/desc","机翻辅助：
+
+日下部在意<font color='@1'>千世被杀害时的状况</font>。能够特定状况的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+日下部在意千世被杀害时的状况。与状况的特定相连的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>
+
+日下部很在意千世被杀害时的状况。与特定状况相关的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>"
+"[5]/inference_help_text","为了解决日下部的疑问，需要<br><font color=@1>显示疑似用来杀害的凶器，以及千世没有抵抗痕迹的原因</font><br>的线索。","[5]/inference_help_text","机翻辅助：
+
+为了解决日下部的疑问，需要<br><font color=@1>显示疑似用来杀害的凶器，以及千世没有抵抗痕迹的原因</font><br>的线索。
+
+如果要解决日下部的疑问，就需要可以用来杀人的凶器和千世没有抵抗痕迹的原因。<br><font color=@1></font><br>
+
+为了解决日下部的疑问，有必要掌握杀人凶器和千世无抵抗痕迹的原因。<br><font color=@1></font><br>"
+"[6]/title","彩叶的杀害状况？","[6]/title","机翻辅助：
+
+彩叶的杀害状况？
+
+彩叶的杀害状况是？
+
+彩叶的被害情况如何？"
+"[6]/desc","日下部在意<font color='@1'>彩叶被杀害时的状况</font>。能够特定状况的<font color='@1'> @sl_c @sl_b </font>是什么？","[6]/desc","机翻辅助：
+
+日下部在意<font color='@1'>彩叶被杀害时的状况</font>。能够特定状况的<font color='@1'> @sl_c @sl_b </font>是什么？
+
+日下部在意彩叶被杀害时的状况。与状况的特定相连的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>
+
+日下部很在意彩叶被杀害时的状况。与特定状况相关的<font color='@1'>是什么？</font><font color='@1'> @sl_c @sl_b </font>"
+"[6]/inference_help_text","为了解决日下部的疑问，需要<br><font color=@1>显示杀害彩叶的地点不是山中小屋，以及在哪里杀害的</font><br>线索。","[6]/inference_help_text","机翻辅助：
+
+为了解决日下部的疑问，需要<br><font color=@1>显示杀害彩叶的地点不是山中小屋，以及在哪里杀害的</font><br>线索。
+
+为了解决日下部的疑问，有必要掌握杀害彩叶的地方不是山间小屋和在哪里被杀害的线索。<br><font color=@1></font><br>
+
+为了解决日下部的疑问，必须要有能够证明彩叶被杀害的地点不是山中小屋以及在哪里被杀害的线索。<br><font color=@1></font><br>"
+"[7]/title","犯人是仁！","[7]/title","机翻辅助：
+
+犯人是仁！
+
+凶手是仁！"
+"[7]/desc","树认为仁是犯人。证明仁与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？","[7]/desc","机翻辅助：
+
+树认为仁是犯人。证明仁与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为仁是犯人。能证明仁参与犯罪的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为仁是犯人。证明仁参与犯罪的证据是什么？<font color='@1'> @sl_c @sl_a </font>"
+"[8]/title","犯人是牧野！","[8]/title","机翻辅助：
+
+犯人是牧野！
+
+凶手是牧野！"
+"[8]/desc","树认为牧野是犯人。证明牧野与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？","[8]/desc","机翻辅助：
+
+树认为牧野是犯人。证明牧野与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为牧野就是凶手。能证明牧野参与犯罪的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为牧野是犯人。证实牧野参与犯罪的证据是什么？<font color='@1'> @sl_c @sl_a </font>"
+"[9]/title","犯人是结城！","[9]/title","机翻辅助：
+
+犯人是结城！
+
+凶手是结城！"
+"[9]/desc","树认为结城是犯人。证明结城与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？","[9]/desc","机翻辅助：
+
+树认为结城是犯人。证明结城与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为结城就是凶手。能证明结城参与犯罪的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为结城是凶手。证明结城参与犯罪的证据是什么？<font color='@1'> @sl_c @sl_a </font>"
+"[10]/title","犯人是影山！","[10]/title","机翻辅助：
+
+犯人是影山！
+
+凶手是影山！"
+"[10]/desc","树认为影山是犯人。证明影山与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？","[10]/desc","机翻辅助：
+
+树认为影山是犯人。证明影山与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为影山是凶手。影山参与犯罪的证据<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为影山是凶手。证实影山参与犯罪的是什么？<font color='@1'> @sl_c @sl_a </font>"
+"[11]/title","犯人是日下部！","[11]/title","机翻辅助：
+
+犯人是日下部！
+
+犯人是日下！
+
+凶手是日下部！"
+"[11]/desc","树认为日下部是犯人。证明日下部与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？","[11]/desc","机翻辅助：
+
+树认为日下部是犯人。证明日下部与犯行相关的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为日下部就是凶手。能证明日下部参与犯罪的<font color='@1'> @sl_c @sl_a </font>是什么？
+
+树认为日下部是犯人。日下部的犯罪的关联的证据是什么？<font color='@1'> @sl_c @sl_a </font>"

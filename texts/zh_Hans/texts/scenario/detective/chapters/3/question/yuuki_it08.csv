@@ -1,0 +1,40 @@
+"source","target","id","developer_comments"
+"balloon#0e5e44a613654cbaf39846837ecd031a","诊疗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]那是真的吗？","balloon#0e5e44a613654cbaf39846837ecd031a","机翻辅助：
+
+诊疗……[l][chara_mod time=""@f1"" name=""NPC"" face=""think""]那是真的吗？"
+"balloon#a840125a5fb5f05240c9e6b3f20a6b8c","怎么回事？","balloon#a840125a5fb5f05240c9e6b3f20a6b8c","机翻辅助：
+
+怎么回事？
+
+这是怎么回事？
+
+什么意思？"
+"balloon#24bdc35665be4aac59f2e75001861f55","我听到这些话就想起来了……","balloon#24bdc35665be4aac59f2e75001861f55","机翻辅助：
+
+我听到这些话就想起来了……
+
+听了这话想起来了……
+
+听了你的话，我想起来了……"
+"balloon#e103f8e277454e3f7648cc30caafeeee","[emb exp='tf.names.NPC.me']在从照相馆前往后山的途中，在派出所附近看到的。","balloon#e103f8e277454e3f7648cc30caafeeee","机翻辅助：
+
+[emb exp='tf.names.NPC.me']在从照相馆前往后山的途中，在派出所附近看到的。
+
+[emb exp='tf.names.NPC.me']从照相馆去后山的途中，从驻在所附近看到的。
+
+[emb exp='tf.names.NPC.me']是从照相馆去后山的路上，在派出所附近看到的。"
+"balloon#9cde42b39dd38ac8e303f5c3a62d0c42","[font color=@3]看到[emb exp='tf.names.NPC.kamishiro']进入后山[resetfont]的时候[l][chara_mod time=""@f1"" name=""NPC"" face=""sad""][font color=@3]是14:34。[resetfont]","balloon#9cde42b39dd38ac8e303f5c3a62d0c42","机翻辅助：
+
+[font color=@3]看到[emb exp='tf.names.NPC.kamishiro']进入后山[resetfont]的时候[l][chara_mod time=""@f1"" name=""NPC"" face=""sad""][font color=@3]是14:34。[resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.kamishiro']进入后山。[resetfont]14:34左右。[l][chara_mod time=""@f1"" name=""NPC"" face=""sad""][font color=@3][resetfont]
+
+[font color=@3][emb exp='tf.names.NPC.kamishiro']进入后山。[resetfont]14:34[l][chara_mod time=""@f1"" name=""NPC"" face=""sad""][font color=@3]左右。[resetfont]"
+"balloon#129347297e5aeed721f271dec3fb5745","原来[emb exp='tf.names.itsuki.NPC']目击了[font color=@3][emb exp='tf.names.itsuki.kamishiro']进入后山[resetfont]的场面啊。","balloon#129347297e5aeed721f271dec3fb5745","机翻辅助：
+
+原来[emb exp='tf.names.itsuki.NPC']目击了[font color=@3][emb exp='tf.names.itsuki.kamishiro']进入后山[resetfont]的场面啊。
+
+[emb exp='tf.names.itsuki.NPC']看到了[emb exp='tf.names.itsuki.kamishiro']进入后山的地方吗。[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.NPC']看到[emb exp='tf.names.itsuki.kamishiro']进入后山了吗？[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

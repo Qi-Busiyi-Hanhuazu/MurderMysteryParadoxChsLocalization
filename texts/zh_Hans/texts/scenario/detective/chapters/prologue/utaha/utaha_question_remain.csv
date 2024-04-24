@@ -1,0 +1,16 @@
+"source","target","id","developer_comments"
+"balloon#a62b7cebb178d9c23cd08c1ebdd1a101","嗯——[chara_mod time=""@f1"" name=""NPC"" face=""what""]我很在意刚才的疑问。","balloon#a62b7cebb178d9c23cd08c1ebdd1a101","机翻辅助：
+
+嗯——[chara_mod time=""@f1"" name=""NPC"" face=""what""]我很在意刚才的疑问。
+
+嗯，[chara_mod time=""@f1"" name=""NPC"" face=""what""]我很在意刚才的疑问。
+
+嗯，我很在意刚才的疑问。[chara_mod time=""@f1"" name=""NPC"" face=""what""]"
+"balloon#7121bd83fd23789f909150e812dc3918","为了得到让[emb exp='tf.names.itsuki.NPC']认同的答案，[font color=@3]再一次推理[resetfont]吧。","balloon#7121bd83fd23789f909150e812dc3918","机翻辅助：
+
+让我来[font color=@3]再一次推理[resetfont]，能得到[emb exp='tf.names.itsuki.NPC']认同的答案。
+
+让[emb exp='tf.names.itsuki.NPC']接受的答案[font color=@3]再一次推理[resetfont]。
+
+[font color=@3]再推理一下能让[emb exp='tf.names.itsuki.NPC']接受的答案。[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

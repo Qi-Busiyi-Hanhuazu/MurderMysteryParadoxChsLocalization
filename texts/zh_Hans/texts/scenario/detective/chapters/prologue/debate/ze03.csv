@@ -1,0 +1,68 @@
+"source","target","id","developer_comments"
+"balloon#04a0a0ebdc34ac90680eee05f9c2a3a7","可以请你们听[emb exp='tf.names.NPC.me']说吗？","balloon#04a0a0ebdc34ac90680eee05f9c2a3a7","机翻辅助：
+
+可以请你们听[emb exp='tf.names.NPC.me']说吗？
+
+你能听[emb exp='tf.names.NPC.me']说吗？
+
+可以听[emb exp='tf.names.NPC.me']说吗？"
+"message10#5082eb0547b97738537368eae953adc3","- 千世的主张 -","message10#5082eb0547b97738537368eae953adc3","机翻辅助：
+
+- 千世的主张 -"
+"balloon#e5db1f08989c20dd34188a298db5e255","[emb exp='tf.names.NPC.me']一开始切完西瓜后，有把菜刀和砧板收好……","balloon#e5db1f08989c20dd34188a298db5e255","机翻辅助：
+
+[emb exp='tf.names.NPC.me']一开始切完西瓜后，有把菜刀和砧板收好……
+
+[emb exp='tf.names.NPC.me']第一次切西瓜之后，收拾了菜刀和案板……
+
+[emb exp='tf.names.NPC.me']第一次切完西瓜后，收拾了菜刀和砧板……"
+"balloon#59d3b2e34eb853dafa71bccab2e05b6e","回到厨房时，它不知为何被放在桌上，而且已经用过了。","balloon#59d3b2e34eb853dafa71bccab2e05b6e","机翻辅助：
+
+回到厨房时，它不知为何被放在桌上，而且已经用过了。
+
+回到厨房的时候，不知为什么被放置在使用的状态下。
+
+回到厨房的时候，不知道为什么还放在被使用过的状态。"
+"balloon#f5d8d1b23261c6ef3dd8a2257625cf39","我不会生气的，希望你老实告诉我。","balloon#f5d8d1b23261c6ef3dd8a2257625cf39","机翻辅助：
+
+我不会生气的，希望你老实告诉我。
+
+我不会生气的，希望你能诚实地告诉我。
+
+我不会生气的，你就老实告诉我吧。"
+"balloon#b92d05201ce54e73e4b856e7179be62f","[font color=@3]使用菜刀和砧板的孩子[resetfont]是谁？","balloon#b92d05201ce54e73e4b856e7179be62f","机翻辅助：
+
+[font color=@3]使用菜刀和砧板的小孩[resetfont]是谁？
+
+[font color=@3]使用菜刀和砧板的孩子[resetfont]是谁？
+
+[font color=@3]使用菜刀和砧板的孩子是谁？[resetfont]"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#6791d9ba987e7f59d9b057deb6bded09","<font color='@3'>使用菜刀和砧板</font>的是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#6791d9ba987e7f59d9b057deb6bded09","机翻辅助：
+
+<font color='@3'>使用菜刀和砧板</font>的是……
+
+<font color='@3'>菜刀和砧板</font>使用的是……
+
+<font color='@3'>使用菜刀和砧板的是……</font>"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#ec9b075dc9517a309970ee81abbd72cb","是${itsuki.utaha}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#ec9b075dc9517a309970ee81abbd72cb","机翻辅助：
+
+是${itsuki.utaha}！
+
+${itsuki.utaha}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e19a922ac40b74b417846a8c9adfcd20","是${itsuki.iroha}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e19a922ac40b74b417846a8c9adfcd20","机翻辅助：
+
+是${itsuki.iroha}！
+
+${itsuki.iroha}！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#2b5e3b9dcb095da83980ccad929e799d","是${itsuki.yohei}！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#2b5e3b9dcb095da83980ccad929e799d","机翻辅助：
+
+是${itsuki.yohei}！
+
+${itsuki.yohei}！"
+"message10#1e4ff1e2dd69601ff9c7aa4bf1b551d9","树把自己的想法告诉千世。","message10#1e4ff1e2dd69601ff9c7aa4bf1b551d9","机翻辅助：
+
+树把自己的想法告诉千世。
+
+树在千世，传达了自己的想法。
+
+树把自己的想法告诉了千世。"

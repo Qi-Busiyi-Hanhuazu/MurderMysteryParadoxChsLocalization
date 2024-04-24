@@ -1,0 +1,183 @@
+"source","target","id","developer_comments"
+"balloon#2fe5843d6bf2b9b0517fafbe16568ce7","好，我再说一次……","balloon#2fe5843d6bf2b9b0517fafbe16568ce7","机翻辅助：
+
+好，我再说一次……
+
+好了，再说一遍……
+
+那么，再说一遍……"
+"balloon#051db79793ecc184f83ef211797358cc","[emb exp='tf.names.NPC.me'][font color=@3]怀疑[emb exp='tf.names.NPC.kumiko'][resetfont]。","balloon#051db79793ecc184f83ef211797358cc","机翻辅助：
+
+[emb exp='tf.names.NPC.me'][font color=@3]怀疑[emb exp='tf.names.NPC.kumiko'][resetfont]。
+
+[emb exp='tf.names.NPC.me']在怀疑[emb exp='tf.names.NPC.kumiko']。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']怀疑[emb exp='tf.names.NPC.kumiko']。[font color=@3][resetfont]"
+"balloon#1865b69d0b12b9129423b34bf20c9b14","……嗯，你确实是这么说的。","balloon#1865b69d0b12b9129423b34bf20c9b14","机翻辅助：
+
+……嗯，你确实是这么说的。
+
+……是的，他是这么说的。
+
+……是的，你是这么说的吧。"
+"balloon#c8911b22654580583284dcbbf24b11c3","你应该还记得，我怀疑你的理由吧？","balloon#c8911b22654580583284dcbbf24b11c3","机翻辅助：
+
+你应该还记得，我怀疑你的理由吧？
+
+你还记得怀疑的理由吧？"
+"balloon#e1f5f4af1d2b85c52c319d61ae1b106e","理由……吗？","balloon#e1f5f4af1d2b85c52c319d61ae1b106e","机翻辅助：
+
+理由……吗？
+
+理由……是吗？"
+"balloon#ada2f6e345f33e4ae688f2d77159b2b4","没错，就是理由。","balloon#ada2f6e345f33e4ae688f2d77159b2b4","机翻辅助：
+
+没错，就是理由。
+
+对，是理由。
+
+是的，是理由。"
+"balloon#577c4a4358b60dd716726f1594adad09","因为[emb exp='tf.names.NPC.kumiko']再怎么说……","balloon#577c4a4358b60dd716726f1594adad09","机翻辅助：
+
+因为[emb exp='tf.names.NPC.kumiko']再怎么说……
+
+[emb exp='tf.names.NPC.kumiko']，不管怎么说……
+
+[emb exp='tf.names.NPC.kumiko']怎么说……"
+"balloon#f26c55273144b1f9351c1a7e69896aa2","呃，这个……","balloon#f26c55273144b1f9351c1a7e69896aa2","机翻辅助：
+
+呃，这个……
+
+呃、呃……
+
+嗯、嗯……"
+"SECRET_SELECTION/topic#6e915042a9a845e4be63c0ae65fd16dd","${itsuki.kumiko}再怎么说……","SECRET_SELECTION/topic#6e915042a9a845e4be63c0ae65fd16dd","机翻辅助：
+
+${itsuki.kumiko}再怎么说……
+
+${itsuki.kumiko}，不管怎么说……
+
+${itsuki.kumiko}怎么说……"
+"SECRET_SELECTION/text1#d8a6b201c4ef5e236fb57a690588aca3","她可是我的母亲啊！","SECRET_SELECTION/text1#d8a6b201c4ef5e236fb57a690588aca3","机翻辅助：
+
+她可是我的母亲啊！
+
+是我的妈妈！
+
+是我妈！"
+"SECRET_SELECTION/text2#10b871a7f4c15eaf4b9cbcc8a3e87b08","第一个发现者！","SECRET_SELECTION/text2#10b871a7f4c15eaf4b9cbcc8a3e87b08","机翻辅助：
+
+第一个发现者！
+
+第一发现者！
+
+是第一发现者！"
+"SECRET_SELECTION/text3#eefba6e49f123f321e188576812972da","偶像！？","SECRET_SELECTION/text3#eefba6e49f123f321e188576812972da","机翻辅助：
+
+偶像！？
+
+偶像"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#d74ef9b70597e8b8037f8b3239631ce5","母亲……","balloon#d74ef9b70597e8b8037f8b3239631ce5","机翻辅助：
+
+母亲……
+
+妈妈……
+
+妈……"
+"balloon#0975ca1c32cfc3d2f472961c111fad11","嗯？怎么回事？","balloon#0975ca1c32cfc3d2f472961c111fad11","机翻辅助：
+
+嗯？怎么回事？
+
+嗯，怎么回事？"
+"balloon#67d0612ea4a80d2d8815da8efde0975a","你到底有没有在听[emb exp='tf.names.NPC.me']说话啊？！","balloon#67d0612ea4a80d2d8815da8efde0975a","机翻辅助：
+
+你到底有没有在听[emb exp='tf.names.NPC.me']说话啊？！
+
+你认真听[emb exp='tf.names.NPC.me']说话了吗？？
+
+[emb exp='tf.names.NPC.me']的话，你听清楚了吗！？"
+"balloon#d0235737286830b87338380685b845b1","理由就是，她是骚动的第一个发现者啊！！","balloon#d0235737286830b87338380685b845b1","机翻辅助：
+
+理由就是，她是骚动的第一个发现者啊！！
+
+理由是，他是骚动的第一发现者！！
+
+理由是因为他是最早发现骚乱的人！！"
+"balloon#0acf010d81c7b8aa424c0a34f904541d","第一个发现者……","balloon#0acf010d81c7b8aa424c0a34f904541d","机翻辅助：
+
+第一个发现者……
+
+第一发现者……"
+"balloon#724d892eb834c9413031fddffc4dbaa4","没错，亏你还记得啊！","balloon#724d892eb834c9413031fddffc4dbaa4","机翻辅助：
+
+没错，亏你还记得啊！
+
+是啊，记得很清楚啊！"
+"balloon#089b7ca419696f830decc5955792cf86","原来她有好好听[emb exp='tf.names.NPC.me']说话啊！","balloon#089b7ca419696f830decc5955792cf86","机翻辅助：
+
+原来她有好好听[emb exp='tf.names.NPC.me']说话啊！
+
+好好地听了[emb exp='tf.names.NPC.me']的话啊！
+
+你认真听了[emb exp='tf.names.NPC.me']的话啊！"
+"balloon#b3968ab38352fda06d4300756159329e","偶像……","balloon#b3968ab38352fda06d4300756159329e","机翻辅助：
+
+偶像……
+
+偶像"
+"balloon#4c934513aaf8c6f3d4ad59ba32232acd","虽然[emb exp='tf.names.NPC.kumiko']在这座岛上确实曾经是偶像般的存在啦……","balloon#4c934513aaf8c6f3d4ad59ba32232acd","机翻辅助：
+
+虽然[emb exp='tf.names.NPC.kumiko']在这座岛上确实曾经是偶像般的存在啦……
+
+嘛，[emb exp='tf.names.NPC.kumiko']确实是这个岛上的偶像般的存在……
+
+不过，[emb exp='tf.names.NPC.kumiko']确实是这座岛上的偶像级人物啊……"
+"balloon#6f3bab1ffd673742297954743a7ccaf6","话说，你让我说了什么啊！？","balloon#6f3bab1ffd673742297954743a7ccaf6","机翻辅助：
+
+话说，你让我说了什么啊！？
+
+让我说什么！？
+
+你让我说什么啊！？"
+"balloon#5ae102e11e6e3562b5f3977d7c593a6d","太羞耻了吧！","balloon#5ae102e11e6e3562b5f3977d7c593a6d","机翻辅助：
+
+太羞耻了吧！
+
+真丢人！
+
+这不是很丢脸吗？"
+"balloon#e637ccf78c166e288318efc7a526dfe6","话说，你应该没忘吧？","balloon#e637ccf78c166e288318efc7a526dfe6","机翻辅助：
+
+话说，你应该没忘吧？
+
+话说回来，你不是忘了吧？
+
+你不会忘了吧？"
+"balloon#aea46c4e280ddf61a39b6aa40a650ba0","没错，[emb exp='tf.names.itsuki.kumiko']之所以会遭到怀疑，是因为他是第一个发现者。","balloon#aea46c4e280ddf61a39b6aa40a650ba0","机翻辅助：
+
+没错，[emb exp='tf.names.itsuki.kumiko']之所以会遭到怀疑，是因为他是第一个发现者。
+
+没错，[emb exp='tf.names.itsuki.kumiko']之所以被怀疑是因为他是第一发现者。
+
+没错，[emb exp='tf.names.itsuki.kumiko']之所以被怀疑，是因为他是第一发现者。"
+"balloon#791b11f2fbc369fe81c57aa407e60dc4","[emb exp='tf.names.NPC.me']也会继续调查，[emb exp='tf.names.NPC.itsuki']也要加油哦！","balloon#791b11f2fbc369fe81c57aa407e60dc4","机翻辅助：
+
+[emb exp='tf.names.NPC.me']也会继续调查，[emb exp='tf.names.NPC.itsuki']也要加油哦！
+
+[emb exp='tf.names.NPC.me']也还要查一下，[emb exp='tf.names.NPC.itsuki']也拜托你了！
+
+[emb exp='tf.names.NPC.me']也会继续调查的，[emb exp='tf.names.NPC.itsuki']也拜托你了！"
+"balloon#38b2b15e6a4291a76825ef4f5e3db6a9","是的！","balloon#38b2b15e6a4291a76825ef4f5e3db6a9","机翻辅助：
+
+是的！"
+"balloon#7fba71ac32310c6b6649dc27d99bbfe8","[emb exp='tf.names.itsuki.kumiko']到底有没有嫌疑，还是要看他的不在场证明，得先确认这一点才行。","balloon#7fba71ac32310c6b6649dc27d99bbfe8","机翻辅助：
+
+[emb exp='tf.names.itsuki.kumiko']到底有没有嫌疑，还是要看他的不在场证明，得先确认这一点才行。
+
+[emb exp='tf.names.itsuki.kumiko']是否可疑还是要看不在场证明，所以必须确认这一点。
+
+[emb exp='tf.names.itsuki.kumiko']是否可疑，关键还是要看他的不在场证明，这一点必须确认。"
+"speaker_主人公","主人公","speaker_主人公",""

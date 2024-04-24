@@ -1,0 +1,264 @@
+"source","target","id","developer_comments"
+"balloon#c9706d0b69e72794e2928f718be78fa1","我再说一次……","balloon#c9706d0b69e72794e2928f718be78fa1","机翻辅助：
+
+我再说一次……
+
+再次说……
+
+我再说一遍……"
+"balloon#734d814eab6b7dcee3908b35ba4b957d","[emb exp='tf.names.NPC.me']，[font color=@3]在怀疑[emb exp='tf.names.NPC.itsuki'][resetfont]。","balloon#734d814eab6b7dcee3908b35ba4b957d","机翻辅助：
+
+[emb exp='tf.names.NPC.me']，[font color=@3]在怀疑[emb exp='tf.names.NPC.itsuki'][resetfont]。
+
+[emb exp='tf.names.NPC.me']在怀疑[emb exp='tf.names.NPC.itsuki']。[font color=@3][resetfont]
+
+[emb exp='tf.names.NPC.me']怀疑[emb exp='tf.names.NPC.itsuki']。[font color=@3][resetfont]"
+"balloon#a56d5acbf8f3b785e1218636c0400304","嗯，说得也是……","balloon#a56d5acbf8f3b785e1218636c0400304","机翻辅助：
+
+嗯，说得也是……
+
+是的，是这样啊……
+
+是的，是这样的……"
+"balloon#a0b7188b13e10506f35255aa11d256b8","可是呢，我也想相信他不是犯人。","balloon#a0b7188b13e10506f35255aa11d256b8","机翻辅助：
+
+可是呢，我也想相信他不是犯人。
+
+但是，也有想相信不是犯人的心情。
+
+但是，我也想相信他不是凶手。"
+"balloon#fda1c232bb98f45d8408c12c9df69377","这是为什么呢？真是不可思议。","balloon#fda1c232bb98f45d8408c12c9df69377","机翻辅助：
+
+这是为什么呢？真是不可思议。
+
+为什么呢，真不可思议。
+
+为什么呢，真是不可思议啊。"
+"balloon#706581402f859c1f40dc8895d6c15c33","……这是怎么回事？","balloon#706581402f859c1f40dc8895d6c15c33","机翻辅助：
+
+……这是怎么回事？
+
+……这是怎么回事呢？"
+"balloon#beee8a6580bfe2c780529a99bbee1468","很难说明清楚呢。","balloon#beee8a6580bfe2c780529a99bbee1468","机翻辅助：
+
+很难说明清楚呢。
+
+很难很好地说明。
+
+很难解释清楚。"
+"balloon#64e93d40f873cffea67d15d41f8f675f","……这是为什么呢？","balloon#64e93d40f873cffea67d15d41f8f675f","机翻辅助：
+
+……这是为什么呢？
+
+……为什么呢？"
+"balloon#49f279a11d8cc209d9f8c47fab978570","这样啊，那该不会是……","balloon#49f279a11d8cc209d9f8c47fab978570","机翻辅助：
+
+这样啊，那该不会是……
+
+是吗，那或许是……
+
+是吗，那说不定……"
+"SECRET_SELECTION/topic#7ddeb2a4602f517d092d095a1a01ac49","${itsuki.me}……","SECRET_SELECTION/topic#7ddeb2a4602f517d092d095a1a01ac49","机翻辅助：
+
+${itsuki.me}……"
+"SECRET_SELECTION/text1#08a277c3976462dca8f08b017bfc4916","因为我是千世奶奶的孙女！","SECRET_SELECTION/text1#08a277c3976462dca8f08b017bfc4916","机翻辅助：
+
+因为我是千世奶奶的孙女！
+
+因为是千世奶奶的孙子！"
+"SECRET_SELECTION/text2#250cd253e1bd201f06ba431bb74de5e9","因为他是你的儿子！","SECRET_SELECTION/text2#250cd253e1bd201f06ba431bb74de5e9","机翻辅助：
+
+因为他是你的儿子！
+
+因为是你的儿子！"
+"SECRET_SELECTION/text3#6622a67f67ec76c36a18d2adef6551ea","因为我喜欢拍照！","SECRET_SELECTION/text3#6622a67f67ec76c36a18d2adef6551ea","机翻辅助：
+
+因为我喜欢拍照！"
+"balloon#7c8331b049c8ce69474d47ed47861287","………………","balloon#7c8331b049c8ce69474d47ed47861287",""
+"balloon#c0629178c3eebd834d58ab183610d95c","…………","balloon#c0629178c3eebd834d58ab183610d95c",""
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#e0d22ccc83251f34ad0a82e22cf81a99","咦，[emb exp='tf.names.NPC.chiyo']的孙子……？","balloon#e0d22ccc83251f34ad0a82e22cf81a99","机翻辅助：
+
+咦，[emb exp='tf.names.NPC.chiyo']的孙子……？
+
+啊，[emb exp='tf.names.NPC.chiyo']的孙子……？"
+"balloon#2969af393d580e2adc99b9ca3c0de5f0","难、难道是[emb exp='tf.names.NPC.daisuke']的私生子！？","balloon#2969af393d580e2adc99b9ca3c0de5f0","机翻辅助：
+
+难、难道是[emb exp='tf.names.NPC.daisuke']的私生子！？
+
+啊，难道是[emb exp='tf.names.NPC.daisuke']的私生子！？"
+"balloon#4617fedd62f4ab3b062aeea5d6293026","不、不可能有这种事！","balloon#4617fedd62f4ab3b062aeea5d6293026","机翻辅助：
+
+不、不可能有这种事！
+
+那、不可能吧！
+
+不、不可能的！"
+"balloon#2a81e26c6b579ae3712a60bd0c999ba7","在这座狭小的岛上，根本不可能藏得住私生子……","balloon#2a81e26c6b579ae3712a60bd0c999ba7","机翻辅助：
+
+在这座狭小的岛上，根本不可能藏得住私生子……
+
+在这么狭窄的岛上，藏起来的孩子是不可能的……
+
+在这么小的岛上，不可能有私生子……"
+"balloon#a580b464a90af74c79a2322c001f14a6","真是的，别吓我啦！","balloon#a580b464a90af74c79a2322c001f14a6","机翻辅助：
+
+真是的，别吓我啦！
+
+不要再让我吃惊了！
+
+不要再吓我了！"
+"balloon#74d08fab5c4212d5fbdba3115c6615c6","明明是开玩笑，我却慌张起来了！","balloon#74d08fab5c4212d5fbdba3115c6615c6","机翻辅助：
+
+明明是开玩笑，我却慌张起来了！
+
+明明是开玩笑的，却惊慌失措！
+
+明明是开玩笑的，我却惊慌失措了！"
+"balloon#d7411d43479c44f5293af44ac34b4b34","……对这个时代里的[emb exp='tf.names.itsuki.kumiko']来说，[emb exp='tf.names.itsuki.me']是个毫无关系的人。","balloon#d7411d43479c44f5293af44ac34b4b34","机翻辅助：
+
+……对这个时代里的[emb exp='tf.names.itsuki.kumiko']来说，[emb exp='tf.names.itsuki.me']是个毫无关系的人。
+
+……对这个时代的[emb exp='tf.names.itsuki.kumiko']来说，[emb exp='tf.names.itsuki.me']是一个毫无渊源的人。
+
+……对于这个时代的[emb exp='tf.names.itsuki.kumiko']来说，[emb exp='tf.names.itsuki.me']是一个没有缘分的人。"
+"balloon#e375a72f480dacd62755207235bad34d","所以，她会这么想也是理所当然的……","balloon#e375a72f480dacd62755207235bad34d","机翻辅助：
+
+所以，她会这么想也是理所当然的……
+
+所以，被这么想是理所当然的……
+
+所以，大家这么想也是理所当然的……"
+"balloon#66dce315b2e5c63585515cbd88e6ef6c","为了在原本的时代再次相会，现在就先专心解决事件吧。","balloon#66dce315b2e5c63585515cbd88e6ef6c","机翻辅助：
+
+为了在原本的时代再次相会，现在就先专心解决事件吧。
+
+为了在原来的时代实现再会，现在专心解决事件吧。
+
+为了再次在元朝重逢，现在就专心解决事件吧。"
+"balloon#81f11c51e8c0e4dfe8330cf54d7eee88","咦，[emb exp='tf.names.NPC.me']的儿子！？","balloon#81f11c51e8c0e4dfe8330cf54d7eee88","机翻辅助：
+
+咦，[emb exp='tf.names.NPC.me']的儿子！？
+
+啊，[emb exp='tf.names.NPC.me']的儿子！？
+
+啊，[emb exp='tf.names.NPC.me']儿子！？"
+"balloon#c0d733f3ff9609223efa34e8d33f84da","讨厌啦，[emb exp='tf.names.NPC.me']这个年纪怎么可能会有这么大的儿子。","balloon#c0d733f3ff9609223efa34e8d33f84da","机翻辅助：
+
+讨厌啦，[emb exp='tf.names.NPC.me']这个年纪怎么可能会有这么大的儿子。
+
+哎呀，[emb exp='tf.names.NPC.me']这个年纪，哪有这么大的儿子。
+
+真讨厌，[emb exp='tf.names.NPC.me']这么大的年纪，怎么可能有这么大的儿子。"
+"balloon#bd339cfc1c8db4d69102c5ec948d1f36","[emb exp='tf.names.NPC.me']的儿子只有一个。","balloon#bd339cfc1c8db4d69102c5ec948d1f36","机翻辅助：
+
+[emb exp='tf.names.NPC.me']的儿子只有一个。
+
+[emb exp='tf.names.NPC.me']只有一个儿子。"
+"balloon#c381555862d8b6b25fa945195d6cecec","虽然他叫我阿陆……","balloon#c381555862d8b6b25fa945195d6cecec","机翻辅助：
+
+虽然他叫我阿陆……
+
+我叫你立君……
+
+虽然这么说……"
+"balloon#c6b8633840fdbab057fe9a2d796aebab","现在是由妈妈在照顾她。","balloon#c6b8633840fdbab057fe9a2d796aebab","机翻辅助：
+
+现在是由妈妈在照顾她。
+
+现在是老妈在照顾我。
+
+现在是妈妈在照顾我。"
+"balloon#eb1773a991de1246c61176acfbaa4e28","这样啊，这个时代里的[emb exp='tf.names.itsuki.kumiko']有亲生儿子啊。","balloon#eb1773a991de1246c61176acfbaa4e28","机翻辅助：
+
+这样啊，这个时代里的[emb exp='tf.names.itsuki.kumiko']有亲生儿子啊。
+
+是吗，这个时代的[emb exp='tf.names.itsuki.kumiko']有亲生的孩子。
+
+原来，这个时代的[emb exp='tf.names.itsuki.kumiko']是有亲生儿子的。"
+"balloon#12fca664525ca7a29cda50bad78622d5","……对[emb exp='tf.names.itsuki.kumiko']来说，现在的[emb exp='tf.names.itsuki.me']是毫无关系的人。","balloon#12fca664525ca7a29cda50bad78622d5","机翻辅助：
+
+……对[emb exp='tf.names.itsuki.kumiko']来说，现在的[emb exp='tf.names.itsuki.me']是毫无关系的人。
+
+……对[emb exp='tf.names.itsuki.kumiko']来说，现在的[emb exp='tf.names.itsuki.me']是一个毫无渊源的人。
+
+……对于[emb exp='tf.names.itsuki.kumiko']来说，现在的[emb exp='tf.names.itsuki.me']是无缘的人。"
+"balloon#775516a46fd31c05a9ea18abcdde6a24","所以，被她这么说也是理所当然……[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]可是当面被这么说，还是很难过。","balloon#775516a46fd31c05a9ea18abcdde6a24","机翻辅助：
+
+所以，被她这么说也是理所当然……[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]可是当面被这么说，还是很难过。
+
+所以，被这样说是理所当然的……[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]面对面说的话很悲伤啊。
+
+所以，被这么说是理所当然的……被当面这么说真让人伤心啊。[l][chara_mod time=""@f1"" name=""主人公"" face=""trouble""]"
+"balloon#8261fce3267668d5784cdf2242a8c6c6","……再怎么沮丧也无济于事。","balloon#8261fce3267668d5784cdf2242a8c6c6","机翻辅助：
+
+……再怎么沮丧也无济于事。
+
+……即使失落了，也没办法。
+
+……即使失落也没有办法。"
+"balloon#57c8f0fc19e4ead5c6f714df8164e1b8","哎呀，是这样吗！","balloon#57c8f0fc19e4ead5c6f714df8164e1b8","机翻辅助：
+
+哎呀，是这样吗！
+
+啊，原来是这样啊！
+
+啊，是这样啊！"
+"balloon#5565564bbd8dc7e65262b48129c98ca3","当然，[emb exp='tf.names.NPC.me']也喜欢拍照。","balloon#5565564bbd8dc7e65262b48129c98ca3","机翻辅助：
+
+当然，[emb exp='tf.names.NPC.me']也喜欢拍照。
+
+当然[emb exp='tf.names.NPC.me']也喜欢拍照。"
+"balloon#ff81cdc3a2665b6d1d75775de809349e","难道说，你感觉到什么共通点了吗？","balloon#ff81cdc3a2665b6d1d75775de809349e","机翻辅助：
+
+难道说，你感觉到什么共通点了吗？
+
+感觉到哪里有相通的东西吗？
+
+有什么相通之处吗？"
+"balloon#f2d41a5164f9a82561575d5a8a343f39","所以，现在还不能表明身份。","balloon#f2d41a5164f9a82561575d5a8a343f39","机翻辅助：
+
+所以，现在还不能表明身份。
+
+所以，现在不能公开真面目。
+
+所以，现在不能暴露身份。"
+"balloon#68c051301dc5b037b1cc0796b59c8b52","那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""normal""][emb exp='tf.names.itsuki.me']一定会证明自己的清白。","balloon#68c051301dc5b037b1cc0796b59c8b52","机翻辅助：
+
+那个……[l][chara_mod time=""@f1"" name=""主人公"" face=""normal""][emb exp='tf.names.itsuki.me']一定会证明自己的清白。
+
+那个……[emb exp='tf.names.itsuki.me']一定要证明我的清白。[l][chara_mod time=""@f1"" name=""主人公"" face=""normal""]
+
+那个……[emb exp='tf.names.itsuki.me']一定要证明我是无辜的。[l][chara_mod time=""@f1"" name=""主人公"" face=""normal""]"
+"balloon#528c7ca596528e9739aca88eabae0e9d","然后，绝对会找出犯人。","balloon#528c7ca596528e9739aca88eabae0e9d","机翻辅助：
+
+然后，绝对会找出犯人。
+
+然后，我一定会找出犯人的。
+
+而且，一定会找出凶手。"
+"balloon#3500527af35dcc17fec3ac565b32052c","……哎呀，真是可靠呢。","balloon#3500527af35dcc17fec3ac565b32052c","机翻辅助：
+
+……哎呀，真是可靠呢。
+
+……哎呀，真可靠啊。
+
+……哎呀，真靠得住啊。"
+"balloon#848e97bd71fdb5a4dc9c7c9587c412b2","我知道了。","balloon#848e97bd71fdb5a4dc9c7c9587c412b2","机翻辅助：
+
+我知道了。"
+"balloon#11fe6e8869686495cc1d2b9b74899c52","我就稍微相信你一下吧。","balloon#11fe6e8869686495cc1d2b9b74899c52","机翻辅助：
+
+我就稍微相信你一下吧。
+
+我试着稍微相信一下你吧。
+
+我稍微相信一下你吧。"
+"balloon#f95dac6adae6b4572219b3a3dd2e2db6","好，再看一次笔记，思考能不能证明[emb exp='tf.names.itsuki.me']的清白吧。","balloon#f95dac6adae6b4572219b3a3dd2e2db6","机翻辅助：
+
+好，再看一次笔记，思考能不能证明[emb exp='tf.names.itsuki.me']的清白吧。
+
+好吧，再看看笔记，想想能不能证明[emb exp='tf.names.itsuki.me']的清白。
+
+好吧，[emb exp='tf.names.itsuki.me']再看一遍笔记本，想想能不能证明我的无辜。"
+"speaker_主人公","主人公","speaker_主人公",""

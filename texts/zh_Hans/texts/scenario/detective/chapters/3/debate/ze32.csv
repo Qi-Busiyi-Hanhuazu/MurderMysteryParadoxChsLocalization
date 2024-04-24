@@ -1,0 +1,70 @@
+"source","target","id","developer_comments"
+"balloon#c5fbc412b446ed3b6efac41af70327f7","[emb exp='tf.names.NPC.me']有件在意的事。","balloon#c5fbc412b446ed3b6efac41af70327f7","机翻辅助：
+
+[emb exp='tf.names.NPC.me']有件在意的事。
+
+[emb exp='tf.names.NPC.me']有件事很在意。
+
+[emb exp='tf.names.NPC.me']有在意的事情。"
+"balloon#d0da6dbd443e01546c353e9b5f8560be","[emb exp='tf.names.NPC.me']追着某个人，来到了山中小屋。","balloon#d0da6dbd443e01546c353e9b5f8560be","机翻辅助：
+
+[emb exp='tf.names.NPC.me']追着某个人，来到了山中小屋。
+
+[emb exp='tf.names.NPC.me']追着一个人，到了山上的小屋。
+
+[emb exp='tf.names.NPC.me']追了一个人，走到了山间小屋。"
+"balloon#55acef9b94ddc888da05a5d260734a8c","然后突然被人从背后偷袭，失去了意识。","balloon#55acef9b94ddc888da05a5d260734a8c","机翻辅助：
+
+然后突然被人从背后偷袭，失去了意识。
+
+然后突然从背后袭击，失去了意识。
+
+然后突然被人从背后袭击，昏了过去。"
+"balloon#6760f1851072839afaed19aad2e9f147","虽然是不想考虑的事情，但说不定[emb exp='tf.names.NPC.me']追的人……","balloon#6760f1851072839afaed19aad2e9f147","机翻辅助：
+
+虽然是不想考虑的事情，但说不定[emb exp='tf.names.NPC.me']追的人……
+
+虽然[emb exp='tf.names.NPC.me']不愿意这么想，但说不定我追着的人……
+
+[emb exp='tf.names.NPC.me']不想去想，也许我追的人是……"
+"balloon#f4c59200b5dd280759433aee1c46d67c","就是袭击[emb exp='tf.names.NPC.me']的犯人。我不禁这么想。","balloon#f4c59200b5dd280759433aee1c46d67c","机翻辅助：
+
+就是袭击[emb exp='tf.names.NPC.me']的犯人。我不禁这么想。
+
+[emb exp='tf.names.NPC.me']在想是不是袭击了我。
+
+[emb exp='tf.names.NPC.me']想他是不是袭击了我。"
+"balloon#ef07856749a6bcc1c2cba9b0034f0139","[emb exp='tf.names.NPC.me']追着的人……是[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']。","balloon#ef07856749a6bcc1c2cba9b0034f0139","机翻辅助：
+
+[emb exp='tf.names.NPC.me']追着的人……是[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']。
+
+[emb exp='tf.names.NPC.me']追的是……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""]是[emb exp='tf.names.NPC.mashima']。
+
+[emb exp='tf.names.NPC.me']追的是……[l][chara_mod time=""@f1"" name=""NPC"" face=""sad"" position=""right""][emb exp='tf.names.NPC.mashima']。"
+"balloon#c4b071648c7381ef8b0c762ad54de7db","[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]，袭击[emb exp='tf.names.NPC.me']的不是你吧？","balloon#c4b071648c7381ef8b0c762ad54de7db","机翻辅助：
+
+[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]，袭击[emb exp='tf.names.NPC.me']的不是你吧？
+
+[font color=@3][emb exp='tf.names.NPC.mashima'][resetfont]袭击[emb exp='tf.names.NPC.me']的不是你吧？"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_text#b267d53cc5b05a7354e91aff615f73a2","<font color='@3'>对于${itsuki.mashima}的怀疑</font>，${itsuki.me}的想法是……","TALK_WINDOW_SELECT_CHOICES/talk_window_text#b267d53cc5b05a7354e91aff615f73a2","机翻辅助：
+
+<font color='@3'>对于${itsuki.mashima}的怀疑</font>，${itsuki.me}的想法是……
+
+<font color='@3'>${itsuki.me}对${itsuki.mashima}的怀疑</font>的想法是……
+
+<font color='@3'>对${itsuki.mashima}的怀疑</font>${itsuki.me}的看法是……"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0ba6acb8c40f346b37fb84fd9cb34648","${itsuki.mashima}是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#0ba6acb8c40f346b37fb84fd9cb34648","机翻辅助：
+
+${itsuki.mashima}是犯人！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#015f0ee9aa49fefbb2ee2459a931e8dd","${itsuki.mashima}不是犯人！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#015f0ee9aa49fefbb2ee2459a931e8dd","机翻辅助：
+
+${itsuki.mashima}不是犯人！
+
+${itsuki.mashima}不是凶手！"
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#0746a7805d8d7feb727d9dc2d6443a4f","${itsuki.yuuki}比较可疑！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#0746a7805d8d7feb727d9dc2d6443a4f","机翻辅助：
+
+${itsuki.yuuki}比较可疑！
+
+${itsuki.yuuki}比较奇怪！
+
+${itsuki.yuuki}更可疑！"

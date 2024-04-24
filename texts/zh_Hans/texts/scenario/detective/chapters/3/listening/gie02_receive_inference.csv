@@ -1,0 +1,123 @@
+"source","target","id","developer_comments"
+"balloon#583f7be9a9169decbdeb5973474da03f","我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。","balloon#583f7be9a9169decbdeb5973474da03f","机翻辅助：
+
+我将推理出的答案告诉[emb exp='f.npc_sysname']，回答它[emb exp='f.doubt.title']的疑问。
+
+传达了对[emb exp='f.npc_sysname']的疑问“[emb exp='f.doubt.title']”的回答的推理。"
+"balloon#d11127f436042bd2808fa76dce69ccaf","原来如此，这个推理[font color=@3]可以接受[resetfont]！","balloon#d11127f436042bd2808fa76dce69ccaf","机翻辅助：
+
+原来如此，这个推理[font color=@3]可以接受[resetfont]！
+
+原来如此，这个推理的话[font color=@3]可以接受[resetfont]哟！
+
+原来如此，这种推理是可以理解的！[font color=@3][resetfont]"
+"balloon#19fdf4d4eb0986fc594713fcd2713582","也就是说，这两起事件没有不在场证明的……","balloon#19fdf4d4eb0986fc594713fcd2713582","机翻辅助：
+
+也就是说，这两起事件没有不在场证明的……
+
+也就是说这次的两个事件，没有不在场证明的是……
+
+也就是说，这次的两起事件，没有不在场证明是因为……"
+"balloon#1b61e35a82600b9f9573da4e8c7252a3","[font color=@3]只有[emb exp='tf.names.NPC.kamishiro'][resetfont]啊！","balloon#1b61e35a82600b9f9573da4e8c7252a3","机翻辅助：
+
+[font color=@3]只有[emb exp='tf.names.NPC.kamishiro'][resetfont]啊！
+
+[font color=@3]也就是说[resetfont]只有[emb exp='tf.names.NPC.kamishiro']吧！"
+"balloon#c39ee7c0e24ddbea40c272967ee137a4","没错，这两起事件都没有不在场证明的[font color=@3]只有[emb exp='tf.names.itsuki.kamishiro'][resetfont]。","balloon#c39ee7c0e24ddbea40c272967ee137a4","机翻辅助：
+
+没错，这两起事件都没有不在场证明的[font color=@3]只有[emb exp='tf.names.itsuki.kamishiro'][resetfont]。
+
+没错，两个事件都没有不在场证明的，只有[emb exp='tf.names.itsuki.kamishiro']。[font color=@3][resetfont]
+
+对，两个事件都没有不在场证明的只有[emb exp='tf.names.itsuki.kamishiro']。[font color=@3][resetfont]"
+"balloon#6cf8fd5a4332aa33ec217a7de8041873","那家伙明明一直怀疑[emb exp='tf.names.NPC.me']……","balloon#6cf8fd5a4332aa33ec217a7de8041873","机翻辅助：
+
+那家伙明明一直怀疑[emb exp='tf.names.NPC.me']……
+
+那家伙，明明一直在怀疑[emb exp='tf.names.NPC.me']啊……
+
+那家伙明明一直在怀疑[emb exp='tf.names.NPC.me']……"
+"balloon#4233e762277e8db08b7ca70b741ed35d","不过多亏[emb exp='tf.names.NPC.itsuki']，[emb exp='tf.names.NPC.me']的嫌疑洗清了。","balloon#4233e762277e8db08b7ca70b741ed35d","机翻辅助：
+
+不过多亏[emb exp='tf.names.NPC.itsuki']，[emb exp='tf.names.NPC.me']的嫌疑洗清了。
+
+不过，多亏了[emb exp='tf.names.NPC.itsuki']，[emb exp='tf.names.NPC.me']的怀疑才消除了。
+
+不过，托[emb exp='tf.names.NPC.itsuki']的福，[emb exp='tf.names.NPC.me']的嫌疑洗清了。"
+"balloon#7464a06a014d5600fe745b97dbeacac4","我得重新向他道谢。","balloon#7464a06a014d5600fe745b97dbeacac4","机翻辅助：
+
+我得重新向他道谢。
+
+我再向你道谢。
+
+我再向你道谢吧。"
+"balloon#f59726a31f840f9a12e89d9df3ef5ba8","谢啦！","balloon#f59726a31f840f9a12e89d9df3ef5ba8","机翻辅助：
+
+谢啦！
+
+谢谢你！
+
+谢谢啦！"
+"balloon#cd55261d7048eae0c06c90a1b753e6c0","是的，我很高兴能帮上[emb exp='tf.names.itsuki.NPC']的忙！","balloon#cd55261d7048eae0c06c90a1b753e6c0","机翻辅助：
+
+是的，我很高兴能帮上[emb exp='tf.names.itsuki.NPC']的忙！
+
+是的，能帮到[emb exp='tf.names.itsuki.NPC']真是太好了！"
+"balloon#61cd6c8a424bbe2e9d178250c40f4ee2","真的吗？","balloon#61cd6c8a424bbe2e9d178250c40f4ee2","机翻辅助：
+
+真的吗？
+
+这是真的吗？
+
+那是真的吗？"
+"balloon#14e7c5591d347d54596bfbc6a88a9080","[font color=@3]我觉得你的推理[resetfont]有点不对！","balloon#14e7c5591d347d54596bfbc6a88a9080","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]有点不对！
+
+我觉得那个推理有点不一样！[font color=@3][resetfont]
+
+我觉得你的推理有点不对！[font color=@3][resetfont]"
+"balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","[font color=@3]我觉得你的推理[resetfont]完全不对！","balloon#3ce6ab9b0e2eef1240a7e9774ef0a415","机翻辅助：
+
+[font color=@3]我觉得你的推理[resetfont]完全不对！
+
+我觉得那个推理是完全不同的！[font color=@3][resetfont]
+
+我觉得你的推理完全不对！[font color=@3][resetfont]"
+"balloon#1162df6be30ff696daa2cb8d869996ba","很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……","balloon#1162df6be30ff696daa2cb8d869996ba","机翻辅助：
+
+很抱歉，我无法回答[emb exp='tf.names.itsuki.NPC']的疑问……
+
+没能回答[emb exp='tf.names.itsuki.NPC']的疑问，很抱歉……"
+"balloon#e170c16e2b62b40e2f8f73de898379d8","哦，别在意啦！","balloon#e170c16e2b62b40e2f8f73de898379d8","机翻辅助：
+
+哦，别在意啦！
+
+哦，别在意！
+
+哦，别放在心上！"
+"balloon#7c5713cfddcdfa5c960535cca1cdb824","关于这件事……","balloon#7c5713cfddcdfa5c960535cca1cdb824","机翻辅助：
+
+关于这件事……
+
+虽然是这件事……"
+"balloon#a11054b3fb02310197dfa6e9d4cf9bf2","[font color=@3]得弄清楚所有人的不在场证明[resetfont]才行！","balloon#a11054b3fb02310197dfa6e9d4cf9bf2","机翻辅助：
+
+[font color=@3]得弄清楚所有人的不在场证明[resetfont]才行！
+
+[font color=@3]必须弄清楚所有人的不在场证明[resetfont]！"
+"balloon#e013bd3d768ff29637bc26b8ce8a57a1","不能就这样放弃。","balloon#e013bd3d768ff29637bc26b8ce8a57a1","机翻辅助：
+
+不能就这样放弃。
+
+我不能放弃。
+
+不能放弃。"
+"balloon#4de2550595e4e222a3d4c60ee46615c6","[font color=@3]我们重新确认每个人是否有可能犯案，来清查所有人的不在场证明吧！[resetfont]","balloon#4de2550595e4e222a3d4c60ee46615c6","机翻辅助：
+
+[font color=@3]我们重新确认每个人是否有可能犯案，来清查所有人的不在场证明吧！[resetfont]
+
+[font color=@3]再次确认各自的犯罪是否可能，洗刷所有人的不在场证明吧！[resetfont]
+
+[font color=@3]再次确认各自有没有可能作案，洗刷所有人的不在场证明！[resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

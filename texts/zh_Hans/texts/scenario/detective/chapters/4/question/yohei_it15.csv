@@ -1,0 +1,83 @@
+"source","target","id","developer_comments"
+"balloon#139d4cd59327cc64a990ffd5e8c48be7","真的耶，上面有使用樱花照相馆的便条纸。","balloon#139d4cd59327cc64a990ffd5e8c48be7","机翻辅助：
+
+真的耶，上面有使用樱花照相馆的便条纸。
+
+真的，用的是樱花照相馆的便条纸。
+
+真的，使用了樱花照相馆的便签纸。"
+"balloon#90bcc3b17481486fedc4c4a9f4218811","到底是谁做出这种事……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""]果然和这件事有关吗？","balloon#90bcc3b17481486fedc4c4a9f4218811","机翻辅助：
+
+到底是谁做出这种事……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""]果然和这件事有关吗？
+
+到底谁是这样的……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""]果然是有关系的吗。
+
+到底是谁干的……[l][chara_mod time=""@f1"" name=""NPC"" face=""panic""]果然是有关系吗？"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#63a68a336851e72f41842afe42b555f5","[emb exp='tf.names.itsuki.NPC']似乎对使用便条纸的理由有头绪。","balloon#63a68a336851e72f41842afe42b555f5","机翻辅助：
+
+[emb exp='tf.names.itsuki.NPC']似乎对使用便条纸的理由有头绪。
+
+[emb exp='tf.names.itsuki.NPC']似乎对使用便条纸的理由有什么头绪。
+
+[emb exp='tf.names.itsuki.NPC']似乎对使用便条纸的理由有所了解。"
+"balloon#11e042f00d8dbc9ee87abfa6394b486f","也就是说，是照相馆里的人……","balloon#11e042f00d8dbc9ee87abfa6394b486f","机翻辅助：
+
+也就是说，是照相馆里的人……
+
+也就是说，照相馆里有人……"
+"balloon#b908d26ae9cee8fa6c344865ca3205a6","而且，还准备了画具……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]咦，奇怪，该不会！","balloon#b908d26ae9cee8fa6c344865ca3205a6","机翻辅助：
+
+而且，还准备了画具……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]咦，奇怪，该不会！
+
+而且，还准备了那样的颜料……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]，那个，难道是！
+
+而且，连这种颜料都准备好了……[l][chara_mod time=""@f1"" name=""NPC"" face=""surprise""]那么，那个，莫非！"
+"balloon#0804b0227b0b2b70570ac51764e56991","你去看看放在那里的东西吧！","balloon#0804b0227b0b2b70570ac51764e56991","机翻辅助：
+
+你去看看放在那里的东西吧！
+
+请看一下放在那里的那个！
+
+你看一下放在那里的东西！"
+"balloon#d23143b7e89f9518362cc27e92a64f83","那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]颜、颜料？","balloon#d23143b7e89f9518362cc27e92a64f83","机翻辅助：
+
+那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]颜、颜料？
+
+那是……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]诶，颜料？
+
+那是因为……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]诶，颜料？"
+"balloon#7314930ddbed339e7e6e2e14c0a8f2ec","啊，这实在不像是偶然……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]居然放在厨房。","balloon#7314930ddbed339e7e6e2e14c0a8f2ec","机翻辅助：
+
+啊，这实在不像是偶然……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]居然放在厨房。
+
+啊，不会是偶然吧……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]竟然在厨房里。
+
+啊，不认为是偶然的吧……厨房里竟然有。[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#dda75ec5974bc5f1cfdb2601c4f20cdf","其实，[emb exp='tf.names.NPC.me']……","balloon#dda75ec5974bc5f1cfdb2601c4f20cdf","机翻辅助：
+
+其实，[emb exp='tf.names.NPC.me']……
+
+其实，是[emb exp='tf.names.NPC.me']……"
+"balloon#5bb662989a7b918b2abc4250ed8da6ec","[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']从寝室把颜料搬到厨房[resetfont]。","balloon#5bb662989a7b918b2abc4250ed8da6ec","机翻辅助：
+
+[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']从寝室把颜料搬到厨房[resetfont]。
+
+[font color=@3]我从起居室看到[emb exp='tf.names.NPC.chiyo']把颜料从卧室搬到厨房。[resetfont]
+
+[font color=@3]我从起居室看到了[emb exp='tf.names.NPC.chiyo']把颜料从卧室搬到厨房。[resetfont]"
+"balloon#cc9776d7f90fb2f6ccd89da7c5d82c26","时间是[font color=@3]13:30[resetfont]哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]因为节目正好开始。","balloon#cc9776d7f90fb2f6ccd89da7c5d82c26","机翻辅助：
+
+时间是[font color=@3]13:30[resetfont]哦……[l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]因为节目正好开始。
+
+时间是13:30……正好节目开始了。[font color=@3][resetfont][l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]
+
+时间是13:30[font color=@3]……正好节目开始了。[resetfont][l][chara_mod time=""@f1"" name=""NPC"" face=""confused""]"
+"balloon#d34fd94f9d89809e83675ae487c50b9d","[emb exp='tf.names.itsuki.chiyo'][font color=@3]从寝室把颜料搬到厨房[resetfont]吗？","balloon#d34fd94f9d89809e83675ae487c50b9d","机翻辅助：
+
+[emb exp='tf.names.itsuki.chiyo'][font color=@3]从寝室把颜料搬到厨房[resetfont]吗？
+
+是[emb exp='tf.names.itsuki.chiyo']把颜料从卧室搬到厨房的吗？[font color=@3][resetfont]
+
+[emb exp='tf.names.itsuki.chiyo']把颜料从卧室搬到厨房了吗。[font color=@3][resetfont]"
+"speaker_主人公","主人公","speaker_主人公",""

@@ -1,0 +1,258 @@
+"source","target","id","developer_comments"
+"balloon#4afcc0687abcd16e8b130ac26b775a3d","树向影山告知了推理“只有影山在校外”。","balloon#4afcc0687abcd16e8b130ac26b775a3d","机翻辅助：
+
+树向影山告知了推理“只有影山在校外”。"
+"balloon#3bc8ecdcf9f2415b5463f698c2f0f2e3","虽然如此……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你是犯人对吧？","balloon#3bc8ecdcf9f2415b5463f698c2f0f2e3","机翻辅助：
+
+虽然如此……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你是犯人对吧？
+
+这么说来……[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]你是犯人吧？
+
+你就是犯人吧？[l][chara_mod time=""@f1"" name=""主人公"" face=""confused""]"
+"balloon#f0d14576edf75662ecaf082a201ce0e2","你、你在说什么啊，[emb exp='tf.names.NPC.itsuki']！","balloon#f0d14576edf75662ecaf082a201ce0e2","机翻辅助：
+
+你、你在说什么啊，[emb exp='tf.names.NPC.itsuki']！
+
+啊，你要说什么呢，[emb exp='tf.names.NPC.itsuki']！
+
+[emb exp='tf.names.NPC.itsuki']，你到底在说什么啊！"
+"balloon#bc5d3b32bf2001d2a4d2f4955959a56d","[emb exp='tf.names.NPC.me']确实是在那个时间出了校门……","balloon#bc5d3b32bf2001d2a4d2f4955959a56d","机翻辅助：
+
+[emb exp='tf.names.NPC.me']确实是在那个时间出了校门……
+
+确实那个时间，[emb exp='tf.names.NPC.me']已经走出校外了……
+
+那个时间，[emb exp='tf.names.NPC.me']确实去校外了……"
+"balloon#9aafa08e80e0b57cbd5d0df02f47d404","那是为了确认要修理的围栏……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]我可没做什么亏心事！","balloon#9aafa08e80e0b57cbd5d0df02f47d404","机翻辅助：
+
+那是为了确认要修理的围栏……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]我可没做什么亏心事！
+
+为了确认修理的栅栏……[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]虽然没有什么亏心事！
+
+为了确认要修理的围栏……没有什么亏心事！[l][chara_mod time=""@f1"" name=""NPC"" face=""what""]"
+"balloon#1512ef5e22ae00a178f099daa2fdfc9b","……真的吗？","balloon#1512ef5e22ae00a178f099daa2fdfc9b","机翻辅助：
+
+……真的吗？"
+"balloon#36213838410ee5b4ffb6f2bc70896af4","对了，你看，这个，你看这个！","balloon#36213838410ee5b4ffb6f2bc70896af4","机翻辅助：
+
+对了，你看，这个，你看这个！
+
+对了，看，这个，看这个！
+
+对了，你看，这个，这个！"
+"balloon#b224bf2dbf1526303ba3be246985c42d","我在围栏旁边的时候，[emb exp='tf.names.NPC.iroha']给了我糖果。","balloon#b224bf2dbf1526303ba3be246985c42d","机翻辅助：
+
+我在围栏旁边的时候，[emb exp='tf.names.NPC.iroha']给了我糖果。
+
+这是我在栅栏旁边的时候，[emb exp='tf.names.NPC.iroha']送给我的。
+
+在栅栏旁边的时候，是从[emb exp='tf.names.NPC.iroha']那里得到的。"
+"balloon#417e983808bb02a7456ee63a9f35f2eb","不好意思，被问到肚子叫了……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]给叔叔。","balloon#417e983808bb02a7456ee63a9f35f2eb","机翻辅助：
+
+不好意思，被问到肚子叫了……[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]给叔叔。
+
+说来丢脸，我的肚子叫了，被[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]听见了……说要给我吃。
+
+不好意思，他听到我肚子叫了……说是给叔叔。[l][chara_mod time=""@f1"" name=""NPC"" face=""happy""]"
+"balloon#42a50cc30dddf77df2b36313ac72ff4b","因为钟声响起，[font color=@3]15:00[resetfont]正好，我[font color=@3]从[emb exp='tf.names.NPC.iroha']那里拿到糖果[resetfont]。","balloon#42a50cc30dddf77df2b36313ac72ff4b","机翻辅助：
+
+因为钟声响起，[font color=@3]15:00[resetfont]正好，我[font color=@3]从[emb exp='tf.names.NPC.iroha']那里拿到糖果[resetfont]。
+
+因为门铃响了[font color=@3]15:00[resetfont]正好，从[emb exp='tf.names.NPC.iroha']那里得到糖[font color=@3]是。[resetfont]
+
+因为门铃响了[font color=@3]15:00[resetfont]正好，从[emb exp='tf.names.NPC.iroha']那里得到了糖[font color=@3]是。[resetfont]"
+"balloon#4d999899a874fd86c984adb452b2b77c","[font color=@3][emb exp='tf.names.itsuki_p.kageyama']从[emb exp='tf.names.itsuki_p.iroha']那里拿到糖果[resetfont]吗……","balloon#4d999899a874fd86c984adb452b2b77c","机翻辅助：
+
+[font color=@3][emb exp='tf.names.itsuki_p.kageyama']从[emb exp='tf.names.itsuki_p.iroha']那里拿到糖果[resetfont]吗……
+
+[font color=@3][emb exp='tf.names.itsuki_p.kageyama']从[emb exp='tf.names.itsuki_p.iroha']那里得到了糖[resetfont]吗……
+
+[font color=@3][emb exp='tf.names.itsuki_p.kageyama']是从[emb exp='tf.names.itsuki_p.iroha']那里得到糖的吗……[resetfont]"
+"balloon#0e665db9c89681ffeb36ff24d4bc970c","西瓜口味还真少见。","balloon#0e665db9c89681ffeb36ff24d4bc970c","机翻辅助：
+
+西瓜口味还真少见。
+
+西瓜味真少见啊。
+
+西瓜味很少见啊。"
+"balloon#07bf4116c2ea6cbe9cc05e9397e3dc06","如果觉得我在说谎，就去问[emb exp='tf.names.NPC.iroha']吧。","balloon#07bf4116c2ea6cbe9cc05e9397e3dc06","机翻辅助：
+
+如果觉得我在说谎，就去问[emb exp='tf.names.NPC.iroha']吧。
+
+如果你觉得这是骗人的，就去问[emb exp='tf.names.NPC.iroha']吧。
+
+如果你不相信的话，就去问[emb exp='tf.names.NPC.iroha']吧。"
+"balloon#4a8314eef04137498fabfa79458f7fbc","的确，如果我在说谎，马上就会被揭穿。","balloon#4a8314eef04137498fabfa79458f7fbc","机翻辅助：
+
+的确，如果我在说谎，马上就会被揭穿。
+
+确实，如果是假的，马上就会明白。
+
+确实，如果是谎言的话，马上就能明白。"
+"balloon#5e47b703eb9e53027fd3374a4cab973d","直接去确认看看吧。","balloon#5e47b703eb9e53027fd3374a4cab973d","机翻辅助：
+
+直接去确认看看吧。
+
+直接确认一下吧。
+
+亲自去确认一下吧。"
+"jname#93c95f9c58659ed36bd1701bf7d97844","一之濑彩叶","jname#93c95f9c58659ed36bd1701bf7d97844","机翻辅助：
+
+一之濑彩叶"
+"balloon#1b8dd76cfc74f5b5d85c7a50bf3a8f25","我不知道。","balloon#1b8dd76cfc74f5b5d85c7a50bf3a8f25","机翻辅助：
+
+我不知道。
+
+不知道。"
+"balloon#03ffd09a661edef3c9a00f57fe64f5bc","咦？不是，可是，你看！","balloon#03ffd09a661edef3c9a00f57fe64f5bc","机翻辅助：
+
+咦？不是，可是，你看！
+
+啊，不，因为，你看！"
+"balloon#334aca163d4cd04f9865c06ee254e18f","[emb exp='tf.names.iroha_p.me']根本没和[emb exp='tf.names.iroha_p.NPC']说话。","balloon#334aca163d4cd04f9865c06ee254e18f","机翻辅助：
+
+[emb exp='tf.names.iroha_p.me']根本没和[emb exp='tf.names.iroha_p.NPC']说话。
+
+[emb exp='tf.names.iroha_p.me']没有和[emb exp='tf.names.iroha_p.NPC']说话。"
+"balloon#eafd0e1c2d5337445eb24494cf3ea541","不不不，我们不是在围栏旁边说话了吗？","balloon#eafd0e1c2d5337445eb24494cf3ea541","机翻辅助：
+
+不不不，我们不是在围栏旁边说话了吗？
+
+不不不，我们不是在栅栏旁边说过吗？
+
+不、不，是在栅栏旁边说的吧？"
+"balloon#1f07482bf477d862e32466aa6f3453bb","叔叔，肚子叫被听见了，对吧？","balloon#1f07482bf477d862e32466aa6f3453bb","机翻辅助：
+
+叔叔，肚子叫被听见了，对吧？
+
+叔叔，肚子的声音被听见了，对吧？
+
+叔叔，你听到肚子的声音了吧？"
+"balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
+"balloon#fc74c6366459247b972354cb1cd19064","……好奇怪。","balloon#fc74c6366459247b972354cb1cd19064","机翻辅助：
+
+……好奇怪。
+
+……奇怪。
+
+……很奇怪。"
+"balloon#699cccb8dc94d9ee0c95ec8a2fa622ab","我不知道，哼！","balloon#699cccb8dc94d9ee0c95ec8a2fa622ab","机翻辅助：
+
+我不知道，哼！
+
+不知道，噗。
+
+我不知道，噗。"
+"balloon#0ad9452e59ad6e5ce950d6150305157f","……这怎么可能。","balloon#0ad9452e59ad6e5ce950d6150305157f","机翻辅助：
+
+……这怎么可能。
+
+……怎么可能，傻瓜。
+
+……真是个笨蛋。"
+"balloon#ea3cfc343d69071f8aa17b7dadf0a9c8","……所以，[emb exp='tf.names.itsuki_p.kageyama']。","balloon#ea3cfc343d69071f8aa17b7dadf0a9c8","机翻辅助：
+
+……所以，[emb exp='tf.names.itsuki_p.kageyama']。"
+"balloon#c16b8be25f5103bc412941c18a2b5771","你是犯人对吧？","balloon#c16b8be25f5103bc412941c18a2b5771","机翻辅助：
+
+你是犯人对吧？
+
+你就是犯人吧？
+
+你是凶手吧？"
+"balloon#c3c1e4dbc7be920aa45bf00e0104b1e1","不不不，这不对劲，不可能会这样！","balloon#c3c1e4dbc7be920aa45bf00e0104b1e1","机翻辅助：
+
+不不不，这不对劲，不可能会这样！
+
+不不，有什么奇怪的，不可能的！
+
+不不不不不不不不不不不不不不不不不不不不不不！"
+"balloon#dbf0c82ee192bf30d71956d7a4cda7da","我确定是遇到她，然后拿到这颗糖……","balloon#dbf0c82ee192bf30d71956d7a4cda7da","机翻辅助：
+
+我确定是遇到她，然后拿到这颗糖……
+
+没错，因为见到那个孩子就得到了这个糖……
+
+没错，就是因为见到了那个孩子才得到了这颗糖……"
+"balloon#415de23e51c410288ae754ea2e7e9a76","这下伤脑筋了。","balloon#415de23e51c410288ae754ea2e7e9a76","机翻辅助：
+
+这下伤脑筋了。
+
+这下可糟了。
+
+我服了。"
+"balloon#bcfbe65fb89f1c2248c68fb50813e2fc","为什么会变成这样……","balloon#bcfbe65fb89f1c2248c68fb50813e2fc","机翻辅助：
+
+为什么会变成这样……"
+"balloon#18e65289aded5f6e23e6bfa809e1bfb0","[font color=@3]为什么[resetfont]会说成这样，我完全想不通！","balloon#18e65289aded5f6e23e6bfa809e1bfb0","机翻辅助：
+
+[font color=@3]为什么[resetfont]会说成这样，我完全想不通！
+
+为什么这样[font color=@3]话说得不一样[resetfont]，真是痛快！
+
+为什么会这样[font color=@3]话有出入[resetfont]，真痛快！"
+"balloon#f532e961b5fd9db42002bdf342c48cd0","应该有什么理由才对！","balloon#f532e961b5fd9db42002bdf342c48cd0","机翻辅助：
+
+应该有什么理由才对！
+
+一定有什么理由！"
+"balloon#0dc7579527dfcccd343c0272b858e087","[font color=@3]为什么会说成这样的理由[resetfont]的确令人在意……","balloon#0dc7579527dfcccd343c0272b858e087","机翻辅助：
+
+[font color=@3]为什么会说成这样的理由[resetfont]的确令人在意……
+
+确实，我很在意[font color=@3]说法不一致的理由[resetfont]……
+
+确实，我很在意说话不一致的理由……[font color=@3][resetfont]"
+"balloon#912184632dc745b8dc2eb1ca30e4d891","我没料到会变成这种状况……","balloon#912184632dc745b8dc2eb1ca30e4d891","机翻辅助：
+
+我没料到会变成这种状况……
+
+这个状况没有预想到……
+
+这种状况，是我没想到的……"
+"balloon#0c7fd38b03a9e4443db94cb7b4e8c69a","我姑且试着思考一下为什么会说成这样的理由。","balloon#0c7fd38b03a9e4443db94cb7b4e8c69a","机翻辅助：
+
+我姑且试着思考一下为什么会说成这样的理由。
+
+先来思考一下说法不一致的原因吧。
+
+首先，试着考虑一下说话不一致的理由吧。"
+"balloon#7d6242de3c835503a8f04f84e883669f","什、什么姑且！","balloon#7d6242de3c835503a8f04f84e883669f","机翻辅助：
+
+什、什么姑且！
+
+啊，姑且！
+
+嗯，姑且！"
+"balloon#3fd85ec8106235e357220089f9f9024d","那里是[emb exp='tf.names.NPC.itsuki']，请认真地拜托了！","balloon#3fd85ec8106235e357220089f9f9024d","机翻辅助：
+
+那里是[emb exp='tf.names.NPC.itsuki']，请认真地拜托了！
+
+那[emb exp='tf.names.NPC.itsuki']，就拜托你了！
+
+这种时候，拜托你认真一点啦！[emb exp='tf.names.NPC.itsuki']"
+"balloon#bbf1719a0cac8714fb79a8391458eedf","我本来以为犯人是[emb exp='tf.names.itsuki_p.NPC']，但你这么拼命到底是为什么……？","balloon#bbf1719a0cac8714fb79a8391458eedf","机翻辅助：
+
+我本来以为犯人是[emb exp='tf.names.itsuki_p.NPC']，但你这么拼命到底是为什么……？
+
+原以为[emb exp='tf.names.itsuki_p.NPC']是犯人，但这种拼命到底是什么……？
+
+我还以为[emb exp='tf.names.itsuki_p.NPC']是凶手呢，这么拼命到底是怎么回事……？"
+"balloon#c8153515c18427a4a484919afcb3a557","可是，我又不觉得[emb exp='tf.names.itsuki_p.iroha']会说谎……","balloon#c8153515c18427a4a484919afcb3a557","机翻辅助：
+
+可是，我又不觉得[emb exp='tf.names.itsuki_p.iroha']会说谎……
+
+但是，也不认为[emb exp='tf.names.itsuki_p.iroha']在说谎……
+
+但是，我不认为[emb exp='tf.names.itsuki_p.iroha']在说谎……"
+"balloon#81c2376b89704dbeacd3a6790af4bcb4","唯一确定的是，西瓜口味的糖果原本在[emb exp='tf.names.itsuki_p.NPC']手上……","balloon#81c2376b89704dbeacd3a6790af4bcb4","机翻辅助：
+
+唯一确定的是，西瓜口味的糖果原本在[emb exp='tf.names.itsuki_p.NPC']手上……
+
+可以确定的是，[emb exp='tf.names.itsuki_p.NPC']手里有一颗西瓜味的糖……
+
+确实，西瓜味的糖在[emb exp='tf.names.itsuki_p.NPC']的手里……"
+"speaker_主人公","主人公","speaker_主人公",""
+"speaker_一ノ瀬 彩葉","一之濑彩叶","speaker_一ノ瀬 彩葉","机翻辅助：
+
+一之濑彩叶"
