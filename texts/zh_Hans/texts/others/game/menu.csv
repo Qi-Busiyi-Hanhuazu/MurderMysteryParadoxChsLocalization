@@ -1,5 +1,5 @@
 "source","target","id","developer_comments"
-"text#24ef6b20ec60fe5fd7f7858e75f546c2","SAVE","text#24ef6b20ec60fe5fd7f7858e75f546c2","机翻辅助：
+"text#24ef6b20ec60fe5fd7f7858e75f546c2","保存","text#24ef6b20ec60fe5fd7f7858e75f546c2","机翻辅助：
 
 SAVE
 
@@ -21,7 +21,7 @@ ${save_data.phase}阶段，阶段"
 ${save_data[""phase""]}阶段
 
 ${save_data[""phase""]}阶段，阶段"
-"text#28ba4ddd2684accb608c244e7fffe45d","LOAD","text#28ba4ddd2684accb608c244e7fffe45d","机翻辅助：
+"text#28ba4ddd2684accb608c244e7fffe45d","载入","text#28ba4ddd2684accb608c244e7fffe45d","机翻辅助：
 
 LOAD
 
