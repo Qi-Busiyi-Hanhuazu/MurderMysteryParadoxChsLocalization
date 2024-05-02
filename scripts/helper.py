@@ -4,7 +4,7 @@ import re
 
 DIR_CSV = os.environ.get("MMP_DIR_CSV", "./texts")
 DIR_FILES = os.environ.get("MMP_DIR_FILES", "./original_files")
-DIR_OUTPUT = os.environ.get("MMP_DIR_OUTPUT", "./out")
+DIR_OUTPUT = os.environ.get("MMP_DIR_OUTPUT", "./out/data")
 DIR_METADATA = os.environ.get("MMP_DIR_METADATA", "./metadata")
 LANGUAGE = os.environ.get("MMP_LANGUAGE", "zh_Hans")
 
