@@ -1,3 +1,6 @@
+# Photoshop
+*.psd
+
 # Output
 out
 patch.zip
