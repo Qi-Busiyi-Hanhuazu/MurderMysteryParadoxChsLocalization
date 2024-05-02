@@ -15,4 +15,6 @@ pushd out
 zip -q -r ../patch.zip ./*
 popd
 
+mv patch.zip patch.xzp
+
 popd

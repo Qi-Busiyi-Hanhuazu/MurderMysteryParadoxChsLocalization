@@ -4,6 +4,7 @@
 # Output
 out
 patch.zip
+patch.xzp
 
 # Python
 __pycache__

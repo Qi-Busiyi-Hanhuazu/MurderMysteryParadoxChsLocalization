@@ -15,7 +15,7 @@
 请下载 [汉化补丁](https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalization/releases/latest) 和 [补丁应用工具](https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalizationPatcher/releases/latest/)，按照工具的说明进行操作。
 
 ## 截图预览
-（TODO）
+![截图](assets/images/screenshot-01.png)
 
 ## 相关链接
 - **[>>> 补丁下载地址 <<<](https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalization/releases/latest/)**
