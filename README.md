@@ -7,12 +7,12 @@
 
 本项目是对《悠悠一夏十五载 谋杀谜案悖论》（<span lang="ja">マーダーミステリーパラドクスこのひと夏の十五年</span>）的机翻汉化。
 
-本补丁主要采用 [SakuraLLM](https://github.com/SakuraLLM/Sakura-13B-Galgame) 进行翻译，部分文本采用[百度翻译](https://fanyi.baidu.com/)和[有道翻译](https://fanyi.youdao.com/)进行补充。
+**本补丁主要采用 [SakuraLLM](https://github.com/SakuraLLM/Sakura-13B-Galgame) 进行翻译，部分文本采用[百度翻译](https://fanyi.baidu.com/)和[有道翻译](https://fanyi.youdao.com/)进行补充。**
 
 **由于机翻模型的局限性，部分文本可能存在词不达意、人称混乱、控制符错位、标点符号错误等问题。尽管在机翻前已经对文本进行了预处理，但并不能解决所有问题。由于 Xzonn 的时间和精力有限，无法对所有文本进行人工校对。因此，如果您发现了任何问题，欢迎参与汉化工作。**
 
 ## 使用方式
-（TODO）
+请下载 [汉化补丁](https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalization/releases/latest) 和 [补丁应用工具](https://github.com/Qi-Busiyi-Hanhuazu/MurderMysteryParadoxChsLocalizationPatcher/releases/latest/)，按照工具的说明进行操作。
 
 ## 截图预览
 （TODO）
