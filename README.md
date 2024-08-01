@@ -1,11 +1,11 @@
-# 《悠悠一夏十五载 谋杀谜案悖论》机翻汉化
+# 《谋杀谜案悖论 悠悠一夏十五载》机翻汉化
 
 [![CC-BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ## 基本说明
 **注意：本补丁仅用作技术交流，请用于正版游戏。**
 
-本项目是对《悠悠一夏十五载 谋杀谜案悖论》（<span lang="ja">マーダーミステリーパラドクスこのひと夏の十五年</span>）的机翻汉化。
+本项目是对《谋杀谜案悖论 悠悠一夏十五载》（<span lang="ja">マーダーミステリーパラドクスこのひと夏の十五年</span>）的机翻汉化。
 
 **本补丁主要采用 [SakuraLLM](https://github.com/SakuraLLM/Sakura-13B-Galgame) 进行翻译，部分文本采用[百度翻译](https://fanyi.baidu.com/)和[有道翻译](https://fanyi.youdao.com/)进行补充。**
 
