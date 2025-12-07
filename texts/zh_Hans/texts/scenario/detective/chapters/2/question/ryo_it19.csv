@@ -1,12 +1,12 @@
 "source","target","id","developer_comments"
-"balloon#a5a0a8ebe4a486524be433657fc817d4","刚才也说过，[emb exp='tf.names.NPC.me']被发现的时候。","balloon#a5a0a8ebe4a486524be433657fc817d4","机翻辅助：
+"balloon#a5a0a8ebe4a486524be433657fc817d4","[emb exp='tf.names.NPC.me']被找到时的事，刚才已经说过了吧。","balloon#a5a0a8ebe4a486524be433657fc817d4","机翻辅助：
 
 刚才也说过，[emb exp='tf.names.NPC.me']被发现的时候。
 
 [emb exp='tf.names.NPC.me']找到的时候的话，刚才也说过吧。
 
 刚才[emb exp='tf.names.NPC.me']也说过我被发现的事。"
-"balloon#b47b2c8b7e6b4dae690da2cbee0590ca","被发现之后，我从校舍门口看着鬼抓人，看[emb exp='tf.names.NPC.utaha']找不找得到。","balloon#b47b2c8b7e6b4dae690da2cbee0590ca","机翻辅助：
+"balloon#b47b2c8b7e6b4dae690da2cbee0590ca","被找到之后，我就在校舍出入口看着鬼寻找[emb exp='tf.names.NPC.utaha']的样子。","balloon#b47b2c8b7e6b4dae690da2cbee0590ca","机翻辅助：
 
 被发现之后，我从校舍门口看着鬼抓人，看[emb exp='tf.names.NPC.utaha']找不找得到。
 
@@ -14,7 +14,7 @@
 
 被发现后，我就在电梯门口看着鬼怪们寻找[emb exp='tf.names.NPC.utaha']的样子。"
 "balloon#9c1a2d238dba9a227727e6958e4f48f5","……","balloon#9c1a2d238dba9a227727e6958e4f48f5",""
-"balloon#78375dd6b328608576738d9b923aebd6","既然[emb exp='tf.names.itsuki_p.NPC']看着鬼抓人，那他一定有在找。","balloon#78375dd6b328608576738d9b923aebd6","机翻辅助：
+"balloon#78375dd6b328608576738d9b923aebd6","[emb exp='tf.names.itsuki_p.NPC']在旁观捉迷藏这件事，看来是没错的。","balloon#78375dd6b328608576738d9b923aebd6","机翻辅助：
 
 既然[emb exp='tf.names.itsuki_p.NPC']看着鬼抓人，那他一定有在找。
 
@@ -28,42 +28,42 @@
 [emb exp='tf.names.NPC.me']不太会玩捉迷藏……
 
 总觉得[emb exp='tf.names.NPC.me']不擅长捉迷藏……"
-"balloon#d51d40fbf8b5905ef7ab2cb444af7537","孩子们一下子就找到了鬼。","balloon#d51d40fbf8b5905ef7ab2cb444af7537","机翻辅助：
+"balloon#d51d40fbf8b5905ef7ab2cb444af7537","总是一下子就被孩子们找到了。","balloon#d51d40fbf8b5905ef7ab2cb444af7537","机翻辅助：
 
 孩子们一下子就找到了鬼。
 
 孩子们一眨眼就找到了。
 
 很快就会被孩子们发现。"
-"balloon#5cca22827062c5b7952a44b73277affb","在刚才学校钟声响起的[font color=@3]15:00[resetfont]……","balloon#5cca22827062c5b7952a44b73277affb","机翻辅助：
+"balloon#5cca22827062c5b7952a44b73277affb","刚才也是，学校钟声响起的[font color=@3]15:00[resetfont]……","balloon#5cca22827062c5b7952a44b73277affb","机翻辅助：
 
 在刚才学校钟声响起的[font color=@3]15:00[resetfont]……
 
 刚才学校的门铃也响了[font color=@3]15:00[resetfont]……
 
 刚才也是，在学校的铃声响起的时候……[font color=@3][resetfont]"
-"balloon#24285043688fab22387e695582c6f156","因为被鬼[font color=@3][emb exp='tf.names.NPC.iroha']与帮助他的[emb exp='tf.names.NPC.mashima'][resetfont]发现了。","balloon#24285043688fab22387e695582c6f156","机翻辅助：
+"balloon#24285043688fab22387e695582c6f156","就被当鬼的[font color=@3][emb exp='tf.names.NPC.iroha']和帮忙的[emb exp='tf.names.NPC.mashima'][resetfont]找到了。","balloon#24285043688fab22387e695582c6f156","机翻辅助：
 
 因为被鬼[font color=@3][emb exp='tf.names.NPC.iroha']与帮助他的[emb exp='tf.names.NPC.mashima'][resetfont]发现了。
 
 被鬼[font color=@3][emb exp='tf.names.NPC.iroha']和帮助他的[emb exp='tf.names.NPC.mashima'][resetfont]发现了。
 
 被[emb exp='tf.names.NPC.iroha']和帮助它的[emb exp='tf.names.NPC.mashima']发现了。[font color=@3][resetfont]"
-"balloon#4b53d8e743a0b415e3384f665e933f50","之后他们就从校舍入口处看着捉迷藏。","balloon#4b53d8e743a0b415e3384f665e933f50","机翻辅助：
+"balloon#4b53d8e743a0b415e3384f665e933f50","之后我就在校舍出入口看着捉迷藏了。","balloon#4b53d8e743a0b415e3384f665e933f50","机翻辅助：
 
 之后他们就从校舍入口处看着捉迷藏。
 
 之后从升降口守护着捉迷藏。
 
 那之后，我就在电梯门口看着他玩捉迷藏。"
-"balloon#ba9093e0562ea4f621809cbc9408111f","[font color=@3][emb exp='tf.names.itsuki.NPC']被[emb exp='tf.names.itsuki_p.iroha']和[emb exp='tf.names.itsuki_p.mashima']发现了[resetfont]吗？","balloon#ba9093e0562ea4f621809cbc9408111f","机翻辅助：
+"balloon#ba9093e0562ea4f621809cbc9408111f","[font color=@3][emb exp='tf.names.itsuki.NPC']是被[emb exp='tf.names.itsuki_p.iroha']和[emb exp='tf.names.itsuki_p.mashima']找到的[resetfont]啊。","balloon#ba9093e0562ea4f621809cbc9408111f","机翻辅助：
 
 [font color=@3][emb exp='tf.names.itsuki.NPC']被[emb exp='tf.names.itsuki_p.iroha']和[emb exp='tf.names.itsuki_p.mashima']发现了[resetfont]吗？
 
 [font color=@3][emb exp='tf.names.itsuki.NPC']是被[emb exp='tf.names.itsuki_p.iroha']和[emb exp='tf.names.itsuki_p.mashima']发现的吗。[resetfont]
 
 [font color=@3][emb exp='tf.names.itsuki.NPC']是被[emb exp='tf.names.itsuki_p.iroha']和[emb exp='tf.names.itsuki_p.mashima']发现的吗？[resetfont]"
-"balloon#7406f2e8af345ded7ead04ea9bb42d2d","既然[emb exp='tf.names.itsuki_p.mashima']有在找，那一定有在找。","balloon#7406f2e8af345ded7ead04ea9bb42d2d","机翻辅助：
+"balloon#7406f2e8af345ded7ead04ea9bb42d2d","如果[emb exp='tf.names.itsuki_p.mashima']也看到了，那这就是确凿的证词了。","balloon#7406f2e8af345ded7ead04ea9bb42d2d","机翻辅助：
 
 既然[emb exp='tf.names.itsuki_p.mashima']有在找，那一定有在找。
 
