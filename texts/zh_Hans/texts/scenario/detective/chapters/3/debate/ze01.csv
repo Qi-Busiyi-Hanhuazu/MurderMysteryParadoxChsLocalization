@@ -59,17 +59,17 @@
 <font color='@3'>${itsuki.me}对${itsuki.ebihara}的怀疑</font>的想法是……
 
 <font color='@3'>对${itsuki.ebihara}的怀疑</font>${itsuki.me}的看法是……"
-"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","我才没有向${itsuki.tetsuo}借钱！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","机翻辅助：
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","他没有向${itsuki.tetsuo}借钱！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice1_text#6c4f8f043a9d04143459f5aeaca91799","机翻辅助：
 
 我才没有向${itsuki.tetsuo}借钱！
 
 我没有向${itsuki.tetsuo}借钱！"
-"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","今天没有和${itsuki.tetsuo}见面！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","机翻辅助：
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","今天他没有和${itsuki.tetsuo}见面！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice2_text#e4dad10c3c2451478608ecc978fad75d","机翻辅助：
 
 今天没有和${itsuki.tetsuo}见面！
 
 今天没见到${itsuki.tetsuo}！"
-"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","我只是被他叫去山中小屋而已！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","机翻辅助：
+"TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","他只是被叫去山中小屋而已！","TALK_WINDOW_SELECT_CHOICES/talk_window_choice3_text#ae18155df45cc6c55e341d41c9d4d5bb","机翻辅助：
 
 我只是被他叫去山中小屋而已！
 
